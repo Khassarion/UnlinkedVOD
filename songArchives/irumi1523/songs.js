@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-08T01:37:10.245153+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-12T01:27:39.909698+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -7,12 +7,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=17598",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -55,12 +55,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=18127",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -181,24 +181,24 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=16884",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=23763",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -211,12 +211,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=24949",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -265,12 +265,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=24208",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -375,10 +375,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=12183",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -409,12 +409,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=15860",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -463,12 +463,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=22293",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -499,12 +499,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=19155",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -517,12 +517,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=23295",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -537,10 +537,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=8870",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -552,13 +552,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-07-28",
-        "url": "https://vod.sooplive.com/player/202697345?change_second=10852",
+        "url": "https://vod.sooplive.com/player/202697345?change_second=10886",
         "videoTitle": "소통 노래 🤍 !노래책 / 100개",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -567,10 +567,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=7714",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -721,12 +721,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=18625",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -741,10 +741,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=8151",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -835,12 +835,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=20350",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -871,12 +871,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=21699",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -943,12 +943,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=22764",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -963,10 +963,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=9235",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1077,10 +1077,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=11329",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1125,10 +1125,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=12967",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1145,20 +1145,20 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=19545",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1171,12 +1171,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=26671",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1191,10 +1191,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=10262",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1225,12 +1225,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=12759",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1243,9 +1243,27 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=14388",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "어른",
+    "artist": "손디아",
+    "versions": [
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203753813?change_second=16916",
+        "videoTitle": "소통 / LCK T1 VS 한화 경기보기 🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_62EB789F_296200771_1_r&column=2&t=1786208730",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1261,12 +1279,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=15299",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1293,22 +1311,22 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=9757",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=16495",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1357,12 +1375,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=19992",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1387,12 +1405,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=11850",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1463,20 +1481,20 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=12328",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1527,10 +1545,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203223423?change_second=36650",
         "videoTitle": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1543,12 +1561,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=27267",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1573,12 +1591,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=25735",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1627,12 +1645,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=25283",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1681,12 +1699,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=26129",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1747,12 +1765,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=14789",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1765,12 +1783,12 @@ const songs = [
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=13221",
-        "videoTitle": "후열🤍33/330(11연차)",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

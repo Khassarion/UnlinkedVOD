@@ -10,21 +10,20 @@
                     "title": "숲",
                     "time": "2:52:53",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "내 마음이 너에게 닿기를",
-                    "time": "3:00:52",
+                    "time": "3:01:26",
                     "artist": "경서",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "잊어야 한다는 마음으로",
                     "time": "3:18:01",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
@@ -293,76 +292,75 @@
             "title": "밸런스 게임 2부 / KT VS 한화 경기 같이보기 🤍",
             "date": "2026-08-02",
             "url": "https://vod.sooplive.com/player/203223423",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_023FBFB6_296040935_3_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
             "songInfo": [
                 {
                     "title": "내 마음이 너에게 닿기를",
                     "time": "2:08:34",
                     "artist": "경서",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "만찬가",
                     "time": "2:15:51",
                     "artist": "태연",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "나의 X에게",
                     "time": "2:27:50",
                     "artist": "경서",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "사건의 지평선",
                     "time": "2:33:55",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "우르릉 쾅쾅쾅",
                     "time": "2:42:37",
                     "artist": "스텔라장",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "아틀란티스 소녀",
                     "time": "2:51:02",
                     "artist": "보아",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "소로",
                     "time": "3:08:49",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "겨울잠",
                     "time": "3:23:03",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "숨",
                     "time": "3:36:07",
                     "artist": "박효신",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "주저하는 연인들을 위해",
                     "time": "10:10:50",
                     "artist": "잔나비",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 }
             ]
@@ -583,211 +581,228 @@
             ]
         },
         {
-            "title": "후열🤍33/330(11연차)",
+            "title": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
             "date": "2026-08-06",
             "url": "https://vod.sooplive.com/player/203572169",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_B88AA71B_296142771_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
             "songInfo": [
                 {
                     "title": "위로",
                     "time": "3:17:30",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "잊어야 한다는 마음으로",
                     "time": "3:25:28",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "야수",
                     "time": "3:32:39",
                     "artist": "김필선",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "희재",
                     "time": "3:40:21",
                     "artist": "성시경",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
                     "time": "3:59:48",
                     "artist": "AKMU",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "화조도",
                     "time": "4:06:29",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "오르트구름",
                     "time": "4:14:59",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "괴물이 피는 숲",
                     "time": "4:24:20",
                     "artist": "비비",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "우르릉 쾅쾅쾅",
                     "time": "4:34:55",
                     "artist": "스텔라장",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "JANE DOE",
                     "time": "4:41:24",
                     "artist": "요네즈 켄시, 우타다 히카루",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "-ERROR",
                     "time": "4:53:18",
                     "artist": "niki",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "Be I",
                     "time": "5:02:07",
                     "artist": "Hebi.",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "만찬가",
                     "time": "5:10:25",
                     "artist": "츠키",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "5:19:15",
                     "artist": "강아윤 / 산나비 OST",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "숲",
                     "time": "5:25:45",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "월령",
                     "time": "5:33:12",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "밤의 정원",
                     "time": "5:39:10",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "변하지 않는 것",
                     "time": "6:01:39",
                     "artist": "시간을 달리는 소녀 OST",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "꽃에 망령",
                     "time": "6:11:33",
                     "artist": "요루시카",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "부엉이",
                     "time": "6:19:24",
                     "artist": "KOKIA",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "나는 최강",
                     "time": "6:28:15",
                     "artist": "Ado",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "JANE DOE",
                     "time": "6:36:03",
                     "artist": "요네즈 켄시, 우타다 히카루",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "Pretender",
                     "time": "6:43:28",
                     "artist": "오피셜히게단디즘",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "Lemon",
                     "time": "6:55:49",
                     "artist": "요네즈 켄시",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "피날레",
                     "time": "7:01:23",
                     "artist": "eill",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "편지",
                     "time": "7:08:55",
                     "artist": "김광진",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "한숨",
                     "time": "7:15:29",
                     "artist": "이하이",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "시간의 바깥",
                     "time": "7:24:31",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "팬서비스",
                     "time": "7:34:27",
                     "artist": "mona",
+                    "recommended": true,
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "소통 / LCK T1 VS 한화 경기보기 🤍 33/330(11연차)",
+            "date": "2026-08-08",
+            "url": "https://vod.sooplive.com/player/203753813",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_62EB789F_296200771_1_r&column=2&t=1786208730",
+            "songInfo": [
+                {
+                    "title": "어른",
+                    "time": "4:41:56",
+                    "artist": "손디아",
                     "needsReview": true,
                     "groupSong": false
                 }
