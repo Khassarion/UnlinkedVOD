@@ -880,7 +880,9 @@
     },
     {
         "artist": "왁스",
-        "aliases": []
+        "aliases": [
+            "WAX"
+        ]
     },
     {
         "artist": "요네즈 켄시",
@@ -1163,6 +1165,10 @@
     },
     {
         "artist": "주니엘",
+        "aliases": []
+    },
+    {
+        "artist": "지아",
         "aliases": []
     },
     {

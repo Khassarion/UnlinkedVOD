@@ -807,6 +807,126 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "1부 아침 소통 노래🤍 33/330(11연차)",
+            "date": "2026-08-12",
+            "url": "https://vod.sooplive.com/player/204086341",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+            "songInfo": [
+                {
+                    "title": "바람이 분다",
+                    "time": "1:58:33",
+                    "artist": "이소라",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Soulmate",
+                    "time": "2:07:23",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "사랑..그게 뭔데",
+                    "time": "2:17:30",
+                    "artist": "지아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "화장을 고치고",
+                    "time": "2:24:46",
+                    "artist": "왁스",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "헤픈 우연",
+                    "time": "2:45:51",
+                    "artist": "헤이즈",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "별의 하모니",
+                    "time": "2:54:06",
+                    "artist": "QWER",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Way Back Home",
+                    "time": "3:08:33",
+                    "artist": "숀",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Celebrity",
+                    "time": "3:16:46",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "청춘만화(후이ver)",
+                    "time": "3:24:40",
+                    "artist": "이무진",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "붉은 장미",
+                    "time": "3:32:59",
+                    "artist": "우예린",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Blueming",
+                    "time": "3:43:15",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "비밀의 화원",
+                    "time": "3:49:47",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "OHAYO MY NIGHT",
+                    "time": "4:00:17",
+                    "artist": "디핵",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Rain Drop",
+                    "time": "4:09:00",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "비밀정원",
+                    "time": "4:17:58",
+                    "artist": "오마이걸",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "아라리",
+                    "time": "4:31:45",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

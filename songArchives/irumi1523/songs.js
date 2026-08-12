@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-12T01:27:39.909698+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-12T07:09:40.724629+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -67,6 +67,24 @@ const songs = [
     ]
   },
   {
+    "title": "Blueming",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=13395",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Butterfly",
     "artist": "디지몬 ost",
     "versions": [
@@ -97,6 +115,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Celebrity",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=11806",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -259,6 +295,24 @@ const songs = [
     ]
   },
   {
+    "title": "OHAYO MY NIGHT",
+    "artist": "디핵",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=14417",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Pretender",
     "artist": "오피셜히게단디즘",
     "versions": [
@@ -271,6 +325,42 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Rain Drop",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=14940",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Soulmate",
+    "artist": "심규선",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=7643",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -340,6 +430,18 @@ const songs = [
         "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=11313",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -817,6 +919,24 @@ const songs = [
     ]
   },
   {
+    "title": "바람이 분다",
+    "artist": "이소라",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=7113",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "밤의 정원",
     "artist": "심규선",
     "versions": [
@@ -901,6 +1021,24 @@ const songs = [
     ]
   },
   {
+    "title": "별의 하모니",
+    "artist": "QWER",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=10446",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "봄 내음보다 너를",
     "artist": "김나영",
     "versions": [
@@ -955,6 +1093,60 @@ const songs = [
     ]
   },
   {
+    "title": "붉은 장미",
+    "artist": "우예린",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=12779",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "비밀의 화원",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=13787",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "비밀정원",
+    "artist": "오마이걸",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=15478",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "사건의 지평선",
     "artist": "윤하",
     "versions": [
@@ -967,6 +1159,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "사랑..그게 뭔데",
+    "artist": "지아",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=8250",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1177,6 +1387,24 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "아라리",
+    "artist": "심규선",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=16305",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1555,6 +1783,24 @@ const songs = [
     ]
   },
   {
+    "title": "청춘만화(후이ver)",
+    "artist": "이무진",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=12280",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "팬서비스",
     "artist": "mona",
     "versions": [
@@ -1729,6 +1975,24 @@ const songs = [
     ]
   },
   {
+    "title": "헤픈 우연",
+    "artist": "헤이즈",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=9951",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "홍연",
     "artist": "안예은",
     "versions": [
@@ -1741,6 +2005,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "화장을 고치고",
+    "artist": "왁스",
+    "versions": [
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=8686",
+        "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
