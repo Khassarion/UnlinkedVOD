@@ -2249,8 +2249,10 @@
         "aliases": []
     },
     {
-        "title": "Can I Love",
-        "aliases": []
+        "title": "Can I Love ?",
+        "aliases": [
+            "Can I Love"
+        ]
     },
     {
         "title": "Carry you",
@@ -2349,7 +2351,9 @@
     },
     {
         "title": "Drowning",
-        "aliases": []
+        "aliases": [
+            "드라우닝"
+        ]
     },
     {
         "title": "Dumb Love",

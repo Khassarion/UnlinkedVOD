@@ -754,9 +754,13 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
   return mergeSongMeta(item, canonicalTitle, canonicalArtist);
 }
 
+/** Flag symbols that may trail a parsed timeline line (after parts). */
+const TIMELINE_FLAG_SYMBOL_CLASS = '☆★○●□■?';
+
 /**
  * Parse one line into { title, time, artist, noMistake?, recommended?, needsReview? } or null.
- * Uses parseConfig.parts + regexSequence: build regex from sequence, match line; then detect symbols (●○☆★?) on the line.
+ * Uses parseConfig.parts + regexSequence to capture parts first; then detects flag symbols (●○☆★?)
+ * only in the remainder after those part values are removed (so title/artist 안의 ?, ★ 등은 flag로 보지 않음).
  * After regex capture, `resolveOpts`가 있으면 레퍼런스/매핑 resolve를 적용해 title·artist를 확정한다.
  * @param {string} line - line without linePrefix (already stripped)
  * @param {{ parts: Record<string, string>, regexSequence: string }} parseConfig
@@ -787,20 +791,20 @@ async function parseTimelineLine(line, parseConfig, debug, resolveOpts = null, s
   }
   if (!lineWithoutComment) return null;
 
-  const needsReview = lineWithoutComment.includes('?');
-  const recommended = /[☆★]/.test(lineWithoutComment);
-  const noMistake = /[○●]/.test(lineWithoutComment);
-  if (debug) console.error('[DEBUG]   심볼 → noMistake:', noMistake, 'recommended:', recommended, 'needsReview:', needsReview);
-
-  const cleanLine = lineWithoutComment.replace(/[☆★○●□■?]/g, '').trim();
-  if (debug) console.error('[DEBUG]   심볼 제거 후:', JSON.stringify(cleanLine));
-  if (!cleanLine) return null;
-
   const seq = parseConfig.regexSequence || DEFAULT_PARSE_CONFIG.regexSequence;
   const { regex, groupNames } = buildRegexFromSequence(seq, parts);
-  if (debug) console.error('[DEBUG]   regexSequence:', seq, '→ 정규식:', regex.source);
+  // `$` 로 끝나는 시퀀스도 뒤에 오는 flag 심볼을 허용해 파트 매칭이 되도록 한다.
+  let matchRegex = regex;
+  if (regex.source.endsWith('$')) {
+    matchRegex = new RegExp(
+      regex.source.slice(0, -1) + '[\\s' + TIMELINE_FLAG_SYMBOL_CLASS + ']*$'
+    );
+  }
+  if (debug) {
+    console.error('[DEBUG]   regexSequence:', seq, '→ 정규식:', matchRegex.source);
+  }
 
-  const m = cleanLine.match(regex);
+  const m = lineWithoutComment.match(matchRegex);
   if (!m) {
     if (debug) console.error('[DEBUG]   매칭 실패');
     return null;
@@ -811,6 +815,28 @@ async function parseTimelineLine(line, parseConfig, debug, resolveOpts = null, s
     result[name] = (m[i + 1] || '').trim();
   });
   if (debug) console.error('[DEBUG]   캡처:', result);
+
+  // 파싱된 파트 값을 모두 제거한 나머지에서만 flag를 찾는다.
+  let remainder = lineWithoutComment;
+  const partValues = groupNames
+    .map((name) => result[name])
+    .filter((v) => v)
+    .sort((a, b) => b.length - a.length);
+  for (const value of partValues) {
+    const idx = remainder.indexOf(value);
+    if (idx !== -1) {
+      remainder = remainder.slice(0, idx) + remainder.slice(idx + value.length);
+    }
+  }
+  remainder = remainder.trim();
+
+  const needsReview = remainder.includes('?');
+  const recommended = /[☆★]/.test(remainder);
+  const noMistake = /[○●]/.test(remainder);
+  if (debug) {
+    console.error('[DEBUG]   파트 제거 후 나머지:', JSON.stringify(remainder));
+    console.error('[DEBUG]   심볼 → noMistake:', noMistake, 'recommended:', recommended, 'needsReview:', needsReview);
+  }
 
   const title = decodeHtmlEntities((result.songTitle || '').replace(/\\:/g, ':'));
   const artist = (result.songArtist || '').trim();

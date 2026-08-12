@@ -197,9 +197,9 @@
                     "groupSong": false
                 },
                 {
-                    "title": "Can I Love",
+                    "title": "Can I Love ?",
                     "time": "3:41:07",
-                    "artist": "코스믹보이",
+                    "artist": "유라",
                     "needsReview": true,
                     "groupSong": false
                 },
@@ -1538,10 +1538,9 @@
                     "groupSong": false
                 },
                 {
-                    "title": "Can I Love",
+                    "title": "Can I Love ?",
                     "time": "4:21:16",
-                    "artist": "코스믹보이",
-                    "needsReview": true,
+                    "artist": "유라",
                     "groupSong": false
                 },
                 {
@@ -2380,6 +2379,96 @@
                     "title": "좋아하니까",
                     "time": "3:48:13",
                     "artist": "유이카",
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "재밌었따",
+            "date": "2026-08-08",
+            "url": "https://vod.sooplive.com/player/203796057",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+            "songInfo": [
+                {
+                    "title": "Can I Love ?",
+                    "time": "3:12:26",
+                    "artist": "유라",
+                    "groupSong": false
+                },
+                {
+                    "title": "Ditto",
+                    "time": "3:33:37",
+                    "artist": "뉴진스",
+                    "groupMembers": "문모모,달타,체비",
+                    "groupSong": true
+                },
+                {
+                    "title": "Stargazers",
+                    "time": "4:16:35",
+                    "artist": "이세계아이돌",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "입춘",
+                    "time": "4:30:10",
+                    "artist": "한로로",
+                    "groupMembers": "문모모,달타,체비",
+                    "groupSong": true
+                },
+                {
+                    "title": "어른",
+                    "time": "4:49:09",
+                    "artist": "손디아",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "달빛에 그려지는",
+                    "time": "5:02:04",
+                    "artist": "미연",
+                    "groupMembers": "달타,체비",
+                    "groupSong": true
+                },
+                {
+                    "title": "어른아이",
+                    "time": "5:14:30",
+                    "artist": "거미",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "한숨",
+                    "time": "5:21:14",
+                    "artist": "이하이",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "피차일반",
+                    "time": "5:30:01",
+                    "artist": "음율",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "Drowning",
+                    "time": "5:40:13",
+                    "artist": "WOODZ",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "사건의 지평선",
+                    "time": "5:49:02",
+                    "artist": "윤하",
+                    "groupMembers": "문모모,달타,체비,나나문",
+                    "groupSong": true
+                },
+                {
+                    "title": "-ERROR",
+                    "time": "6:18:21",
+                    "artist": "niki",
                     "groupSong": false
                 }
             ]

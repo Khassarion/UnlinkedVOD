@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-08T06:58:21.426563+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-12T06:47:36.388506+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -100,6 +100,18 @@ const songs = [
         "videoTitle": "10시) 천타버스 싱크룸 w.모카.하밍.모모.플리",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260710_AE10B705_295473389_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=22701",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -379,8 +391,8 @@ const songs = [
     ]
   },
   {
-    "title": "Can I Love",
-    "artist": "코스믹보이",
+    "title": "Can I Love ?",
+    "artist": "유라",
     "versions": [
       {
         "date": "2026-03-14",
@@ -402,7 +414,19 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_4CD3B49A_293021593_1_r&column=2&t=1775568225",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=11546",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -541,6 +565,24 @@ const songs = [
     ]
   },
   {
+    "title": "Ditto",
+    "artist": "뉴진스",
+    "versions": [
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=12817",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비"
+      }
+    ]
+  },
+  {
     "title": "Drowning",
     "artist": "WOODZ",
     "versions": [
@@ -555,6 +597,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=20413",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
       }
     ]
   },
@@ -1341,6 +1395,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=15395",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
       }
     ]
   },
@@ -2445,6 +2511,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=18124",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "달타,체비"
       }
     ]
   },
@@ -3121,6 +3199,24 @@ const songs = [
     ]
   },
   {
+    "title": "사건의 지평선",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=20942",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
+      }
+    ]
+  },
+  {
     "title": "사랑이라 했던 말 속에서",
     "artist": "can't be blue",
     "versions": [
@@ -3753,6 +3849,36 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=17349",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
+      }
+    ]
+  },
+  {
+    "title": "어른아이",
+    "artist": "거미",
+    "versions": [
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=18870",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
       }
     ]
   },
@@ -4185,6 +4311,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=16210",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비"
       }
     ]
   },
@@ -4437,6 +4575,36 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=19801",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
+      }
+    ]
+  },
+  {
+    "title": "한숨",
+    "artist": "이하이",
+    "versions": [
+      {
+        "date": "2026-08-08",
+        "url": "https://vod.sooplive.com/player/203796057?change_second=19274",
+        "videoTitle": "재밌었따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "문모모,달타,체비,나나문"
       }
     ]
   },
