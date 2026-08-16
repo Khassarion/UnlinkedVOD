@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-07T20:30:54.078796+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-16T09:42:19.339292+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -9771,6 +9771,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204141333?change_second=2294",
+        "videoTitle": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -16113,6 +16125,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204141333?change_second=3616",
+        "videoTitle": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -18033,6 +18057,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "카아암"
+      },
+      {
+        "date": "2026-08-12",
+        "url": "https://vod.sooplive.com/player/204141333?change_second=1100",
+        "videoTitle": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },

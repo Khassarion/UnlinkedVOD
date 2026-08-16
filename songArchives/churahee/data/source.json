@@ -9893,6 +9893,35 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+            "date": "2026-08-12",
+            "url": "https://vod.sooplive.com/player/204141333",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
+            "songInfo": [
+                {
+                    "title": "진심이었던 사람만 바보가 돼",
+                    "time": "18:20",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "38:14",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "오르트구름",
+                    "time": "1:00:16",
+                    "artist": "윤하",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }
