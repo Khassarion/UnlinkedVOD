@@ -812,7 +812,7 @@
             "title": "1부 아침 소통 노래🤍 33/330(11연차)",
             "date": "2026-08-12",
             "url": "https://vod.sooplive.com/player/204086341",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_23140E54_296292745_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
             "songInfo": [
                 {
                     "title": "바람이 분다",
@@ -923,6 +923,176 @@
                     "title": "아라리",
                     "time": "4:31:45",
                     "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "소통 노래🤍 !노래책",
+            "date": "2026-08-15",
+            "url": "https://vod.sooplive.com/player/204380259",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+            "songInfo": [
+                {
+                    "title": "비도 오고 그래서",
+                    "time": "3:25:14",
+                    "artist": "헤이즈",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "널 너무 모르고",
+                    "time": "3:30:50",
+                    "artist": "헤이즈",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "바이, 썸머",
+                    "time": "3:45:11",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "하루 끝",
+                    "time": "3:56:07",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "밤이 되니까",
+                    "time": "4:03:47",
+                    "artist": "펀치",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "일과 이분의 일",
+                    "time": "4:37:23",
+                    "artist": "츄",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "친구라도 될 걸 그랬어",
+                    "time": "4:48:22",
+                    "artist": "거미",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "안아줘",
+                    "time": "6:17:23",
+                    "artist": "정준일",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "행복한 나를",
+                    "time": "6:27:36",
+                    "artist": "에코",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "숲",
+                    "time": "6:36:16",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "후열🤍",
+            "date": "2026-08-14",
+            "url": "https://vod.sooplive.com/player/204280235",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+            "songInfo": [
+                {
+                    "title": "스물다섯, 스물하나",
+                    "time": "2:03:29",
+                    "artist": "자우림",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "호랑수월가",
+                    "time": "2:12:48",
+                    "artist": "나래",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "나의 우주",
+                    "time": "2:24:48",
+                    "artist": "한결",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "낮에 뜨는 달",
+                    "time": "2:40:37",
+                    "artist": "안예은",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Time Lapse",
+                    "time": "2:53:17",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "What Do I Call You",
+                    "time": "3:04:42",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "To.X",
+                    "time": "3:11:07",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Hype Boy",
+                    "time": "3:19:38",
+                    "artist": "뉴진스",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "그대만 있다면",
+                    "time": "3:30:33",
+                    "artist": "러브홀릭",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "시간을 거슬러",
+                    "time": "3:40:54",
+                    "artist": "린",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "거리에서",
+                    "time": "3:48:45",
+                    "artist": "성시경",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "생각을 멈추다 보면",
+                    "time": "6:00:04",
+                    "artist": "최유리",
                     "needsReview": true,
                     "groupSong": false
                 }
