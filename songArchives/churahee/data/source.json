@@ -9922,6 +9922,161 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[버블란] 후열 소통",
+            "date": "2026-08-16",
+            "url": "https://vod.sooplive.com/player/204523103",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+            "songInfo": [
+                {
+                    "title": "Track 9",
+                    "time": "39:26",
+                    "artist": "이소라",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "물고기자리",
+                    "time": "46:32",
+                    "artist": "이안",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Celebrity",
+                    "time": "56:12",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "어른",
+                    "time": "1:13:51",
+                    "artist": "손디아",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "1:22:30",
+                    "artist": "권진아",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "소로",
+                    "time": "1:29:42",
+                    "artist": "심규선",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "오르트구름",
+                    "time": "1:37:37",
+                    "artist": "윤하",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Drive",
+                    "time": "1:44:07",
+                    "artist": "미연",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "위로",
+                    "time": "1:57:31",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "마마",
+                    "time": "2:05:08",
+                    "artist": "김필선",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Love me or Leave me",
+                    "time": "2:12:00",
+                    "artist": "데이식스",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Never Ending Story",
+                    "time": "2:18:38",
+                    "artist": "아이유",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "상사화",
+                    "time": "2:25:20",
+                    "artist": "안예은",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "숲",
+                    "time": "2:33:16",
+                    "artist": "최유리",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "지구가 태양을 네 번",
+                    "time": "2:47:18",
+                    "artist": "넬",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Rain",
+                    "time": "2:54:39",
+                    "artist": "태연",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "연의 편지",
+                    "time": "3:02:42",
+                    "artist": "이수현",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "빌려온 고양이",
+                    "time": "3:16:38",
+                    "artist": "아일릿",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "아라리",
+                    "time": "3:22:23",
+                    "artist": "심규선",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "오늘 뭐 했는지 말해봐",
+                    "time": "3:30:11",
+                    "artist": "권진아",
+                    "groupMembers": "랑코, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "수고했어, 오늘도",
+                    "time": "6:25:32",
+                    "artist": "옥상달빛",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-16T09:42:19.339292+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-16T16:56:59.769146+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -819,6 +819,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=3372",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1059,6 +1071,24 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      }
+    ]
+  },
+  {
+    "title": "Drive",
+    "artist": "미연",
+    "versions": [
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=6247",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -2421,6 +2451,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=7920",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -3105,6 +3147,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=8318",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -3807,6 +3861,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=10479",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -4459,6 +4525,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=2366",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8355,6 +8433,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=7508",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -9375,6 +9465,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=2792",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -9783,6 +9885,18 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=4950",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -11805,6 +11919,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=11798",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -12381,6 +12507,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=8720",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -13011,6 +13149,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=5382",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -13225,6 +13375,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=23132",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -13551,6 +13713,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=9196",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -14145,6 +14319,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "콧시, 해이"
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=12143",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -14979,6 +15165,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=4431",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -15501,6 +15699,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=10962",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -15849,6 +16059,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=12611",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -16137,6 +16359,18 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=5857",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "랑코, 츄라희"
       }
     ]
   },
@@ -17007,6 +17241,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=7051",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -17821,6 +18067,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204523103?change_second=10038",
+        "videoTitle": "[버블란] 후열 소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
