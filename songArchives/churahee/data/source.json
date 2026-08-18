@@ -10077,6 +10077,119 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+            "date": "2026-08-18",
+            "url": "https://vod.sooplive.com/player/204680597",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+            "songInfo": [
+                {
+                    "title": "도망가자",
+                    "time": "1:24:10",
+                    "artist": "선우정아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "오랜 날 오랜 밤",
+                    "time": "1:38:58",
+                    "artist": "AKMU",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "안녕! 디지몬",
+                    "time": "1:47:27",
+                    "artist": "디지몬 OST",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "출발",
+                    "time": "2:07:29",
+                    "artist": "김동률",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "이름에게",
+                    "time": "2:16:27",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "기다리다",
+                    "time": "2:24:34",
+                    "artist": "윤하",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "안녕이라고 말하지 마",
+                    "time": "2:37:26",
+                    "artist": "다비치",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "끝이 아닌 것 같아서",
+                    "time": "2:53:04",
+                    "artist": "바닐라 어쿠스틱",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "민들레",
+                    "time": "3:14:00",
+                    "artist": "우효",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "마지막 날처럼",
+                    "time": "3:24:03",
+                    "artist": "유럽",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "숲",
+                    "time": "3:31:01",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "수피",
+                    "time": "3:53:33",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "사랑하게 될 거야",
+                    "time": "4:02:42",
+                    "artist": "한로로",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "수고했어, 오늘도",
+                    "time": "4:09:10",
+                    "artist": "옥상달빛",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "소나기",
+                    "time": "5:30:57",
+                    "artist": "아이오아이",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

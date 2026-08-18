@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-16T16:56:59.769146+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-18T14:05:20.158484+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -6237,6 +6237,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=8674",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -6733,6 +6745,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=10384",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8259,6 +8283,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=5050",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -8803,6 +8839,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=12243",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -10057,6 +10105,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=11640",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -12207,6 +12267,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=14562",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -12879,6 +12951,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "크앙희, 더블링, 강하나"
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=19857",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -13389,6 +13473,18 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=14950",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -13527,6 +13623,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "강하나"
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=14013",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -13725,6 +13833,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=12661",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -14727,6 +14847,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=6447",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -14743,6 +14875,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=9446",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16287,6 +16431,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=5938",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -17475,6 +17631,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "크앙희, 더블링, 강하나, 카아암"
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=8187",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -18847,6 +19015,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-18",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=7649",
+        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
