@@ -30,42 +30,40 @@
                     "title": "Square",
                     "time": "3:25:43",
                     "artist": "백예린",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "우르릉 쾅쾅쾅",
                     "time": "3:42:19",
                     "artist": "스텔라장",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "입춘",
                     "time": "4:07:40",
                     "artist": "한로로",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "밤의 정원",
                     "time": "5:37:07",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "관객이 될게",
                     "time": "5:45:24",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "To.X",
                     "time": "5:59:27",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 }
             ]
@@ -206,84 +204,78 @@
                     "title": "우리의 꿈",
                     "time": "2:55:02",
                     "artist": "코요태",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "Myself",
                     "time": "2:59:08",
                     "artist": "이용신",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "Butterfly",
                     "time": "3:09:24",
-                    "artist": "디지몬 ost",
-                    "needsReview": true,
+                    "artist": "디지몬 OST",
                     "groupSong": false
                 },
                 {
                     "title": "Every Heart",
                     "time": "3:11:35",
                     "artist": "보아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "Grow Up",
                     "time": "3:20:05",
                     "artist": "학교괴담 ost",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "별의 조각",
                     "time": "3:32:48",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "Hype Boy",
-                    "time": "5:12:05",
+                    "time": "5:12:48",
                     "artist": "뉴진스",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "만찬가",
                     "time": "6:01:12",
                     "artist": "츠키",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "말해줘",
                     "time": "6:10:15",
                     "artist": "요루시카",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "괴수의 꽃노래",
                     "time": "6:17:13",
                     "artist": "Vaundy",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "DINOSAUR",
                     "time": "6:23:31",
                     "artist": "AKMU",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "화조도",
                     "time": "6:33:12",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false
                 }
             ]

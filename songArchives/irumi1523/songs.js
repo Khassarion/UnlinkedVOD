@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-16T07:29:42.008603+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-18T15:10:49.528494+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -86,7 +86,7 @@ const songs = [
   },
   {
     "title": "Butterfly",
-    "artist": "디지몬 ost",
+    "artist": "디지몬 OST",
     "versions": [
       {
         "date": "2026-07-31",
@@ -96,7 +96,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -150,7 +150,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -166,9 +166,9 @@ const songs = [
         "videoTitle": "아침 소통 노래 🤍 T1 경기 같이 보기",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -184,9 +184,9 @@ const songs = [
         "videoTitle": "아침 소통 노래 🤍 T1 경기 같이 보기",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -198,13 +198,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-07-31",
-        "url": "https://vod.sooplive.com/player/202999485?change_second=18725",
+        "url": "https://vod.sooplive.com/player/202999485?change_second=18768",
         "videoTitle": "아침 소통 노래 🤍 T1 경기 같이 보기",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -282,7 +282,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -390,7 +390,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -442,9 +442,9 @@ const songs = [
         "videoTitle": "소통 노래 🤍 !노래책 / 100개",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -574,9 +574,9 @@ const songs = [
         "videoTitle": "소통 노래 🤍 !노래책 / 100개",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -612,7 +612,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -965,8 +965,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1014,7 +1014,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1114,9 +1114,9 @@ const songs = [
         "videoTitle": "소통 노래 🤍 !노래책 / 100개",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1199,8 +1199,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1812,7 +1812,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1853,8 +1853,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1992,7 +1992,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260728_F2FE47DD_295912555_1_r&column=2&t=1785219629",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2412,7 +2412,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },

@@ -755,7 +755,7 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
 }
 
 /** Flag symbols that may trail a parsed timeline line (after parts). */
-const TIMELINE_FLAG_SYMBOL_CLASS = '☆★○●□■?';
+const TIMELINE_FLAG_SYMBOL_CLASS = '☆★○●□■※?';
 
 /**
  * Parse one line into { title, time, artist, noMistake?, recommended?, needsReview? } or null.
