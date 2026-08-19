@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-18T14:05:20.158484+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-19T21:36:19.802515+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -8371,6 +8371,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-19",
+        "url": "https://vod.sooplive.com/player/204750625?change_second=2130",
+        "videoTitle": "[버블란] 영상으로 보는 츄스테리",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_89796CA5_296473989_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

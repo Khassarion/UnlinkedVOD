@@ -10190,6 +10190,21 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[버블란] 영상으로 보는 츄스테리",
+            "date": "2026-08-19",
+            "url": "https://vod.sooplive.com/player/204750625",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_89796CA5_296473989_1_r",
+            "songInfo": [
+                {
+                    "title": "들리나요",
+                    "time": "35:30",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }
