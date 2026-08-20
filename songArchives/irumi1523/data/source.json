@@ -1084,6 +1084,28 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "다뿌서버2 오픈런! 비키니 방셀 룰렛🤍",
+            "date": "2026-08-20",
+            "url": "https://vod.sooplive.com/player/204877895",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_3082BFE0_296502461_2_r",
+            "songInfo": [
+                {
+                    "title": "생각을 멈추다 보면",
+                    "time": "7:10:53",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "무릎",
+                    "time": "7:30:23",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

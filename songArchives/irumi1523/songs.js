@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-20T02:55:49.737441+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-20T17:27:56.837616+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -1021,6 +1021,24 @@ const songs = [
     ]
   },
   {
+    "title": "무릎",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-20",
+        "url": "https://vod.sooplive.com/player/204877895?change_second=27023",
+        "videoTitle": "다뿌서버2 오픈런! 비키니 방셀 룰렛🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_3082BFE0_296502461_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "뭔가 잘못됐어",
     "artist": "권진아",
     "versions": [
@@ -1489,6 +1507,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-20",
+        "url": "https://vod.sooplive.com/player/204877895?change_second=25853",
+        "videoTitle": "다뿌서버2 오픈런! 비키니 방셀 룰렛🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_3082BFE0_296502461_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
