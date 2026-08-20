@@ -7,10 +7,10 @@ Soop 다시보기에 부른 노래를 모아 둔 **스트리머별 노래 기록
 
 | 구분 | 링크 |
 |------|------|
-| 노래 기록 허브 | [노래 기록 보관소](https://ainukehere.github.io/UnlinkedVOD/songArchives/) |
-| 츄라희 | [츄라희 노래 기록 보관소](https://ainukehere.github.io/UnlinkedVOD/songArchives/churahee/) |
-| 백시호 | [백시호 노래 기록 보관소](https://ainukehere.github.io/UnlinkedVOD/songArchives/irumi1523/) |
-| 체비 | [체비 노래 기록 보관소](https://ainukehere.github.io/UnlinkedVOD/songArchives/chebi2/) |
+| 노래 기록 허브 | [노래 기록 보관소](https://khassarion.github.io/UnlinkedVOD/songArchives/) |
+| 츄라희 | [츄라희 노래 기록 보관소](https://khassarion.github.io/UnlinkedVOD/songArchives/churahee/) |
+| 백시호 | [백시호 노래 기록 보관소](https://khassarion.github.io/UnlinkedVOD/songArchives/irumi1523/) |
+| 체비 | [체비 노래 기록 보관소](https://khassarion.github.io/UnlinkedVOD/songArchives/chebi2/) |
 
 ## 사이트에서 할 수 있는 일
 

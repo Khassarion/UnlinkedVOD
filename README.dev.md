@@ -153,6 +153,6 @@ npm run add-streamer -- --id chebi2 --title 체비
 
 ## Pages 배포
 
-- 허브: [songArchives/](https://ainukehere.github.io/UnlinkedVOD/songArchives/)  
+- 허브: [songArchives/](https://khassarion.github.io/UnlinkedVOD/songArchives/)  
 - 정적 사이트. `source.json` / `songs.js` 변경은 커밋·푸시로 반영.  
 - 커뮤니티 기록은 시트 + Apps Script이며, 프론트만 푸시해도 시트 데이터는 기존 배포 URL을 그대로 씁니다.
