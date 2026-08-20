@@ -999,93 +999,88 @@
             ]
         },
         {
-            "title": "후열🤍",
+            "title": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
             "date": "2026-08-14",
             "url": "https://vod.sooplive.com/player/204280235",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
             "songInfo": [
                 {
                     "title": "스물다섯, 스물하나",
                     "time": "2:03:29",
                     "artist": "자우림",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "호랑수월가",
                     "time": "2:12:48",
                     "artist": "나래",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "나의 우주",
                     "time": "2:24:48",
                     "artist": "한결",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "낮에 뜨는 달",
                     "time": "2:40:37",
                     "artist": "안예은",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "Time Lapse",
                     "time": "2:53:17",
                     "artist": "태연",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "What Do I Call You",
                     "time": "3:04:42",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "To.X",
                     "time": "3:11:07",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "Hype Boy",
                     "time": "3:19:38",
                     "artist": "뉴진스",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "그대만 있다면",
                     "time": "3:30:33",
                     "artist": "러브홀릭",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "시간을 거슬러",
                     "time": "3:40:54",
                     "artist": "린",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "거리에서",
                     "time": "3:48:45",
                     "artist": "성시경",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "생각을 멈추다 보면",
                     "time": "6:00:04",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 }
             ]

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-18T15:10:49.528494+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-20T02:55:49.737441+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -211,12 +211,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=11978",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -421,12 +421,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=10397",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -451,12 +451,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=11467",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -499,12 +499,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=11082",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -535,12 +535,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=13725",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -625,12 +625,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=12633",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -751,12 +751,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=8688",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -769,12 +769,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=9637",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1483,12 +1483,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=21604",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1609,12 +1609,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=7409",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1627,12 +1627,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=13254",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2353,12 +2353,12 @@ const songs = [
       {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204280235?change_second=7968",
-        "videoTitle": "후열🤍",
+        "videoTitle": "아침 소통 노래 / 오냥이 매력사무소에 다녀왔습니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_0161A74E_296343485_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

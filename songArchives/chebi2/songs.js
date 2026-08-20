@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-12T06:47:36.388506+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-20T02:59:24.200554+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -183,6 +183,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 플리, 임하밍, 문모모"
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://vod.sooplive.com/player/204529637?change_second=29533",
+        "videoTitle": "(・∧‐)ゞ ",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_88F9D895_296405137_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
