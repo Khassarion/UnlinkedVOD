@@ -10307,6 +10307,21 @@
                     "groupSong": true
                 }
             ]
+        },
+        {
+            "title": "[버블란] 락케스 후열 방송띠",
+            "date": "2026-08-21",
+            "url": "https://vod.sooplive.com/player/204943995",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_A8F2DFDA_296533751_1_r",
+            "songInfo": [
+                {
+                    "title": "별의 조각",
+                    "time": "1:04:51",
+                    "artist": "윤하",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

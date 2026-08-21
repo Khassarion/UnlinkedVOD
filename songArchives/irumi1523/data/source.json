@@ -1106,6 +1106,35 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "다뿌서버 2일차🤍",
+            "date": "2026-08-21",
+            "url": "https://vod.sooplive.com/player/204965989",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
+            "songInfo": [
+                {
+                    "title": "Love me or Leave me",
+                    "time": "5:53:11",
+                    "artist": "데이식스",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "밤편지",
+                    "time": "6:00:02",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "11:11",
+                    "time": "6:08:28",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

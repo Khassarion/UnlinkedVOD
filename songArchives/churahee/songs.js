@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-21T13:07:01.950070+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-21T18:50:03.009594+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -11005,6 +11005,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204943995?change_second=3891",
+        "videoTitle": "[버블란] 락케스 후열 방송띠",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_A8F2DFDA_296533751_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

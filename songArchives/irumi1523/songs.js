@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-20T17:27:56.837616+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-21T19:01:33.584001+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -43,6 +43,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "11:11",
+    "artist": "태연",
+    "versions": [
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204965989?change_second=22108",
+        "videoTitle": "다뿌서버 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -265,6 +283,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Love me or Leave me",
+    "artist": "데이식스",
+    "versions": [
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204965989?change_second=21191",
+        "videoTitle": "다뿌서버 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1162,6 +1198,24 @@ const songs = [
         "videoTitle": "소통 노래🤍 !노래책",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "밤편지",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204965989?change_second=21602",
+        "videoTitle": "다뿌서버 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
