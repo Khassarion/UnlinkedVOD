@@ -10278,6 +10278,35 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "락케스 - 버추얼X인간 콜라보 특집 w.구슬요,달타,츄라희,제이404,상득,두막이,오혜림,주희예보,루나별피아노,땃쥐,전정원입니다",
+            "date": "2026-08-21",
+            "url": "https://vod.sooplive.com/player/204934051",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_5C82A2D9_296528013_1_r",
+            "songInfo": [
+                {
+                    "title": "달리기",
+                    "time": "25:33",
+                    "artist": "옥상달빛",
+                    "groupMembers": "주희예보, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Still With You",
+                    "time": "1:16:41",
+                    "artist": "정국",
+                    "groupMembers": "상득, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "그 남자 그 여자",
+                    "time": "1:26:47",
+                    "artist": "바이브",
+                    "groupMembers": "두막이, 츄라희",
+                    "groupSong": true
+                }
+            ]
         }
     ]
 }

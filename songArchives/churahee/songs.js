@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-21T03:40:56.034421+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-21T13:07:01.950070+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -4255,6 +4255,24 @@ const songs = [
     ]
   },
   {
+    "title": "Still With You",
+    "artist": "정국",
+    "versions": [
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204934051?change_second=4601",
+        "videoTitle": "락케스 - 버추얼X인간 콜라보 특집 w.구슬요,달타,츄라희,제이404,상득,두막이,오혜림,주희예보,루나별피아노,땃쥐,전정원입니다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_5C82A2D9_296528013_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "상득, 츄라희"
+      }
+    ]
+  },
+  {
     "title": "Storm",
     "artist": "루머스",
     "versions": [
@@ -5907,6 +5925,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "그 남자 그 여자",
+    "artist": "바이브",
+    "versions": [
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204934051?change_second=5207",
+        "videoTitle": "락케스 - 버추얼X인간 콜라보 특집 w.구슬요,달타,츄라희,제이404,상득,두막이,오혜림,주희예보,루나별피아노,땃쥐,전정원입니다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_5C82A2D9_296528013_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "두막이, 츄라희"
       }
     ]
   },
@@ -8211,6 +8247,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-21",
+        "url": "https://vod.sooplive.com/player/204934051?change_second=1533",
+        "videoTitle": "락케스 - 버추얼X인간 콜라보 특집 w.구슬요,달타,츄라희,제이404,상득,두막이,오혜림,주희예보,루나별피아노,땃쥐,전정원입니다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_5C82A2D9_296528013_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "주희예보, 츄라희"
       }
     ]
   },
