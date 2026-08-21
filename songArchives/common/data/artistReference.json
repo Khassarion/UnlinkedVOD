@@ -836,7 +836,9 @@
     },
     {
         "artist": "에픽세븐",
-        "aliases": []
+        "aliases": [
+            "에픽세븐 OST"
+        ]
     },
     {
         "artist": "여자친구",
@@ -1568,6 +1570,10 @@
     },
     {
         "artist": "god",
+        "aliases": []
+    },
+    {
+        "artist": "Goose house",
         "aliases": []
     },
     {

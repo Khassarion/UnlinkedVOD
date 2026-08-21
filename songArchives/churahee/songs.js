@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-19T21:36:19.802515+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-21T03:37:52.697201+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -3627,6 +3627,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2024-06-29",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=9762",
+        "videoTitle": "🎉아프리카 상륙 1주년🎉",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -7137,6 +7149,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김병살, 콧시, 해이"
+      },
+      {
+        "date": "2024-06-29",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=8745",
+        "videoTitle": "🎉아프리카 상륙 1주년🎉",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -8343,6 +8367,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2024-06-29",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=7881",
+        "videoTitle": "🎉아프리카 상륙 1주년🎉",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -8785,6 +8821,24 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "마음짓기",
+    "artist": "GUMI",
+    "versions": [
+      {
+        "date": "2024-06-29",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=8394",
+        "videoTitle": "🎉아프리카 상륙 1주년🎉",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -12007,6 +12061,24 @@ const songs = [
     ]
   },
   {
+    "title": "빛난다면",
+    "artist": "Goose house",
+    "versions": [
+      {
+        "date": "2024-06-29",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=9344",
+        "videoTitle": "🎉아프리카 상륙 1주년🎉",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "사계",
     "artist": "태연",
     "versions": [
@@ -14521,6 +14593,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2024-06-29",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=12169",
+        "videoTitle": "🎉아프리카 상륙 1주년🎉",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -19329,6 +19413,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "콧시"
+      },
+      {
+        "date": "2023-10-06",
+        "url": "https://vod.sooplive.com/player/108003773?change_second=1027",
+        "videoTitle": "[유플릭스] 100일🎉 소통 -  롤링페이퍼 읽기 [제랄즈]",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20231006_FD6CCD44_248534301_1_r",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },

@@ -10205,6 +10205,72 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[유플릭스] 100일🎉 소통 -  롤링페이퍼 읽기 [제랄즈]",
+            "date": "2023-10-06",
+            "url": "https://vod.sooplive.com/player/108003773",
+            "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20231006_FD6CCD44_248534301_1_r",
+            "songInfo": [
+                {
+                    "title": "팬서비스",
+                    "time": "17:07",
+                    "artist": "mona",
+                    "recommended": true,
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "🎉아프리카 상륙 1주년🎉",
+            "date": "2024-06-29",
+            "url": "https://vod.sooplive.com/player/128968763",
+            "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
+            "songInfo": [
+                {
+                    "title": "동경캐스터",
+                    "time": "2:11:21",
+                    "artist": "하츠네 미쿠",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "마음짓기",
+                    "time": "2:19:54",
+                    "artist": "GUMI",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "내가 죽으려고 생각한 것은",
+                    "time": "2:25:45",
+                    "artist": "나카시마 미카",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "빛난다면",
+                    "time": "2:35:44",
+                    "artist": "Goose house",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "Promise",
+                    "time": "2:42:42",
+                    "artist": "에픽세븐",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "아이돌",
+                    "time": "3:22:49",
+                    "artist": "요아소비",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }
