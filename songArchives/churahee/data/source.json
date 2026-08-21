@@ -10243,7 +10243,7 @@
                 },
                 {
                     "title": "내가 죽으려고 생각한 것은",
-                    "time": "2:25:45",
+                    "time": "2:25:46",
                     "artist": "나카시마 미카",
                     "needsReview": true,
                     "groupSong": false
@@ -10267,6 +10267,13 @@
                     "title": "아이돌",
                     "time": "3:22:49",
                     "artist": "요아소비",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "산책",
+                    "time": "6:17:13",
+                    "artist": "백예린",
                     "needsReview": true,
                     "groupSong": false
                 }
