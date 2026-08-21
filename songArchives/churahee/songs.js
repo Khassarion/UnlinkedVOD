@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-21T03:39:49.868609+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-21T03:40:56.034421+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -12528,7 +12528,7 @@ const songs = [
       },
       {
         "date": "2024-06-29",
-        "url": "https://vod.sooplive.com/player/128968763?change_second=22633",
+        "url": "https://vod.sooplive.com/player/128968763?change_second=22731",
         "videoTitle": "🎉아프리카 상륙 1주년🎉",
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
