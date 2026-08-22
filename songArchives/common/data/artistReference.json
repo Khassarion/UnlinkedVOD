@@ -525,10 +525,6 @@
         "aliases": []
     },
     {
-        "artist": "블랙핑크",
-        "aliases": []
-    },
-    {
         "artist": "비비",
         "aliases": [
             "BIBI",
@@ -1473,7 +1469,9 @@
     },
     {
         "artist": "BLACKPINK",
-        "aliases": []
+        "aliases": [
+            "블랙핑크"
+        ]
     },
     {
         "artist": "can't be blue",

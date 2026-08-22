@@ -2902,59 +2902,83 @@
         {
             "title": "소통 - 노래 - 시네티 같이보기(불한당)",
             "date": "2025-12-15",
-            "url": "https://vod.sooplive.co.kr/player/180768961",
-            "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+            "url": "https://vod.sooplive.com/player/180768961",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
             "songInfo": [
                 {
                     "title": "들리나요",
                     "time": "47:50",
-                    "recommended": true
+                    "artist": "태연",
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "STAY",
-                    "time": "1:01:02"
+                    "time": "1:01:02",
+                    "artist": "BLACKPINK",
+                    "groupSong": false
                 },
                 {
                     "title": "Gravity",
-                    "time": "1:07:51"
+                    "time": "1:07:51",
+                    "artist": "피프티피프티",
+                    "groupSong": false
                 },
                 {
                     "title": "Golden",
-                    "time": "1:13:35"
+                    "time": "1:13:35",
+                    "artist": "HUNTR/X",
+                    "groupSong": false
                 },
                 {
                     "title": "Love=Disaster",
-                    "time": "1:19:47"
+                    "time": "1:19:47",
+                    "artist": "프로미스나인",
+                    "groupSong": false
                 },
                 {
                     "title": "오스카",
-                    "time": "1:25:57"
+                    "time": "1:25:57",
+                    "artist": "심규선",
+                    "groupSong": false
                 },
                 {
                     "title": "Track 9",
                     "time": "1:36:12",
-                    "recommended": true
+                    "artist": "이소라",
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "아이와 나의 바다",
                     "time": "1:43:58",
-                    "recommended": true
+                    "artist": "아이유",
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "숲",
-                    "time": "1:53:18"
+                    "time": "1:53:18",
+                    "artist": "최유리",
+                    "groupSong": false
                 },
                 {
                     "title": "Melt Away",
-                    "time": "2:07:46"
+                    "time": "2:07:46",
+                    "artist": "IVE",
+                    "groupSong": false
                 },
                 {
                     "title": "그저 네게 맑아라",
-                    "time": "2:22:29"
+                    "time": "2:22:29",
+                    "artist": "요루시카",
+                    "groupSong": false
                 },
                 {
                     "title": "XOXZ",
-                    "time": "2:27:27"
+                    "time": "2:27:27",
+                    "artist": "IVE",
+                    "groupSong": false
                 }
             ]
         },
@@ -3392,7 +3416,7 @@
                     "groupSong": false
                 },
                 {
-                    "title": "사랑 그게 뭔데",
+                    "title": "사랑..그게 뭔데",
                     "time": "2:42:21",
                     "artist": "양파",
                     "groupSong": false
@@ -7792,75 +7816,88 @@
                 {
                     "title": "아로아로봉봉",
                     "time": "1:01:29",
-                    "artist": "에이몽"
+                    "artist": "에이몽",
+                    "groupSong": false
                 },
                 {
                     "title": "운이 좋았지",
                     "time": "1:09:58",
                     "artist": "권진아",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "고양이 소리를 따라해 보자",
                     "time": "1:19:14",
                     "artist": "펑티모",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "어푸",
                     "time": "1:26:59",
-                    "artist": "아이유"
+                    "artist": "아이유",
+                    "groupSong": false
                 },
                 {
                     "title": "하늘바라기",
                     "time": "1:36:39",
-                    "artist": "정은지"
+                    "artist": "정은지",
+                    "groupSong": false
                 },
                 {
                     "title": "하루하루",
                     "time": "1:43:51",
                     "artist": "김보경",
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "시간을 거슬러",
                     "time": "1:54:08",
                     "artist": "린",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "Square",
                     "time": "2:01:41",
                     "artist": "백예린",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "오빠야",
                     "time": "2:11:35",
-                    "artist": "술제이, 조현영"
+                    "artist": "술제이, 조현영",
+                    "groupSong": false
                 },
                 {
                     "title": "여봉봉",
                     "time": "2:21:17",
-                    "artist": "아율"
+                    "artist": "아율",
+                    "groupSong": false
                 },
                 {
-                    "title": "사랑 그게 뭔데",
+                    "title": "사랑..그게 뭔데",
                     "time": "2:27:56",
                     "artist": "양파",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "혼자라고 생각말기",
                     "time": "2:35:57",
                     "artist": "김보경",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "최종화",
                     "time": "2:41:41",
-                    "artist": "아이리 칸나"
+                    "artist": "아이리 칸나",
+                    "groupSong": false
                 }
             ]
         },
@@ -7874,93 +7911,108 @@
                     "title": "사랑은 은하수 다방에서",
                     "time": "1:33:23",
                     "artist": "10CM",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "뭔가 잘못됐어",
                     "time": "1:40:45",
                     "artist": "권진아",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "출항",
                     "time": "1:50:49",
-                    "artist": "안예은"
+                    "artist": "안예은",
+                    "groupSong": false
                 },
                 {
                     "title": "소로",
                     "time": "1:59:51",
                     "artist": "심규선",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "마음을 드려요",
                     "time": "2:17:43",
                     "artist": "아이유",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "오늘 뭐 했는지 말해봐",
                     "time": "2:29:09",
                     "artist": "권진아",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "도망가자",
                     "time": "2:38:12",
-                    "artist": "선우정아"
+                    "artist": "선우정아",
+                    "groupSong": false
                 },
                 {
-                    "title": "사랑 그게 뭔데",
+                    "title": "사랑..그게 뭔데",
                     "time": "2:48:11",
                     "artist": "양파",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "Celebrity",
                     "time": "2:57:00",
                     "artist": "아이유",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false
                 },
                 {
                     "title": "Almond Chocolate",
                     "time": "3:05:08",
                     "artist": "아일릿",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "빌려온 고양이",
                     "time": "3:12:40",
                     "artist": "아일릿",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "다시 만날까 봐",
                     "time": "3:22:13",
                     "artist": "이예준",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "밤편지",
                     "time": "3:43:55",
                     "artist": "아이유",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "Say Yes",
                     "time": "3:51:09",
                     "artist": "로꼬, 펀치",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false
                 },
                 {
                     "title": "안녕! 디지몬",
                     "time": "4:01:32",
-                    "artist": "디지몬 OST"
+                    "artist": "디지몬 OST",
+                    "groupSong": false
                 }
             ]
         },
@@ -9831,7 +9883,7 @@
                     "groupSong": true
                 },
                 {
-                    "title": "사랑 그게 뭔데",
+                    "title": "사랑..그게 뭔데",
                     "time": "14:08:53",
                     "artist": "양파",
                     "recommended": true,
@@ -9845,6 +9897,12 @@
                     "groupSong": false
                 },
                 {
+                    "title": "12:45",
+                    "time": "14:43:06",
+                    "artist": "Etham",
+                    "groupSong": false
+                },
+                {
                     "title": "보고싶다",
                     "time": "14:56:20",
                     "artist": "김범수",
@@ -9854,14 +9912,14 @@
                 {
                     "title": "휘파람",
                     "time": "15:03:38",
-                    "artist": "블랙핑크",
+                    "artist": "BLACKPINK",
                     "groupMembers": "요한, 츄라희",
                     "groupSong": true
                 },
                 {
                     "title": "불장난",
                     "time": "15:06:10",
-                    "artist": "블랙핑크",
+                    "artist": "BLACKPINK",
                     "groupMembers": "요한, 츄라희",
                     "groupSong": true
                 },

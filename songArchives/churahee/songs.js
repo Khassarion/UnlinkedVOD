@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-21T18:50:03.009594+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-22T14:24:41.876867+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -202,6 +202,18 @@ const songs = [
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20250506_5F4CD820_283702230_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-07-31",
+        "url": "https://vod.sooplive.com/player/203059605?change_second=52986",
+        "videoTitle": "소통 - 밸런스게임 - 머신파티(w. 강하나 요한) - 배그 - 새벽 싱크룸(w. 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_7D3922FB_295995151_1_r&column=2&t=1785950353",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1338,10 +1350,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=4415",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=4415",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1464,10 +1476,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=4071",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=4071",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2808,10 +2820,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=4787",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=4787",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2960,6 +2972,24 @@ const songs = [
   },
   {
     "title": "Melt Away",
+    "artist": "IVE",
+    "versions": [
+      {
+        "date": "2025-12-15",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=7666",
+        "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Melt Away",
     "artist": "아이브",
     "versions": [
       {
@@ -2968,18 +2998,6 @@ const songs = [
         "videoTitle": "소통 - 별별랭킹 - 신곡 발표회 - 노래 깎기(Nothing)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260105_BE3A02C6_290504144_1_r&column=2&t=1767615462",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      },
-      {
-        "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=7666",
-        "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4016,14 +4034,14 @@ const songs = [
   },
   {
     "title": "STAY",
-    "artist": "블랙핑크",
+    "artist": "BLACKPINK",
     "versions": [
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=3662",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=3662",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4428,10 +4446,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=5772",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=5772",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -4862,20 +4880,26 @@ const songs = [
   },
   {
     "title": "XOXZ",
-    "artist": "아이브",
+    "artist": "IVE",
     "versions": [
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=8847",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=8847",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      },
+      }
+    ]
+  },
+  {
+    "title": "XOXZ",
+    "artist": "아이브",
+    "versions": [
       {
         "date": "2025-10-04",
         "url": "https://vod.sooplive.com/player/173882179?change_second=3110",
@@ -6072,10 +6096,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=8549",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=8549",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -8436,10 +8460,10 @@ const songs = [
     "versions": [
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=2870",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=2870",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -11427,13 +11451,7 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "크앙희, 더블링, 강하나, 카아암"
-      }
-    ]
-  },
-  {
-    "title": "불장난",
-    "artist": "블랙핑크",
-    "versions": [
+      },
       {
         "date": "2026-07-31",
         "url": "https://vod.sooplive.com/player/203059605?change_second=54370",
@@ -12169,7 +12187,7 @@ const songs = [
     ]
   },
   {
-    "title": "사랑 그게 뭔데",
+    "title": "사랑..그게 뭔데",
     "artist": "양파",
     "versions": [
       {
@@ -13872,10 +13890,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=6798",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=6798",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -14772,10 +14790,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=6238",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=6238",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -16782,10 +16800,10 @@ const songs = [
       },
       {
         "date": "2025-12-15",
-        "url": "https://vod.sooplive.co.kr/player/180768961?change_second=5157",
+        "url": "https://vod.sooplive.com/player/180768961?change_second=5157",
         "videoTitle": "소통 - 노래 - 시네티 같이보기(불한당)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251215_A2912380_289968960_1_r&column=2&t=1765865060",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -20588,11 +20606,11 @@ const songs = [
   },
   {
     "title": "휘파람",
-    "artist": "로이킴",
+    "artist": "BLACKPINK",
     "versions": [
       {
         "date": "2026-07-31",
-        "url": "https://vod.sooplive.com/player/203059605?change_second=54901",
+        "url": "https://vod.sooplive.com/player/203059605?change_second=54218",
         "videoTitle": "소통 - 밸런스게임 - 머신파티(w. 강하나 요한) - 배그 - 새벽 싱크룸(w. 요한)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_7D3922FB_295995151_1_r&column=2&t=1785950353",
@@ -20606,11 +20624,11 @@ const songs = [
   },
   {
     "title": "휘파람",
-    "artist": "블랙핑크",
+    "artist": "로이킴",
     "versions": [
       {
         "date": "2026-07-31",
-        "url": "https://vod.sooplive.com/player/203059605?change_second=54218",
+        "url": "https://vod.sooplive.com/player/203059605?change_second=54901",
         "videoTitle": "소통 - 밸런스게임 - 머신파티(w. 강하나 요한) - 배그 - 새벽 싱크룸(w. 요한)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_7D3922FB_295995151_1_r&column=2&t=1785950353",
