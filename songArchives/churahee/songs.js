@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-22T14:24:41.876867+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-22T15:34:31.151909+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -75,6 +75,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "1,2,3,4",
+    "artist": "이하이",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=10682",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -237,6 +255,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "강하나, 김병살, 뜨사, 요한, 츄라희"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=15363",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -1131,6 +1161,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=11952",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -1455,6 +1497,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=11111",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -1839,6 +1893,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=14998",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -2131,6 +2197,24 @@ const songs = [
     ]
   },
   {
+    "title": "LOVE DIVE",
+    "artist": "IVE",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=6756",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
+      }
+    ]
+  },
+  {
     "title": "Legend Never Die",
     "artist": "League of Legends",
     "versions": [
@@ -2241,6 +2325,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "송현"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=12433",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -3903,6 +3999,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=13459",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 츄라희"
       }
     ]
   },
@@ -4089,6 +4197,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=13920",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -5109,6 +5229,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=11643",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -7599,6 +7731,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=9962",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -7971,6 +8115,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "공태연, 박재박, 슈니, 초금비"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=15716",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -11073,6 +11229,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "송현"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=14306",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -11463,6 +11631,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=14633",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -12153,6 +12333,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "사건의 지평선",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=13022",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -13419,6 +13617,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=7510",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 츄라희"
       }
     ]
   },
@@ -16713,6 +16923,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=5988",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -17829,6 +18051,18 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=7075",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -18753,6 +18987,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=8808",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "송현, 츄라희"
       }
     ]
   },
@@ -19029,6 +19275,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=10264",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -19149,6 +19407,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=9615",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 츄라희"
       }
     ]
   },
@@ -19821,6 +20091,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=8348",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 송현, 츄라희"
       }
     ]
   },
@@ -19975,6 +20257,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205049069?change_second=5228",
+        "videoTitle": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

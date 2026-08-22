@@ -10380,6 +10380,175 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[버블란] 8시 싱크룸 대기대기(w. 김다나 송현)",
+            "date": "2026-08-22",
+            "url": "https://vod.sooplive.com/player/205049069",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
+            "songInfo": [
+                {
+                    "title": "한숨",
+                    "time": "1:27:08",
+                    "artist": "이하이",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "오르트구름",
+                    "time": "1:39:48",
+                    "artist": "윤하",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "LOVE DIVE",
+                    "time": "1:52:36",
+                    "artist": "IVE",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "이름에게",
+                    "time": "1:57:55",
+                    "artist": "아이유",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "소로",
+                    "time": "2:05:10",
+                    "artist": "심규선",
+                    "groupMembers": "김다나, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "하루하루",
+                    "time": "2:19:08",
+                    "artist": "김보경",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "창귀",
+                    "time": "2:26:48",
+                    "artist": "안예은",
+                    "groupMembers": "송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "최종화",
+                    "time": "2:40:15",
+                    "artist": "아이리 칸나",
+                    "groupMembers": "김다나, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "노래가 늘었어",
+                    "time": "2:46:02",
+                    "artist": "에일리",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "첫눈처럼 너에게 가겠다",
+                    "time": "2:51:04",
+                    "artist": "에일리",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "1,2,3,4",
+                    "time": "2:58:02",
+                    "artist": "이하이",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Golden",
+                    "time": "3:05:11",
+                    "artist": "HUNTR/X",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "illa illa",
+                    "time": "3:14:03",
+                    "artist": "주니엘",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Drowning",
+                    "time": "3:19:12",
+                    "artist": "WOODZ",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Lonely",
+                    "time": "3:27:13",
+                    "artist": "투에니원",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "사건의 지평선",
+                    "time": "3:37:02",
+                    "artist": "윤하",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "Rain",
+                    "time": "3:44:19",
+                    "artist": "태연",
+                    "groupMembers": "김다나, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "STYLE",
+                    "time": "3:52:00",
+                    "artist": "하츠투하츠",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "별의 하모니",
+                    "time": "3:58:26",
+                    "artist": "QWER",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "불장난",
+                    "time": "4:03:53",
+                    "artist": "BLACKPINK",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "I",
+                    "time": "4:09:58",
+                    "artist": "태연",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "8282",
+                    "time": "4:16:03",
+                    "artist": "다비치",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                },
+                {
+                    "title": "다시 만난 세계",
+                    "time": "4:21:56",
+                    "artist": "소녀시대",
+                    "groupMembers": "김다나, 송현, 츄라희",
+                    "groupSong": true
+                }
+            ]
         }
     ]
 }

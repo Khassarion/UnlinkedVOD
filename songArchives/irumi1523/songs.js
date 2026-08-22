@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-21T19:01:33.584001+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-22T15:37:47.950112+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -2197,6 +2197,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "파도혁명",
+    "artist": "음율",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205014779?change_second=5243",
+        "videoTitle": "2주년 기념 첫 풀트 방송!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_36F2AF4A_296545257_1_r&column=2&t=1787394495",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
