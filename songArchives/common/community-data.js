@@ -9,7 +9,7 @@
   'use strict';
 
   /** @type {string} Apps Script 웹 앱 배포 URL */
-  const COMMUNITY_SHEETS_APPS_SCRIPT_ID = 'AKfycbzk8AAG0Lf7l0jbYG6KqxvX1lDTc_j2MoWt9TQOQRShWD7yCXykuMCjejVcCZgPPz29';
+  const COMMUNITY_SHEETS_APPS_SCRIPT_ID = 'AKfycbxhRNEFkdCH3G82OXJEZLfb0nm5jvf4n2XkX0eOdcdPE-zfEw9Kmd96FdJAo5h1t79W';
   var COMMUNITY_SHEETS_WEB_APP_URL = `https://script.google.com/macros/s/${COMMUNITY_SHEETS_APPS_SCRIPT_ID}/exec`;
 
   var DIALOG_ID = 'addSongDialog';
