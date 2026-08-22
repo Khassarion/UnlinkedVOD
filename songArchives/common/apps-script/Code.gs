@@ -501,6 +501,18 @@ function formatSheetTime_(value) {
     if (h > 0) return h + ':' + mm + ':' + ss;
     return Number(mm) + ':' + ss;
   }
+  if (/^\d+$/.test(s)) {
+    var totalSec = Number(s);
+    var hh = Math.floor(totalSec / 3600);
+    var mmNum = Math.floor((totalSec % 3600) / 60);
+    var ssNum = totalSec % 60;
+    var ssStr = (ssNum < 10 ? '0' : '') + ssNum;
+    if (hh > 0) {
+      var mmStr = (mmNum < 10 ? '0' : '') + mmNum;
+      return hh + ':' + mmStr + ':' + ssStr;
+    }
+    return mmNum + ':' + ssStr;
+  }
   return '';
 }
 
