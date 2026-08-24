@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-22T15:34:31.151909+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-24T01:29:05.071289+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -865,12 +865,12 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=3372",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1123,9 +1123,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=6247",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2563,9 +2563,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=7920",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3265,9 +3265,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=8318",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3991,9 +3991,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=10479",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4699,12 +4699,12 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=2366",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6444,13 +6444,13 @@ const songs = [
       },
       {
         "date": "2026-08-18",
-        "url": "https://vod.sooplive.com/player/204680597?change_second=8674",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "url": "https://vod.sooplive.com/player/204680597?change_second=8699",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6955,12 +6955,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=10384",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8539,12 +8539,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=5050",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8640,13 +8640,13 @@ const songs = [
       },
       {
         "date": "2026-08-19",
-        "url": "https://vod.sooplive.com/player/204750625?change_second=2130",
-        "videoTitle": "[버블란] 영상으로 보는 츄스테리",
+        "url": "https://vod.sooplive.com/player/204750625?change_second=2115",
+        "videoTitle": "소통 - 1년 반만에 다시 쓰는 프로필 - 영상으로 보는 츄스테리",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_89796CA5_296473989_1_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_89796CA5_296473989_1_r&column=2&t=1787412522",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8749,9 +8749,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=7508",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -9139,9 +9139,9 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=12243",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -9811,12 +9811,12 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=2792",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -10231,9 +10231,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=4950",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -10405,9 +10405,9 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=11640",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -11190,13 +11190,13 @@ const songs = [
       },
       {
         "date": "2026-08-21",
-        "url": "https://vod.sooplive.com/player/204943995?change_second=3891",
+        "url": "https://vod.sooplive.com/player/204943995?change_second=3892",
         "videoTitle": "[버블란] 락케스 후열 방송띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_A8F2DFDA_296533751_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -12307,12 +12307,12 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=11798",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -12631,9 +12631,9 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=14562",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -12955,9 +12955,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=8720",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -13327,9 +13327,9 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=19857",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -13609,9 +13609,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=5382",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -13660,9 +13660,9 @@ const songs = [
         "videoTitle": "소통 - 봉준님 노래자랑 참가",
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240410_F0A5D9DD_261917110_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -13849,21 +13849,21 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=23132",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=14950",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -14011,9 +14011,9 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=14013",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -14209,9 +14209,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=9196",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -14221,9 +14221,9 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=12661",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -14827,9 +14827,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=12143",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -15247,12 +15247,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=6447",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15277,12 +15277,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=9446",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15709,9 +15709,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=4431",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16243,9 +16243,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=10962",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16603,9 +16603,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=12611",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16831,12 +16831,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=5938",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16915,9 +16915,9 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=5857",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -17809,12 +17809,12 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=7051",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -18043,12 +18043,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=8187",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -18661,12 +18661,12 @@ const songs = [
       {
         "date": "2026-08-16",
         "url": "https://vod.sooplive.com/player/204523103?change_second=10038",
-        "videoTitle": "[버블란] 후열 소통",
+        "videoTitle": "소통 - 싱크룸(w. 랑코)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -19477,12 +19477,12 @@ const songs = [
       {
         "date": "2026-08-18",
         "url": "https://vod.sooplive.com/player/204680597?change_second=7649",
-        "videoTitle": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+        "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -20267,8 +20267,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_4404F244_296554861_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

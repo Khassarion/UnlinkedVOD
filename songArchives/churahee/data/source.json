@@ -1279,7 +1279,8 @@
                     "title": "수고했어, 오늘도",
                     "time": "10:27:23",
                     "artist": "옥상달빛",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 }
             ]
@@ -9982,30 +9983,30 @@
             ]
         },
         {
-            "title": "[버블란] 후열 소통",
+            "title": "소통 - 싱크룸(w. 랑코)",
             "date": "2026-08-16",
             "url": "https://vod.sooplive.com/player/204523103",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_78F889D3_296406149_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_200A89D7_296406149_1_r&column=2&t=1786984147",
             "songInfo": [
                 {
                     "title": "Track 9",
                     "time": "39:26",
                     "artist": "이소라",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "물고기자리",
                     "time": "46:32",
                     "artist": "이안",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "Celebrity",
                     "time": "56:12",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
@@ -10047,7 +10048,8 @@
                     "title": "위로",
                     "time": "1:57:31",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
@@ -10089,7 +10091,8 @@
                     "title": "지구가 태양을 네 번",
                     "time": "2:47:18",
                     "artist": "넬",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
@@ -10110,7 +10113,8 @@
                     "title": "빌려온 고양이",
                     "time": "3:16:38",
                     "artist": "아일릿",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
@@ -10131,71 +10135,70 @@
                     "title": "수고했어, 오늘도",
                     "time": "6:25:32",
                     "artist": "옥상달빛",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 }
             ]
         },
         {
-            "title": "[버블란] 다시바 노쇼 뭐임??? 나한테 노래배우고 싶다녀 너 안 와서 내가 노래방한다 다시바 일어나면 연락해",
+            "title": "소통 - (노쇼당한 기념)노래",
             "date": "2026-08-18",
             "url": "https://vod.sooplive.com/player/204680597",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_C922E2E2_296451091_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
             "songInfo": [
                 {
                     "title": "도망가자",
                     "time": "1:24:10",
                     "artist": "선우정아",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "오랜 날 오랜 밤",
                     "time": "1:38:58",
                     "artist": "AKMU",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "안녕! 디지몬",
                     "time": "1:47:27",
                     "artist": "디지몬 OST",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "출발",
                     "time": "2:07:29",
                     "artist": "김동률",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "이름에게",
                     "time": "2:16:27",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "기다리다",
-                    "time": "2:24:34",
+                    "time": "2:24:59",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "안녕이라고 말하지 마",
                     "time": "2:37:26",
                     "artist": "다비치",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "끝이 아닌 것 같아서",
                     "time": "2:53:04",
                     "artist": "바닐라 어쿠스틱",
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
@@ -10250,16 +10253,17 @@
             ]
         },
         {
-            "title": "[버블란] 영상으로 보는 츄스테리",
+            "title": "소통 - 1년 반만에 다시 쓰는 프로필 - 영상으로 보는 츄스테리",
             "date": "2026-08-19",
             "url": "https://vod.sooplive.com/player/204750625",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_89796CA5_296473989_1_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260819_89796CA5_296473989_1_r&column=2&t=1787412522",
             "songInfo": [
                 {
                     "title": "들리나요",
-                    "time": "35:30",
+                    "time": "35:15",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 }
             ]
@@ -10374,9 +10378,8 @@
             "songInfo": [
                 {
                     "title": "별의 조각",
-                    "time": "1:04:51",
+                    "time": "1:04:52",
                     "artist": "윤하",
-                    "needsReview": true,
                     "groupSong": false
                 }
             ]
@@ -10391,7 +10394,7 @@
                     "title": "한숨",
                     "time": "1:27:08",
                     "artist": "이하이",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
