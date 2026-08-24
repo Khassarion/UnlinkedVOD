@@ -1158,60 +1158,86 @@
             "songInfo": [
                 {
                     "title": "북두칠성",
-                    "time": "3:28:01",
+                    "time": "3:27:59",
                     "artist": "로이킴",
                     "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "yours",
-                    "time": "3:36:19",
+                    "time": "3:36:17",
                     "artist": "데이먼스 이어",
                     "recommended": true,
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "같은 베개...",
-                    "time": "3:55:59",
+                    "time": "3:55:57",
                     "artist": "테이",
                     "recommended": true,
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "사랑은 눈꽃처럼",
-                    "time": "4:02:32",
+                    "time": "4:02:30",
                     "artist": "시아준수",
                     "recommended": true,
-                    "needsReview": true,
                     "groupSong": false
                 },
                 {
                     "title": "난 남자가 있는데",
-                    "time": "4:09:49",
+                    "time": "4:09:55",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false
                 },
                 {
                     "title": "술 한잔 해요",
-                    "time": "4:18:25",
+                    "time": "4:18:36",
                     "artist": "지아",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "사랑..그게 뭔데",
-                    "time": "4:24:30",
+                    "time": "4:24:28",
                     "artist": "양파",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "화장을 고치고",
-                    "time": "4:34:43",
+                    "time": "4:34:41",
                     "artist": "태연",
+                    "recommended": true,
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "후열 노래🤍!노래책 33/330(11연차)",
+            "date": "2026-08-01",
+            "url": "https://vod.sooplive.com/player/203088611",
+            "thumbnail": "",
+            "songInfo": [
+                {
+                    "title": "숨",
+                    "time": "2:45:06",
+                    "artist": "박효신",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "밤, 바다",
+                    "time": "2:53:21",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "바람이 불어오는 곳",
+                    "time": "3:01:57",
+                    "artist": "김광석",
                     "needsReview": true,
                     "groupSong": false
                 }

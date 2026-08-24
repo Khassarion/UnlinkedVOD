@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-24T19:51:35.974781+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-24T22:28:27.252434+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -552,13 +552,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=12979",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=12977",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
         "noMistake": false,
         "recommended": true,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -570,13 +570,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=14159",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=14157",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
         "noMistake": false,
         "recommended": true,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -840,13 +840,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=14989",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=14995",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1195,6 +1195,24 @@ const songs = [
     ]
   },
   {
+    "title": "바람이 불어오는 곳",
+    "artist": "김광석",
+    "versions": [
+      {
+        "date": "2026-08-01",
+        "url": "https://vod.sooplive.com/player/203088611?change_second=10917",
+        "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "바이, 썸머",
     "artist": "아이유",
     "versions": [
@@ -1204,6 +1222,24 @@ const songs = [
         "videoTitle": "소통 노래🤍 !노래책",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "밤, 바다",
+    "artist": "최유리",
+    "versions": [
+      {
+        "date": "2026-08-01",
+        "url": "https://vod.sooplive.com/player/203088611?change_second=10401",
+        "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1410,7 +1446,7 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=12481",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=12479",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
@@ -1518,13 +1554,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=15870",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=15868",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1554,13 +1590,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=14552",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=14550",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
         "noMistake": false,
         "recommended": true,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1740,13 +1776,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=15505",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=15516",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1765,6 +1801,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-01",
+        "url": "https://vod.sooplive.com/player/203088611?change_second=9906",
+        "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2634,13 +2682,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=16483",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=16481",
         "videoTitle": "후열🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
