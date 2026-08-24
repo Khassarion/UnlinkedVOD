@@ -9251,7 +9251,7 @@
                     "groupSong": false
                 },
                 {
-                    "title": "안녕이라고 말하지 마",
+                    "title": "안녕이라고 말하지마",
                     "time": "4:57:27",
                     "artist": "다비치",
                     "noMistake": true,
@@ -10189,7 +10189,7 @@
                     "groupSong": false
                 },
                 {
-                    "title": "안녕이라고 말하지 마",
+                    "title": "안녕이라고 말하지마",
                     "time": "2:37:26",
                     "artist": "다비치",
                     "recommended": true,
@@ -10205,35 +10205,39 @@
                     "title": "민들레",
                     "time": "3:14:00",
                     "artist": "우효",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "마지막 날처럼",
                     "time": "3:24:03",
                     "artist": "유럽",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "숲",
                     "time": "3:31:01",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "수피",
                     "time": "3:53:33",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {
                     "title": "사랑하게 될 거야",
                     "time": "4:02:42",
                     "artist": "한로로",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false
                 },
                 {

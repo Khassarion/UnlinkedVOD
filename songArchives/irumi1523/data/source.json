@@ -1149,6 +1149,73 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "후열🤍",
+            "date": "2026-08-24",
+            "url": "https://vod.sooplive.com/player/205237609",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+            "songInfo": [
+                {
+                    "title": "북두칠성",
+                    "time": "3:28:01",
+                    "artist": "로이킴",
+                    "recommended": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "yours",
+                    "time": "3:36:19",
+                    "artist": "데이먼스 이어",
+                    "recommended": true,
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "같은 베개...",
+                    "time": "3:55:59",
+                    "artist": "테이",
+                    "recommended": true,
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "사랑은 눈꽃처럼",
+                    "time": "4:02:32",
+                    "artist": "시아준수",
+                    "recommended": true,
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "난 남자가 있는데",
+                    "time": "4:09:49",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "술 한잔 해요",
+                    "time": "4:18:25",
+                    "artist": "지아",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "사랑..그게 뭔데",
+                    "time": "4:24:30",
+                    "artist": "양파",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "화장을 고치고",
+                    "time": "4:34:43",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-24T01:29:05.071289+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-24T08:55:42.723470+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -9142,9 +9142,9 @@ const songs = [
         "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -10408,9 +10408,9 @@ const songs = [
         "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -12634,9 +12634,9 @@ const songs = [
         "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -14014,9 +14014,9 @@ const songs = [
         "videoTitle": "소통 - (노쇼당한 기념)노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -14225,8 +14225,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15259,7 +15259,7 @@ const songs = [
     ]
   },
   {
-    "title": "안녕이라고 말하지 마",
+    "title": "안녕이라고 말하지마",
     "artist": "다비치",
     "versions": [
       {

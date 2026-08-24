@@ -147,7 +147,7 @@
                     "groupSong": false
                 },
                 {
-                    "title": "Lonely heart",
+                    "title": "Lonely Heart",
                     "time": "12:01:12",
                     "artist": "신지훈",
                     "groupSong": false
@@ -1385,10 +1385,9 @@
                     "groupSong": false
                 },
                 {
-                    "title": "What Was I Made For",
+                    "title": "What Was I Made For?",
                     "time": "1:36:35",
-                    "artist": "Billie Eilish",
-                    "needsReview": true,
+                    "artist": "빌리 아일리시",
                     "groupSong": false
                 },
                 {
@@ -2483,6 +2482,164 @@
                     "title": "0+0",
                     "time": "8:12:13",
                     "artist": "한로로",
+                    "groupSong": false
+                }
+            ]
+        },
+        {
+            "title": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+            "date": "2026-08-22",
+            "url": "https://vod.sooplive.com/player/205080179",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+            "songInfo": [
+                {
+                    "title": "먹구름",
+                    "time": "6:43:38",
+                    "artist": "윤하",
+                    "groupSong": false
+                },
+                {
+                    "title": "Carry You",
+                    "time": "6:49:17",
+                    "artist": "Ruelle, Fleurie",
+                    "groupSong": false
+                },
+                {
+                    "title": "사막에서 꽃을 피우듯",
+                    "time": "6:56:09",
+                    "artist": "우디",
+                    "groupSong": false
+                },
+                {
+                    "title": "미안해요",
+                    "time": "7:01:32",
+                    "artist": "탑현",
+                    "groupSong": false
+                },
+                {
+                    "title": "봄날",
+                    "time": "7:07:09",
+                    "artist": "방탄소년단",
+                    "groupSong": false
+                },
+                {
+                    "title": "시간의 바깥",
+                    "time": "7:14:15",
+                    "artist": "아이유",
+                    "groupSong": false
+                },
+                {
+                    "title": "어른",
+                    "time": "7:22:41",
+                    "artist": "손디아",
+                    "groupSong": false
+                },
+                {
+                    "title": "I Really Want To Stay At Your House",
+                    "time": "7:29:07",
+                    "artist": "Eliesczhae",
+                    "groupSong": false
+                },
+                {
+                    "title": "추억은 한 편의 산문집 되어",
+                    "time": "7:37:24",
+                    "artist": "신지훈",
+                    "groupSong": false
+                },
+                {
+                    "title": "0+0",
+                    "time": "7:42:40",
+                    "artist": "한로로",
+                    "groupSong": false
+                },
+                {
+                    "title": "입춘",
+                    "time": "7:47:03",
+                    "artist": "한로로",
+                    "groupSong": false
+                },
+                {
+                    "title": "yours",
+                    "time": "7:51:58",
+                    "artist": "데이먼스 이어",
+                    "groupSong": false
+                },
+                {
+                    "title": "내 생에 아름다운",
+                    "time": "7:56:07",
+                    "artist": "케이윌",
+                    "groupSong": false
+                },
+                {
+                    "title": "Winter Without You",
+                    "time": "8:02:49",
+                    "artist": "Gloria Kim",
+                    "groupSong": false
+                },
+                {
+                    "title": "Teenage Fantasy",
+                    "time": "8:07:16",
+                    "artist": "Jorja Smith",
+                    "groupSong": false
+                },
+                {
+                    "title": "너, 너",
+                    "time": "8:12:29",
+                    "artist": "스트레이",
+                    "groupSong": false
+                },
+                {
+                    "title": "LETTER",
+                    "time": "8:21:13",
+                    "artist": "유다빈밴드",
+                    "groupSong": false
+                },
+                {
+                    "title": "Lonely Heart",
+                    "time": "8:25:55",
+                    "artist": "신지훈",
+                    "groupSong": false
+                },
+                {
+                    "title": "숲",
+                    "time": "8:31:33",
+                    "artist": "최유리",
+                    "groupSong": false
+                },
+                {
+                    "title": "What Was I Made For?",
+                    "time": "8:36:51",
+                    "artist": "빌리 아일리시",
+                    "groupSong": false
+                },
+                {
+                    "title": "스토커",
+                    "time": "8:42:01",
+                    "artist": "10CM",
+                    "groupSong": false
+                },
+                {
+                    "title": "밤, 바다",
+                    "time": "8:48:01",
+                    "artist": "최유리",
+                    "groupSong": false
+                },
+                {
+                    "title": "연의 편지",
+                    "time": "9:00:50",
+                    "artist": "이수현",
+                    "groupSong": false
+                },
+                {
+                    "title": "오늘은 가지마",
+                    "time": "9:06:31",
+                    "artist": "벤",
+                    "groupSong": false
+                },
+                {
+                    "title": "Mermaid",
+                    "time": "9:12:15",
+                    "artist": "볼빨간사춘기",
                     "groupSong": false
                 }
             ]

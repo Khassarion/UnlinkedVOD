@@ -701,6 +701,15 @@
         "aliases": []
     },
     {
+        "artist": "시아준수",
+        "aliases": [
+            "XIA",
+            "김준수",
+            "XIA(김준수)",
+            "시아 준수"
+        ]
+    },
+    {
         "artist": "시이나 링고",
         "aliases": []
     },
@@ -1179,7 +1188,9 @@
     },
     {
         "artist": "지아",
-        "aliases": []
+        "aliases": [
+            "ZIA"
+        ]
     },
     {
         "artist": "지코",
@@ -1228,6 +1239,10 @@
     },
     {
         "artist": "케이시",
+        "aliases": []
+    },
+    {
+        "artist": "케이윌",
         "aliases": []
     },
     {
@@ -1286,6 +1301,10 @@
             "TAEYEON",
             "태연ver"
         ]
+    },
+    {
+        "artist": "테이",
+        "aliases": []
     },
     {
         "artist": "투에니원",
@@ -1547,6 +1566,10 @@
         ]
     },
     {
+        "artist": "Eliesczhae",
+        "aliases": []
+    },
+    {
         "artist": "Ellie Goulding",
         "aliases": []
     },
@@ -1563,6 +1586,10 @@
         "aliases": []
     },
     {
+        "artist": "Fleurie",
+        "aliases": []
+    },
+    {
         "artist": "Frank Sinatra",
         "aliases": []
     },
@@ -1572,6 +1599,10 @@
     },
     {
         "artist": "GAYLE",
+        "aliases": []
+    },
+    {
+        "artist": "Gloria Kim",
         "aliases": []
     },
     {

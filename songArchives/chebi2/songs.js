@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-20T02:59:24.200554+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-24T21:06:00.366866+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -190,6 +190,18 @@ const songs = [
         "videoTitle": "(・∧‐)ゞ ",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260816_88F9D895_296405137_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=27760",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -436,6 +448,24 @@ const songs = [
         "videoTitle": "재밌었따",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Carry You",
+    "artist": "Ruelle, Fleurie",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=24557",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -817,6 +847,24 @@ const songs = [
     ]
   },
   {
+    "title": "I Really Want To Stay At Your House",
+    "artist": "Eliesczhae",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=26947",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "I Really Want to Stay at Your House",
     "artist": "사이버펑크OST",
     "versions": [
@@ -1059,6 +1107,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=30073",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1081,7 +1141,7 @@ const songs = [
     ]
   },
   {
-    "title": "Lonely heart",
+    "title": "Lonely Heart",
     "artist": "신지훈",
     "versions": [
       {
@@ -1090,6 +1150,18 @@ const songs = [
         "videoTitle": "[더켓몬] 첫 입주 + 오버워치 배치 + 아침 노래뱅",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260315_A9B62560_292421965_1_r&column=2&t=1773624756",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=30355",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1168,6 +1240,18 @@ const songs = [
         "videoTitle": "체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260403_2B9068EE_292934821_1_r&column=2&t=1775235798",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=33135",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1437,6 +1521,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=29236",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1459,8 +1555,8 @@ const songs = [
     ]
   },
   {
-    "title": "What Was I Made For",
-    "artist": "Billie Eilish",
+    "title": "What Was I Made For?",
+    "artist": "빌리 아일리시",
     "versions": [
       {
         "date": "2026-04-03",
@@ -1470,7 +1566,19 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260403_2B9068EE_292934821_1_r&column=2&t=1775235798",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=31011",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1498,6 +1606,24 @@ const songs = [
         "videoTitle": "골골체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260422_20AB848F_293435151_1_r&column=2&t=1776890630",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Winter Without You",
+    "artist": "Gloria Kim",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=28969",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1702,6 +1828,18 @@ const songs = [
         "videoTitle": "휴방인ㄷ ㅔ 발로란트와 롤 w. 왁천코뽀체 + 한결 웅니",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260807_60B32824_296165149_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=28318",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2281,6 +2419,24 @@ const songs = [
     ]
   },
   {
+    "title": "내 생에 아름다운",
+    "artist": "케이윌",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=28567",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "내일 또 보자",
     "artist": "ENE",
     "versions": [
@@ -2325,6 +2481,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 유나기"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=29549",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2761,6 +2929,24 @@ const songs = [
     ]
   },
   {
+    "title": "먹구름",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=24218",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "멀리",
     "artist": "모트",
     "versions": [
@@ -2878,6 +3064,18 @@ const songs = [
         "videoTitle": "체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260403_2B9068EE_292934821_1_r&column=2&t=1775235798",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=25292",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3069,6 +3267,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=31681",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3166,6 +3376,24 @@ const songs = [
         "videoTitle": "체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260403_2B9068EE_292934821_1_r&column=2&t=1775235798",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "봄날",
+    "artist": "방탄소년단",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=25629",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3310,6 +3538,18 @@ const songs = [
         "videoTitle": "쳅이",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260322_507F8D60_292613145_1_r&column=2&t=1774209910",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=24969",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3531,6 +3771,36 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=30693",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "스토커",
+    "artist": "10CM",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=31321",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3652,6 +3922,18 @@ const songs = [
         "videoTitle": "재미가 있었다",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260725_E313655F_295842571_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=26055",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3873,6 +4155,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "문모모,달타,체비,나나문"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=26561",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4011,6 +4305,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=32450",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4042,6 +4348,24 @@ const songs = [
         "videoTitle": "고티어 랜드",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260412_F46AB060_293179485_1_r&column=2&t=1776025830",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "오늘은 가지마",
+    "artist": "벤",
+    "versions": [
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=32791",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4335,6 +4659,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "문모모,달타,체비"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=28023",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4522,6 +4858,18 @@ const songs = [
         "videoTitle": "치치런너 2등 + 더켓몬 섭종콘 + 옵치 듀오 W.달묘",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260328_1A66CC11_292767915_1_r&column=2&t=1774727747",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=27444",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

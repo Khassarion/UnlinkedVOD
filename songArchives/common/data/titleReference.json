@@ -78,6 +78,10 @@
         "aliases": []
     },
     {
+        "title": "같은 베개...",
+        "aliases": []
+    },
+    {
         "title": "개화",
         "aliases": []
     },
@@ -411,6 +415,10 @@
         "aliases": []
     },
     {
+        "title": "난 남자가 있는데",
+        "aliases": []
+    },
+    {
         "title": "난 너 없이",
         "aliases": [
             "난 너없이"
@@ -438,6 +446,10 @@
     },
     {
         "title": "내 마음이 너에게 닿기를",
+        "aliases": []
+    },
+    {
+        "title": "내 생에 아름다운",
         "aliases": []
     },
     {
@@ -758,6 +770,10 @@
         "aliases": []
     },
     {
+        "title": "먹구름",
+        "aliases": []
+    },
+    {
         "title": "멀리",
         "aliases": []
     },
@@ -984,6 +1000,10 @@
         ]
     },
     {
+        "title": "봄날",
+        "aliases": []
+    },
+    {
         "title": "봄봄봄",
         "aliases": []
     },
@@ -1140,6 +1160,10 @@
         "aliases": []
     },
     {
+        "title": "사랑은 눈꽃처럼",
+        "aliases": []
+    },
+    {
         "title": "사랑은 은하수 다방에서",
         "aliases": []
     },
@@ -1271,6 +1295,10 @@
             "樹皮",
             "수피 樹皮"
         ]
+    },
+    {
+        "title": "술 한잔 해요",
+        "aliases": []
     },
     {
         "title": "숨",
@@ -1423,12 +1451,10 @@
         "aliases": []
     },
     {
-        "title": "안녕이라고 말하지 마",
-        "aliases": []
-    },
-    {
         "title": "안녕이라고 말하지마",
-        "aliases": []
+        "aliases": [
+            "안녕이라고 말하지 마"
+        ]
     },
     {
         "title": "안아줘",
@@ -2313,6 +2339,10 @@
         "aliases": []
     },
     {
+        "title": "Carry You",
+        "aliases": []
+    },
+    {
         "title": "Catch You Catch Me 💛",
         "aliases": []
     },
@@ -2592,6 +2622,10 @@
         "aliases": []
     },
     {
+        "title": "I Really Want To Stay At Your House",
+        "aliases": []
+    },
+    {
         "title": "idontwannabeyouanymore",
         "aliases": []
     },
@@ -2724,8 +2758,10 @@
         "aliases": []
     },
     {
-        "title": "Lonely heart",
-        "aliases": []
+        "title": "Lonely Heart",
+        "aliases": [
+            "Lonely heart"
+        ]
     },
     {
         "title": "Lonely Night",
@@ -3187,8 +3223,10 @@
         "aliases": []
     },
     {
-        "title": "What Was I Made For",
-        "aliases": []
+        "title": "What Was I Made For?",
+        "aliases": [
+            "What Was I Made For"
+        ]
     },
     {
         "title": "When I Get Old",
@@ -3196,6 +3234,10 @@
     },
     {
         "title": "Why",
+        "aliases": []
+    },
+    {
+        "title": "Winter Without You",
         "aliases": []
     },
     {
