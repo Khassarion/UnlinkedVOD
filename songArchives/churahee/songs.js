@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-25T04:34:30.343345+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-25T04:35:12.010105+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -10239,6 +10239,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=28255",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -16251,6 +16263,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=4385",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },

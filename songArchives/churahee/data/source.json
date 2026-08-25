@@ -10554,6 +10554,27 @@
                     "groupSong": true
                 }
             ]
+        },
+        {
+            "title": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+            "date": "2026-08-14",
+            "url": "https://vod.sooplive.com/player/204347547",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+            "songInfo": [
+                {
+                    "title": "연의 편지",
+                    "time": "1:13:05",
+                    "artist": "이수현",
+                    "needsReview": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "7:50:55",
+                    "artist": "권진아",
+                    "groupSong": false
+                }
+            ]
         }
     ]
 }
