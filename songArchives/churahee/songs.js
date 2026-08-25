@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-24T08:55:42.723470+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-25T04:34:30.343345+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -10219,12 +10219,12 @@ const songs = [
       {
         "date": "2026-08-12",
         "url": "https://vod.sooplive.com/player/204141333?change_second=2294",
-        "videoTitle": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+        "videoTitle": "소통 - 리스토리",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=204141333_1786562344_1_r&column=2&t=1786983456",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -16903,12 +16903,12 @@ const songs = [
       {
         "date": "2026-08-12",
         "url": "https://vod.sooplive.com/player/204141333?change_second=3616",
-        "videoTitle": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+        "videoTitle": "소통 - 리스토리",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=204141333_1786562344_1_r&column=2&t=1786983456",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -18907,12 +18907,12 @@ const songs = [
       {
         "date": "2026-08-12",
         "url": "https://vod.sooplive.com/player/204141333?change_second=1100",
-        "videoTitle": "[버블란] 누가 istp가 기계를 잘 고친ㄴ대",
+        "videoTitle": "소통 - 리스토리",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_3AB6B159_296299817_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=204141333_1786562344_1_r&column=2&t=1786983456",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
