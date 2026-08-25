@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-24T22:28:27.252434+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-25T04:38:54.781934+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -553,9 +553,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=12977",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -571,9 +571,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=14157",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -841,9 +841,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=14995",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -1203,7 +1203,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203088611?change_second=10917",
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
+        "thumbnail": "",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1447,9 +1447,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=12479",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1555,9 +1555,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=15868",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1591,9 +1591,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=14550",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1777,9 +1777,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=15516",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -2337,6 +2337,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=13441",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2683,9 +2695,9 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=16481",
-        "videoTitle": "후열🤍",
+        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,

@@ -1151,10 +1151,10 @@
             ]
         },
         {
-            "title": "후열🤍",
+            "title": "비밀 공간에 계속 갇히고 싶다🤍",
             "date": "2026-08-24",
             "url": "https://vod.sooplive.com/player/205237609",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
             "songInfo": [
                 {
                     "title": "북두칠성",
@@ -1168,6 +1168,14 @@
                     "time": "3:36:17",
                     "artist": "데이먼스 이어",
                     "recommended": true,
+                    "groupSong": false
+                },
+                {
+                    "title": "주저하는 연인들을 위해",
+                    "time": "3:44:01",
+                    "artist": "잔나비",
+                    "recommended": true,
+                    "needsReview": true,
                     "groupSong": false
                 },
                 {
