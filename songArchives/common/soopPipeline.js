@@ -880,11 +880,12 @@ async function parseTimelineLine(line, parseConfig, debug, resolveOpts = null, s
 /**
  * Parse comment HTML into songInfo using streamer-specific parseConfig.
  * A line is recognized if it contains linePrefix (anywhere); then all occurrences of linePrefix are removed and the rest is parsed via regexSequence + parts.
+ * Each parsed entry keeps `rawLine`: the original comment line (linePrefix still included, before any parsing) for source.json only — preprocess.py builds songs.js field-by-field and does not carry it over.
  * @param {string} commentHtml - e.g. "🎤 Square 3:25:43 <br />\\n..."
  * @param {{ linePrefix: string, parts: Record<string, string>, regexSequence: string }} parseConfig
  * @param {boolean} [debug] - when true, log parsing steps to stderr
  * @param {null|{ rl: import('readline').Interface | null, ctx: object, caches: object, interactive: boolean }} [resolveOpts] - 있으면 줄마다 resolve 포함
- * @returns {Promise<Array<{ title: string, time: string, artist: string|null, ... }>>}
+ * @returns {Promise<Array<{ title: string, time: string, artist: string|null, rawLine: string, ... }>>}
  */
 async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resolveOpts = null) {
   if (!commentHtml || typeof commentHtml !== 'string') return [];
@@ -926,6 +927,7 @@ async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resol
       resolveOpts,
       matchedRule.staticFields
     );
+    if (info) info.rawLine = line;
     const dedupeKey =
       (info && (info.title || '') + '|' + (info.artist == null ? '' : info.artist) + '|' + (info.time || '')) || '';
     if (info && !seen.has(dedupeKey)) {
