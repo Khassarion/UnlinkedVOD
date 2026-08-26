@@ -69,7 +69,7 @@
             ]
         },
         {
-            "title": "소통 노래🤍 뉴아바타 방셀 오픈!",
+            "title": "소통 노래 🤍 뉴아바타 방셀 오픈!",
             "date": "2026-07-30",
             "url": "https://vod.sooplive.com/player/202883393",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
@@ -78,119 +78,125 @@
                     "title": "드라마",
                     "time": "1:44:51",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 1:44:51 드라마 (아이유)"
                 },
                 {
                     "title": "방황하는 젊음",
                     "time": "1:51:55",
                     "artist": "최유리",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 1:51:55 방황하는 젊음"
                 },
                 {
                     "title": "인연",
                     "time": "2:02:47",
                     "artist": "이선희",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:02:47 인연"
                 },
                 {
                     "title": "잘 지내자, 우리",
                     "time": "2:13:02",
                     "artist": "최유리",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:13:02 잘 지내자, 우리 ■"
                 },
                 {
                     "title": "부디",
-                    "time": "2:21:14",
+                    "time": "2:22:31",
                     "artist": "심규선",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:22:31 부디"
                 },
                 {
                     "title": "기억을 걷는 시간",
                     "time": "2:31:07",
                     "artist": "넬",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:31:07 기억을 걷는 시간 ■"
                 },
                 {
                     "title": "Way Back Home",
                     "time": "2:43:34",
                     "artist": "숀",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:43:34 Way Back Home ○"
                 },
                 {
                     "title": "피날레",
                     "time": "2:56:17",
-                    "artist": "Eill",
-                    "needsReview": true,
-                    "groupSong": false
+                    "artist": "eill",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:56:17 피날레 ■"
                 },
                 {
                     "title": "이름에게",
                     "time": "3:28:50",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:28:50 이름에게"
                 },
                 {
                     "title": "야래향",
                     "time": "4:03:33",
                     "artist": "심규선",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:03:33 야래향 ○"
                 },
                 {
                     "title": "Strawberry moon",
                     "time": "4:13:02",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:13:02 Strawberry moon (아이유) ○"
                 },
                 {
                     "title": "너였다면",
-                    "time": "4:21:30",
+                    "time": "4:21:32",
                     "artist": "정승환",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:21:32 너였다면 (정승환)"
                 },
                 {
                     "title": "운이 좋았지",
                     "time": "4:27:08",
                     "artist": "권진아",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:27:08 운이 좋았지 ■"
                 },
                 {
                     "title": "뭔가 잘못됐어",
-                    "time": "4:39:14",
+                    "time": "4:38:40",
                     "artist": "권진아",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:38:40 뭔가 잘못됐어 ■"
                 },
                 {
                     "title": "상사화",
                     "time": "4:47:50",
                     "artist": "안예은",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:47:50 상사화 ○☆"
                 },
                 {
                     "title": "자장가",
                     "time": "5:22:46",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:22:46 자장가 ■"
                 },
                 {
                     "title": "생각을 멈추다 보면",
-                    "time": "5:43:15",
+                    "time": "5:43:54",
                     "artist": "최유리",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:43:54 생각을 멈추다보면 ※"
                 }
             ]
         },
@@ -921,80 +927,89 @@
             ]
         },
         {
-            "title": "소통 노래🤍 !노래책",
+            "title": "의식의 흐름대로 하는 아침 소통🤍",
             "date": "2026-08-15",
             "url": "https://vod.sooplive.com/player/204380259",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
             "songInfo": [
                 {
                     "title": "비도 오고 그래서",
                     "time": "3:25:14",
                     "artist": "헤이즈",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:25:14 비도 오고 그래서 (헤이즈)"
                 },
                 {
                     "title": "널 너무 모르고",
                     "time": "3:30:50",
                     "artist": "헤이즈",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:30:50 널 너무 모르고 (헤이즈) ○"
                 },
                 {
                     "title": "바이, 썸머",
                     "time": "3:45:11",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:45:11 바이, 썸머 (아이유) ○☆"
                 },
                 {
                     "title": "하루 끝",
                     "time": "3:56:07",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:56:07 하루 끝 (아이유) ○☆"
                 },
                 {
                     "title": "밤이 되니까",
                     "time": "4:03:47",
                     "artist": "펀치",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:03:47 밤이 되니까 (펀치) ■"
                 },
                 {
                     "title": "일과 이분의 일",
                     "time": "4:37:23",
                     "artist": "츄",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:37:23 일과 이분의 일 (츄) ■☆"
                 },
                 {
                     "title": "친구라도 될 걸 그랬어",
                     "time": "4:48:22",
                     "artist": "거미",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:48:22 친구라도 될 걸 그랬어 (거미) ■☆"
                 },
                 {
                     "title": "안아줘",
-                    "time": "6:17:23",
+                    "time": "6:17:37",
                     "artist": "정준일",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:17:37 안아줘 (정준일)"
                 },
                 {
                     "title": "행복한 나를",
                     "time": "6:27:36",
                     "artist": "에코",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:27:36 행복한 나를 (에코) ○"
                 },
                 {
                     "title": "숲",
                     "time": "6:36:16",
                     "artist": "최유리",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:36:16 숲 (최유리) ○"
                 }
             ]
         },
@@ -1089,50 +1104,57 @@
             "title": "다뿌서버2 오픈런! 비키니 방셀 룰렛🤍",
             "date": "2026-08-20",
             "url": "https://vod.sooplive.com/player/204877895",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_3082BFE0_296502461_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_4C6277CA_296502461_1_r&column=2&t=1787250318",
             "songInfo": [
                 {
                     "title": "생각을 멈추다 보면",
                     "time": "7:10:53",
                     "artist": "최유리",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 7:10:53 생각을 멈추다 보면 ○☆"
                 },
                 {
                     "title": "무릎",
                     "time": "7:30:23",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 7:30:23 무릎 ○☆"
                 }
             ]
         },
         {
-            "title": "다뿌서버 2일차🤍",
+            "title": "건실한 청년입니다🤍 다뿌서버 2일차!",
             "date": "2026-08-21",
             "url": "https://vod.sooplive.com/player/204965989",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_CD2EE3BA_296530081_1_r&column=2&t=1787465512",
             "songInfo": [
                 {
                     "title": "Love me or Leave me",
                     "time": "5:53:11",
                     "artist": "데이식스",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:53:11 Love me or Leave me (데이식스)"
                 },
                 {
                     "title": "밤편지",
                     "time": "6:00:02",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:00:02 밤편지 ○☆"
                 },
                 {
                     "title": "11:11",
                     "time": "6:08:28",
                     "artist": "태연",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:08:28 11\\:11 ○"
                 }
             ]
         },
@@ -1154,71 +1176,80 @@
             "title": "비밀 공간에 계속 갇히고 싶다🤍",
             "date": "2026-08-24",
             "url": "https://vod.sooplive.com/player/205237609",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
             "songInfo": [
                 {
                     "title": "북두칠성",
                     "time": "3:27:59",
                     "artist": "로이킴",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:27:59 북두칠성 (로이킴) ☆"
                 },
                 {
                     "title": "yours",
                     "time": "3:36:17",
                     "artist": "데이먼스 이어",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:36:17 yours (데이먼스 이어) ☆"
                 },
                 {
                     "title": "주저하는 연인들을 위해",
                     "time": "3:44:01",
                     "artist": "잔나비",
+                    "noMistake": true,
                     "recommended": true,
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:44:01 주저하는 연인들을 위해 (잔나비) ○☆"
                 },
                 {
                     "title": "같은 베개...",
                     "time": "3:55:57",
                     "artist": "테이",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:55:57 같은 베개... (테이) ☆"
                 },
                 {
                     "title": "사랑은 눈꽃처럼",
                     "time": "4:02:30",
                     "artist": "시아준수",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:02:30 사랑은 눈꽃처럼 (시아준수) ☆"
                 },
                 {
                     "title": "난 남자가 있는데",
                     "time": "4:09:55",
                     "artist": "권진아",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:09:55 난 남자가 있는데 (권진아) ○"
                 },
                 {
                     "title": "술 한잔 해요",
                     "time": "4:18:36",
                     "artist": "지아",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:18:36 술 한잔 해요 (지아) ☆"
                 },
                 {
                     "title": "사랑..그게 뭔데",
                     "time": "4:24:28",
                     "artist": "양파",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:24:28 사랑..그게 뭔데 (양파) ☆☆"
                 },
                 {
                     "title": "화장을 고치고",
                     "time": "4:34:41",
                     "artist": "태연",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:34:41 화장을 고치고 (태연) ☆"
                 }
             ]
         },
@@ -1226,7 +1257,7 @@
             "title": "후열 노래🤍!노래책 33/330(11연차)",
             "date": "2026-08-01",
             "url": "https://vod.sooplive.com/player/203088611",
-            "thumbnail": "",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
             "songInfo": [
                 {
                     "title": "숨",

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-25T04:35:12.010105+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-26T15:40:20.188738+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -10245,7 +10245,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/204347547?change_second=28255",
         "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
         "views": 1000,
-        "thumbnail": "",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16071,6 +16071,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://vod.sooplive.com/player/205398609?change_second=1205",
+        "videoTitle": "[버블란] 드디어 마참내 애교송 펀딩 마지막 날 ㅎㅎㅎ",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_3DF860DD_296648199_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -16269,7 +16281,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/204347547?change_second=4385",
         "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
         "views": 1000,
-        "thumbnail": "",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,

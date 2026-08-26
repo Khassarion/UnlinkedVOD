@@ -10575,6 +10575,21 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "[버블란] 드디어 마참내 애교송 펀딩 마지막 날 ㅎㅎㅎ",
+            "date": "2026-08-26",
+            "url": "https://vod.sooplive.com/player/205398609",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_3DF860DD_296648199_2_r",
+            "songInfo": [
+                {
+                    "title": "여봉봉",
+                    "time": "20:05",
+                    "artist": "아율",
+                    "groupSong": false,
+                    "rawLine": "🎤 여봉봉 (아율) 20:05"
+                }
+            ]
         }
     ]
 }

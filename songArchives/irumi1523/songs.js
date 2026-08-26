@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-25T04:38:54.781934+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-26T15:49:34.255315+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -55,12 +55,12 @@ const songs = [
       {
         "date": "2026-08-21",
         "url": "https://vod.sooplive.com/player/204965989?change_second=22108",
-        "videoTitle": "다뿌서버 2일차🤍",
+        "videoTitle": "건실한 청년입니다🤍 다뿌서버 2일차!",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_CD2EE3BA_296530081_1_r&column=2&t=1787465512",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -295,12 +295,12 @@ const songs = [
       {
         "date": "2026-08-21",
         "url": "https://vod.sooplive.com/player/204965989?change_second=21191",
-        "videoTitle": "다뿌서버 2일차🤍",
+        "videoTitle": "건실한 청년입니다🤍 다뿌서버 2일차!",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_CD2EE3BA_296530081_1_r&column=2&t=1787465512",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -439,12 +439,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=15182",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -505,12 +505,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=9814",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -555,7 +555,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=12977",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -573,7 +573,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=14157",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -715,12 +715,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=9067",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -843,7 +843,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=14995",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -906,13 +906,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-07-30",
-        "url": "https://vod.sooplive.com/player/202883393?change_second=15690",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "url": "https://vod.sooplive.com/player/202883393?change_second=15692",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -943,12 +943,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=12650",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1015,7 +1015,7 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=6291",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
@@ -1119,10 +1119,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/204877895?change_second=27023",
         "videoTitle": "다뿌서버2 오픈런! 비키니 방셀 룰렛🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_3082BFE0_296502461_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_4C6277CA_296502461_1_r&column=2&t=1787250318",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1134,13 +1134,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-07-30",
-        "url": "https://vod.sooplive.com/player/202883393?change_second=16754",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "url": "https://vod.sooplive.com/player/202883393?change_second=16720",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1203,7 +1203,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203088611?change_second=10917",
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
-        "thumbnail": "",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1219,12 +1219,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=13511",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1239,7 +1239,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203088611?change_second=10401",
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
-        "thumbnail": "",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1285,12 +1285,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=14627",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1303,12 +1303,12 @@ const songs = [
       {
         "date": "2026-08-21",
         "url": "https://vod.sooplive.com/player/204965989?change_second=21602",
-        "videoTitle": "다뿌서버 2일차🤍",
+        "videoTitle": "건실한 청년입니다🤍 다뿌서버 2일차!",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_02D99F47_296530081_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_CD2EE3BA_296530081_1_r&column=2&t=1787465512",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1321,12 +1321,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=6715",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1410,13 +1410,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-07-30",
-        "url": "https://vod.sooplive.com/player/202883393?change_second=8474",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "url": "https://vod.sooplive.com/player/202883393?change_second=8551",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1449,7 +1449,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=12479",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1483,12 +1483,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=12314",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1557,7 +1557,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=15868",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1593,7 +1593,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=14550",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1645,12 +1645,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=17270",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1662,13 +1662,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-07-30",
-        "url": "https://vod.sooplive.com/player/202883393?change_second=20595",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "url": "https://vod.sooplive.com/player/202883393?change_second=20634",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1713,10 +1713,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/204877895?change_second=25853",
         "videoTitle": "다뿌서버2 오픈런! 비키니 방셀 룰렛🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_3082BFE0_296502461_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260820_4C6277CA_296502461_1_r&column=2&t=1787250318",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1779,7 +1779,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=15516",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -1809,7 +1809,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203088611?change_second=9906",
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
-        "thumbnail": "",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1849,12 +1849,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=23776",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1956,13 +1956,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-15",
-        "url": "https://vod.sooplive.com/player/204380259?change_second=22643",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "url": "https://vod.sooplive.com/player/204380259?change_second=22657",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1975,12 +1975,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=14613",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2125,12 +2125,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=16028",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2191,12 +2191,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=12530",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2209,12 +2209,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=7367",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2227,12 +2227,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=16643",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2293,12 +2293,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=19366",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2311,12 +2311,12 @@ const songs = [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=7982",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2343,10 +2343,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=13441",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
+        "noMistake": true,
         "recommended": true,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2377,12 +2377,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=17302",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2474,26 +2474,20 @@ const songs = [
   },
   {
     "title": "피날레",
-    "artist": "Eill",
+    "artist": "eill",
     "versions": [
       {
         "date": "2026-07-30",
         "url": "https://vod.sooplive.com/player/202883393?change_second=10577",
-        "videoTitle": "소통 노래🤍 뉴아바타 방셀 오픈!",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "피날레",
-    "artist": "eill",
-    "versions": [
+      },
       {
         "date": "2026-08-06",
         "url": "https://vod.sooplive.com/player/203572169?change_second=25283",
@@ -2533,12 +2527,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=14167",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2587,12 +2581,12 @@ const songs = [
       {
         "date": "2026-08-15",
         "url": "https://vod.sooplive.com/player/204380259?change_second=23256",
-        "videoTitle": "소통 노래🤍 !노래책",
+        "videoTitle": "의식의 흐름대로 하는 아침 소통🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_8F12B0D9_296370403_2_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260815_9181EF3D_296370403_1_r&column=2&t=1787469044",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2697,7 +2691,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205237609?change_second=16481",
         "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787617872",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
