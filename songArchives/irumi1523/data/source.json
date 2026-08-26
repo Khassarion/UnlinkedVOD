@@ -1281,6 +1281,54 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
+            "date": "2026-08-26",
+            "url": "https://vod.sooplive.com/player/205410813",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+            "songInfo": [
+                {
+                    "title": "부디",
+                    "time": "4:40:24",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:40:24 부디 (심규선) ?"
+                },
+                {
+                    "title": "Love Chronicle",
+                    "time": "4:48:23",
+                    "artist": "이용신",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:48:23 Love Chronicle (이용신) ?"
+                },
+                {
+                    "title": "꽃이 피고 지듯이",
+                    "time": "4:56:17",
+                    "artist": "조승우",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:56:17 꽃이 피고 지듯이 (조승우) ?"
+                },
+                {
+                    "title": "밤, 바다",
+                    "time": "5:07:32",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:07:32 밤, 바다 (최유리) ?"
+                },
+                {
+                    "title": "야래향",
+                    "time": "5:14:23",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:14:23 야래향 (심규선) ?"
+                }
+            ]
         }
     ]
 }

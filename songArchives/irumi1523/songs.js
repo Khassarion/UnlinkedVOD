@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-26T15:49:34.255315+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-26T17:05:51.009147+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -283,6 +283,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Love Chronicle",
+    "artist": "이용신",
+    "versions": [
+      {
+        "date": "2026-08-26",
+        "url": "https://vod.sooplive.com/player/205410813?change_second=17303",
+        "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -757,6 +775,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://vod.sooplive.com/player/205410813?change_second=17777",
+        "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1245,6 +1275,18 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://vod.sooplive.com/player/205410813?change_second=18452",
+        "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1417,6 +1459,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://vod.sooplive.com/player/205410813?change_second=16824",
+        "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1981,6 +2035,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://vod.sooplive.com/player/205410813?change_second=18863",
+        "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
