@@ -1329,6 +1329,142 @@
                     "rawLine": "🎤 5:14:23 야래향 (심규선) ?"
                 }
             ]
+        },
+        {
+            "title": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
+            "date": "2026-08-27",
+            "url": "https://vod.sooplive.com/player/205505065",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+            "songInfo": [
+                {
+                    "title": "위로",
+                    "time": "2:40:20",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:40:20 위로 ?"
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "2:45:36",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:45:36 뭔가 잘못됐어 ?"
+                },
+                {
+                    "title": "도망가자",
+                    "time": "2:54:38",
+                    "artist": "선우정아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:54:38 도망가자 ?"
+                },
+                {
+                    "title": "아이와 나의 바다",
+                    "time": "3:04:14",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:04:14 아이와 나의 바다 (아이유)?"
+                },
+                {
+                    "title": "이름에게",
+                    "time": "3:11:36",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:11:36 이름에게 (아이유) ?"
+                },
+                {
+                    "title": "마음을 드려요",
+                    "time": "3:20:10",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:20:10 마음을 드려요 (아이유) ?"
+                },
+                {
+                    "title": "Never Ending Story",
+                    "time": "3:25:17",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:25:17 Never Ending Story (아이유) ?"
+                },
+                {
+                    "title": "피날레",
+                    "time": "3:33:48",
+                    "artist": "eill",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:33:48 피날레 ?"
+                },
+                {
+                    "title": "Lemon",
+                    "time": "3:39:44",
+                    "artist": "요네즈 켄시",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:39:44 Lemon ?"
+                },
+                {
+                    "title": "괴수의 꽃노래",
+                    "time": "3:46:38",
+                    "artist": "Vaundy",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:46:38 괴수의 꽃노래 ?"
+                },
+                {
+                    "title": "불꽃",
+                    "time": "3:53:23",
+                    "artist": "LiSA",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:53:23 불꽃 (LiSA) ?"
+                },
+                {
+                    "title": "베텔기우스",
+                    "time": "4:00:23",
+                    "artist": "유우리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:00:23 베텔기우스 (유우리) ?"
+                },
+                {
+                    "title": "꽃에 망령",
+                    "time": "4:08:51",
+                    "artist": "요루시카",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:08:51 꽃에 망령 (요루시카) ?"
+                },
+                {
+                    "title": "God knows...",
+                    "time": "4:16:55",
+                    "artist": "스즈미야 하루히의 우울 OST",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:16:55 God knows (스즈미야 하루히의 우울 OST) ?"
+                },
+                {
+                    "title": "나는 최강",
+                    "time": "4:26:51",
+                    "artist": "Ado",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:26:51 나는 최강 (Ado) ?"
+                },
+                {
+                    "title": "자장가",
+                    "time": "4:35:12",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:35:12 자장가 ?"
+                }
+            ]
         }
     ]
 }

@@ -1036,6 +1036,10 @@
         "aliases": []
     },
     {
+        "title": "불꽃",
+        "aliases": []
+    },
+    {
         "title": "불장난",
         "aliases": []
     },
@@ -2494,6 +2498,12 @@
     {
         "title": "Go Away",
         "aliases": []
+    },
+    {
+        "title": "God knows...",
+        "aliases": [
+            "God knows"
+        ]
     },
     {
         "title": "GODS",

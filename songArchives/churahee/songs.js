@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-26T17:06:09.354211+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-28T02:16:51.354237+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -17751,6 +17751,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205221833?change_second=721",
+        "videoTitle": "[버블란] 로블록스 왁뿌 탈출맵 asmr",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_285A9A1E_296601031_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -19765,6 +19777,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205221833?change_second=1074",
+        "videoTitle": "[버블란] 로블록스 왁뿌 탈출맵 asmr",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_285A9A1E_296601031_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

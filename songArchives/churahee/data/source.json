@@ -10590,6 +10590,30 @@
                     "rawLine": "🎤 여봉봉 (아율) 20:05"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 로블록스 왁뿌 탈출맵 asmr",
+            "date": "2026-08-24",
+            "url": "https://vod.sooplive.com/player/205221833",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_285A9A1E_296601031_2_r",
+            "songInfo": [
+                {
+                    "title": "월하의 그대에게",
+                    "time": "12:01",
+                    "artist": "Xenesus & 쪽빛아리아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 월하의 그대에게 (Xenesus &amp; 쪽빛아리아) 12:01 ?"
+                },
+                {
+                    "title": "파탈리테",
+                    "time": "17:54",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 파탈리테 17:54 ?"
+                }
+            ]
         }
     ]
 }
