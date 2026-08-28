@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-28T02:15:49.592795+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-28T07:38:46.009917+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -1027,6 +1027,24 @@ const songs = [
     ]
   },
   {
+    "title": "너의 바다",
+    "artist": "호피폴라",
+    "versions": [
+      {
+        "date": "2026-08-27",
+        "url": "https://vod.sooplive.com/player/205505065?change_second=10478",
+        "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "넌 감동이었어",
     "artist": "성시경",
     "versions": [
@@ -1093,18 +1111,6 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      },
-      {
-        "date": "2026-08-27",
-        "url": "https://vod.sooplive.com/player/205505065?change_second=10478",
-        "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1300,9 +1306,9 @@ const songs = [
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2154,7 +2160,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2430,7 +2436,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2458,9 +2464,9 @@ const songs = [
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

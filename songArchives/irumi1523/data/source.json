@@ -1340,41 +1340,40 @@
                     "title": "위로",
                     "time": "2:40:20",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:40:20 위로 ?"
+                    "rawLine": "🎤 2:40:20 위로 ■"
                 },
                 {
                     "title": "뭔가 잘못됐어",
                     "time": "2:45:36",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:45:36 뭔가 잘못됐어 ?"
+                    "rawLine": "🎤 2:45:36 뭔가 잘못됐어 ○"
                 },
                 {
-                    "title": "도망가자",
+                    "title": "너의 바다",
                     "time": "2:54:38",
-                    "artist": "선우정아",
-                    "needsReview": true,
+                    "artist": "호피폴라",
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:54:38 도망가자 ?"
+                    "rawLine": "🎤 2:54:38 너의 바다 (호피폴라) ○☆"
                 },
                 {
                     "title": "아이와 나의 바다",
                     "time": "3:04:14",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:04:14 아이와 나의 바다 (아이유)?"
+                    "rawLine": "🎤 3:04:14 아이와 나의 바다 (아이유)"
                 },
                 {
                     "title": "이름에게",
                     "time": "3:11:36",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:11:36 이름에게 (아이유) ?"
+                    "rawLine": "🎤 3:11:36 이름에게 (아이유) ○"
                 },
                 {
                     "title": "마음을 드려요",
