@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-28T02:16:51.354237+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-30T18:36:04.540028+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -297,6 +297,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "카아암"
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=7318",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "츄라희, 콧시"
       }
     ]
   },
@@ -2337,6 +2349,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 송현, 츄라희"
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=12535",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 요한, 콧시, 츄라희"
       }
     ]
   },
@@ -4011,6 +4035,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 츄라희"
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=4769",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -7095,6 +7131,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "공태연"
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=13924",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 요한, 콧시, 츄라희"
       }
     ]
   },
@@ -8547,6 +8595,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=11555",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 츄라희"
       }
     ]
   },
@@ -8667,6 +8727,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=9727",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "츄라희, 콧시"
       }
     ]
   },
@@ -10249,6 +10321,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=8113",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16383,6 +16467,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=13099",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 요한, 콧시, 츄라희"
       }
     ]
   },
@@ -16971,6 +17067,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 송현, 츄라희"
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=10935",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 츄라희"
       }
     ]
   },
@@ -20229,6 +20337,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=12832",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 요한, 콧시, 츄라희"
       }
     ]
   },
@@ -20877,6 +20997,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205781303?change_second=5959",
+        "videoTitle": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "김다나, 츄라희"
       }
     ]
   },

@@ -10614,6 +10614,102 @@
                     "rawLine": "🎤 파탈리테 17:54 ?"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 후열 노움 강도단(w.김다나 요한 콧시)",
+            "date": "2026-08-30",
+            "url": "https://vod.sooplive.com/player/205781303",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_FE34F4C5_296753731_2_r",
+            "songInfo": [
+                {
+                    "title": "Rain",
+                    "time": "1:19:29",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Rain (태연) 1:19:29 ?"
+                },
+                {
+                    "title": "화조도",
+                    "time": "1:39:19",
+                    "artist": "심규선",
+                    "groupMembers": "김다나, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 화조도 (심규선) 1:39:19 (김다나, 츄라희)"
+                },
+                {
+                    "title": "A Thousand Years",
+                    "time": "2:01:58",
+                    "artist": "Christina Perri",
+                    "groupMembers": "츄라희, 콧시",
+                    "groupSong": true,
+                    "rawLine": "🎶 A Thousand Years (Christina Perri) 2:01:58 (츄라희, 콧시)"
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "2:15:13",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 뭔가 잘못됐어 (권진아) 2:15:13 ?"
+                },
+                {
+                    "title": "레오",
+                    "time": "2:42:07",
+                    "artist": "유우리",
+                    "groupMembers": "츄라희, 콧시",
+                    "groupSong": true,
+                    "rawLine": "🎶  레오 (유우리) 2:42:07 (츄라희, 콧시)"
+                },
+                {
+                    "title": "오르트구름",
+                    "time": "3:02:15",
+                    "artist": "윤하",
+                    "groupMembers": "김다나, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 오르트구름 (윤하) 3:02:15 (김다나, 츄라희)"
+                },
+                {
+                    "title": "도망가자",
+                    "time": "3:12:35",
+                    "artist": "선우정아",
+                    "groupMembers": "김다나, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 도망가자 (선우정아) 3:12:35 (김다나, 츄라희)"
+                },
+                {
+                    "title": "Lonely",
+                    "time": "3:28:55",
+                    "artist": "투에니원",
+                    "groupMembers": "김다나, 요한, 콧시, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 Lonely (투에니원) 3:28:55 (김다나, 요한, 콧시, 츄라희)"
+                },
+                {
+                    "title": "한 페이지가 될 수 있게",
+                    "time": "3:33:52",
+                    "artist": "데이식스",
+                    "groupMembers": "김다나, 요한, 콧시, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 한 페이지가 될 수 있게 (데이식스) 3:33:52 (김다나, 요한, 콧시, 츄라희)"
+                },
+                {
+                    "title": "예뻤어",
+                    "time": "3:38:19",
+                    "artist": "데이식스",
+                    "groupMembers": "김다나, 요한, 콧시, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 예뻤어 (데이식스) 3:38:19 (김다나, 요한, 콧시, 츄라희)"
+                },
+                {
+                    "title": "나에게로의 초대",
+                    "time": "3:52:04",
+                    "artist": "정경화",
+                    "groupMembers": "김다나, 요한, 콧시, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 나에게로의 초대 (정경화) 3:52:04 (김다나, 요한, 콧시, 츄라희)"
+                }
+            ]
         }
     ]
 }
