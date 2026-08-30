@@ -1623,7 +1623,10 @@
     },
     {
         "artist": "Hebi.",
-        "aliases": []
+        "aliases": [
+            "Hebi",
+            "헤비"
+        ]
     },
     {
         "artist": "Helen Merrill",
@@ -1669,6 +1672,10 @@
     },
     {
         "artist": "Karina",
+        "aliases": []
+    },
+    {
+        "artist": "KCM",
         "aliases": []
     },
     {

@@ -2643,6 +2643,140 @@
                     "groupSong": false
                 }
             ]
+        },
+        {
+            "title": "후열 노래",
+            "date": "2026-08-30",
+            "url": "https://vod.sooplive.com/player/205802057",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+            "songInfo": [
+                {
+                    "title": "Wake Slow",
+                    "time": "5:04:20",
+                    "artist": "Hebi.",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:04:20 | 체비 - Wake Slow (Hebi.)"
+                },
+                {
+                    "title": "You(=I)",
+                    "time": "5:11:54",
+                    "artist": "볼빨간사춘기",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:11:54 | 체비 - You(=I) (볼빨간사춘기)"
+                },
+                {
+                    "title": "여우비",
+                    "time": "5:15:42",
+                    "artist": "이선희",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:15:42 | 체비 - 여우비 (이선희)"
+                },
+                {
+                    "title": "기다리다",
+                    "time": "5:30:34",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:30:34 | 체비 - 기다리다 (윤하)"
+                },
+                {
+                    "title": "김철수 씨 이야기",
+                    "time": "5:39:01",
+                    "artist": "허회경",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:39:01 | 체비 - 김철수씨 이야기 (허회경)"
+                },
+                {
+                    "title": "러브레터(ラブレター)",
+                    "time": "5:44:34",
+                    "artist": "요아소비",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:44:34 | 체비 - 러브레터 (요아소비)"
+                },
+                {
+                    "title": "Brand",
+                    "time": "5:50:24",
+                    "artist": "비오(BE'O)",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:50:24  | 체비 - Brand (BE'O)"
+                },
+                {
+                    "title": "Replace You",
+                    "time": "5:54:40",
+                    "artist": "930 / Feat.Bona Zoe",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:54:40  | 체비 - Replace You (930 / Feat.Bona Zoe)"
+                },
+                {
+                    "title": "소녀",
+                    "time": "5:59:08",
+                    "artist": "우예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:59:08  | 체비 - 소녀 (우예린)"
+                },
+                {
+                    "title": "아직도 나는 너를 그리워만 해",
+                    "time": "6:05:46",
+                    "artist": "송푸름",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:05:46 | 체비 -  아직도 나는 너를 그리워만 해 (송푸름)"
+                },
+                {
+                    "title": "바람",
+                    "time": "6:11:19",
+                    "artist": "송푸름",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:11:19 | 체비 - 바람 (송푸름)"
+                },
+                {
+                    "title": "신시대",
+                    "time": "6:17:41",
+                    "artist": "Ado",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:17:41 | 체비 - 신시대 (Ado)"
+                },
+                {
+                    "title": "살별",
+                    "time": "6:23:02",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:23:02 | 체비 - 살별 (윤하)"
+                },
+                {
+                    "title": "Not a Dream",
+                    "time": "6:32:58",
+                    "artist": "송소희",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:32:58 | 체비 - Not a Dream (송소희)"
+                },
+                {
+                    "title": "아이♡스크림!",
+                    "time": "6:43:01",
+                    "artist": "AiScReam",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:43:01 | 체비 - 아이♡스크림!"
+                },
+                {
+                    "title": "먹구름",
+                    "time": "6:49:46",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:49:46  | 체비 - 먹구름 (윤하)"
+                },
+                {
+                    "title": "새벽길",
+                    "time": "6:56:55",
+                    "artist": "KCM",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:56:55 | 체비 - 새벽길 (KCM)"
+                },
+                {
+                    "title": "추억은 한 편의 산문집 되어",
+                    "time": "7:12:11",
+                    "artist": "신지훈",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:12:11 | 체비 - 추억은 한 편의 산문집되어 (신지훈)"
+                }
+            ]
         }
     ]
 }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-24T21:06:00.366866+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-08-30T21:21:38.976350+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -406,6 +406,18 @@ const songs = [
         "videoTitle": "보고 싶었어",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260515_040CFAC9_294038393_1_r&column=2&t=1782631384",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=21024",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1275,6 +1287,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=23578",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1402,6 +1426,18 @@ const songs = [
         "videoTitle": "생일이었ㄲ던 쳅이",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260426_D88EA5BD_293544323_1_r&column=2&t=1777408081",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=21280",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1555,6 +1591,24 @@ const songs = [
     ]
   },
   {
+    "title": "Wake Slow",
+    "artist": "Hebi.",
+    "versions": [
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=18260",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "What Was I Made For?",
     "artist": "빌리 아일리시",
     "versions": [
@@ -1642,6 +1696,18 @@ const songs = [
         "videoTitle": "쳅이",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260322_507F8D60_292613145_1_r&column=2&t=1774209910",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=18714",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2101,6 +2167,24 @@ const songs = [
     ]
   },
   {
+    "title": "기다리다",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=19834",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "기다린만큼, 더",
     "artist": "검정치마",
     "versions": [
@@ -2140,6 +2224,18 @@ const songs = [
         "videoTitle": "체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260401_611FA449_292881249_1_r&column=2&t=1775073332",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=20341",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2775,6 +2871,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=20674",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2938,6 +3046,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=24586",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3166,6 +3286,18 @@ const songs = [
         "videoTitle": "보고 싶었어",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260515_040CFAC9_294038393_1_r&column=2&t=1782631384",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=22279",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3559,6 +3691,42 @@ const songs = [
     ]
   },
   {
+    "title": "살별",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=22982",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "새벽길",
+    "artist": "KCM",
+    "versions": [
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=25015",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "섬",
     "artist": "민수",
     "versions": [
@@ -3616,6 +3784,18 @@ const songs = [
         "videoTitle": "노래 하고 가야대가야대",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_4CD3B49A_293021593_1_r&column=2&t=1775568225",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=21548",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3973,6 +4153,24 @@ const songs = [
     ]
   },
   {
+    "title": "신시대",
+    "artist": "Ado",
+    "versions": [
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=22661",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "심술",
     "artist": "볼빨간사춘기",
     "versions": [
@@ -4023,6 +4221,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=24181",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4066,6 +4276,18 @@ const songs = [
         "videoTitle": "싱크룸 w. 유나기 + 옵치 내전 + 2부 옵치 랜드",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260404_5D1709B2_292957923_1_r&column=2&t=1775340461",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=21946",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4252,6 +4474,18 @@ const songs = [
         "videoTitle": "[더켓몬] 첫 입주 + 오버워치 배치 + 아침 노래뱅",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260315_A9B62560_292421965_1_r&column=2&t=1773624756",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=18942",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4870,6 +5104,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-30",
+        "url": "https://vod.sooplive.com/player/205802057?change_second=25931",
+        "videoTitle": "후열 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
