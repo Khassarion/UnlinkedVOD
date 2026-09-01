@@ -1464,6 +1464,70 @@
                     "rawLine": "🎤 4:35:12 자장가 ?"
                 }
             ]
+        },
+        {
+            "title": "퇴근길 소통 노래🤍",
+            "date": "2026-08-24",
+            "url": "https://vod.sooplive.com/player/205204029",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+            "songInfo": [
+                {
+                    "title": "Bye bye my blue",
+                    "time": "31:57",
+                    "artist": "백예린",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 31:57 Bye bye my blue (백예린) ?"
+                },
+                {
+                    "title": "Gravity",
+                    "time": "38:29",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 38:29 Gravity (태연) ?"
+                },
+                {
+                    "title": "Pretender",
+                    "time": "49:52",
+                    "artist": "오피셜히게단디즘",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 49:52 Pretender (오피셜히게단디즘) ?"
+                },
+                {
+                    "title": "LADY(릴파ver)",
+                    "time": "59:40",
+                    "artist": "요네즈 켄시",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 59:40 LADY(릴파ver) (요네즈 켄시) ?"
+                },
+                {
+                    "title": "-ERROR",
+                    "time": "1:08:24",
+                    "artist": "niki",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:08:24 -ERROR (niki) ?"
+                },
+                {
+                    "title": "진심이었던 사람만 바보가 돼",
+                    "time": "1:27:37",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:27:37 진심이었던 사람만 바보가 돼 (권진아) ?"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "1:38:32",
+                    "artist": "로이킴",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:38:32 북두칠성 (로이킴) ?"
+                }
+            ]
         }
     ]
 }

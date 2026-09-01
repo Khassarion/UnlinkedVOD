@@ -2348,7 +2348,9 @@
     },
     {
         "title": "Bye bye my blue",
-        "aliases": []
+        "aliases": [
+            "bye bye my blue"
+        ]
     },
     {
         "title": "Can I Love ?",
@@ -2736,6 +2738,10 @@
         "aliases": [
             "LADY(요네즈 켄시)"
         ]
+    },
+    {
+        "title": "LADY(릴파ver)",
+        "aliases": []
     },
     {
         "title": "LaLaLa",

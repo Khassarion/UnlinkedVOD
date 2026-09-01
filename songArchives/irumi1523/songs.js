@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-28T07:38:46.009917+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-01T11:07:04.391876+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -13,6 +13,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=4104",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -135,6 +147,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=1917",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -202,6 +226,24 @@ const songs = [
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Gravity",
+    "artist": "태연",
+    "versions": [
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=2309",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -283,6 +325,24 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "LADY(릴파ver)",
+    "artist": "요네즈 켄시",
+    "versions": [
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=3580",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -433,6 +493,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=2992",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1653,6 +1725,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=5912",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2629,6 +2713,24 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "진심이었던 사람만 바보가 돼",
+    "artist": "권진아",
+    "versions": [
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205204029?change_second=5257",
+        "videoTitle": "퇴근길 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
