@@ -1530,50 +1530,54 @@
             ]
         },
         {
-            "title": "후열 소통🤍",
+            "title": "치과 다녀온 후기 / Will You Snail 엔딩보기",
             "date": "2026-09-02",
             "url": "https://vod.sooplive.com/player/206056695",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8F37FBFB_296825711_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8604738B_296825711_1_r&column=2&t=1788369412",
             "songInfo": [
                 {
                     "title": "방황하는 젊음",
                     "time": "4:33:27",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:33:27 방황하는 젊음 (최유리) ?"
+                    "rawLine": "🎤 4:33:27 방황하는 젊음 (최유리) ○☆"
                 },
                 {
                     "title": "동그라미",
                     "time": "4:39:45",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:39:45 동그라미 (최유리) ?"
+                    "rawLine": "🎤 4:39:45 동그라미 (최유리) ○☆"
                 },
                 {
                     "title": "사랑하게 될 거야",
                     "time": "4:47:58",
                     "artist": "한로로",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:47:58 사랑하게 될 거야 (한로로) ?"
+                    "rawLine": "🎤 4:47:58 사랑하게 될 거야 (한로로) ○☆"
                 },
                 {
                     "title": "세월이 가면",
                     "time": "4:53:38",
                     "artist": "박보람",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:53:38 세월이 가면 (박보람) ?"
+                    "rawLine": "🎤 4:53:38 세월이 가면 (박보람) ■☆"
                 },
                 {
                     "title": "숲",
                     "time": "5:00:08",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:00:08 숲 (최유리) ?"
+                    "rawLine": "🎤 5:00:08 숲 (최유리) ○☆"
                 }
             ]
         }

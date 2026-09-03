@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-02T15:22:27.066306+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-03T01:08:28.151786+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -1207,12 +1207,12 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206056695?change_second=16785",
-        "videoTitle": "후열 소통🤍",
+        "videoTitle": "치과 다녀온 후기 / Will You Snail 엔딩보기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8F37FBFB_296825711_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8604738B_296825711_1_r&column=2&t=1788369412",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1585,12 +1585,12 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206056695?change_second=16407",
-        "videoTitle": "후열 소통🤍",
+        "videoTitle": "치과 다녀온 후기 / Will You Snail 엔딩보기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8F37FBFB_296825711_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8604738B_296825711_1_r&column=2&t=1788369412",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1945,12 +1945,12 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206056695?change_second=17278",
-        "videoTitle": "후열 소통🤍",
+        "videoTitle": "치과 다녀온 후기 / Will You Snail 엔딩보기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8F37FBFB_296825711_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8604738B_296825711_1_r&column=2&t=1788369412",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2065,12 +2065,12 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206056695?change_second=17618",
-        "videoTitle": "후열 소통🤍",
+        "videoTitle": "치과 다녀온 후기 / Will You Snail 엔딩보기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8F37FBFB_296825711_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8604738B_296825711_1_r&column=2&t=1788369412",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2215,12 +2215,12 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206056695?change_second=18008",
-        "videoTitle": "후열 소통🤍",
+        "videoTitle": "치과 다녀온 후기 / Will You Snail 엔딩보기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8F37FBFB_296825711_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_8604738B_296825711_1_r&column=2&t=1788369412",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
