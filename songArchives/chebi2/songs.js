@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-04T03:59:16.689260+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-04T04:02:51.905337+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -112,6 +112,18 @@ const songs = [
         "videoTitle": "재밌었따",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_383EE0A4_296204861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=30383",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

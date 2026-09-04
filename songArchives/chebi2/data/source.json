@@ -2854,6 +2854,13 @@
                     "groupMembers": "나나문, 달타, 하밍, 체비, 플리",
                     "groupSong": true,
                     "rawLine": "🎶 8:19:20 | 나나문, 달타, 하밍, 체비, 플리 -밤편지"
+                },
+                {
+                    "title": "-ERROR",
+                    "time": "8:26:23",
+                    "artist": "niki",
+                    "groupSong": false,
+                    "rawLine": "🎤 8:26:23 | 체비 - -ERROR"
                 }
             ]
         }
