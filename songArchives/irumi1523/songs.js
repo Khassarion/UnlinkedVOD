@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-03T01:08:28.151786+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-04T00:56:52.725665+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -1351,6 +1351,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-03",
+        "url": "https://vod.sooplive.com/player/206146129?change_second=11557",
+        "videoTitle": "8월 별별랭킹 리캡보기🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260903_9D1197C8_296855231_1_r&column=2&t=1788453224",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

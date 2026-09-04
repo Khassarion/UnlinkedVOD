@@ -500,7 +500,9 @@
     },
     {
         "artist": "볼빨간사춘기",
-        "aliases": []
+        "aliases": [
+            "볼빨간 사춘기"
+        ]
     },
     {
         "artist": "부활",
@@ -1588,6 +1590,12 @@
     {
         "artist": "EX(익스)",
         "aliases": []
+    },
+    {
+        "artist": "EXO",
+        "aliases": [
+            "엑소"
+        ]
     },
     {
         "artist": "Fleurie",

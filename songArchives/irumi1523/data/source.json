@@ -1580,6 +1580,22 @@
                     "rawLine": "🎤 5:00:08 숲 (최유리) ○☆"
                 }
             ]
+        },
+        {
+            "title": "8월 별별랭킹 리캡보기🤍",
+            "date": "2026-09-03",
+            "url": "https://vod.sooplive.com/player/206146129",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260903_9D1197C8_296855231_1_r&column=2&t=1788453224",
+            "songInfo": [
+                {
+                    "title": "무릎",
+                    "time": "3:12:37",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:12:37 무릎 ?"
+                }
+            ]
         }
     ]
 }

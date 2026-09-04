@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-08-30T21:21:38.976350+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-04T03:59:16.689260+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -585,6 +585,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=29389",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "달타, 플리, 체비"
       }
     ]
   },
@@ -1135,6 +1147,24 @@ const songs = [
     ]
   },
   {
+    "title": "LOCKDOWN",
+    "artist": "이세계아이돌",
+    "versions": [
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=28135",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "나나문, 달타, 하밍, 체비, 플리"
+      }
+    ]
+  },
+  {
     "title": "Lonely",
     "artist": "투에니원",
     "versions": [
@@ -1227,6 +1257,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 유나기"
+      },
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=24411",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "나나문, 달타, 하밍, 체비, 플리"
       }
     ]
   },
@@ -1539,6 +1581,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "문모모,달타,체비,나나문"
+      },
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=28770",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "나나문, 달타, 플리, 체비"
       }
     ]
   },
@@ -2241,6 +2295,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "꽃길",
+    "artist": "김세정",
+    "versions": [
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=23980",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "달타, 하밍, 체비"
       }
     ]
   },
@@ -3063,6 +3135,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=25267",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3447,6 +3531,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 모카, 플리, 임하밍, 문모모"
+      },
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=29960",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "나나문, 달타, 하밍, 체비, 플리"
       }
     ]
   },
@@ -4207,6 +4303,24 @@ const songs = [
     ]
   },
   {
+    "title": "썸 탈거야",
+    "artist": "볼빨간사춘기",
+    "versions": [
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=22174",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "플리, 체비"
+      }
+    ]
+  },
+  {
     "title": "아이♡스크림!",
     "artist": "AiScReam",
     "versions": [
@@ -4707,6 +4821,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "으르렁",
+    "artist": "EXO",
+    "versions": [
+      {
+        "date": "2026-09-02",
+        "url": "https://vod.sooplive.com/player/206072315?change_second=27693",
+        "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "나나문, 달타, 하밍, 체비, 플리"
       }
     ]
   },

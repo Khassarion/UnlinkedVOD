@@ -10382,7 +10382,8 @@
                     "title": "별의 조각",
                     "time": "1:04:52",
                     "artist": "윤하",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 별의 조각 1:04:52 ■"
                 }
             ]
         },
@@ -10601,17 +10602,16 @@
                     "title": "월하의 그대에게",
                     "time": "12:01",
                     "artist": "Xenesus & 쪽빛아리아",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 월하의 그대에게 (Xenesus &amp; 쪽빛아리아) 12:01 ?"
+                    "rawLine": "🎤 월하의 그대에게 (Xenesus & 쪽빛아리아) 12:01 ☆"
                 },
                 {
                     "title": "파탈리테",
                     "time": "17:54",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 파탈리테 17:54 ?"
+                    "rawLine": "🎤 파탈리테 17:54"
                 }
             ]
         },
@@ -10625,9 +10625,9 @@
                     "title": "Rain",
                     "time": "1:19:29",
                     "artist": "태연",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Rain (태연) 1:19:29 ?"
+                    "rawLine": "🎤 Rain (태연) 1:19:29 ■☆"
                 },
                 {
                     "title": "화조도",
@@ -10649,9 +10649,10 @@
                     "title": "뭔가 잘못됐어",
                     "time": "2:15:13",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 뭔가 잘못됐어 (권진아) 2:15:13 ?"
+                    "rawLine": "🎤 뭔가 잘못됐어 (권진아) 2:15:13 ○☆"
                 },
                 {
                     "title": "레오",
@@ -10708,6 +10709,62 @@
                     "groupMembers": "김다나, 요한, 콧시, 츄라희",
                     "groupSong": true,
                     "rawLine": "🎶 나에게로의 초대 (정경화) 3:52:04 (김다나, 요한, 콧시, 츄라희)"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
+            "date": "2026-09-02",
+            "url": "https://vod.sooplive.com/player/206066119",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_BFCF4E24_296821079_2_r",
+            "songInfo": [
+                {
+                    "title": "아라리",
+                    "time": "1:18:16",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 아라리 1:18:16 ?"
+                },
+                {
+                    "title": "꽃이 피고 지듯이",
+                    "time": "6:59:52",
+                    "artist": "조승우",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 꽃이 피고 지듯이 6:59:52 ?"
+                },
+                {
+                    "title": "화조도",
+                    "time": "7:06:32",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 화조도 7:06:32 ?"
+                },
+                {
+                    "title": "수피",
+                    "time": "7:14:02",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 수피 7:14:02 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 츄이봤",
+            "date": "2026-08-23",
+            "url": "https://vod.sooplive.com/player/205123065",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260823_2B4ECDD2_296574263_2_r",
+            "songInfo": [
+                {
+                    "title": "야수",
+                    "time": "4:30:31",
+                    "artist": "김필선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 야수 4:30:31 ?"
                 }
             ]
         }

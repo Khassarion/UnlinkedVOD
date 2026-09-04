@@ -2777,6 +2777,85 @@
                     "rawLine": "🎤 7:12:11 | 체비 - 추억은 한 편의 산문집되어 (신지훈)"
                 }
             ]
+        },
+        {
+            "title": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
+            "date": "2026-09-02",
+            "url": "https://vod.sooplive.com/player/206072315",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+            "songInfo": [
+                {
+                    "title": "썸 탈거야",
+                    "time": "6:09:34",
+                    "artist": "볼빨간사춘기",
+                    "groupMembers": "플리, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 6:09:34 | 플리, 체비 - 썸 탈거야"
+                },
+                {
+                    "title": "꽃길",
+                    "time": "6:39:40",
+                    "artist": "김세정",
+                    "groupMembers": "달타, 하밍, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 6:39:40 | 달타, 하밍, 체비 - 꽃길"
+                },
+                {
+                    "title": "Love wins all",
+                    "time": "6:46:51",
+                    "artist": "아이유",
+                    "groupMembers": "나나문, 달타, 하밍, 체비, 플리",
+                    "groupSong": true,
+                    "rawLine": "🎶 6:46:51 | 나나문, 달타, 하밍, 체비, 플리 - love wins all"
+                },
+                {
+                    "title": "먹구름",
+                    "time": "7:01:07",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:01:07 | 체비 - 먹구름"
+                },
+                {
+                    "title": "으르렁",
+                    "time": "7:41:33",
+                    "artist": "EXO",
+                    "groupMembers": "나나문, 달타, 하밍, 체비, 플리",
+                    "groupSong": true,
+                    "rawLine": "🎶 7:41:33 | 나나문, 달타, 하밍, 체비, 플리 - 으르렁"
+                },
+                {
+                    "title": "LOCKDOWN",
+                    "time": "7:48:55",
+                    "artist": "이세계아이돌",
+                    "groupMembers": "나나문, 달타, 하밍, 체비, 플리",
+                    "groupSong": true,
+                    "rawLine": "🎶 7:48:55 | 나나문, 달타, 하밍, 체비, 플리 - LOCKDOWN"
+                },
+                {
+                    "title": "Stargazers",
+                    "time": "7:59:30",
+                    "artist": "이세계아이돌",
+                    "groupMembers": "나나문, 달타, 플리, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 7:59:30 | 나나문, 달타, 플리, 체비 - Stargazers"
+                },
+                {
+                    "title": "DINOSAUR",
+                    "time": "8:09:49",
+                    "artist": "AKMU",
+                    "groupMembers": "달타, 플리, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 8:09:49 | 달타, 플리, 체비 - DINOSAUR"
+                },
+                {
+                    "title": "밤편지",
+                    "time": "8:19:20",
+                    "artist": "아이유",
+                    "groupMembers": "나나문, 달타, 하밍, 체비, 플리",
+                    "groupSong": true,
+                    "rawLine": "🎶 8:19:20 | 나나문, 달타, 하밍, 체비, 플리 -밤편지"
+                }
+            ]
         }
     ]
 }
