@@ -1286,15 +1286,16 @@
             "title": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
             "date": "2026-08-26",
             "url": "https://vod.sooplive.com/player/205410813",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
             "songInfo": [
                 {
                     "title": "부디",
                     "time": "4:40:24",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:40:24 부디 (심규선) ?"
+                    "rawLine": "🎤 4:40:24 부디 (심규선) ○☆"
                 },
                 {
                     "title": "Love Chronicle",
@@ -1334,7 +1335,7 @@
             "title": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
             "date": "2026-08-27",
             "url": "https://vod.sooplive.com/player/205505065",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
             "songInfo": [
                 {
                     "title": "위로",
@@ -1379,89 +1380,84 @@
                     "title": "마음을 드려요",
                     "time": "3:20:10",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:20:10 마음을 드려요 (아이유) ?"
+                    "rawLine": "🎤 3:20:10 마음을 드려요 (아이유) ■☆"
                 },
                 {
                     "title": "Never Ending Story",
                     "time": "3:25:17",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:25:17 Never Ending Story (아이유) ?"
+                    "rawLine": "🎤 3:25:17 Never Ending Story (아이유)"
                 },
                 {
                     "title": "피날레",
                     "time": "3:33:48",
                     "artist": "eill",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:33:48 피날레 ?"
+                    "rawLine": "🎤 3:33:48 피날레 ○"
                 },
                 {
                     "title": "Lemon",
-                    "time": "3:39:44",
+                    "time": "3:40:03",
                     "artist": "요네즈 켄시",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:39:44 Lemon ?"
+                    "rawLine": "🎤 3:40:03 Lemon ■"
                 },
                 {
                     "title": "괴수의 꽃노래",
                     "time": "3:46:38",
                     "artist": "Vaundy",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:46:38 괴수의 꽃노래 ?"
+                    "rawLine": "🎤 3:46:38 괴수의 꽃노래 ■☆"
                 },
                 {
                     "title": "불꽃",
                     "time": "3:53:23",
                     "artist": "LiSA",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:53:23 불꽃 (LiSA) ?"
+                    "rawLine": "🎤 3:53:23 불꽃 (LiSA) ○"
                 },
                 {
                     "title": "베텔기우스",
                     "time": "4:00:23",
                     "artist": "유우리",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:00:23 베텔기우스 (유우리) ?"
+                    "rawLine": "🎤 4:00:23 베텔기우스 (유우리) ■"
                 },
                 {
                     "title": "꽃에 망령",
                     "time": "4:08:51",
                     "artist": "요루시카",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:08:51 꽃에 망령 (요루시카) ?"
+                    "rawLine": "🎤 4:08:51 꽃에 망령 (요루시카) ■"
                 },
                 {
                     "title": "God knows...",
                     "time": "4:16:55",
                     "artist": "스즈미야 하루히의 우울 OST",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:16:55 God knows (스즈미야 하루히의 우울 OST) ?"
+                    "rawLine": "🎤 4:16:55 God knows (스즈미야 하루히의 우울 OST)"
                 },
                 {
                     "title": "나는 최강",
                     "time": "4:26:51",
                     "artist": "Ado",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:26:51 나는 최강 (Ado) ?"
+                    "rawLine": "🎤 4:26:51 나는 최강 (Ado) ■☆"
                 },
                 {
                     "title": "자장가",
                     "time": "4:35:12",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:35:12 자장가 ?"
+                    "rawLine": "🎤 4:35:12 자장가 ○"
                 }
             ]
         },
@@ -1475,57 +1471,53 @@
                     "title": "Bye bye my blue",
                     "time": "31:57",
                     "artist": "백예린",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 31:57 Bye bye my blue (백예린) ?"
+                    "rawLine": "🎤 31:57 Bye bye my blue (백예린) ○"
                 },
                 {
                     "title": "Gravity",
                     "time": "38:29",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 38:29 Gravity (태연) ?"
+                    "rawLine": "🎤 38:29 Gravity (태연) ○☆"
                 },
                 {
                     "title": "Pretender",
                     "time": "49:52",
                     "artist": "오피셜히게단디즘",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 49:52 Pretender (오피셜히게단디즘) ?"
+                    "rawLine": "🎤 49:52 Pretender (오피셜히게단디즘)"
                 },
                 {
                     "title": "LADY(릴파ver)",
                     "time": "59:40",
                     "artist": "요네즈 켄시",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 59:40 LADY(릴파ver) (요네즈 켄시) ?"
+                    "rawLine": "🎤 59:40 LADY(릴파ver) (요네즈 켄시)"
                 },
                 {
                     "title": "-ERROR",
                     "time": "1:08:24",
                     "artist": "niki",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:08:24 -ERROR (niki) ?"
+                    "rawLine": "🎤 1:08:24 -ERROR (niki)"
                 },
                 {
                     "title": "진심이었던 사람만 바보가 돼",
                     "time": "1:27:37",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:27:37 진심이었던 사람만 바보가 돼 (권진아) ?"
+                    "rawLine": "🎤 1:27:37 진심이었던 사람만 바보가 돼 (권진아)"
                 },
                 {
                     "title": "북두칠성",
                     "time": "1:38:32",
                     "artist": "로이킴",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:38:32 북두칠성 (로이킴) ?"
+                    "rawLine": "🎤 1:38:32 북두칠성 (로이킴)"
                 }
             ]
         },

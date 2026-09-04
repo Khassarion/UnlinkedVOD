@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-04T00:56:52.725665+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-04T09:27:47.170730+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -24,7 +24,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -154,9 +154,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -225,10 +225,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=15415",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -244,9 +244,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -342,7 +342,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -366,13 +366,13 @@ const songs = [
       },
       {
         "date": "2026-08-27",
-        "url": "https://vod.sooplive.com/player/205505065?change_second=13184",
+        "url": "https://vod.sooplive.com/player/205505065?change_second=13203",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -387,7 +387,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205410813?change_second=17303",
         "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -453,10 +453,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=12317",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -504,7 +504,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -825,10 +825,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=13598",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -891,10 +891,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=14931",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -921,7 +921,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205410813?change_second=17777",
         "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -969,10 +969,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=16011",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1107,7 +1107,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=10478",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
@@ -1245,10 +1245,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=12010",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1401,7 +1401,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=9936",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -1503,7 +1503,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205410813?change_second=18452",
         "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1617,10 +1617,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=14423",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1719,10 +1719,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205410813?change_second=16824",
         "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1770,7 +1770,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1785,10 +1785,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=14003",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2319,7 +2319,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=11054",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2385,7 +2385,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205410813?change_second=18863",
         "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787762318",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -2595,7 +2595,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=9620",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2625,7 +2625,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=11496",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -2739,10 +2739,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=16512",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2808,7 +2808,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2967,10 +2967,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/205505065?change_second=12828",
         "videoTitle": "저녁 소통 노래🤍 비키니 룰렛 50/500(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1787849426",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260827_10D337FA_296680971_1_r&column=2&t=1788175279",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

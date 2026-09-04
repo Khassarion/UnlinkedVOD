@@ -10150,54 +10150,62 @@
                     "artist": "선우정아",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 도망가자 1:24:10 ○☆"
                 },
                 {
                     "title": "오랜 날 오랜 밤",
                     "time": "1:38:58",
                     "artist": "AKMU",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 오랜 날 오랜 밤 1:38:58"
                 },
                 {
                     "title": "안녕! 디지몬",
                     "time": "1:47:27",
                     "artist": "디지몬 OST",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 안녕! 디지몬 1:47:27 ■☆ /* 다시바 헌정 */"
                 },
                 {
                     "title": "출발",
                     "time": "2:07:29",
                     "artist": "김동률",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 출발 2:07:29 ■☆"
                 },
                 {
                     "title": "이름에게",
                     "time": "2:16:27",
                     "artist": "아이유",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 이름에게 2:16:27 ■☆"
                 },
                 {
                     "title": "기다리다",
                     "time": "2:24:59",
                     "artist": "윤하",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 기다리다 2:24:59 ■☆ /* 다시바 헌정 */"
                 },
                 {
                     "title": "안녕이라고 말하지마",
                     "time": "2:37:26",
                     "artist": "다비치",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 안녕이라고 말하지 마 2:37:26 ☆ /* 다시바 헌정 */"
                 },
                 {
                     "title": "끝이 아닌 것 같아서",
                     "time": "2:53:04",
                     "artist": "바닐라 어쿠스틱",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 끝이 아닌 것 같아서 2:53:04"
                 },
                 {
                     "title": "민들레",
@@ -10205,7 +10213,8 @@
                     "artist": "우효",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 민들레 3:14:00 ○☆"
                 },
                 {
                     "title": "마지막 날처럼",
@@ -10213,22 +10222,24 @@
                     "artist": "유럽",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 마지막 날처럼 3:24:03  ○☆"
                 },
                 {
                     "title": "숲",
                     "time": "3:31:01",
                     "artist": "최유리",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 숲 3:31:01 ■☆"
                 },
                 {
                     "title": "수피",
                     "time": "3:53:33",
                     "artist": "심규선",
-                    "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 수피 3:53:33 ■☆"
                 },
                 {
                     "title": "사랑하게 될 거야",
@@ -10236,21 +10247,24 @@
                     "artist": "한로로",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑하게 될 거야 4:02:42  ○☆"
                 },
                 {
                     "title": "수고했어, 오늘도",
                     "time": "4:09:10",
                     "artist": "옥상달빛",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 수고했어, 오늘도 4:09:10 ○"
                 },
                 {
                     "title": "소나기",
                     "time": "5:30:57",
                     "artist": "아이오아이",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 소나기 5:30:57 ■☆"
                 }
             ]
         },
@@ -10722,33 +10736,33 @@
                     "title": "아라리",
                     "time": "1:18:16",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 아라리 1:18:16 ?"
+                    "rawLine": "🎤 아라리 1:18:16"
                 },
                 {
                     "title": "꽃이 피고 지듯이",
                     "time": "6:59:52",
                     "artist": "조승우",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 꽃이 피고 지듯이 6:59:52 ?"
+                    "rawLine": "🎤 꽃이 피고 지듯이 6:59:52 ☆"
                 },
                 {
                     "title": "화조도",
                     "time": "7:06:32",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 화조도 7:06:32 ?"
+                    "rawLine": "🎤 화조도 7:06:32 ○☆"
                 },
                 {
                     "title": "수피",
                     "time": "7:14:02",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 수피 7:14:02 ?"
+                    "rawLine": "🎤 수피 7:14:02 ■☆"
                 }
             ]
         },

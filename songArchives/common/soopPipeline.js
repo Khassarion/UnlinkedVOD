@@ -385,6 +385,22 @@ function loadDefaultArtistMapping(repoRoot, streamerId) {
 }
 
 /**
+ * Common thumbnail URL overrides, keyed by Soop videoId (문자열). VOD API가 권한 부족 등으로
+ * 썸네일을 못 내려줄 때 이 매핑을 대신 씁니다.
+ * File: common/data/thumbnailOverrides.json ({ [videoId]: thumbnailUrl })
+ */
+function loadThumbnailOverrides(repoRoot) {
+  const p = path.join(globalRefDataDir(repoRoot), 'thumbnailOverrides.json');
+  try {
+    const raw = fs.readFileSync(p, 'utf8');
+    const o = JSON.parse(raw);
+    return o && typeof o === 'object' && !Array.isArray(o) ? o : {};
+  } catch (_) {
+    return {};
+  }
+}
+
+/**
  * @param {Array<{ title: string, aliases?: string[], titleAliases?: string[] }>|null} titleRef
  * @returns {string|null} canonical title or null
  */
@@ -1028,6 +1044,7 @@ async function runPipeline(vodUrl, repoRoot, streamerId = 'churahee', preloadedV
   const resolveOpts = { rl, ctx, caches, interactive };
 
   let songInfo = [];
+  let thumb = vodInfo.thumb || '';
   try {
     for (const c of comments) {
       if (!COMMENT_AUTHOR_ID || !COMMENT_AUTHOR_ID.includes(c.user_id || '')) continue;
@@ -1038,6 +1055,23 @@ async function runPipeline(vodUrl, repoRoot, streamerId = 'churahee', preloadedV
         console.error('[DEBUG] 파싱된 곡:', parsedList.map((p) => `${p.title}${p.artist ? ` (${p.artist})` : ''} ${p.time}`));
       }
       songInfo = songInfo.concat(parsedList);
+    }
+
+    if (!String(thumb).trim()) {
+      const overrides = loadThumbnailOverrides(repoRoot);
+      const override = overrides[videoId];
+      if (override && String(override).trim()) {
+        thumb = String(override).trim();
+        if (debug) console.error('[DEBUG] 썸네일 override 매핑 사용:', thumb);
+      } else {
+        console.warn(
+          `[경고] VOD ${videoId} 썸네일을 API에서 가져오지 못했습니다(권한 부족 등으로 공백). ` +
+            `songArchives/common/data/thumbnailOverrides.json 에도 이 videoId 항목이 없습니다.`
+        );
+        if (rl) {
+          await rl.question('썸네일 없이 계속 진행하려면 Enter를 누르세요: ');
+        }
+      }
     }
   } finally {
     if (rl) rl.close();
@@ -1052,7 +1086,6 @@ async function runPipeline(vodUrl, repoRoot, streamerId = 'churahee', preloadedV
 
   const date = getBroadcastDate(vodInfo);
   const title = vodInfo.full_title || vodInfo.title || '';
-  const thumb = vodInfo.thumb || '';
   const url = `https://vod.sooplive.com/player/${videoId}`;
 
   const historyEntry = {
@@ -1086,6 +1119,7 @@ module.exports = {
   loadArtistReference,
   loadTitleReference,
   loadDefaultArtistMapping,
+  loadThumbnailOverrides,
   reorderDefaultArtistMapping,
   resolveTitleCanonical,
   splitArtistNames,

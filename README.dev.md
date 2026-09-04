@@ -25,7 +25,7 @@ UnlinkedVOD/
 │       ├── add-song-dialog.html
 │       ├── soopPipeline.js
 │       ├── preprocess.py
-│       ├── data/              # titleReference / artistReference
+│       ├── data/              # titleReference / artistReference / thumbnailOverrides
 │       └── apps-script/
 │           └── Code.gs
 └── package.json
@@ -57,7 +57,9 @@ npm run add -- 189435111 189435112
 
 같은 `videoId`가 있으면 교체, 없으면 추가합니다. 배치로 넣은 뒤 preprocess는 건드린 아카이브별로 한 번씩 실행됩니다.
 
-**진행 순서:** Soop API로 VOD·댓글 수집 → `data/parseConfig.json` 파싱 → `titleReference` / `artistReference` 정규화 → `defaultArtistMapping.json` 보강 → `data/source.json` → `python songArchives/common/preprocess.py {스트리머}`로 `songs.js` 재생성.
+**진행 순서:** Soop API로 VOD·댓글 수집 → `data/parseConfig.json` 파싱 → `titleReference` / `artistReference` 정규화 → `defaultArtistMapping.json` 보강 → (썸네일이 비어 있으면 `thumbnailOverrides.json` 보강) → `data/source.json` → `python songArchives/common/preprocess.py {스트리머}`로 `songs.js` 재생성.
+
+VOD API가 권한 부족 등으로 썸네일을 못 내려주면(공백) `songArchives/common/data/thumbnailOverrides.json`(`{ "videoId": "썸네일URL" }`)에서 해당 `videoId`를 찾아 대신 씁니다. 매핑에도 없으면 경고만 띄우고(에러 아님), 대화형 세션이면 Enter 입력을 기다렸다가 계속 진행합니다.
 
 변경분을 커밋·푸시하면 GitHub Pages에 반영됩니다.
 
@@ -150,6 +152,11 @@ npm run add-streamer -- --id chebi2 --title 체비
 
 **순서:** 댓글 파싱 → `titleReference` → `artistReference` → 스트리머 `defaultArtistMapping.json`.  
 커뮤니티 모달 가수 자동 입력도 `songs` + `defaultArtistMapping.json`을 사용합니다.
+
+## 썸네일 override
+
+`songArchives/common/data/thumbnailOverrides.json` — `{ "videoId": "썸네일URL" }`.  
+`npm run add` 실행 시 Soop VOD API가 썸네일을 못 내려주면(권한 부족 등으로 공백) 이 매핑에서 `videoId`를 찾아 `source.json`의 `thumbnail`로 씁니다. 항목이 없으면 콘솔에 경고만 띄우고(에러 아님) 대화형 세션이면 Enter 입력을 받은 뒤 나머지 작업(파싱·병합)을 계속합니다.
 
 ## Pages 배포
 
