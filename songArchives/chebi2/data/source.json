@@ -2863,6 +2863,35 @@
                     "rawLine": "🎤 8:26:23 | 체비 - -ERROR"
                 }
             ]
+        },
+        {
+            "title": "✧ 후열 한 두판만 ✧",
+            "date": "2026-09-06",
+            "url": "https://vod.sooplive.com/player/206430597",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
+            "songInfo": [
+                {
+                    "title": "ISLAND",
+                    "time": "3:40:18",
+                    "artist": "YOUHA(유하)",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:40:18 | 체비 - ISLAND (유하)"
+                },
+                {
+                    "title": "피차일반",
+                    "time": "4:00:50",
+                    "artist": "음율",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:00:50 | 체비 - 피차일반 (음율)"
+                },
+                {
+                    "title": "LETTER",
+                    "time": "4:05:57",
+                    "artist": "유다빈밴드",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:05:57 | 체비 - LETTER (유다빈밴드)"
+                }
+            ]
         }
     ]
 }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-04T04:02:51.905337+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-06T22:05:41.300042+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -973,6 +973,24 @@ const songs = [
     ]
   },
   {
+    "title": "ISLAND",
+    "artist": "YOUHA(유하)",
+    "versions": [
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206430597?change_second=13218",
+        "videoTitle": "✧ 후열 한 두판만 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "It's You",
     "artist": "한요한",
     "versions": [
@@ -1150,6 +1168,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206430597?change_second=14757",
+        "videoTitle": "✧ 후열 한 두판만 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5337,6 +5367,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "문모모,달타,체비,나나문"
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206430597?change_second=14450",
+        "videoTitle": "✧ 후열 한 두판만 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
