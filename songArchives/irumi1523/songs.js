@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-06T08:19:01.438117+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-06T23:52:23.379199+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -108,7 +108,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -172,9 +172,9 @@ const songs = [
         "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -390,7 +390,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -424,9 +424,9 @@ const songs = [
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -490,9 +490,9 @@ const songs = [
         "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -534,13 +534,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-12",
-        "url": "https://vod.sooplive.com/player/204086341?change_second=14940",
+        "url": "https://vod.sooplive.com/player/204086341?change_second=15011",
         "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -556,9 +556,9 @@ const songs = [
         "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -670,9 +670,9 @@ const songs = [
         "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -874,9 +874,9 @@ const songs = [
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -954,7 +954,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1210,9 +1210,9 @@ const songs = [
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1408,9 +1408,9 @@ const songs = [
         "videoTitle": "8월 별별랭킹 리캡보기🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260903_9D1197C8_296855231_1_r&column=2&t=1788453224",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1462,9 +1462,9 @@ const songs = [
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1500,7 +1500,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1565,8 +1565,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1734,7 +1734,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1866,7 +1866,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1902,7 +1902,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1920,7 +1920,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1974,7 +1974,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2172,7 +2172,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2350,9 +2350,9 @@ const songs = [
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2388,7 +2388,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2470,9 +2470,9 @@ const songs = [
         "videoTitle": "다뿌서버 졸업!!!!! 사랑감소단사랑해요🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2502,7 +2502,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2548,9 +2548,9 @@ const songs = [
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2934,7 +2934,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3003,10 +3003,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/203266607?change_second=13831",
         "videoTitle": "1부 잔잔 소통 작업뱅 🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260803_F9BE557A_296063115_1_r&column=2&t=1785734021",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260803_F9BE557A_296063115_1_r&column=2&t=1785828839",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -3204,7 +3204,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3258,7 +3258,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

@@ -460,14 +460,15 @@
             "title": "1부 잔잔 소통 작업뱅 🤍33/330(11연차)",
             "date": "2026-08-03",
             "url": "https://vod.sooplive.com/player/203266607",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260803_F9BE557A_296063115_1_r&column=2&t=1785734021",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260803_F9BE557A_296063115_1_r&column=2&t=1785828839",
             "songInfo": [
                 {
                     "title": "편지",
                     "time": "3:50:31",
                     "artist": "김광진",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:50:31 편지 (김광진) ○"
                 }
             ]
         },
@@ -816,113 +817,118 @@
                     "title": "바람이 분다",
                     "time": "1:58:33",
                     "artist": "이소라",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 1:58:33 바람이 분다 (이소라) ■"
                 },
                 {
                     "title": "Soulmate",
                     "time": "2:07:23",
                     "artist": "심규선",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:07:23 Soulmate (심규선) ○"
                 },
                 {
                     "title": "사랑..그게 뭔데",
                     "time": "2:17:30",
                     "artist": "지아",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:17:30 사랑.. 그게 뭔데 (지아) ■"
                 },
                 {
                     "title": "화장을 고치고",
                     "time": "2:24:46",
                     "artist": "왁스",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:24:46 화장을 고치고 (왁스) ■"
                 },
                 {
                     "title": "헤픈 우연",
                     "time": "2:45:51",
                     "artist": "헤이즈",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:45:51 헤픈 우연 (헤이즈)"
                 },
                 {
                     "title": "별의 하모니",
                     "time": "2:54:06",
                     "artist": "QWER",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:54:06 별의 하모니 (QWER)"
                 },
                 {
                     "title": "Way Back Home",
                     "time": "3:08:33",
                     "artist": "숀",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:08:33 Way Back Home (숀) ○"
                 },
                 {
                     "title": "Celebrity",
                     "time": "3:16:46",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:16:46 Celebrity (아이유) ○"
                 },
                 {
                     "title": "청춘만화(후이ver)",
                     "time": "3:24:40",
                     "artist": "이무진",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:24:40 청춘만화(후이ver) (이무진)"
                 },
                 {
                     "title": "붉은 장미",
                     "time": "3:32:59",
                     "artist": "우예린",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:32:59 붉은 장미 (우예린)"
                 },
                 {
                     "title": "Blueming",
                     "time": "3:43:15",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:43:15 Blueming (아이유)"
                 },
                 {
                     "title": "비밀의 화원",
                     "time": "3:49:47",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:49:47 비밀의 화원 (아이유) ■"
                 },
                 {
                     "title": "OHAYO MY NIGHT",
                     "time": "4:00:17",
                     "artist": "디핵",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:00:17 OHAYO MY NIGHT (디핵) ○"
                 },
                 {
                     "title": "Rain Drop",
-                    "time": "4:09:00",
+                    "time": "4:10:11",
                     "artist": "아이유",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:10:11 Rain Drop (아이유) ■☆"
                 },
                 {
                     "title": "비밀정원",
                     "time": "4:17:58",
                     "artist": "오마이걸",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:17:58  비밀정원 (오마이걸) ■"
                 },
                 {
                     "title": "아라리",
                     "time": "4:31:45",
                     "artist": "심규선",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:31:45 아라리 (심규선)"
                 }
             ]
         },
@@ -1301,33 +1307,32 @@
                     "title": "Love Chronicle",
                     "time": "4:48:23",
                     "artist": "이용신",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:48:23 Love Chronicle (이용신) ?"
+                    "rawLine": "🎤 4:48:23 Love Chronicle (이용신)"
                 },
                 {
                     "title": "꽃이 피고 지듯이",
                     "time": "4:56:17",
                     "artist": "조승우",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:56:17 꽃이 피고 지듯이 (조승우) ?"
+                    "rawLine": "🎤 4:56:17 꽃이 피고 지듯이 (조승우) ■"
                 },
                 {
                     "title": "밤, 바다",
                     "time": "5:07:32",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:07:32 밤, 바다 (최유리) ?"
+                    "rawLine": "🎤 5:07:32 밤, 바다 (최유리) ■☆"
                 },
                 {
                     "title": "야래향",
                     "time": "5:14:23",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:14:23 야래향 (심규선) ?"
+                    "rawLine": "🎤 5:14:23 야래향 (심규선) ○☆"
                 }
             ]
         },
@@ -1583,9 +1588,10 @@
                     "title": "무릎",
                     "time": "3:12:37",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:12:37 무릎 ?"
+                    "rawLine": "🎤 3:12:37 무릎 ○☆"
                 }
             ]
         },
@@ -1599,65 +1605,65 @@
                     "title": "소로",
                     "time": "3:22:08",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:22:08 소로 (심규선) ?"
+                    "rawLine": "🎤 3:22:08 소로 (심규선) ■"
                 },
                 {
                     "title": "달빛에 그려지는",
                     "time": "3:31:02",
                     "artist": "미연",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:31:02 달빛에 그려지는 (미연) ?"
+                    "rawLine": "🎤 3:31:02 달빛에 그려지는 (미연) ○☆"
                 },
                 {
                     "title": "시간을 거슬러",
                     "time": "3:37:34",
                     "artist": "린",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:37:34 시간을 거슬러 (린) ?"
+                    "rawLine": "🎤 3:37:34 시간을 거슬러 (린) ○"
                 },
                 {
                     "title": "어른",
                     "time": "3:43:25",
                     "artist": "손디아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:43:25 어른 (손디아) ?"
+                    "rawLine": "🎤 3:43:25 어른 (손디아) ○"
                 },
                 {
                     "title": "그대만 있다면",
                     "time": "3:52:17",
                     "artist": "러브홀릭",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:52:17 그대만 있다면 (러브홀릭) ?"
+                    "rawLine": "🎤 3:52:17 그대만 있다면 (러브홀릭) ○☆"
                 },
                 {
                     "title": "My Destiny",
                     "time": "4:01:52",
                     "artist": "린",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:01:52 My Destiny (린) ?"
+                    "rawLine": "🎤 4:01:52 My Destiny (린) ○"
                 },
                 {
                     "title": "야수",
                     "time": "4:33:28",
                     "artist": "김필선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:33:28 야수 (김필선) ?"
+                    "rawLine": "🎤 4:33:28 야수 (김필선)"
                 },
                 {
                     "title": "뭔가 잘못됐어",
                     "time": "4:40:26",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:40:26 뭔가 잘못됐어 (권진아) ?"
+                    "rawLine": "🎤 4:40:26 뭔가 잘못됐어 (권진아) ○"
                 }
             ]
         }
