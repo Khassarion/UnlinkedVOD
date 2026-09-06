@@ -2923,12 +2923,14 @@
         "aliases": []
     },
     {
-        "title": "My way",
+        "title": "My Destiny",
         "aliases": []
     },
     {
         "title": "My Way",
-        "aliases": []
+        "aliases": [
+            "My way"
+        ]
     },
     {
         "title": "Myself",

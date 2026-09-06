@@ -1588,6 +1588,78 @@
                     "rawLine": "🎤 3:12:37 무릎 ?"
                 }
             ]
+        },
+        {
+            "title": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+            "date": "2026-09-06",
+            "url": "https://vod.sooplive.com/player/206375827",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+            "songInfo": [
+                {
+                    "title": "소로",
+                    "time": "3:22:08",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:22:08 소로 (심규선) ?"
+                },
+                {
+                    "title": "달빛에 그려지는",
+                    "time": "3:31:02",
+                    "artist": "미연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:31:02 달빛에 그려지는 (미연) ?"
+                },
+                {
+                    "title": "시간을 거슬러",
+                    "time": "3:37:34",
+                    "artist": "린",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:37:34 시간을 거슬러 (린) ?"
+                },
+                {
+                    "title": "어른",
+                    "time": "3:43:25",
+                    "artist": "손디아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:43:25 어른 (손디아) ?"
+                },
+                {
+                    "title": "그대만 있다면",
+                    "time": "3:52:17",
+                    "artist": "러브홀릭",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:52:17 그대만 있다면 (러브홀릭) ?"
+                },
+                {
+                    "title": "My Destiny",
+                    "time": "4:01:52",
+                    "artist": "린",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:01:52 My Destiny (린) ?"
+                },
+                {
+                    "title": "야수",
+                    "time": "4:33:28",
+                    "artist": "김필선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:33:28 야수 (김필선) ?"
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "4:40:26",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:40:26 뭔가 잘못됐어 (권진아) ?"
+                }
+            ]
         }
     ]
 }

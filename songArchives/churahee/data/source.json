@@ -10776,9 +10776,26 @@
                     "title": "야수",
                     "time": "4:30:31",
                     "artist": "김필선",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 야수 4:30:31 ○☆ /* 대가리가 깨진다 */"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 해켓몬 마지막날ㅣapi 방셀 있숨",
+            "date": "2026-09-04",
+            "url": "https://vod.sooplive.com/player/206249559",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260904_07A85E14_296881001_2_r",
+            "songInfo": [
+                {
+                    "title": "꽃이 피고 지듯이",
+                    "time": "13:54",
+                    "artist": "조승우",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 야수 4:30:31 ?"
+                    "rawLine": "🎤 꽃이 피고 지듯이 13:54 ?"
                 }
             ]
         }

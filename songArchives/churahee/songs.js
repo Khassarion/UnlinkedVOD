@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-04T09:03:45.430609+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-06T02:07:33.628992+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -6745,6 +6745,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-04",
+        "url": "https://vod.sooplive.com/player/206249559?change_second=834",
+        "videoTitle": "[버블란] 해켓몬 마지막날ㅣapi 방셀 있숨",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260904_07A85E14_296881001_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15508,9 +15520,9 @@ const songs = [
         "videoTitle": "[버블란] 츄이봤",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260823_2B4ECDD2_296574263_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

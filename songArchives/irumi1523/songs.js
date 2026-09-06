@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-04T09:27:47.170730+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-06T08:19:01.438117+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -409,6 +409,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "My Destiny",
+    "artist": "린",
+    "versions": [
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=14512",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -849,6 +867,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=13937",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1171,6 +1201,24 @@ const songs = [
     ]
   },
   {
+    "title": "달빛에 그려지는",
+    "artist": "미연",
+    "versions": [
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=12662",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "도망가자",
     "artist": "선우정아",
     "versions": [
@@ -1405,6 +1453,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=16826",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2103,6 +2163,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=12128",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2271,6 +2343,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=13054",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2409,6 +2493,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=16408",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2440,6 +2536,18 @@ const songs = [
         "videoTitle": "소통 / LCK T1 VS 한화 경기보기 🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_62EB789F_296200771_1_r&column=2&t=1786208730",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=13405",
+        "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
