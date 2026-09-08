@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-06T02:07:33.628992+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-08T06:47:49.987119+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -945,6 +945,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "DANCE MONKEY",
+    "artist": "TONES AND I",
+    "versions": [
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=10071",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 아야네 세나"
       }
     ]
   },
@@ -3774,7 +3792,7 @@ const songs = [
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5892,7 +5910,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20250512_DC7F37F7_283870916_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -7421,8 +7439,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8199,6 +8217,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 송현, 츄라희"
+      },
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=12108",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희"
       }
     ]
   },
@@ -8686,9 +8716,9 @@ const songs = [
         "videoTitle": "🎉아프리카 상륙 1주년🎉",
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -9162,7 +9192,7 @@ const songs = [
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -9459,6 +9489,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=9157",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희"
       }
     ]
   },
@@ -12759,6 +12801,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=5852",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희"
       }
     ]
   },
@@ -12929,8 +12983,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -14969,6 +15023,18 @@ const songs = [
         "groupMembers": "랑코, 츄라희"
       },
       {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=7382",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "아야네 세나, 츄라희"
+      },
+      {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206066119?change_second=4696",
         "videoTitle": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
@@ -15048,7 +15114,7 @@ const songs = [
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15877,6 +15943,24 @@ const songs = [
     ]
   },
   {
+    "title": "어린 나",
+    "artist": "키마",
+    "versions": [
+      {
+        "date": "2026-09-07",
+        "url": "https://vod.sooplive.com/player/206487089?change_second=2249",
+        "videoTitle": "[버블란] 버블합창단 후열",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260907_EB4835BE_296943103_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "어푸",
     "artist": "아이유",
     "versions": [
@@ -16426,9 +16510,9 @@ const songs = [
         "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16941,6 +17025,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "오디션",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=6357",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "아야네 세나, 연초록, 츄라희"
       }
     ]
   },
@@ -18033,6 +18135,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=8356",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 츄라희"
       }
     ]
   },
@@ -18093,6 +18207,24 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      }
+    ]
+  },
+  {
+    "title": "이런 엔딩",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=11150",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 아야네 세나"
       }
     ]
   },
@@ -18850,9 +18982,9 @@ const songs = [
         "videoTitle": "소통 - 노래 - 파워워시 시뮬레이터",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20250512_DC7F37F7_283870916_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -20013,6 +20145,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "피날레",
+    "artist": "eill",
+    "versions": [
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=10541",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "아야네 세나, 연초록"
       }
     ]
   },
@@ -21355,6 +21505,24 @@ const songs = [
     ]
   },
   {
+    "title": "히로인",
+    "artist": "back number",
+    "versions": [
+      {
+        "date": "2026-09-07",
+        "url": "https://vod.sooplive.com/player/206487089?change_second=2567",
+        "videoTitle": "[버블란] 버블합창단 후열",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260907_EB4835BE_296943103_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "힐링이 필요해",
     "artist": "로이킴",
     "versions": [
@@ -21369,6 +21537,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "힘 내!",
+    "artist": "소녀시대",
+    "versions": [
+      {
+        "date": "2026-08-14",
+        "url": "https://vod.sooplive.com/player/204347547?change_second=9743",
+        "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희"
       }
     ]
   }

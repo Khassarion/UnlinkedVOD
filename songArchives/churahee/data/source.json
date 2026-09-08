@@ -9722,48 +9722,55 @@
                     "title": "고양이 소리를 따라해 보자",
                     "time": "1:50:36",
                     "artist": "펑티모",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 고양이 소리를 따라해 보자 1:50:36 ■"
                 },
                 {
                     "title": "주옥같다",
                     "time": "1:59:40",
                     "artist": "고옥희",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 주옥같다 1:59:40 ○☆"
                 },
                 {
                     "title": "Ditto",
                     "time": "2:06:36",
                     "artist": "뉴진스",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Ditto 2:06:36 ○"
                 },
                 {
                     "title": "비도 오고 그래서",
                     "time": "2:15:31",
                     "artist": "헤이즈",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 비도 오고 그래서 2:15:31 ○"
                 },
                 {
                     "title": "몽유",
                     "time": "2:21:47",
                     "artist": "잇츠",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 몽유 2:21:47"
                 },
                 {
                     "title": "After LIKE",
                     "time": "2:56:19",
                     "artist": "IVE",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 After LIKE 2:56:19"
                 },
                 {
                     "title": "너무 보고싶어",
                     "time": "3:04:50",
                     "artist": "어쿠스틱 콜라보",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 너무 보고싶어 3:04:50 ○"
                 }
             ]
         },
@@ -10309,22 +10316,24 @@
                     "title": "동경캐스터",
                     "time": "2:11:21",
                     "artist": "하츠네 미쿠",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 동경캐스터 2:11:21 ○"
                 },
                 {
                     "title": "마음짓기",
                     "time": "2:19:54",
                     "artist": "GUMI",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 마음짓기 2:19:54 ■"
                 },
                 {
                     "title": "내가 죽으려고 생각한 것은",
                     "time": "2:25:46",
                     "artist": "나카시마 미카",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 내가 죽으려고 생각한 것은 2:25:46 ■☆"
                 },
                 {
                     "title": "빛난다면",
@@ -10332,28 +10341,30 @@
                     "artist": "Goose house",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 빛난다면 (Goose house) 2:35:44 ○☆"
                 },
                 {
                     "title": "Promise",
                     "time": "2:42:42",
                     "artist": "에픽세븐",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Promise (에픽세븐 OST) 2:42:42"
                 },
                 {
                     "title": "아이돌",
                     "time": "3:22:49",
                     "artist": "요아소비",
-                    "needsReview": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 아이돌 3:22:49"
                 },
                 {
                     "title": "산책",
                     "time": "6:18:51",
                     "artist": "백예린",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 산책 6:18:51 ☆ /*  /자두//자두//자두/*/"
                 }
             ]
         },
@@ -10580,14 +10591,96 @@
                     "title": "연의 편지",
                     "time": "1:13:05",
                     "artist": "이수현",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 1:13:05 ○"
+                },
+                {
+                    "title": "사랑하게 될 거야",
+                    "time": "1:37:32",
+                    "artist": "한로로",
+                    "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 사랑하게 될 거야 (한로로) 1:37:32 (스위데, 아야네 세나, 연초록, 츄라희)"
+                },
+                {
+                    "title": "오디션",
+                    "time": "1:45:57",
+                    "artist": "윤하",
+                    "groupMembers": "아야네 세나, 연초록, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 오디션 (윤하) 1:45:57 (아야네 세나, 연초록, 츄라희)"
+                },
+                {
+                    "title": "아라리",
+                    "time": "2:03:02",
+                    "artist": "심규선",
+                    "groupMembers": "아야네 세나, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 아라리 (심규선) 2:03:02 (아야네 세나, 츄라희)"
+                },
+                {
+                    "title": "위로",
+                    "time": "2:19:16",
+                    "artist": "권진아",
+                    "groupMembers": "스위데, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 위로 (권진아) 2:19:16 (스위데, 츄라희)"
+                },
+                {
+                    "title": "만약에",
+                    "time": "2:32:37",
+                    "artist": "태연",
+                    "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 만약에 (태연) 2:32:37 (스위데, 아야네 세나, 연초록, 츄라희)"
+                },
+                {
+                    "title": "힘 내!",
+                    "time": "2:42:23",
+                    "artist": "소녀시대",
+                    "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 힘 내! (소녀시대) 2:42:23 (스위데, 아야네 세나, 연초록, 츄라희)"
+                },
+                {
+                    "title": "DANCE MONKEY",
+                    "time": "2:47:51",
+                    "artist": "TONES AND I",
+                    "groupMembers": "스위데, 아야네 세나",
+                    "groupSong": true,
+                    "rawLine": "🎶 Dance Monkey (Tones And I) 2:47:51 (스위데, 아야네 세나)"
+                },
+                {
+                    "title": "피날레",
+                    "time": "2:55:41",
+                    "artist": "eill",
+                    "groupMembers": "아야네 세나, 연초록",
+                    "groupSong": true,
+                    "rawLine": "🎶 Finale. (eill) 2:55:41 (아야네 세나, 연초록)"
+                },
+                {
+                    "title": "이런 엔딩",
+                    "time": "3:05:50",
+                    "artist": "아이유",
+                    "groupMembers": "스위데, 아야네 세나",
+                    "groupSong": true,
+                    "rawLine": "🎶 이런 엔딩 (아이유) 3:05:50 (스위데, 아야네 세나)"
+                },
+                {
+                    "title": "다시 만난 세계",
+                    "time": "3:21:48",
+                    "artist": "소녀시대",
+                    "groupMembers": "스위데, 아야네 세나, 연초록, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 다시 만난 세계 (소녀시대) 3:21:48 (스위데, 아야네 세나, 연초록, 츄라희)"
                 },
                 {
                     "title": "뭔가 잘못됐어",
                     "time": "7:50:55",
                     "artist": "권진아",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 뭔가 잘못됐어 7:50:55"
                 }
             ]
         },
@@ -10796,6 +10889,28 @@
                     "needsReview": true,
                     "groupSong": false,
                     "rawLine": "🎤 꽃이 피고 지듯이 13:54 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 버블합창단 후열",
+            "date": "2026-09-07",
+            "url": "https://vod.sooplive.com/player/206487089",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260907_EB4835BE_296943103_2_r",
+            "songInfo": [
+                {
+                    "title": "어린 나",
+                    "time": "37:29",
+                    "artist": "키마",
+                    "groupSong": false,
+                    "rawLine": "🎤 어린 나 (키마) 37:29  /* 신곡 발표회 전날 가볍게 */"
+                },
+                {
+                    "title": "히로인",
+                    "time": "42:47",
+                    "artist": "back number",
+                    "groupSong": false,
+                    "rawLine": "🎤 히로인 42:47"
                 }
             ]
         }

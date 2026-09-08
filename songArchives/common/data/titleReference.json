@@ -1635,6 +1635,10 @@
         "aliases": []
     },
     {
+        "title": "오디션",
+        "aliases": []
+    },
+    {
         "title": "오랜 날 오랜 밤",
         "aliases": []
     },
@@ -2251,6 +2255,10 @@
         "aliases": []
     },
     {
+        "title": "힘 내!",
+        "aliases": []
+    },
+    {
         "title": "A Thousand Years",
         "aliases": []
     },
@@ -2419,7 +2427,9 @@
     },
     {
         "title": "DANCE MONKEY",
-        "aliases": []
+        "aliases": [
+            "Dance Monkey"
+        ]
     },
     {
         "title": "Dance The Night Away",
