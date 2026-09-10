@@ -11072,6 +11072,22 @@
                     "rawLine": "🎶 수고했어, 오늘도 5:13:37  (멍보리, 예요예요, 츄라희)"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 버블란 팰월드 2일차",
+            "date": "2026-09-10",
+            "url": "https://vod.sooplive.com/player/206793579",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_381F37DB_297015371_2_r",
+            "songInfo": [
+                {
+                    "title": "0+0",
+                    "time": "8:54:56",
+                    "artist": "한로로",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 0+0 8:54:56 ?"
+                }
+            ]
         }
     ]
 }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-10T07:43:04.596092+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-10T22:45:29.276844+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -73,6 +73,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-10",
+        "url": "https://vod.sooplive.com/player/206793579?change_second=32096",
+        "videoTitle": "[버블란] 버블란 팰월드 2일차",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_381F37DB_297015371_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2162,7 +2174,7 @@ const songs = [
   },
   {
     "title": "Kidding",
-    "artist": "이세계아이돌",
+    "artist": "",
     "versions": [
       {
         "date": "2025-12-30",
