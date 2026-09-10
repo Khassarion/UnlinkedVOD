@@ -931,8 +931,11 @@ async function parseTimelineLine(line, parseConfig, debug, resolveOpts = null, s
  * @returns {Promise<Array<{ title: string, time: string, artist: string|null, rawLine: string, ... }>>}
  */
 async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resolveOpts = null) {
+  // 댓글 내용이 없으면 빈 배열
   if (!commentHtml || typeof commentHtml !== 'string') return [];
+  // 스트리머별 linePrefix 규칙(🎤 솔로곡, 🎶 단체곡 등) 로드
   const rules = getLinePrefixRules(parseConfig || DEFAULT_PARSE_CONFIG);
+  // <br> → 줄바꿈으로 치환 후 줄 단위로 분리, 빈 줄 제거
   const lines = commentHtml
     .replace(/<br\s*\/?>/gi, '\n')
     .split(/\n/)
@@ -940,6 +943,7 @@ async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resol
     .filter(Boolean);
 
   if (debug) {
+    // 디버그: 로드된 linePrefix 목록과 총 줄 수 로그
     const prefixes = rules.map((r) => r.linePrefix);
     console.error('[DEBUG] parseCommentHtmlToSongInfo: linePrefixes=', JSON.stringify(prefixes), '줄 수=', lines.length);
   }
@@ -947,13 +951,17 @@ async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resol
   const songInfo = [];
   const seen = new Set();
 
+  // 줄 단위로 순회하며 곡 정보로 파싱
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
+    // 이 줄에 해당하는 linePrefix 규칙 찾기
     const matchedRule = rules.find((rule) => line.includes(rule.linePrefix));
     if (!matchedRule) {
+      // linePrefix가 없는 줄(타임라인 줄이 아님) → 스킵
       if (debug && line.length < 80) console.error('[DEBUG]   줄', i + 1, '→ linePrefix 없음, 스킵:', JSON.stringify(line.slice(0, 60)));
       continue;
     }
+    // linePrefix 제거 후 본문만 남김
     const lineWithoutPrefix = line.split(matchedRule.linePrefix).join('').trim();
     if (debug) {
       console.error(
@@ -963,6 +971,7 @@ async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resol
         JSON.stringify(lineWithoutPrefix.slice(0, 80))
       );
     }
+    // 본문을 시간/제목/가수/플래그로 파싱(+ resolveOpts 있으면 레퍼런스 보강)
     const info = await parseTimelineLine(
       lineWithoutPrefix,
       { parts: matchedRule.parts, regexSequence: matchedRule.regexSequence },
@@ -970,10 +979,13 @@ async function parseCommentHtmlToSongInfo(commentHtml, parseConfig, debug, resol
       resolveOpts,
       matchedRule.staticFields
     );
+    // 원본 줄(prefix 포함, 파싱 전 원문) 보존 — source.json에만 남기고 songs.js엔 안 실림
     if (info) info.rawLine = line;
+    // 제목|가수|시간 조합으로 중복 판별
     const dedupeKey =
       (info && (info.title || '') + '|' + (info.artist == null ? '' : info.artist) + '|' + (info.time || '')) || '';
     if (info && !seen.has(dedupeKey)) {
+      // 파싱 성공 + 중복 아님 → 결과에 추가
       seen.add(dedupeKey);
       songInfo.push(info);
     }
