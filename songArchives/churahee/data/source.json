@@ -10913,6 +10913,165 @@
                     "rawLine": "🎤 히로인 42:47"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+            "date": "2026-09-08",
+            "url": "https://vod.sooplive.com/player/206602219",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+            "songInfo": [
+                {
+                    "title": "스물다섯, 스물하나",
+                    "time": "3:18:18",
+                    "artist": "자우림",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 스물다섯, 스물하나 3:18:18 ☆"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "3:32:06",
+                    "artist": "로이킴",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 북두칠성 3:32:06 ☆"
+                },
+                {
+                    "title": "홍연",
+                    "time": "3:45:04",
+                    "artist": "안예은",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 홍연 (안예은) 3:45:04 (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "소나기",
+                    "time": "3:49:49",
+                    "artist": "아이오아이",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 소나기 3:49:49 (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "Villain",
+                    "time": "3:55:13",
+                    "artist": "스텔라장",
+                    "groupMembers": "예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 Villain 3:55:13 (예요예요, 츄라희)"
+                },
+                {
+                    "title": "KIDDING",
+                    "time": "4:04:02",
+                    "artist": "이세계아이돌",
+                    "groupMembers": "멍보리, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 KIDDING (이세계아이돌) 4:04:02 (멍보리, 츄라희)"
+                },
+                {
+                    "title": "외톨이",
+                    "time": "4:13:10",
+                    "artist": "아웃사이더",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 외톨이 4:13:10 (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "Y",
+                    "time": "4:16:43",
+                    "artist": "프리스타일",
+                    "groupMembers": "멍보리, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 Y (프리스타일) 4:16:43 (멍보리, 츄라희)"
+                },
+                {
+                    "title": "Square",
+                    "time": "4:22:39",
+                    "artist": "백예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 Square 4:22:39"
+                },
+                {
+                    "title": "사랑은 은하수 다방에서",
+                    "time": "4:28:10",
+                    "artist": "10CM",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 사랑은 은하수 다방에서 4:28:10 (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "달그림자",
+                    "time": "4:34:21",
+                    "artist": "안예은",
+                    "groupMembers": "예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 달그림자 4:34:21 (예요예요, 츄라희)"
+                },
+                {
+                    "title": "신호등",
+                    "time": "4:40:47",
+                    "artist": "이무진",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 신호등 4:40:47 (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "고민중독",
+                    "time": "4:45:08",
+                    "artist": "QWER",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 고민중독 4:45:08 (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "오르트구름",
+                    "time": "4:48:34",
+                    "artist": "윤하",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 오르트구름 4:48:34  (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "시대를 초월한 마음",
+                    "time": "4:52:58",
+                    "artist": "이누야샤 OST",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 시대를 초월한 마음 4:52:58  (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "비밀번호 486",
+                    "time": "4:56:53",
+                    "artist": "윤하",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 비밀번호 486 4:56:53  (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "요즘 너 말야",
+                    "time": "5:04:36",
+                    "artist": "제이래빗",
+                    "groupMembers": "멍보리, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 요즘 너 말야 5:04:36  (멍보리, 츄라희)"
+                },
+                {
+                    "title": "낭만고양이",
+                    "time": "5:09:00",
+                    "artist": "체리필터",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 낭만고양이 5:09:00  (멍보리, 예요예요, 츄라희)"
+                },
+                {
+                    "title": "수고했어, 오늘도",
+                    "time": "5:13:37",
+                    "artist": "옥상달빛",
+                    "groupMembers": "멍보리, 예요예요, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 수고했어, 오늘도 5:13:37  (멍보리, 예요예요, 츄라희)"
+                }
+            ]
         }
     ]
 }

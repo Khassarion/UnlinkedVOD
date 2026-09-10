@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-08T06:47:49.987119+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-10T07:43:04.596092+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -2139,6 +2139,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "KIDDING",
+    "artist": "이세계아이돌",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=14642",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 츄라희"
       }
     ]
   },
@@ -4443,6 +4461,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=15759",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4863,6 +4893,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=14113",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "예요예요, 츄라희"
       }
     ]
   },
@@ -5097,6 +5139,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Y",
+    "artist": "프리스타일",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=15403",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 츄라희"
       }
     ]
   },
@@ -5631,6 +5691,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "고민중독",
+    "artist": "QWER",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=17108",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -7357,6 +7435,24 @@ const songs = [
     ]
   },
   {
+    "title": "낭만고양이",
+    "artist": "체리필터",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=18540",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
+      }
+    ]
+  },
+  {
     "title": "내 얘길 들어봐(A-ing)",
     "artist": "오마이걸",
     "versions": [
@@ -8487,6 +8583,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=16461",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "예요예요, 츄라희"
       }
     ]
   },
@@ -11733,6 +11841,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=12726",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -12045,6 +12165,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=17813",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -12699,6 +12831,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=16090",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -13509,6 +13653,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=13789",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -14043,6 +14199,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=18817",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -14679,6 +14847,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=11898",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -14859,6 +15039,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=17578",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -14937,6 +15129,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "강하나, 김병살, 뜨사, 요한, 츄라희"
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=16847",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -17241,6 +17445,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 츄라희"
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=17314",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -17433,6 +17649,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=15190",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
@@ -17481,6 +17709,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=18276",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 츄라희"
       }
     ]
   },
@@ -21045,6 +21285,24 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "홍연",
+    "artist": "안예은",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206602219?change_second=13504",
+        "videoTitle": "[버블란] 버블란 납치싱크룸(w. 멍보리 예요예요)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_48B18924_296970203_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "멍보리, 예요예요, 츄라희"
       }
     ]
   },
