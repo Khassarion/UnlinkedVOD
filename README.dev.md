@@ -153,6 +153,9 @@ npm run add-streamer -- --id chebi2 --title 체비
 **순서:** 댓글 파싱 → `titleReference` → `artistReference` → 스트리머 `defaultArtistMapping.json`.  
 커뮤니티 모달 가수 자동 입력도 `songs` + `defaultArtistMapping.json`을 사용합니다.
 
+그 제목에 대한 `defaultArtistMapping.json` 항목이 아직 없으면, 댓글 가수가 `artistReference`에 있든 없든 그대로 채워 넣습니다(확인 프롬프트 없음).  
+이미 기본값이 있는데 댓글 가수가 그와 다르면(레퍼런스 등록 여부 무관) 대화형 세션에서 "[1] 기본값 사용 / [2] 댓글 가수 사용" 선택 프롬프트가 뜹니다. 2를 고르면(레퍼런스에 없던 가수면 등록 후) `defaultArtistMapping.json`을 바꿀지 다시 Y/N으로 묻습니다. 비대화형이면 항상 기본값을 사용합니다.
+
 ## 썸네일 override
 
 `songArchives/common/data/thumbnailOverrides.json` — `{ "videoId": "썸네일URL" }`.  

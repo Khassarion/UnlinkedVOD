@@ -626,11 +626,14 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
 
   let canonicalTitle = resolveTitleCanonical(titleRef, rawTitle);
 
+  // 제목이 titleReference에 없음 → 신규 등록 여부부터 확인
   if (!canonicalTitle) {
     const cacheKey = rawTitle;
     let registerNew = false;
     if (interactive && rl) {
+      // 대화형일 때만 물어봄(비대화형은 registerNew=false 유지)
       if (!caches.titleNewSong.has(cacheKey)) {
+        // 같은 제목은 한 번만 물어보고 캐시
         const yn = await askYesNo(
           rl,
           `[새 노래?] titleReference에 없는 제목입니다 (오타 확인).\n` +
@@ -643,6 +646,7 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
     }
 
     if (registerNew) {
+      // 사용자가 신규 등록에 동의 → titleReference(+ 가수 있으면 artistReference)에 추가
       appendTitleReferenceFile(titleRefPath, rawTitle);
       const rawArtistWasNew = rawArtist ? !artistEntryExists(artistRef, rawArtist) : false;
       if (rawArtist) appendArtistReferenceFile(artistRefPath, rawArtist);
@@ -651,11 +655,13 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
       artistRef = ctx.artistRef;
       canonicalTitle = rawTitle;
       if (rawArtist) {
+        // 댓글에 가수도 같이 왔으면 defaultArtistMapping 등록까지 시도
         const canonicalFromRaw =
           resolveArtistCanonical(artistRef, rawArtist) || String(rawArtist).trim();
         if (canonicalFromRaw) {
           let doSetDefault = true;
           if (interactive && rl && rawArtistWasNew) {
+            // 가수까지 완전 신규일 때만 별도로 확인(기존 가수면 바로 저장)
             const mapKey = `newSongDefault:${canonicalTitle}\t${canonicalFromRaw}`;
             if (!caches.newSongDefaultMap.has(mapKey)) {
               const yn = await askYesNo(
@@ -675,6 +681,7 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
         }
       }
     } else {
+      // 등록 거부(또는 비대화형) → 레퍼런스는 안 건드리고 원본 제목 그대로 사용
       canonicalTitle = rawTitle;
     }
   }
@@ -683,12 +690,15 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
     console.error('[DEBUG] resolve:', { rawTitle, canonicalTitle, rawArtist, hadRawArtistInComment });
   }
 
+  // 댓글에 가수 자체가 없던 경우
   if (!hadRawArtistInComment) {
     const defBlank = resolveMappedDefaultArtist(ctx.artistRef, ctx.defaultMap, canonicalTitle);
     if (defBlank) {
+      // 이미 기본 가수가 있으면 그걸로 채움
       return mergeSongMeta(item, canonicalTitle, defBlank);
     }
     if (interactive && rl) {
+      // 기본값도 없음 → 대화형이면 직접 입력받음
       const cacheKeyBlank = `blankArtist:${canonicalTitle}`;
       if (!caches.blankArtistAnswer.has(cacheKeyBlank)) {
         const typed = (
@@ -701,9 +711,11 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
       }
       const typed = caches.blankArtistAnswer.get(cacheKeyBlank);
       if (!typed) {
+        // 입력 없이 그냥 넘김 → artist null, 레퍼런스/매핑 변경 없음
         return mergeSongMeta(item, canonicalTitle, null);
       }
       if (!artistEntryExists(ctx.artistRef, typed)) {
+        // 처음 보는 가수명이면 artistReference에 추가
         appendArtistReferenceFile(artistRefPath, typed);
         ctx.reloadFromDisk();
         artistRef = ctx.artistRef;
@@ -714,48 +726,63 @@ async function resolveItemInteractive(rl, ctx, item, caches, interactive, debug)
       ctx.reloadFromDisk();
       return mergeSongMeta(item, canonicalTitle, canonFromTyped);
     }
+    // 비대화형이면 물어볼 수 없으니 artist null로 반환
     return mergeSongMeta(item, canonicalTitle, null);
   }
 
   let canonicalArtist = resolveArtistCanonical(artistRef, rawArtist);
-  if (canonicalArtist) {
-    return mergeSongMeta(item, canonicalTitle, canonicalArtist);
-  }
 
   const defMapped = defaultArtistForCanonicalTitle(ctx.defaultMap, canonicalTitle);
   const def = defMapped
     ? resolveArtistCanonical(artistRef, defMapped) || defMapped
     : '';
 
-  if (defMapped && (rawArtist === defMapped || rawArtist === def)) {
-    return mergeSongMeta(item, canonicalTitle, def);
+  if (!defMapped) {
+    // 기본 매핑이 아직 없음: 댓글 가수를 그대로 쓴다. 레퍼런스에서 resolve됐으면 매핑도 채워 둔다.
+    if (canonicalArtist) {
+      setDefaultArtistForTitle(defaultMapPath, canonicalTitle, canonicalArtist);
+      ctx.reloadFromDisk();
+      return mergeSongMeta(item, canonicalTitle, canonicalArtist);
+    }
+    // 레퍼런스에도 없는 가수라 채울 값이 없음 → 아래 "다른 가수" 분기로 흘러감(선택 프롬프트로 처리)
+  } else if (rawArtist === defMapped || rawArtist === def || (canonicalArtist && canonicalArtist === def)) {
+    // 댓글 가수가 기본값과 사실상 같음(레퍼런스 등록 여부 무관) → 선택 없이 그대로 사용
+    return mergeSongMeta(item, canonicalTitle, def || canonicalArtist);
   }
 
+  // 여기부터는 기본 매핑과 다른 가수가 명시된 경우(레퍼런스 등록 여부 무관) → 선택 필요
   if (!interactive || !rl) {
-    const pick = def || rawArtist;
+    // 비대화형은 물어볼 수 없으니 기본값을 우선 사용
+    const pick = def || canonicalArtist || rawArtist;
     return mergeSongMeta(item, canonicalTitle, pick || null);
   }
 
   const pickKey = `${canonicalTitle}\t${rawArtist}\t${defMapped}`;
   if (!caches.artistPick.has(pickKey)) {
+    // 같은 충돌 조합은 한 번만 물어보고 캐시
     const choice = await askArtistChoice(rl, def || defMapped || '(없음)', rawArtist);
     caches.artistPick.set(pickKey, choice);
   }
   const choice = caches.artistPick.get(pickKey);
 
   if (choice === 1) {
-    const pick = def || rawArtist;
+    // 기본값 선택 → 레퍼런스/매핑 변경 없이 그대로 사용
+    const pick = def || canonicalArtist || rawArtist;
     return mergeSongMeta(item, canonicalTitle, pick || null);
   }
 
-  appendArtistReferenceFile(artistRefPath, rawArtist);
-  ctx.reloadFromDisk();
-  artistRef = ctx.artistRef;
-  canonicalArtist = resolveArtistCanonical(artistRef, rawArtist) || rawArtist;
+  if (!canonicalArtist) {
+    // 댓글 가수 선택 & 레퍼런스에 없던 가수면 등록
+    appendArtistReferenceFile(artistRefPath, rawArtist);
+    ctx.reloadFromDisk();
+    artistRef = ctx.artistRef;
+    canonicalArtist = resolveArtistCanonical(artistRef, rawArtist) || rawArtist;
+  }
 
   const updKey = `upd:${canonicalTitle}\t${canonicalArtist}`;
   let doUpd = caches.updateDefault.get(updKey);
   if (doUpd === undefined) {
+    // defaultArtistMapping도 이 값으로 바꿀지 별도로 확인
     doUpd = await askYesNo(
       rl,
       `defaultArtistMapping.json 에서 "${canonicalTitle}" 의 기본 가수를 "${canonicalArtist}" 로 바꿀까요? [Y/N]: `
