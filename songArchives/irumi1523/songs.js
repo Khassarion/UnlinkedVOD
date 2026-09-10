@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-06T23:52:23.379199+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-10T03:28:32.912435+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -71,6 +71,24 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260821_CD2EE3BA_296530081_1_r&column=2&t=1787465512",
         "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Antifreeze",
+    "artist": "백예린",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=1818",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
@@ -689,6 +707,18 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=3682",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
@@ -1317,6 +1347,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-09",
+        "url": "https://vod.sooplive.com/player/206711565?change_second=2795",
+        "videoTitle": "9스9스덕 합방 / 후열 다이아랜딩🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260909_90F11B8E_296996503_2_r",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1362,6 +1404,18 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_20ED00F2_296040935_1_r&column=2&t=1785724792",
         "noMistake": false,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=5034",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": true,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -1485,6 +1539,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=3178",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1566,6 +1632,24 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260826_925A898A_296654457_1_r&column=2&t=1787831883",
         "noMistake": false,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "밤양갱",
+    "artist": "비비",
+    "versions": [
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=2832",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": false,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -1759,6 +1843,24 @@ const songs = [
     ]
   },
   {
+    "title": "봄이 와도",
+    "artist": "로이킴",
+    "versions": [
+      {
+        "date": "2026-09-09",
+        "url": "https://vod.sooplive.com/player/206711565?change_second=5028",
+        "videoTitle": "9스9스덕 합방 / 후열 다이아랜딩🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260909_90F11B8E_296996503_2_r",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "부디",
     "artist": "심규선",
     "versions": [
@@ -1833,6 +1935,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=22949",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1901,6 +2015,18 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
         "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=4583",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": true,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
@@ -2175,6 +2301,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=15493",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2322,6 +2460,18 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-09",
+        "url": "https://vod.sooplive.com/player/206711565?change_second=2226",
+        "videoTitle": "9스9스덕 합방 / 후열 다이아랜딩🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260909_90F11B8E_296996503_2_r",
+        "noMistake": true,
+        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -3081,6 +3231,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=2319",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3202,6 +3364,18 @@ const songs = [
         "videoTitle": "1부 아침 소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260812_7748DD86_296292745_1_r&column=2&t=1786675590",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-08",
+        "url": "https://vod.sooplive.com/player/206610223?change_second=4050",
+        "videoTitle": "다이아랜딩 2일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

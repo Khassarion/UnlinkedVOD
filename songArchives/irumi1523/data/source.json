@@ -1666,6 +1666,124 @@
                     "rawLine": "🎤 4:40:26 뭔가 잘못됐어 (권진아) ○"
                 }
             ]
+        },
+        {
+            "title": "9스9스덕 합방 / 후열 다이아랜딩🤍",
+            "date": "2026-09-09",
+            "url": "https://vod.sooplive.com/player/206711565",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260909_90F11B8E_296996503_2_r",
+            "songInfo": [
+                {
+                    "title": "스물다섯, 스물하나",
+                    "time": "37:06",
+                    "artist": "자우림",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 37:06 스물다섯, 스물하나 ○☆"
+                },
+                {
+                    "title": "만약에",
+                    "time": "46:35",
+                    "artist": "태연",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 46:35 만약에 ○☆"
+                },
+                {
+                    "title": "봄이 와도",
+                    "time": "1:23:48",
+                    "artist": "로이킴",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:23:48 봄이 와도 (로이킴) ☆ /*연습*/"
+                }
+            ]
+        },
+        {
+            "title": "다이아랜딩 2일차🤍",
+            "date": "2026-09-08",
+            "url": "https://vod.sooplive.com/player/206610223",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260908_38CE3A98_296970567_1_r&column=2&t=1788933642",
+            "songInfo": [
+                {
+                    "title": "Antifreeze",
+                    "time": "30:18",
+                    "artist": "백예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 30:18 Antifreeze (백예린)"
+                },
+                {
+                    "title": "피날레",
+                    "time": "38:39",
+                    "artist": "eill",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 38:39 피날레 ○"
+                },
+                {
+                    "title": "밤양갱",
+                    "time": "47:12",
+                    "artist": "비비",
+                    "groupSong": false,
+                    "rawLine": "🎤 47:12 밤양갱 (비비)"
+                },
+                {
+                    "title": "바람",
+                    "time": "52:58",
+                    "artist": "최유리",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 52:58 바람 (최유리) ○☆"
+                },
+                {
+                    "title": "What Do I Call You",
+                    "time": "1:01:22",
+                    "artist": "태연",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:01:22 What Do I Call You ■"
+                },
+                {
+                    "title": "헤픈 우연",
+                    "time": "1:07:30",
+                    "artist": "헤이즈",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:07:30 헤픈 우연"
+                },
+                {
+                    "title": "비밀의 화원",
+                    "time": "1:16:23",
+                    "artist": "아이유",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:16:23 비밀의 화원 ○"
+                },
+                {
+                    "title": "만찬가",
+                    "time": "1:23:54",
+                    "artist": "태연",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:23:54 만찬가 (태연) ○"
+                },
+                {
+                    "title": "소로",
+                    "time": "4:18:13",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:18:13 소로"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "6:22:29",
+                    "artist": "로이킴",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:22:29 북두칠성 ○ /* 들을 때마다 느끼는 건데 inst 너무 구려 */"
+                }
+            ]
         }
     ]
 }
