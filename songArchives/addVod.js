@@ -7,21 +7,25 @@
  *   npm run add -- 189435111 189435112
  * 강제 아카이브 지정: npm run add -- "<url|videoId>" [videoId...] --streamer chebi2
  * 비대화형(제목/가수 확인 프롬프트 생략): ADD_VOD_NON_INTERACTIVE=1 npm run add -- "<url|videoId>" [videoId...]
+ *
+ * 이 파일은 CLI 진입점만 담당한다. 파이프라인 로직은 common/ 아래 객체들이 담당:
+ *   ArchiveRegistry -> StreamerRepository (스트리머 1명의 데이터), SongReferenceCatalog (전역 레퍼런스),
+ *   VodImportPipeline (SoopApi + TimelineCommentParser + SongResolver 조립).
  */
 const { spawnSync } = require('child_process');
 const path = require('path');
-const {
-  parseVodUrl,
-  getSoopVodInfo,
-  runPipeline,
-  loadStreamerConfig,
-  findArchiveFolderByVodStreamerId,
-  listConfiguredStreamerIds,
-  normalizeSoopUserId,
-} = require('./common/soopPipeline');
+const { SoopApi } = require('./common/soopApi');
+const { ArchiveRegistry } = require('./common/archiveRegistry');
+const { SongReferenceCatalog } = require('./common/songReferenceCatalog');
+const { VodImportPipeline } = require('./common/vodImportPipeline');
+const { parseVodUrl, normalizeSoopUserId } = require('./common/utils');
 
 const songArchivesRoot = path.resolve(__dirname);
 const argv = process.argv.slice(2);
+
+const archiveRegistry = new ArchiveRegistry(songArchivesRoot);
+const catalog = new SongReferenceCatalog(songArchivesRoot);
+const pipeline = new VodImportPipeline(new SoopApi(), catalog);
 
 function isBareVideoId(token) {
   return /^\d+$/.test(token);
@@ -108,14 +112,6 @@ function formatUsage() {
   ].join('\n');
 }
 
-function resolveForcedStreamerId(songArchivesRootPath, forcedRaw) {
-  const configuredIds = listConfiguredStreamerIds(songArchivesRootPath);
-  const normalizedForced = normalizeSoopUserId(forcedRaw);
-  const matched = configuredIds.find((id) => normalizeSoopUserId(id) === normalizedForced);
-  if (matched) return { streamerId: matched };
-  return { streamerId: null, configuredIds };
-}
-
 let cliArgs;
 try {
   cliArgs = parseCliArgs(argv);
@@ -157,10 +153,10 @@ function formatResolveError(res, vodStreamerId) {
 
 /**
  * @param {string} url
- * @param {string|null} forcedStreamerId - already resolved archive id, or null
+ * @param {import('./common/streamerRepository').StreamerRepository|null} forcedRepository - already resolved archive, or null
  * @returns {Promise<string>} streamerId
  */
-async function addOneVod(url, forcedStreamerId) {
+async function addOneVod(url, forcedRepository) {
   const parsed = parseVodUrl(url);
   if (!parsed) {
     throw new Error(
@@ -168,43 +164,38 @@ async function addOneVod(url, forcedStreamerId) {
     );
   }
 
-  let vodInfo;
-  try {
-    vodInfo = await getSoopVodInfo(parsed.videoId);
-  } catch (err) {
-    throw err;
-  }
+  const vodInfo = await pipeline.getVodInfo(parsed.videoId);
   if (!vodInfo) {
     throw new Error(`VOD ${parsed.videoId} 정보를 가져오지 못했습니다.`);
   }
 
   const vodStreamerId = vodInfo.writer_id;
-  let streamerId = '';
-  if (forcedStreamerId) {
-    streamerId = forcedStreamerId;
-    if (normalizeSoopUserId(vodStreamerId) !== normalizeSoopUserId(streamerId)) {
+  let repository;
+  if (forcedRepository) {
+    repository = forcedRepository;
+    if (normalizeSoopUserId(vodStreamerId) !== normalizeSoopUserId(repository.streamerId)) {
       console.log(
-        `[override] VOD writer_id="${vodStreamerId}" 이지만 --streamer "${streamerId}" 로 강제 저장합니다.`
+        `[override] VOD writer_id="${vodStreamerId}" 이지만 --streamer "${repository.streamerId}" 로 강제 저장합니다.`
       );
     }
   } else {
-    const resolved = findArchiveFolderByVodStreamerId(songArchivesRoot, vodStreamerId);
-    if (!resolved.streamerId) {
+    const resolved = archiveRegistry.resolve(vodStreamerId);
+    if (!resolved.repository) {
       throw new Error(formatResolveError(resolved, vodStreamerId));
     }
-    streamerId = resolved.streamerId;
+    repository = resolved.repository;
   }
 
   try {
-    const result = await runPipeline(url, songArchivesRoot, streamerId, vodInfo);
+    const result = await pipeline.run(url, repository, vodInfo);
     console.log(
       result.replaced ? 'Updated' : 'Added',
       `VOD ${result.videoId}: "${result.title}" (${result.date}), ${result.songCount} song(s).`
     );
-    console.log(`Archive: ${streamerId}`);
-    return streamerId;
+    console.log(`Archive: ${repository.streamerId}`);
+    return repository.streamerId;
   } catch (err) {
-    const { debug } = loadStreamerConfig(songArchivesRoot, streamerId);
+    const { debug } = repository.getConfig();
     if (debug) {
       console.error(err);
     } else {
@@ -228,16 +219,16 @@ function runPreprocess(streamerId) {
 }
 
 async function main() {
-  let forcedStreamerId = null;
+  let forcedRepository = null;
   if (forceStreamerId) {
-    const forced = resolveForcedStreamerId(songArchivesRoot, forceStreamerId);
-    if (!forced.streamerId) {
+    const forced = archiveRegistry.resolveForced(forceStreamerId);
+    if (!forced.repository) {
       const configured = forced.configuredIds.length ? forced.configuredIds.join(', ') : '(없음)';
       console.error(`강제 지정한 스트리머 id "${forceStreamerId}" 를 찾을 수 없습니다.`);
       console.error(`사용 가능한 아카이브: ${configured}`);
       process.exit(1);
     }
-    forcedStreamerId = forced.streamerId;
+    forcedRepository = forced.repository;
   }
 
   const touchedStreamers = new Set();
@@ -247,7 +238,7 @@ async function main() {
       console.log(`\n[${i + 1}/${vodUrls.length}] ${url}`);
     }
     try {
-      const streamerId = await addOneVod(url, forcedStreamerId);
+      const streamerId = await addOneVod(url, forcedRepository);
       touchedStreamers.add(streamerId);
     } catch (err) {
       console.error(err.message || err);

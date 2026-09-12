@@ -23,7 +23,14 @@ UnlinkedVOD/
 │       ├── archive-page.js / .css
 │       ├── community-data.js
 │       ├── add-song-dialog.html
-│       ├── soopPipeline.js
+│       ├── soopApi.js               # Soop API 클라이언트 (VOD 정보·댓글 페이지네이션)
+│       ├── archiveRegistry.js       # VOD streamer id -> StreamerRepository 매칭
+│       ├── streamerRepository.js    # 스트리머 1명의 데이터(config/parseConfig/defaultArtistMapping/source.json)
+│       ├── songReferenceCatalog.js  # 전역 title/artist 레퍼런스 + 썸네일 오버라이드
+│       ├── timelineCommentParser.js # 댓글 HTML -> 원본 파싱 결과
+│       ├── songResolver.js          # 원본 결과를 레퍼런스와 대조해 확정(대화형 프롬프트 포함)
+│       ├── vodImportPipeline.js     # 위 객체들을 조립하는 오케스트레이터
+│       ├── utils.js                 # 순수 유틸 함수
 │       ├── preprocess.py
 │       ├── data/              # titleReference / artistReference / thumbnailOverrides
 │       └── apps-script/
