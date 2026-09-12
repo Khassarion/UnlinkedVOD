@@ -802,8 +802,10 @@
                     "title": "어른",
                     "time": "4:41:56",
                     "artist": "손디아",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:41:56 어른 (손디아) ○☆"
                 }
             ]
         },
@@ -1269,22 +1271,26 @@
                     "title": "숨",
                     "time": "2:45:06",
                     "artist": "박효신",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:45:06 숨 (박효신) ○"
                 },
                 {
                     "title": "밤, 바다",
                     "time": "2:53:21",
                     "artist": "최유리",
-                    "needsReview": true,
-                    "groupSong": false
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:53:21 밤, 바다 (최유리) ○☆"
                 },
                 {
                     "title": "바람이 불어오는 곳",
                     "time": "3:01:57",
                     "artist": "김광석",
-                    "needsReview": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:01:57 바람이 불어오는 곳 (김광석) ■☆"
                 }
             ]
         },

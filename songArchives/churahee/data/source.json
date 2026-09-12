@@ -11083,9 +11083,10 @@
                     "title": "0+0",
                     "time": "8:54:56",
                     "artist": "한로로",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 0+0 8:54:56 ?"
+                    "rawLine": "🎤 0+0 8:54:56 ○☆"
                 }
             ]
         }

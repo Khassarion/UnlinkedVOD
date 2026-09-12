@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-10T22:45:29.276844+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-12T07:50:36.229679+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -82,9 +82,9 @@ const songs = [
         "videoTitle": "[버블란] 버블란 팰월드 2일차",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_381F37DB_297015371_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

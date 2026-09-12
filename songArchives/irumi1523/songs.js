@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-10T03:28:32.912435+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-12T07:52:52.834640+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -1583,8 +1583,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1618,9 +1618,9 @@ const songs = [
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -2386,9 +2386,9 @@ const songs = [
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2686,9 +2686,9 @@ const songs = [
         "videoTitle": "소통 / LCK T1 VS 한화 경기보기 🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260808_62EB789F_296200771_1_r&column=2&t=1786208730",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
