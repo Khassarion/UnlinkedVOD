@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-12T07:50:36.229679+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-13T04:09:12.760854+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -47,7 +47,7 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260706_A959C0F8_295363681_1_r&column=2&t=1784203668",
         "noMistake": true,
-        "recommended": false,
+        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -6859,12 +6859,12 @@ const songs = [
       {
         "date": "2026-09-04",
         "url": "https://vod.sooplive.com/player/206249559?change_second=834",
-        "videoTitle": "[버블란] 해켓몬 마지막날ㅣapi 방셀 있숨",
+        "videoTitle": "소통 - 해켓몬",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260904_07A85E14_296881001_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260904_D053C3EC_296881001_1_r&column=2&t=1788885991",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16678,7 +16678,7 @@ const songs = [
         "videoTitle": "3주년 3등 기념 33한 대화",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260629_8DA55AB1_295190641_1_r&column=2&t=1783532174",
-        "noMistake": true,
+        "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
@@ -21759,7 +21759,13 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      },
+      }
+    ]
+  },
+  {
+    "title": "히로인",
+    "artist": "back number",
+    "versions": [
       {
         "date": "2026-07-06",
         "url": "https://vod.sooplive.com/player/200754741?change_second=14179",
@@ -21771,13 +21777,7 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "히로인",
-    "artist": "back number",
-    "versions": [
+      },
       {
         "date": "2026-09-07",
         "url": "https://vod.sooplive.com/player/206487089?change_second=2567",

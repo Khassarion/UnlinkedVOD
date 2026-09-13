@@ -9187,60 +9187,68 @@
                     "title": "입춘",
                     "time": "2:54:53",
                     "artist": "한로로",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 입춘 (한로로) 2:54:53 /* AR 처음 들어보면서 따라 부르기*/"
                 },
                 {
                     "title": "이자벨라의 자장가",
                     "time": "3:37:25",
                     "artist": "약속의 네버랜드",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 이자벨라의 자장가 (약속의 네버랜드) 3:37:25 ☆"
                 },
                 {
                     "title": "만찬가",
                     "time": "4:00:54",
                     "artist": "츠키",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 만찬가 4:00:54 /*AR*/"
                 },
                 {
                     "title": "연의 편지",
                     "time": "4:08:09",
                     "artist": "이수현",
-                    "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 4:08:09 ■"
                 },
                 {
                     "title": "금요일에 만나요",
                     "time": "4:16:55",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 금요일에 만나요 4:16:55"
                 },
                 {
                     "title": "가끔 내가",
                     "time": "4:23:05",
                     "artist": "김나영",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 가끔 내가 4:23:05"
                 },
                 {
                     "title": "끝이 아닌 것 같아서",
                     "time": "4:28:50",
                     "artist": "바닐라 어쿠스틱",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 끝이 아닌 것 같아서 4:28:50 ○"
                 },
                 {
                     "title": "배웅",
                     "time": "4:38:46",
                     "artist": "박혜원",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 배웅 4:38:46 ■☆"
                 },
                 {
                     "title": "민들레",
                     "time": "4:43:54",
                     "artist": "우효",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 민들레 4:43:54 ○"
                 },
                 {
                     "title": "위로",
@@ -9248,14 +9256,16 @@
                     "artist": "권진아",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 위로 4:52:22 ○☆"
                 },
                 {
                     "title": "안녕이라고 말하지마",
                     "time": "4:57:27",
                     "artist": "다비치",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 안녕이라고 말하지 마 (다비치) 4:57:27 ○"
                 },
                 {
                     "title": "마마",
@@ -9263,7 +9273,8 @@
                     "artist": "김필선",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 마마 5:05:01 ○☆"
                 }
             ]
         },
@@ -9277,27 +9288,32 @@
                     "title": "다시 사랑한다면",
                     "time": "3:41:49",
                     "artist": "김필",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 다시 사랑한다면 3:41:49"
                 },
                 {
                     "title": "야수",
                     "time": "3:48:19",
                     "artist": "김필선",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 야수 3:48:19 ○"
                 },
                 {
                     "title": "히로인",
                     "time": "3:56:19",
-                    "artist": "Back Number",
-                    "groupSong": false
+                    "artist": "back number",
+                    "groupSong": false,
+                    "rawLine": "🎤 히로인 3:56:19 ■"
                 },
                 {
                     "title": "0+0",
                     "time": "4:03:57",
                     "artist": "한로로",
                     "noMistake": true,
-                    "groupSong": false
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 0+0 4:03:57 ○☆"
                 }
             ]
         },
@@ -10877,18 +10893,18 @@
             ]
         },
         {
-            "title": "[버블란] 해켓몬 마지막날ㅣapi 방셀 있숨",
+            "title": "소통 - 해켓몬",
             "date": "2026-09-04",
             "url": "https://vod.sooplive.com/player/206249559",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260904_07A85E14_296881001_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260904_D053C3EC_296881001_1_r&column=2&t=1788885991",
             "songInfo": [
                 {
                     "title": "꽃이 피고 지듯이",
                     "time": "13:54",
                     "artist": "조승우",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 꽃이 피고 지듯이 13:54 ?"
+                    "rawLine": "🎤 꽃이 피고 지듯이 13:54 ☆"
                 }
             ]
         },

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-12T07:52:52.834640+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-13T04:13:25.921246+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -913,6 +913,24 @@ const songs = [
     ]
   },
   {
+    "title": "그래도 나 사랑하지",
+    "artist": "스웨덴 세탁소",
+    "versions": [
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=24287",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "기억을 걷는 시간",
     "artist": "넬",
     "versions": [
@@ -1803,6 +1821,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=4768",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1947,6 +1977,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=6219",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2029,6 +2071,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=4341",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2167,6 +2221,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=23914",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2313,6 +2379,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=5174",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2341,6 +2419,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "수고했어, 오늘도",
+    "artist": "옥상달빛",
+    "versions": [
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=24758",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2443,6 +2539,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=3385",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2623,6 +2731,24 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "야생화",
+    "artist": "박효신",
+    "versions": [
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=5759",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3019,6 +3145,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-12",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=3838",
+        "videoTitle": "다이아랜딩 졸업!🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

@@ -1790,6 +1790,94 @@
                     "rawLine": "🎤 6:22:29 북두칠성 ○ /* 들을 때마다 느끼는 건데 inst 너무 구려 */"
                 }
             ]
+        },
+        {
+            "title": "다이아랜딩 졸업!🤍",
+            "date": "2026-09-12",
+            "url": "https://vod.sooplive.com/player/206987593",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+            "songInfo": [
+                {
+                    "title": "숲",
+                    "time": "56:25",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 56:25 숲 (최유리) ?"
+                },
+                {
+                    "title": "잘 지내자, 우리",
+                    "time": "1:03:58",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:03:58 잘 지내자, 우리 (최유리) ?"
+                },
+                {
+                    "title": "비밀의 화원",
+                    "time": "1:12:21",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:12:21 비밀의 화원 (아이유) ?"
+                },
+                {
+                    "title": "별의 조각",
+                    "time": "1:19:28",
+                    "artist": "윤하",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:19:28 별의 조각 (윤하) ?"
+                },
+                {
+                    "title": "소로",
+                    "time": "1:26:14",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:26:14 소로 (심규선) ?"
+                },
+                {
+                    "title": "야생화",
+                    "time": "1:35:59",
+                    "artist": "박효신",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:35:59 야생화 (박효신) ?"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "1:43:39",
+                    "artist": "로이킴",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:43:39 북두칠성 (로이킴) ?"
+                },
+                {
+                    "title": "산책",
+                    "time": "6:38:34",
+                    "artist": "백예린",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:38:34 산책 (백예린) ?"
+                },
+                {
+                    "title": "그래도 나 사랑하지",
+                    "time": "6:44:47",
+                    "artist": "스웨덴 세탁소",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:44:47 그래도 나 사랑하지 (스웨덴 세탁소) ?"
+                },
+                {
+                    "title": "수고했어, 오늘도",
+                    "time": "6:52:38",
+                    "artist": "옥상달빛",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:52:38 수고했어, 오늘도 (옥상달빛) ?"
+                }
+            ]
         }
     ]
 }
