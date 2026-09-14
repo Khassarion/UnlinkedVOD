@@ -11105,6 +11105,46 @@
                     "rawLine": "🎤 0+0 8:54:56 ○☆"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 후열 토크(w. 요한)",
+            "date": "2026-09-14",
+            "url": "https://vod.sooplive.com/player/207150621",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260914_A98B9A40_297116999_2_r",
+            "songInfo": [
+                {
+                    "title": "끝",
+                    "time": "40:29",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 끝 (권진아) 40:29 ?"
+                },
+                {
+                    "title": "Still With You",
+                    "time": "47:44",
+                    "artist": "정국",
+                    "groupMembers": "상득, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 Still With You (정국) 47:44 (상득, 츄라희)"
+                },
+                {
+                    "title": "널 사랑하지 않아",
+                    "time": "53:46",
+                    "artist": "어반자카파",
+                    "groupMembers": "상득, 왕오솔, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 널 사랑하지 않아 (어반자카파) 53:46 (상득, 왕오솔, 츄라희)"
+                },
+                {
+                    "title": "아라리",
+                    "time": "1:00:38",
+                    "artist": "심규선",
+                    "groupMembers": "상득, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 아라리 (심규선) 1:00:38 (상득, 츄라희)"
+                }
+            ]
         }
     ]
 }
