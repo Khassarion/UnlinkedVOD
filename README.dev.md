@@ -9,7 +9,7 @@ UnlinkedVOD/
 ├── index.html                 # 루트 랜딩 (반응 클립 — 준비 중)
 ├── songArchives/
 │   ├── index.html             # 스트리머별 보관소 허브
-│   ├── addVod.js              # CLI: VOD URL·videoId(복수) → source.json / songs.js
+│   ├── addStreamer.js         # CLI: 새 스트리머 폴더(페이지+데이터) 스캐폴드
 │   ├── {streamer}/            # churahee, irumi1523, chebi2, singgyul …
 │   │   ├── index.html
 │   │   ├── songs.js           # 페이지가 읽는 곡 목록 (생성물)
@@ -19,10 +19,15 @@ UnlinkedVOD/
 │   │       ├── defaultArtistMapping.json
 │   │       ├── config.example.json
 │   │       └── config.json    # gitignore (로컬 전용)
-│   └── common/
-│       ├── archive-page.js / .css
-│       ├── community-data.js
-│       ├── add-song-dialog.html
+│   ├── common/                 # 보관소 페이지 전용(브라우저에서 로드)
+│   │   ├── archive-page.js / .css
+│   │   ├── community-data.js
+│   │   ├── add-song-dialog.html
+│   │   ├── streamerList.js / streamerFlags.js
+│   │   └── apps-script/
+│   │       └── Code.gs
+│   └── pipeline/                    # addVod 데이터 수집·갱신 전용(Node/Python, 페이지는 안 씀)
+│       ├── addVod.js                # CLI 진입점: VOD URL·videoId(복수) → source.json / songs.js
 │       ├── soopApi.js               # Soop API 클라이언트 (VOD 정보·댓글 페이지네이션)
 │       ├── archiveRegistry.js       # VOD streamer id -> StreamerRepository 매칭
 │       ├── streamerRepository.js    # 스트리머 1명의 데이터(config/parseConfig/defaultArtistMapping/source.json)
@@ -31,10 +36,8 @@ UnlinkedVOD/
 │       ├── songResolver.js          # 원본 결과를 레퍼런스와 대조해 확정(대화형 프롬프트 포함)
 │       ├── vodImportPipeline.js     # 위 객체들을 조립하는 오케스트레이터
 │       ├── utils.js                 # 순수 유틸 함수
-│       ├── preprocess.py
-│       ├── data/              # titleReference / artistReference / thumbnailOverrides
-│       └── apps-script/
-│           └── Code.gs
+│       ├── preprocess.py            # source.json -> songs.js 재생성
+│       └── data/                    # titleReference / artistReference / thumbnailOverrides
 └── package.json
 ```
 
@@ -64,9 +67,9 @@ npm run add -- 189435111 189435112
 
 같은 `videoId`가 있으면 교체, 없으면 추가합니다. 배치로 넣은 뒤 preprocess는 건드린 아카이브별로 한 번씩 실행됩니다.
 
-**진행 순서:** Soop API로 VOD·댓글 수집 → `data/parseConfig.json` 파싱 → `titleReference` / `artistReference` 정규화 → `defaultArtistMapping.json` 보강 → (썸네일이 비어 있으면 `thumbnailOverrides.json` 보강) → `data/source.json` → `python songArchives/common/preprocess.py {스트리머}`로 `songs.js` 재생성.
+**진행 순서:** Soop API로 VOD·댓글 수집 → `data/parseConfig.json` 파싱 → `titleReference` / `artistReference` 정규화 → `defaultArtistMapping.json` 보강 → (썸네일이 비어 있으면 `thumbnailOverrides.json` 보강) → `data/source.json` → `python songArchives/pipeline/preprocess.py {스트리머}`로 `songs.js` 재생성.
 
-VOD API가 권한 부족 등으로 썸네일을 못 내려주면(공백) `songArchives/common/data/thumbnailOverrides.json`(`{ "videoId": "썸네일URL" }`)에서 해당 `videoId`를 찾아 대신 씁니다. 매핑에도 없으면 경고만 띄우고(에러 아님), 대화형 세션이면 Enter 입력을 기다렸다가 계속 진행합니다.
+VOD API가 권한 부족 등으로 썸네일을 못 내려주면(공백) `songArchives/pipeline/data/thumbnailOverrides.json`(`{ "videoId": "썸네일URL" }`)에서 해당 `videoId`를 찾아 대신 씁니다. 매핑에도 없으면 경고만 띄우고(에러 아님), 대화형 세션이면 Enter 입력을 기다렸다가 계속 진행합니다.
 
 변경분을 커밋·푸시하면 GitHub Pages에 반영됩니다.
 
@@ -152,9 +155,9 @@ npm run add-streamer -- --id chebi2 --title 체비
 
 ## 노래·가수 레퍼런스
 
-- **곡** `songArchives/common/data/titleReference.json`  
+- **곡** `songArchives/pipeline/data/titleReference.json`  
   `{ "title": "캐노니컬", "aliases": ["별칭", …] }` (`aliases` 필수)
-- **가수** `songArchives/common/data/artistReference.json`  
+- **가수** `songArchives/pipeline/data/artistReference.json`  
   `{ "artist": "캐노니컬", "aliases": ["별칭", …] }`
 
 **순서:** 댓글 파싱 → `titleReference` → `artistReference` → 스트리머 `defaultArtistMapping.json`.  
@@ -165,7 +168,7 @@ npm run add-streamer -- --id chebi2 --title 체비
 
 ## 썸네일 override
 
-`songArchives/common/data/thumbnailOverrides.json` — `{ "videoId": "썸네일URL" }`.  
+`songArchives/pipeline/data/thumbnailOverrides.json` — `{ "videoId": "썸네일URL" }`.  
 `npm run add` 실행 시 Soop VOD API가 썸네일을 못 내려주면(권한 부족 등으로 공백) 이 매핑에서 `videoId`를 찾아 `source.json`의 `thumbnail`로 씁니다. 항목이 없으면 콘솔에 경고만 띄우고(에러 아님) 대화형 세션이면 Enter 입력을 받은 뒤 나머지 작업(파싱·병합)을 계속합니다.
 
 ## Pages 배포

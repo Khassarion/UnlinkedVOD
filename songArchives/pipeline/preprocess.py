@@ -3,8 +3,8 @@ import os
 import sys
 from datetime import datetime, timezone
 
-# Archive root = parent of this file's directory (songArchives/common → songArchives).
-# Run: python songArchives/common/preprocess.py [streamerId]  (cwd 무관)
+# Archive root = parent of this file's directory (songArchives/pipeline → songArchives).
+# Run: python songArchives/pipeline/preprocess.py [streamerId]  (cwd 무관)
 _script_dir = os.path.dirname(os.path.abspath(__file__))
 archive_root = os.path.dirname(_script_dir)
 streamer_id = sys.argv[1] if len(sys.argv) > 1 else "churahee"

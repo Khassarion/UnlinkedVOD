@@ -8,19 +8,19 @@
  * 강제 아카이브 지정: npm run add -- "<url|videoId>" [videoId...] --streamer chebi2
  * 비대화형(제목/가수 확인 프롬프트 생략): ADD_VOD_NON_INTERACTIVE=1 npm run add -- "<url|videoId>" [videoId...]
  *
- * 이 파일은 CLI 진입점만 담당한다. 파이프라인 로직은 common/ 아래 객체들이 담당:
+ * 이 파일은 CLI 진입점만 담당한다. 파이프라인 로직은 이 폴더(songArchives/pipeline/)의 다른 객체들이 담당:
  *   ArchiveRegistry -> StreamerRepository (스트리머 1명의 데이터), SongReferenceCatalog (전역 레퍼런스),
  *   VodImportPipeline (SoopApi + TimelineCommentParser + SongResolver 조립).
  */
 const { spawnSync } = require('child_process');
 const path = require('path');
-const { SoopApi } = require('./common/soopApi');
-const { ArchiveRegistry } = require('./common/archiveRegistry');
-const { SongReferenceCatalog } = require('./common/songReferenceCatalog');
-const { VodImportPipeline } = require('./common/vodImportPipeline');
-const { parseVodUrl, normalizeSoopUserId } = require('./common/utils');
+const { SoopApi } = require('./soopApi');
+const { ArchiveRegistry } = require('./archiveRegistry');
+const { SongReferenceCatalog } = require('./songReferenceCatalog');
+const { VodImportPipeline } = require('./vodImportPipeline');
+const { parseVodUrl, normalizeSoopUserId } = require('./utils');
 
-const songArchivesRoot = path.resolve(__dirname);
+const songArchivesRoot = path.resolve(__dirname, '..');
 const argv = process.argv.slice(2);
 
 const archiveRegistry = new ArchiveRegistry(songArchivesRoot);
@@ -153,7 +153,7 @@ function formatResolveError(res, vodStreamerId) {
 
 /**
  * @param {string} url
- * @param {import('./common/streamerRepository').StreamerRepository|null} forcedRepository - already resolved archive, or null
+ * @param {import('./streamerRepository').StreamerRepository|null} forcedRepository - already resolved archive, or null
  * @returns {Promise<string>} streamerId
  */
 async function addOneVod(url, forcedRepository) {
@@ -206,13 +206,13 @@ async function addOneVod(url, forcedRepository) {
 }
 
 function runPreprocess(streamerId) {
-  const preprocessPath = path.join(songArchivesRoot, 'common', 'preprocess.py');
+  const preprocessPath = path.join(songArchivesRoot, 'pipeline', 'preprocess.py');
   const py = spawnSync('python', [preprocessPath, streamerId], {
     cwd: songArchivesRoot,
     stdio: 'inherit',
   });
   if (py.status !== 0) {
-    console.error(`Preprocess failed. From repo root: python songArchives/common/preprocess.py ${streamerId}`);
+    console.error(`Preprocess failed. From repo root: python songArchives/pipeline/preprocess.py ${streamerId}`);
     process.exit(1);
   }
   console.log(`${streamerId}/songs.js updated.`);

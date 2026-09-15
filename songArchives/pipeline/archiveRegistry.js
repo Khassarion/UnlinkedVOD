@@ -33,7 +33,7 @@ class ArchiveRegistry {
   }
 
   /**
-   * List `songArchives/{id}` dirs that have `data/config.json` (excludes `common`).
+   * List `songArchives/{id}` dirs that have `data/config.json` (excludes `common`/`pipeline`).
    * @returns {string[]}
    */
   listConfiguredIds() {
@@ -45,7 +45,7 @@ class ArchiveRegistry {
       return ids;
     }
     for (const e of entries) {
-      if (!e.isDirectory() || e.name === 'common') continue;
+      if (!e.isDirectory() || e.name === 'common' || e.name === 'pipeline') continue;
       if (fs.existsSync(path.join(this.songArchivesRoot, e.name, 'data', 'config.json'))) ids.push(e.name);
     }
     return ids;

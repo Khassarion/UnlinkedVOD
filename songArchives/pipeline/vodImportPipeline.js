@@ -110,7 +110,7 @@ class VodImportPipeline {
         } else {
           console.warn(
             `[경고] VOD ${videoId} 썸네일을 API에서 가져오지 못했습니다(권한 부족 등으로 공백). ` +
-              `songArchives/common/data/thumbnailOverrides.json 에도 이 videoId 항목이 없습니다.`
+              `songArchives/pipeline/data/thumbnailOverrides.json 에도 이 videoId 항목이 없습니다.`
           );
           if (rl) await rl.question('썸네일 없이 계속 진행하려면 Enter를 누르세요: ');
         }

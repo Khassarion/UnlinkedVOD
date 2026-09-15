@@ -26,13 +26,13 @@ function findCanonicalMatch(list, canonicalKey, aliasKeys, rawValue) {
 }
 
 /**
- * Global title/artist reference + thumbnail overrides: songArchives/common/data.
+ * Global title/artist reference + thumbnail overrides: songArchives/pipeline/data.
  * Shared across all streamers within one process.
  */
 class SongReferenceCatalog {
   constructor(repoRoot) {
     this.repoRoot = repoRoot;
-    const dataDir = path.join(repoRoot, 'common', 'data');
+    const dataDir = path.join(repoRoot, 'pipeline', 'data');
     this.titleRefPath = path.join(dataDir, 'titleReference.json');
     this.artistRefPath = path.join(dataDir, 'artistReference.json');
     this.thumbnailOverridesPath = path.join(dataDir, 'thumbnailOverrides.json');

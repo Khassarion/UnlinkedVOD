@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Streamer Reactions Hub and Community Site",
   "scripts": {
-    "add": "node songArchives/addVod.js",
+    "add": "node songArchives/pipeline/addVod.js",
     "add-streamer": "node songArchives/addStreamer.js",
     "churahee:migrate": "node songArchives/churahee/data/migrateAfreecaToSoop.js"
   },

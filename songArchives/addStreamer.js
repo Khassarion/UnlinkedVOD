@@ -64,8 +64,8 @@ function assertSafeId(id) {
   if (!/^[a-zA-Z0-9_-]+$/.test(id)) {
     throw new Error('id 는 영문/숫자/밑줄/하이픈만 사용할 수 있습니다.');
   }
-  if (id === 'common') {
-    throw new Error('"common" 은 예약된 폴더명입니다.');
+  if (id === 'common' || id === 'pipeline') {
+    throw new Error(`"${id}" 은(는) 예약된 폴더명입니다.`);
   }
 }
 
