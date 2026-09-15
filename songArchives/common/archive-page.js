@@ -8,11 +8,13 @@ function getVersionSort() {
   return (el && el.value) || 'dateDesc';
 }
 
+/** 1-1 기록 필터 체크박스 상태(복수 선택 시 AND로 적용) */
 function getVersionFilters() {
   return {
     noMistakeOnly: document.getElementById('filterVersionNoMistake')?.checked ?? false,
     recommendedOnly: document.getElementById('filterVersionRecommended')?.checked ?? false,
     needsReviewOnly: document.getElementById('filterVersionNeedsReview')?.checked ?? false,
+    excludeSyncroom: document.getElementById('filterExcludeSyncroom')?.checked ?? false,
   };
 }
 
@@ -66,91 +68,19 @@ function noMistakeCount(versions) {
   return versions.filter((v) => v.noMistake).length;
 }
 
-function applyVersionFilterOnly(versions, versionFilters) {
+/** 1-1 기록 필터링: 체크된 조건을 AND로 적용해 기록(버전)을 실제로 걸러낸다(선택 없으면 전부 유지) */
+function applyRecordFilters(versions, versionFilters) {
   let list = versions ? [...versions] : [];
   if (versionFilters.noMistakeOnly) list = list.filter((v) => v.noMistake);
   if (versionFilters.recommendedOnly) list = list.filter((v) => v.recommended);
   if (versionFilters.needsReviewOnly) list = list.filter((v) => v.needsReview);
+  if (versionFilters.excludeSyncroom) list = list.filter((v) => !isSyncroomVersion(v));
   return list;
 }
 
+/** 3) 노래 안의 기록 정렬 */
 function sortVersionsByVersionSort(versions, versionSort) {
   let list = versions ? [...versions] : [];
-  if (versionSort === 'dateAsc') {
-    list.sort((a, b) => parseVodDate(a.date) - parseVodDate(b.date));
-  } else {
-    list.sort((a, b) => parseVodDate(b.date) - parseVodDate(a.date));
-  }
-  return list;
-}
-
-function getListSortLabel(listSort) {
-  switch (listSort) {
-    case 'title':
-      return '가나다순';
-    case 'dateDesc':
-      return '최신 방송순';
-    case 'dateAsc':
-      return '오래된 방송순';
-    case 'versionCountDesc':
-      return '버전 많은 순';
-    case 'noMistakeRatioDesc':
-      return '실수 없음 비율 높은 순';
-    case 'noMistakeRatioAsc':
-      return '실수 없음 비율 낮은 순';
-    case 'noMistakeCountDesc':
-      return '실수 없음 많은 순';
-    case 'noMistakeCountAsc':
-      return '실수 없음 적은 순';
-    default:
-      return '가나다순';
-  }
-}
-
-function getVersionSortLabel(versionSort) {
-  switch (versionSort) {
-    case 'dateAsc':
-      return '오래된순';
-    case 'dateDesc':
-    default:
-      return '최신순';
-  }
-}
-
-function getCheckedDisplayLabels(versionFilters) {
-  const labels = [];
-  if (versionFilters.noMistakeOnly) labels.push('실수 없음');
-  if (versionFilters.recommendedOnly) labels.push('추천');
-  if (versionFilters.needsReviewOnly) labels.push('검토 필요');
-  if (!labels.length) return ['전체 버전'];
-  return labels;
-}
-
-function renderFilterDescription(minVersionCount, listSort, versionSort, versionFilters) {
-  const el = document.getElementById('filterDescription');
-  if (!el) return;
-
-  const listLabel = getListSortLabel(listSort);
-  const versionLabel = getVersionSortLabel(versionSort);
-  const kindsLabel = getCheckedDisplayLabels(versionFilters).join(' ');
-
-  el.textContent =
-    '기록이 최소 ' +
-    minVersionCount +
-    '개 있는 곡을 ' +
-    listLabel +
-    '으로 정렬합니다. | 기록은 ' +
-    versionLabel +
-    '으로 정렬합니다. | ' +
-    kindsLabel +
-    '만 표시합니다.';
-}
-
-function applyVersionFilterAndSort(versions, versionSort, versionFilters) {
-  let list = versions ? [...versions] : [];
-  if (versionFilters.noMistakeOnly) list = list.filter((v) => v.noMistake);
-  if (versionFilters.recommendedOnly) list = list.filter((v) => v.recommended);
-  if (versionFilters.needsReviewOnly) list = list.filter((v) => v.needsReview);
   if (versionSort === 'dateAsc') {
     list.sort((a, b) => parseVodDate(a.date) - parseVodDate(b.date));
   } else {
@@ -184,12 +114,6 @@ function isSyncroomVersion(version) {
   return version?.groupSong === true;
 }
 
-function filterVersionsBySyncroom(versions, excludeSyncroom) {
-  const list = versions ? [...versions] : [];
-  if (!excludeSyncroom) return list;
-  return list.filter((v) => !isSyncroomVersion(v));
-}
-
 function loadSongs(searchTerm = '') {
   const container = document.getElementById('songList');
   if (!container) return;
@@ -197,14 +121,11 @@ function loadSongs(searchTerm = '') {
   const versionFilters = getVersionFilters();
   const versionSort = getVersionSort();
   const minVersionCount = getMinVersionCount();
-  const excludeSyncroom = getExcludeSyncroom();
-
   const listSort = getListSort();
-
-  renderFilterDescription(minVersionCount, listSort, versionSort, versionFilters);
 
   const q = (searchTerm || '').toLowerCase();
   let list = songs
+    // 1-2) 노래 필터링: 키워드 검색(제목/가수)
     .filter((song) => {
       const t = (song.title || '').toLowerCase();
       const a = (song.artist || '').toLowerCase();
@@ -212,11 +133,13 @@ function loadSongs(searchTerm = '') {
     })
     .map((song) => ({
       song,
-      versions: filterVersionsBySyncroom(song.versions || [], excludeSyncroom),
+      // 1-1) 기록 필터링: 체크된 조건을 AND로 적용
+      versions: applyRecordFilters(song.versions || [], versionFilters),
     }))
-    // 체크박스 필터는 아직 적용하지 않고, 곡 정렬을 위한 기준(최소 버전 수)만 먼저 적용
+    // 1-3) 노래 필터링: 필터링된 기록이 최소 개수 이상인 곡만
     .filter(({ versions }) => versions.length >= minVersionCount);
 
+  // 2) 노래 정렬: 필터링된 기록 기준으로 곡 순서를 정함
   if (listSort === 'title') {
     list.sort((a, b) => {
       const c = (a.song.title || '').localeCompare(b.song.title || '', 'ko');
@@ -258,15 +181,8 @@ function loadSongs(searchTerm = '') {
   container.innerHTML = '';
 
   list.forEach(({ song, versions }) => {
-    // 1) 버전 정렬(versionSort) 먼저 수행
+    // 3) 노래 안의 기록 정렬
     const versionsSorted = sortVersionsByVersionSort(versions, versionSort);
-    // 2) 체크박스에 해당하는 버전은 우선 표시, 나머지는 뒤로 보내고 희미하게 처리
-    const versionsMatching = applyVersionFilterOnly(versionsSorted, versionFilters);
-    const matchingSet = new Set(versionsMatching);
-    const versionsToDisplay = [
-      ...versionsMatching,
-      ...versionsSorted.filter((v) => !matchingSet.has(v)),
-    ];
 
     const row = document.createElement('section');
     row.className = 'song-row';
@@ -289,15 +205,14 @@ function loadSongs(searchTerm = '') {
     const strip = document.createElement('div');
     strip.className = 'version-strip';
 
-    versionsToDisplay.forEach((v) => {
+    versionsSorted.forEach((v) => {
       const icons = versionIconsHtml(v);
       const syncroomBadge = syncroomBadgeHtml(v);
       const card = document.createElement('a');
       card.href = v.url;
       card.target = '_blank';
       card.rel = 'noopener noreferrer';
-      const isMatching = matchingSet.has(v);
-      card.className = 'version-card' + (isMatching ? '' : ' version-card-faded');
+      card.className = 'version-card';
       card.innerHTML = `
         <span class="version-card-thumb">
           <img src="${escapeHtml(v.thumbnail)}" alt="" loading="lazy" />

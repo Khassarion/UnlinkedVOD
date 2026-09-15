@@ -123,7 +123,14 @@ function buildIndexHtml({ streamerId, siteTitle }) {
       <span class="toolbar-divider" aria-hidden="true"></span>
 
       <div class="logic-sentence" aria-label="필터링 및 정렬 적용 방식">
-        <span>기록이 최소</span>
+        <span>기록 중</span>
+        <div class="logic-checkbox-group" role="group" aria-label="기록 필터">
+          <label class="chip-label" data-version-flags="on"><input type="checkbox" id="filterVersionNoMistake" /> 클립 방지 실패</label>
+          <label class="chip-label" data-version-flags="on"><input type="checkbox" id="filterVersionRecommended" /> 추천</label>
+          <label class="chip-label" data-version-flags="on"><input type="checkbox" id="filterVersionNeedsReview" /> 검토 필요</label>
+          <label class="chip-label"><input type="checkbox" id="filterExcludeSyncroom" /> 싱크룸 제외</label>
+        </div>
+        <span>에 해당하는 것만 남기고, 그 기록이 최소</span>
         <input
           type="number"
           id="minVersionCount"
@@ -146,21 +153,12 @@ function buildIndexHtml({ streamerId, siteTitle }) {
         </select>
         <span>으로 정렬합니다.</span>
         <span class="logic-sep" aria-hidden="true">|</span>
-        <span>기록은</span>
+        <span>남은 기록은</span>
         <select id="versionSort" class="select" aria-label="버전 정렬 옵션">
           <option value="dateDesc">최신순</option>
           <option value="dateAsc">오래된순</option>
         </select>
-        <span data-version-flags="on">으로 정렬하고</span>
-        <span data-version-flags="off">으로 정렬합니다.</span>
-        <span class="logic-sep" data-version-flags="on" aria-hidden="true">|</span>
-        <div class="logic-checkbox-group" data-version-flags="on" role="group" aria-label="표시 우선 기준">
-          <label class="chip-label"><input type="checkbox" id="filterVersionNoMistake" /> 클립 방지 실패</label>
-          <label class="chip-label"><input type="checkbox" id="filterVersionRecommended" /> 추천</label>
-          <label class="chip-label"><input type="checkbox" id="filterVersionNeedsReview" /> 검토 필요</label>
-        </div>
-        <span data-version-flags="on">를 우선적으로 표시합니다.</span>
-        <label class="chip-label logic-right-option"><input type="checkbox" id="filterExcludeSyncroom" /> 싱크룸 제외</label>
+        <span>으로 정렬합니다.</span>
       </div>
     </div>
   </header>

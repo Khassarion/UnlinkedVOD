@@ -764,12 +764,6 @@ body {
   cursor: pointer;
 }
 
-.logic-right-option {
-  margin-left: auto;
-  padding-left: 0.8rem;
-  border-left: 1px solid var(--border);
-}
-
 /* ─── 본문 + 오른쪽 다시보기 패널 ─── */
 .page-layout {
   display: flex;
@@ -1168,15 +1162,6 @@ a.vod-cal-day:focus-visible {
 
 .version-card:hover {
   transform: scale(1.02);
-}
-
-.version-card-faded {
-  opacity: 0.35;
-  filter: grayscale(0.4);
-}
-
-.version-card-faded:hover {
-  transform: none;
 }
 
 .version-card:focus-visible {
