@@ -104,10 +104,10 @@ function syncroomBadgeHtml(version) {
   return `<span class="version-badge version-badge-syncroom"${titleAttr}>싱크룸</span>`;
 }
 
+const _escapeHtmlScratch = document.createElement('div');
 function escapeHtml(s) {
-  const div = document.createElement('div');
-  div.textContent = s;
-  return div.innerHTML;
+  _escapeHtmlScratch.textContent = s;
+  return _escapeHtmlScratch.innerHTML;
 }
 
 function isSyncroomVersion(version) {
@@ -233,6 +233,15 @@ function loadSongs(searchTerm = '') {
     row.appendChild(strip);
     container.appendChild(row);
   });
+}
+
+/** wait(ms) 동안 추가 호출이 없을 때만 fn 실행 — 타이핑 중 매 키스트로크마다 전체 목록을 다시 그리지 않도록 */
+function debounce(fn, wait) {
+  let timer = null;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn(...args), wait);
+  };
 }
 
 function searchSongs() {
@@ -851,8 +860,7 @@ window.onload = () => {
   renderDataLastUpdated();
   loadSongs();
   setupVodPanel();
-  document.getElementById('searchBar')?.addEventListener('input', searchSongs);
-  document.getElementById('searchBar')?.addEventListener('keyup', searchSongs);
+  document.getElementById('searchBar')?.addEventListener('input', debounce(searchSongs, 150));
   document.getElementById('listSort')?.addEventListener('change', onFilterOrSortChange);
   document.getElementById('versionSort')?.addEventListener('change', onFilterOrSortChange);
   document.getElementById('minVersionCount')?.addEventListener('input', onFilterOrSortChange);
