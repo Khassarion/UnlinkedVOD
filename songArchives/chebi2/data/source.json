@@ -2892,6 +2892,85 @@
                     "rawLine": "🎤 4:05:57 | 체비 - LETTER (유다빈밴드)"
                 }
             ]
+        },
+        {
+            "title": "✧ _(´ω`_　)_ ✧",
+            "date": "2026-09-15",
+            "url": "https://vod.sooplive.com/player/207241675",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260915_E12A4782_297142595_2_r",
+            "songInfo": [
+                {
+                    "title": "히로인",
+                    "time": "4:46:23",
+                    "artist": "back number",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:46:23 | 체비 - 히로인"
+                },
+                {
+                    "title": "소로",
+                    "time": "4:53:43",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:53:43 | 체비 - 소로"
+                },
+                {
+                    "title": "GoodBoy",
+                    "time": "4:58:56",
+                    "artist": "김필선",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:58:56 | 체비 - GoodBoy (김필선)"
+                },
+                {
+                    "title": "별의 조각",
+                    "time": "5:04:01",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:04:01 | 체비 -  별의 조각"
+                }
+            ]
+        },
+        {
+            "title": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
+            "date": "2026-09-16",
+            "url": "https://vod.sooplive.com/player/207334775",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
+            "songInfo": [
+                {
+                    "title": "사랑이라 했던 말 속에서",
+                    "time": "4:28:18",
+                    "artist": "can't be blue",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:28:18  | 체비 - 사랑이라 했던 말 속에서 (can't be blue)"
+                },
+                {
+                    "title": "Ride or die",
+                    "time": "4:33:03",
+                    "artist": "NO:EL",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:33:03 | 체비 - Ride or die (NO:EL)"
+                },
+                {
+                    "title": "BAD LOVE",
+                    "time": "4:38:30",
+                    "artist": "비오(BE'O)",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:38:30 | 체비 - BAD LOVE (비오)"
+                },
+                {
+                    "title": "내일 또 보자",
+                    "time": "4:43:17",
+                    "artist": "하츠네 미쿠",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:43:17 | 체비 - 내일 또 보자 (하츠네 미쿠)"
+                },
+                {
+                    "title": "먹구름",
+                    "time": "4:51:51",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:51:51 | 체비 - 먹구름 (윤하)"
+                }
+            ]
         }
     ]
 }

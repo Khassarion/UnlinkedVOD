@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-06T22:05:41.300042+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-19T21:24:59.683544+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -370,6 +370,18 @@ const songs = [
         "videoTitle": "치치런너 2등 + 더켓몬 섭종콘 + 옵치 듀오 W.달묘",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260328_1A66CC11_292767915_1_r&column=2&t=1774727747",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207334775?change_second=16710",
+        "videoTitle": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -838,6 +850,18 @@ const songs = [
         "videoTitle": "골골체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260422_20AB848F_293435151_1_r&column=2&t=1776890630",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-15",
+        "url": "https://vod.sooplive.com/player/207241675?change_second=17936",
+        "videoTitle": "✧ _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260915_E12A4782_297142595_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1540,6 +1564,18 @@ const songs = [
         "videoTitle": "[역팬 & 확정방셀]",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260312_C223FF97_292340033_1_r&column=2&t=1773356935",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207334775?change_second=16383",
+        "videoTitle": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2665,6 +2701,24 @@ const songs = [
     ]
   },
   {
+    "title": "내일 또 보자",
+    "artist": "하츠네 미쿠",
+    "versions": [
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207334775?change_second=16997",
+        "videoTitle": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "너, 너",
     "artist": "스트레이",
     "versions": [
@@ -3189,6 +3243,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207334775?change_second=17511",
+        "videoTitle": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3607,6 +3673,24 @@ const songs = [
     ]
   },
   {
+    "title": "별의 조각",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-09-15",
+        "url": "https://vod.sooplive.com/player/207241675?change_second=18241",
+        "videoTitle": "✧ _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260915_E12A4782_297142595_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "별의 하모니",
     "artist": "QWER",
     "versions": [
@@ -3760,6 +3844,18 @@ const songs = [
         "videoTitle": "재미가 있었다",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260725_E313655F_295842571_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207334775?change_second=16098",
+        "videoTitle": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4053,6 +4149,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 임하밍"
+      },
+      {
+        "date": "2026-09-15",
+        "url": "https://vod.sooplive.com/player/207241675?change_second=17623",
+        "videoTitle": "✧ _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260915_E12A4782_297142595_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5481,6 +5589,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 모카, 플리, 임하밍"
+      },
+      {
+        "date": "2026-09-15",
+        "url": "https://vod.sooplive.com/player/207241675?change_second=17183",
+        "videoTitle": "✧ _(´ω`_　)_ ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260915_E12A4782_297142595_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   }
