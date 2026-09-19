@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-13T04:13:25.921246+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-19T21:10:39.490282+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -91,6 +91,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=13988",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -495,6 +507,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=14546",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -741,6 +765,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327137?change_second=19069",
+        "videoTitle": "예스노탐정 백탐정 보여줄게🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1789579446",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -829,6 +865,24 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "괴물이 피는 숲",
+    "artist": "미로",
+    "versions": [
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=4445",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1075,6 +1129,24 @@ const songs = [
     ]
   },
   {
+    "title": "나의 사춘기에게",
+    "artist": "볼빨간사춘기",
+    "versions": [
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=12632",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "나의 우주",
     "artist": "한결",
     "versions": [
@@ -1267,6 +1339,24 @@ const songs = [
     ]
   },
   {
+    "title": "답답한 새벽",
+    "artist": "최유리",
+    "versions": [
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327137?change_second=19498",
+        "videoTitle": "예스노탐정 백탐정 보여줄게🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1789579446",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "도망가자",
     "artist": "선우정아",
     "versions": [
@@ -1327,6 +1417,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "들리나요",
+    "artist": "태연",
+    "versions": [
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=15848",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2025,6 +2133,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=6561",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2631,6 +2751,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=5761",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2647,6 +2779,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=16208",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2683,6 +2827,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=5012",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2833,6 +2989,24 @@ const songs = [
     ]
   },
   {
+    "title": "여우비",
+    "artist": "츄",
+    "versions": [
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=6882",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "오르트구름",
     "artist": "윤하",
     "versions": [
@@ -2845,6 +3019,24 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "오빠야",
+    "artist": "신현희와 김루트",
+    "versions": [
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=3701",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3067,6 +3259,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-17",
+        "url": "https://vod.sooplive.com/player/207412849?change_second=40796",
+        "videoTitle": "넷다 세피리아 처음입니다 (w. 싱유, 물초코, 모나양)🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260917_CEC2AE02_297183799_1_r&column=2&t=1789663905",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3451,6 +3655,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-19",
+        "url": "https://vod.sooplive.com/player/207562285?change_second=7568",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
