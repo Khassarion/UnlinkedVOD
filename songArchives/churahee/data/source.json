@@ -11,63 +11,87 @@
                     "time": "7:25:03",
                     "artist": "김보경",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 혼자라고 생각말기 7:25:03 ○☆"
                 },
                 {
                     "title": "꿈에",
                     "time": "7:29:47",
-                    "artist": "박정현"
+                    "artist": "박정현",
+                    "groupSong": false,
+                    "rawLine": "🎤 꿈에 7:29:47"
                 },
                 {
                     "title": "U R",
                     "time": "7:34:16",
-                    "artist": "태연"
+                    "artist": "태연",
+                    "groupSong": false,
+                    "rawLine": "🎤 U R 7:34:16"
                 },
                 {
                     "title": "INVU",
                     "time": "7:39:27",
-                    "artist": "태연"
+                    "artist": "태연",
+                    "groupSong": false,
+                    "rawLine": "🎤 INVU 7:39:27"
                 },
                 {
                     "title": "저녁 하늘",
                     "time": "7:42:12",
-                    "artist": "에일리"
+                    "artist": "에일리",
+                    "groupSong": false,
+                    "rawLine": "🎤 저녁 하늘 7:42:12"
                 },
                 {
                     "title": "마음을 드려요",
                     "time": "7:46:41",
                     "artist": "아이유",
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 마음을 드려요 7:46:41 ☆"
                 },
                 {
                     "title": "숲",
                     "time": "7:51:40",
-                    "artist": "최유리"
+                    "artist": "최유리",
+                    "groupSong": false,
+                    "rawLine": "🎤 숲 7:51:40"
                 },
                 {
                     "title": "Storm",
                     "time": "7:55:45",
-                    "artist": "루머스"
+                    "artist": "루머스",
+                    "groupSong": false,
+                    "rawLine": "🎤 Storm 7:55:45"
                 },
                 {
                     "title": "장마",
                     "time": "7:58:33",
-                    "artist": "정인"
+                    "artist": "정인",
+                    "groupSong": false,
+                    "rawLine": "🎤 장마 7:58:33"
                 },
                 {
-                    "title": "My way",
+                    "title": "My Way",
                     "time": "8:03:50",
-                    "artist": "M.C The Max"
+                    "artist": "M.C The Max",
+                    "groupSong": false,
+                    "rawLine": "🎤 My way 8:03:50"
                 },
                 {
                     "title": "소로",
                     "time": "8:12:47",
-                    "artist": "심규선"
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 소로 8:12:47"
                 },
                 {
                     "title": "Drowning",
                     "time": "8:24:33",
-                    "artist": "WOODZ"
+                    "artist": "WOODZ",
+                    "groupSong": false,
+                    "rawLine": "🎤 Drowning 8:24:33"
                 }
             ]
         },
@@ -6758,51 +6782,59 @@
                     "title": "노래하는 다람쥐",
                     "time": "6:27",
                     "artist": "제이래빗",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 노래하는 다람쥐 6:27"
                 },
                 {
                     "title": "호시아이",
                     "time": "16:15",
                     "artist": "레프티 몬스터P",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 호시아이 16:15"
                 },
                 {
                     "title": "천성의 약함",
                     "time": "22:56",
                     "artist": "164",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 천성의 약함 22:56"
                 },
                 {
                     "title": "아이와 나의 바다",
                     "time": "30:04",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 아이와 나의 바다 30:04"
                 },
                 {
                     "title": "Viva La Vida",
                     "time": "38:49",
                     "artist": "콜드플레이",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Viva La Vida 38:49 ○"
                 },
                 {
                     "title": "월하의 그대에게",
                     "time": "48:04",
                     "artist": "Xenesus & 쪽빛아리아",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 월하의 그대에게 48:04"
                 },
                 {
                     "title": "고양이",
                     "time": "53:04",
                     "artist": "선우정아",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 고양이 53:04 ○"
                 },
                 {
                     "title": "동경캐스터",
                     "time": "58:55",
                     "artist": "하츠네 미쿠",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 동경캐스터 58:55"
                 },
                 {
                     "title": "아라리",
@@ -6810,14 +6842,16 @@
                     "artist": "심규선",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 아라리 1:05:00 ○☆"
                 },
                 {
                     "title": "오스카",
                     "time": "1:12:49",
                     "artist": "심규선",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 오스카 1:12:49 ■☆"
                 },
                 {
                     "title": "화조도",
@@ -6825,111 +6859,129 @@
                     "artist": "심규선",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 화조도 1:19:25 ○☆"
                 },
                 {
                     "title": "Ahoy!! 우리는 호쇼해적단",
                     "time": "1:28:16",
                     "artist": "호쇼 마린",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Ahoy!! 우리는 호쇼해적단 1:28:16"
                 },
                 {
                     "title": "어푸",
                     "time": "1:36:06",
                     "artist": "아이유",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 어푸 1:36:06 ○"
                 },
                 {
                     "title": "출발",
                     "time": "1:43:42",
                     "artist": "김동률",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 출발 1:43:42"
                 },
                 {
                     "title": "When I Get Old",
                     "time": "1:48:47",
                     "artist": "청하",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 When I Get Old (청하) 1:48:47"
                 },
                 {
                     "title": "봄봄봄",
                     "time": "1:53:51",
                     "artist": "로이킴",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 봄봄봄 1:53:51 ○"
                 },
                 {
                     "title": "Happy Birthday To You",
                     "time": "2:00:07",
                     "artist": "권진원",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Happy Birthday To You (권진원) 2:00:07"
                 },
                 {
                     "title": "I AM",
                     "time": "2:09:14",
                     "artist": "IVE",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 I AM (IVE) 2:09:14"
                 },
                 {
                     "title": "Ditto",
                     "time": "2:10:43",
                     "artist": "뉴진스",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Ditto 2:10:43"
                 },
                 {
                     "title": "Next Level",
                     "time": "2:15:06",
                     "artist": "aespa",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Next Level (aespa) 2:15:06"
                 },
                 {
                     "title": "Nxde",
                     "time": "2:16:59",
-                    "artist": "I-DLE",
-                    "groupSong": false
+                    "artist": "i-dle",
+                    "groupSong": false,
+                    "rawLine": "🎤 Nxde (I-DLE) 2:16:59"
                 },
                 {
                     "title": "불장난",
                     "time": "2:20:40",
                     "artist": "BLACKPINK",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 불장난 (BLACKPINK) 2:20:40"
                 },
                 {
                     "title": "Kitsch",
                     "time": "2:27:25",
                     "artist": "IVE",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Kitsch (IVE) 2:27:25"
                 },
                 {
                     "title": "특 S-Class",
                     "time": "2:31:24",
                     "artist": "스트레이 키즈",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 특 S-Class 2:31:24"
                 },
                 {
                     "title": "CHEER UP",
                     "time": "2:38:28",
                     "artist": "TWICE",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 CHEER UP 2:38:28"
                 },
                 {
                     "title": "Dolphin",
                     "time": "2:40:11",
                     "artist": "오마이걸",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Dolphin 2:40:11"
                 },
                 {
                     "title": "Beautiful Liar (Rerecorded)",
                     "time": "2:47:46",
                     "artist": "MONSTA X",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Beautiful Liar\\ (Rerecorded) (MONSTA X) 2:47:46"
                 },
                 {
-                    "title": "My way",
+                    "title": "My Way",
                     "time": "2:51:11",
                     "artist": "M.C The Max",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 My way 2:51:11"
                 }
             ]
         },
@@ -11143,6 +11195,213 @@
                     "groupMembers": "상득, 츄라희",
                     "groupSong": true,
                     "rawLine": "🎶 아라리 (심규선) 1:00:38 (상득, 츄라희)"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 후열 배그(w. 뜨사 상득 요한)",
+            "date": "2026-09-16",
+            "url": "https://vod.sooplive.com/player/207327963",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_3E2FB626_297162749_2_r",
+            "songInfo": [
+                {
+                    "title": "산책",
+                    "time": "3:53:06",
+                    "artist": "백예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 산책 (백예린) 3:53:06"
+                },
+                {
+                    "title": "만찬가",
+                    "time": "4:03:42",
+                    "artist": "츠키",
+                    "groupMembers": "요한, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 만찬가 4:03:42 (요한, 츄라희)"
+                },
+                {
+                    "title": "JANE DOE",
+                    "time": "4:09:40",
+                    "artist": "요네즈 켄시",
+                    "groupMembers": "상득, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 JANE DOE 4:09:40 (상득, 츄라희)"
+                },
+                {
+                    "title": "Still With You",
+                    "time": "4:26:21",
+                    "artist": "정국",
+                    "groupMembers": "뜨사, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 Still With You (정국) 4:26:21 (뜨사, 츄라희)"
+                },
+                {
+                    "title": "마지막 날처럼",
+                    "time": "4:43:11",
+                    "artist": "유럽",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 마지막 날처럼 4:43:11 ○"
+                }
+            ]
+        },
+        {
+            "title": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+            "date": "2023-07-05",
+            "url": "https://vod.sooplive.com/player/104306937",
+            "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+            "songInfo": [
+                {
+                    "title": "꼭두각시 피에로",
+                    "time": "2:14:27",
+                    "artist": "하츠네 미쿠",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 꼭두각시 피에로 (하츠네 미쿠) 2:14:27 ?"
+                },
+                {
+                    "title": "Lonely Night",
+                    "time": "2:21:15",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Lonely Night 2:21:15 ?"
+                },
+                {
+                    "title": "Kitsch",
+                    "time": "2:27:32",
+                    "artist": "IVE",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Kitsch (IVE) 2:27:32 ?"
+                },
+                {
+                    "title": "신호등",
+                    "time": "2:35:38",
+                    "artist": "이무진",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 신호등 (이무진) 2:35:38 ?"
+                },
+                {
+                    "title": "부엉이",
+                    "time": "2:41:07",
+                    "artist": "KOKIA",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 부엉이 2:41:07 ?"
+                },
+                {
+                    "title": "Cinderella",
+                    "time": "2:48:50",
+                    "artist": "타이미",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Cinderella 2:48:50 ?"
+                },
+                {
+                    "title": "몽환의 숲",
+                    "time": "2:53:07",
+                    "artist": "키네틱 플로우",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 몽환의 숲 2:53:07 ?"
+                },
+                {
+                    "title": "MIC Drop",
+                    "time": "3:00:59",
+                    "artist": "방탄소년단",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 MIC Drop (BTS) 3:00:59 ?"
+                },
+                {
+                    "title": "땡",
+                    "time": "3:02:03",
+                    "artist": "RM, SUGA, j-hope",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 땡 (RM, SUGA, j-hope) 3:02:03 ?"
+                },
+                {
+                    "title": "아이돌",
+                    "time": "3:07:10",
+                    "artist": "요아소비",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 아이돌 3:07:10 ?"
+                },
+                {
+                    "title": "Nxde",
+                    "time": "3:12:38",
+                    "artist": "i-dle",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Nxde (i-dle) 3:12:38 ?"
+                },
+                {
+                    "title": "Faded",
+                    "time": "3:18:22",
+                    "artist": "Alan Walker",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Faded (Alan Walker) 3:18:22 ?"
+                },
+                {
+                    "title": "A Thousand Years",
+                    "time": "3:21:19",
+                    "artist": "Christina Perri",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 A Thousand Years 3:21:19 ?"
+                },
+                {
+                    "title": "Speechless",
+                    "time": "3:28:14",
+                    "artist": "Naomi Scott",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Speechless (Naomi Scott) 3:28:14 ?"
+                },
+                {
+                    "title": "사랑은 은하수 다방에서",
+                    "time": "3:39:15",
+                    "artist": "10CM",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑은 은하수 다방에서 3:39:15 ?"
+                },
+                {
+                    "title": "Pet",
+                    "time": "3:43:29",
+                    "artist": "10CM",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Pet 3:43:29 ?"
+                },
+                {
+                    "title": "스물다섯, 스물하나",
+                    "time": "3:48:26",
+                    "artist": "자우림",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 스물다섯, 스물하나 3:48:26 ?"
+                },
+                {
+                    "title": "나의 사춘기에게",
+                    "time": "3:56:03",
+                    "artist": "볼빨간사춘기",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 나의 사춘기에게 3:56:03 ?"
+                },
+                {
+                    "title": "여봉봉",
+                    "time": "4:02:23",
+                    "artist": "아율",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 여봉봉 4:02:23 ?"
                 }
             ]
         }

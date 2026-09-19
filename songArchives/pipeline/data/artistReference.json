@@ -444,7 +444,9 @@
     },
     {
         "artist": "방탄소년단",
-        "aliases": []
+        "aliases": [
+            "BTS"
+        ]
     },
     {
         "artist": "배치기",
@@ -1661,8 +1663,10 @@
         "aliases": []
     },
     {
-        "artist": "I-DLE",
-        "aliases": []
+        "artist": "i-dle",
+        "aliases": [
+            "I-DLE"
+        ]
     },
     {
         "artist": "IVE",
@@ -1677,6 +1681,10 @@
         "aliases": [
             "izi"
         ]
+    },
+    {
+        "artist": "j-hope",
+        "aliases": []
     },
     {
         "artist": "Jeremy Zucker",
@@ -1739,6 +1747,10 @@
         "aliases": []
     },
     {
+        "artist": "Naomi Scott",
+        "aliases": []
+    },
+    {
         "artist": "Nat King Cole",
         "aliases": []
     },
@@ -1767,6 +1779,10 @@
         "aliases": []
     },
     {
+        "artist": "RM",
+        "aliases": []
+    },
+    {
         "artist": "Ruelle",
         "aliases": []
     },
@@ -1780,6 +1796,10 @@
     },
     {
         "artist": "SG워너비 & 브라운아이드걸스",
+        "aliases": []
+    },
+    {
+        "artist": "SUGA",
         "aliases": []
     },
     {

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-14T15:56:05.870408+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-19T07:10:57.148199+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -321,6 +321,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "츄라희, 콧시"
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=12079",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -927,6 +939,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=10130",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1231,6 +1255,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "versions": [
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=11902",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1664,7 +1706,7 @@ const songs = [
   },
   {
     "title": "Happy Birthday To You",
-    "artist": "",
+    "artist": "권진원",
     "versions": [
       {
         "date": "2024-10-11",
@@ -1677,13 +1719,7 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "Happy Birthday To You",
-    "artist": "권진원",
-    "versions": [
+      },
       {
         "date": "2023-06-29",
         "url": "https://vod.sooplive.com/player/104058136?change_second=7207",
@@ -2151,6 +2187,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327963?change_second=14980",
+        "videoTitle": "[버블란] 후열 배그(w. 뜨사 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_3E2FB626_297162749_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "상득, 츄라희"
       }
     ]
   },
@@ -2221,6 +2269,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=8852",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2581,6 +2641,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=8475",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3061,6 +3133,24 @@ const songs = [
     ]
   },
   {
+    "title": "MIC Drop",
+    "artist": "방탄소년단",
+    "versions": [
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=10859",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "MONSTER",
     "artist": "권진아",
     "versions": [
@@ -3229,7 +3319,7 @@ const songs = [
     ]
   },
   {
-    "title": "My way",
+    "title": "My Way",
     "artist": "M.C The Max",
     "versions": [
       {
@@ -3410,7 +3500,7 @@ const songs = [
   },
   {
     "title": "Nxde",
-    "artist": "I-DLE",
+    "artist": "i-dle",
     "versions": [
       {
         "date": "2023-06-29",
@@ -3421,6 +3511,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=11558",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3565,6 +3667,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=13409",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4387,6 +4501,24 @@ const songs = [
     ]
   },
   {
+    "title": "Speechless",
+    "artist": "Naomi Scott",
+    "versions": [
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=12494",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Square",
     "artist": "백예린",
     "versions": [
@@ -4515,6 +4647,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "상득, 츄라희"
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327963?change_second=15981",
+        "videoTitle": "[버블란] 후열 배그(w. 뜨사 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_3E2FB626_297162749_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "뜨사, 츄라희"
       }
     ]
   },
@@ -6685,6 +6829,24 @@ const songs = [
     ]
   },
   {
+    "title": "꼭두각시 피에로",
+    "artist": "하츠네 미쿠",
+    "versions": [
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=8067",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "꽃길",
     "artist": "김세정",
     "versions": [
@@ -7413,6 +7575,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "공태연, 슈니"
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=14163",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -8923,6 +9097,24 @@ const songs = [
     ]
   },
   {
+    "title": "땡",
+    "artist": "RM, SUGA, j-hope",
+    "versions": [
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=10923",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "레오",
     "artist": "유우리",
     "versions": [
@@ -9429,6 +9621,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327963?change_second=16991",
+        "videoTitle": "[버블란] 후열 배그(w. 뜨사 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_3E2FB626_297162749_2_r",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -9711,6 +9915,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327963?change_second=14622",
+        "videoTitle": "[버블란] 후열 배그(w. 뜨사 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_3E2FB626_297162749_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "요한, 츄라희"
       }
     ]
   },
@@ -9921,6 +10137,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=10387",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -11823,6 +12051,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=9667",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -12891,6 +13131,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "멍보리, 예요예요, 츄라희"
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=13155",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -13176,6 +13428,18 @@ const songs = [
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20240629_FA5C8FBE_272450400_2_r",
         "noMistake": false,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-16",
+        "url": "https://vod.sooplive.com/player/207327963?change_second=13986",
+        "videoTitle": "[버블란] 후열 배그(w. 뜨사 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_3E2FB626_297162749_2_r",
+        "noMistake": false,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -14907,6 +15171,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=13706",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -15189,6 +15465,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "멍보리, 예요예요, 츄라희"
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=9338",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -15379,6 +15667,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=11230",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16573,6 +16873,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2023-07-05",
+        "url": "https://vod.sooplive.com/player/104306937?change_second=14543",
+        "videoTitle": "6일차) 노래뱅인데 고음하는 방법을 까먹었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

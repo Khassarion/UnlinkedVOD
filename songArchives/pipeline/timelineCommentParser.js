@@ -169,7 +169,8 @@ class TimelineCommentParser {
     dbg('  파트 제거 후 나머지:', JSON.stringify(remainder));
     dbg('  심볼 → noMistake:', noMistake, 'recommended:', recommended, 'needsReview:', needsReview);
 
-    const title = decodeHtmlEntities((result.songTitle || '').replace(/\\:/g, ':'));
+    // 제목 안의 이스케이프(`\:` → `:`, `\ ` → 공백) 해제. `\ (`는 songArtist 파트의 lookbehind가 아티스트 구분으로 안 보게 함.
+    const title = decodeHtmlEntities((result.songTitle || '').replace(/\\([: ])/g, '$1'));
     const artist = (result.songArtist || '').trim();
     const timeStr = (result.time || '').trim();
     if (!title || !timeStr) {
