@@ -11404,6 +11404,110 @@
                     "rawLine": "🎤 여봉봉 4:02:23 ?"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+            "date": "2026-09-20",
+            "url": "https://vod.sooplive.com/player/207656479",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+            "songInfo": [
+                {
+                    "title": "꽃길",
+                    "time": "01:59:44",
+                    "artist": "김세정",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 꽃길 01:59:44 ~ 02:03:38 ?"
+                },
+                {
+                    "title": "고맙습니다",
+                    "time": "02:07:23",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 고맙습니다 02:07:23 ~ 02:11:46 ?"
+                },
+                {
+                    "title": "한계",
+                    "time": "02:17:15",
+                    "artist": "넬",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 한계 (넬) 02:17:15 ~ 02:18:07 ?"
+                },
+                {
+                    "title": "붉은 장미",
+                    "time": "02:20:43",
+                    "artist": "우예린",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 02:20:43 ~ 02:24:11 ?"
+                },
+                {
+                    "title": "가끔 내가",
+                    "time": "02:30:38",
+                    "artist": "김나영",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 가끔 내가 02:30:38 ~ 02:34:11 ?"
+                },
+                {
+                    "title": "우주를 건너",
+                    "time": "02:36:51",
+                    "artist": "백예린",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 우주를 건너 02:36:51 ~ 02:40:52 ?"
+                },
+                {
+                    "title": "You",
+                    "time": "02:47:11",
+                    "artist": "김상민",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 You 02:47:11 ~ 02:51:20 ?"
+                },
+                {
+                    "title": "하늘바라기",
+                    "time": "02:55:53",
+                    "artist": "정은지",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 하늘바라기 02:55:53 ~ 02:59:34 ?"
+                },
+                {
+                    "title": "안녕",
+                    "time": "03:03:49",
+                    "artist": "조이",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 안녕 (조이) 03:03:49 ~ 03:07:25 ?"
+                },
+                {
+                    "title": "달에 지다",
+                    "time": "03:11:24",
+                    "artist": "베이지",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 달에 지다 (베이지) 03:11:24 ~ 03:15:30 ?"
+                },
+                {
+                    "title": "OHAYO MY NIGHT",
+                    "time": "03:17:34",
+                    "artist": "디핵",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 OHAYO MY NIGHT (디핵) 03:17:34 ~ 03:21:31 ?"
+                },
+                {
+                    "title": "웃으며",
+                    "time": "03:24:56",
+                    "artist": "신예영",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 웃으며 03:24:56 ~ 03:29:55 ?"
+                }
+            ]
         }
     ]
 }
