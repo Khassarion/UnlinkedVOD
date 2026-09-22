@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-21T01:17:46.966599+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-22T09:38:24.997158+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -3630,7 +3630,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=11854",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=11862",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -5406,7 +5406,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=10031",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=10035",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -5592,7 +5592,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=9038",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=9042",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -5898,13 +5898,13 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=7643",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=7648",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -7008,13 +7008,13 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=7184",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=7188",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8952,7 +8952,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=11484",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=11489",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -12366,7 +12366,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=8443",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=8448",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -16026,7 +16026,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=11029",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=11034",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -18336,7 +18336,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=9411",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=9414",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -18654,7 +18654,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=12296",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=12301",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -21108,7 +21108,7 @@ const songs = [
       },
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=10553",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=10558",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
@@ -21312,13 +21312,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-09-20",
-        "url": "https://vod.sooplive.com/player/207656479?change_second=8235",
+        "url": "https://vod.sooplive.com/player/207656479?change_second=8066",
         "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

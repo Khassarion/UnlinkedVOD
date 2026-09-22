@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-19T21:10:39.490282+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-22T09:38:50.547616+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -97,12 +97,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=13988",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -511,12 +511,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=14546",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -877,12 +877,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=4445",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -972,13 +972,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=24287",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=24278",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1135,12 +1135,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=12632",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1429,12 +1429,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=15848",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1932,13 +1932,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=4768",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=4759",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2088,13 +2088,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=6219",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=6210",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2137,12 +2137,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=6561",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2196,13 +2196,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=4341",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=4332",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2346,13 +2346,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=23914",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=23905",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2502,13 +2502,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=5174",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=5165",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2550,13 +2550,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=24758",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=24749",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2664,13 +2664,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=3385",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=3376",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2755,12 +2755,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=5761",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2785,12 +2785,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=16208",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2833,12 +2833,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=5012",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2898,13 +2898,13 @@ const songs = [
     "versions": [
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=5759",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=5750",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2995,12 +2995,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=6882",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3031,12 +3031,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=3701",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3354,13 +3354,13 @@ const songs = [
       },
       {
         "date": "2026-09-12",
-        "url": "https://vod.sooplive.com/player/206987593?change_second=3838",
+        "url": "https://vod.sooplive.com/player/206987593?change_second=3829",
         "videoTitle": "다이아랜딩 졸업!🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260912_CDC1CBE7_297075445_1_r&column=2&t=1789244727",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206987593_1789241951_1_r&column=2&t=1789411049",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3661,12 +3661,12 @@ const songs = [
       {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=7568",
-        "videoTitle": "소통 노래 / 후열 세피리아(w. 물초코)🤍 9월 룰렛 33/330",
+        "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789831183",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260919_5AF6482C_297234049_1_r&column=2&t=1789998931",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

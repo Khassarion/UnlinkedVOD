@@ -11413,99 +11413,98 @@
             "songInfo": [
                 {
                     "title": "꽃길",
-                    "time": "01:59:44",
+                    "time": "1:59:48",
                     "artist": "김세정",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 꽃길 01:59:44 ~ 02:03:38 ?"
+                    "rawLine": "🎤 꽃길 1:59:48 ~ 2:03:38 ○"
                 },
                 {
                     "title": "고맙습니다",
-                    "time": "02:07:23",
+                    "time": "2:07:28",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 고맙습니다 02:07:23 ~ 02:11:46 ?"
+                    "rawLine": "🎤 고맙습니다 2:07:28 ~ 2:11:46 ■☆ /*지려따*/"
                 },
                 {
                     "title": "한계",
-                    "time": "02:17:15",
+                    "time": "2:14:26",
                     "artist": "넬",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 한계 (넬) 02:17:15 ~ 02:18:07 ?"
+                    "rawLine": "🎤 한계 (넬) 2:14:26 ~ 2:18:07"
                 },
                 {
                     "title": "붉은 장미",
-                    "time": "02:20:43",
+                    "time": "2:20:48",
                     "artist": "우예린",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 붉은 장미 02:20:43 ~ 02:24:11 ?"
+                    "rawLine": "🎤 붉은 장미 2:20:48 ~ 2:24:11 ?"
                 },
                 {
                     "title": "가끔 내가",
-                    "time": "02:30:38",
+                    "time": "2:30:42",
                     "artist": "김나영",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 가끔 내가 02:30:38 ~ 02:34:11 ?"
+                    "rawLine": "🎤 가끔 내가 2:30:42 ~ 2:34:11 ?"
                 },
                 {
                     "title": "우주를 건너",
-                    "time": "02:36:51",
+                    "time": "2:36:54",
                     "artist": "백예린",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 우주를 건너 02:36:51 ~ 02:40:52 ?"
+                    "rawLine": "🎤 우주를 건너 2:36:54 ~ 2:40:52 ?"
                 },
                 {
                     "title": "You",
-                    "time": "02:47:11",
+                    "time": "2:47:15",
                     "artist": "김상민",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 You 02:47:11 ~ 02:51:20 ?"
+                    "rawLine": "🎤 You 2:47:15 ~ 2:51:20 ?"
                 },
                 {
                     "title": "하늘바라기",
-                    "time": "02:55:53",
+                    "time": "2:55:58",
                     "artist": "정은지",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 하늘바라기 02:55:53 ~ 02:59:34 ?"
+                    "rawLine": "🎤 하늘바라기 2:55:58 ~ 2:59:34 ?"
                 },
                 {
                     "title": "안녕",
-                    "time": "03:03:49",
+                    "time": "3:03:54",
                     "artist": "조이",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 안녕 (조이) 03:03:49 ~ 03:07:25 ?"
+                    "rawLine": "🎤 안녕 (조이) 3:03:54 ~ 3:07:25 ?"
                 },
                 {
                     "title": "달에 지다",
-                    "time": "03:11:24",
+                    "time": "3:11:29",
                     "artist": "베이지",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 달에 지다 (베이지) 03:11:24 ~ 03:15:30 ?"
+                    "rawLine": "🎤 달에 지다 (베이지) 3:11:29 ~ 3:15:30 ?"
                 },
                 {
                     "title": "OHAYO MY NIGHT",
-                    "time": "03:17:34",
+                    "time": "3:17:42",
                     "artist": "디핵",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 OHAYO MY NIGHT (디핵) 03:17:34 ~ 03:21:31 ?"
+                    "rawLine": "🎤 OHAYO MY NIGHT (디핵) 3:17:42 ~ 3:21:31 ?"
                 },
                 {
                     "title": "웃으며",
-                    "time": "03:24:56",
+                    "time": "3:25:01",
                     "artist": "신예영",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 웃으며 03:24:56 ~ 03:29:55 ?"
+                    "rawLine": "🎤 웃으며 3:25:01 ~ 3:29:55 ?"
                 }
             ]
         }
