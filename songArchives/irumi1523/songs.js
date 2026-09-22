@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-22T09:38:50.547616+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-22T23:00:49.272480+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -625,6 +625,24 @@ const songs = [
     ]
   },
   {
+    "title": "Strawberry Moon",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=9282",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Strawberry moon",
     "artist": "아이유",
     "versions": [
@@ -867,6 +885,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=9768",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -883,6 +913,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=7807",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -931,6 +973,24 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "그대만 있다면",
+    "artist": "너드커넥션",
+    "versions": [
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=2457",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1227,6 +1287,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=8777",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1453,6 +1525,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=10156",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2025,6 +2109,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=3980",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2095,6 +2191,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=2914",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2373,6 +2481,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=11144",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2437,6 +2557,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=14344",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2539,6 +2671,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=14527",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2791,6 +2935,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=4926",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3303,6 +3459,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=7386",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3331,6 +3499,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "잘 부탁드립니다",
+    "artist": "익스",
+    "versions": [
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=11727",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3511,6 +3697,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=5558",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

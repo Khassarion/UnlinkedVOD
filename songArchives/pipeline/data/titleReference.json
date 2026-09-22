@@ -1863,6 +1863,10 @@
         "aliases": []
     },
     {
+        "title": "잘 부탁드립니다",
+        "aliases": []
+    },
+    {
         "title": "잘 지내자, 우리",
         "aliases": []
     },
@@ -3187,12 +3191,11 @@
         "aliases": []
     },
     {
-        "title": "Strawberry moon",
-        "aliases": []
-    },
-    {
         "title": "Strawberry Moon",
-        "aliases": []
+        "aliases": [
+            "Strawberry moon",
+            "strawberry moon"
+        ]
     },
     {
         "title": "STYLE",
