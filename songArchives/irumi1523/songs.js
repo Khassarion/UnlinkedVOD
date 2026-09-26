@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-22T23:00:49.272480+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-26T21:52:33.310863+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -223,6 +223,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Eternal Snow",
+    "artist": "달빛천사 OST",
+    "versions": [
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207929003?change_second=18822",
+        "videoTitle": "후열🤍 9월 룰렛 33/330 확정O",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_D899A3B8_297335573_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -634,9 +652,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -789,10 +807,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/207327137?change_second=19069",
         "videoTitle": "예스노탐정 백탐정 보여줄게🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1789579446",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1790085797",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -892,9 +910,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -922,9 +940,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -988,9 +1006,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1294,9 +1312,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1419,10 +1437,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/207327137?change_second=19498",
         "videoTitle": "예스노탐정 백탐정 보여줄게🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1789579446",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1790085797",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1534,9 +1552,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2117,8 +2135,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2200,9 +2218,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2488,9 +2506,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2562,13 +2580,13 @@ const songs = [
       },
       {
         "date": "2026-09-21",
-        "url": "https://vod.sooplive.com/player/207744769?change_second=14344",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=14230",
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2682,7 +2700,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2944,9 +2962,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3182,7 +3200,7 @@ const songs = [
   },
   {
     "title": "오빠야",
-    "artist": "신현희와 김루트",
+    "artist": "신현희와김루트",
     "versions": [
       {
         "date": "2026-09-19",
@@ -3423,10 +3441,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/207412849?change_second=40796",
         "videoTitle": "넷다 세피리아 처음입니다 (w. 싱유, 물초코, 모나양)🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260917_CEC2AE02_297183799_1_r&column=2&t=1789663905",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260917_CEC2AE02_297183799_1_r&column=2&t=1790087102",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3468,7 +3486,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3515,8 +3533,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3633,6 +3651,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207929003?change_second=12212",
+        "videoTitle": "후열🤍 9월 룰렛 33/330 확정O",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_D899A3B8_297335573_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3706,9 +3736,9 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

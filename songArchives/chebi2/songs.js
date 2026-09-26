@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-19T21:24:59.683544+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-26T21:54:11.970299+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -530,14 +530,26 @@ const songs = [
   },
   {
     "title": "Cruel Summer",
-    "artist": "TORI",
+    "artist": "Taylor Swift",
     "versions": [
       {
         "date": "2026-08-01",
         "url": "https://vod.sooplive.com/player/203149763?change_second=26664",
-        "videoTitle": "리캡만 보고 퇴근",
+        "videoTitle": "[Machine Party] 개꿀잼 시그널 파티 ♡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_69BA93F8_296027239_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=16298",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1011,6 +1023,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=26669",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1090,6 +1114,18 @@ const songs = [
         "videoTitle": "재미가 있었다",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260725_E313655F_295842571_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-22",
+        "url": "https://vod.sooplive.com/player/207860867?change_second=34115",
+        "videoTitle": "✧ 천타버스 발헤임 + 왁굳 님 후열 발로란트 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260922_861C0BD0_297314181_1_r&column=2&t=1790111598",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1438,6 +1474,24 @@ const songs = [
         "videoTitle": "[역팬 & 확정방셀] 분내 품멜파티",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260313_E66A0429_292366011_1_r&column=2&t=1773430946",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Pet",
+    "artist": "10CM",
+    "versions": [
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=4112",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2083,6 +2137,24 @@ const songs = [
     ]
   },
   {
+    "title": "갑자기",
+    "artist": "아이오아이",
+    "versions": [
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=14598",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "검정색하트",
     "artist": "TOIL",
     "versions": [
@@ -2464,6 +2536,30 @@ const songs = [
         "videoTitle": "끄앙",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260318_B960D307_292504093_1_r&column=2&t=1773864460",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=15557",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=26041",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3739,6 +3835,24 @@ const songs = [
     ]
   },
   {
+    "title": "봄꿈",
+    "artist": "네네코 마시로",
+    "versions": [
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=15860",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "봄날",
     "artist": "방탄소년단",
     "versions": [
@@ -3861,6 +3975,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=14923",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3916,6 +4042,24 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "살구송",
+    "artist": "오유",
+    "versions": [
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=25663",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4725,6 +4869,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=25832",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4864,6 +5020,24 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "오빠야",
+    "artist": "신현희와김루트",
+    "versions": [
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=25422",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5421,6 +5595,30 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-20",
+        "url": "https://vod.sooplive.com/player/207690959?change_second=15268",
+        "videoTitle": "✧ 오리지널 체비끼끼 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=3517",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5482,6 +5680,24 @@ const songs = [
         "videoTitle": "✧ 후열 한 두판만 ✧",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "피카츄의 노래",
+    "artist": "오오타니 이쿠에, 피카츄",
+    "versions": [
+      {
+        "date": "2026-09-23",
+        "url": "https://vod.sooplive.com/player/207949505?change_second=3797",
+        "videoTitle": "✧ 잼쓰뜨 ✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

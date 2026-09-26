@@ -1887,23 +1887,23 @@
             "title": "예스노탐정 백탐정 보여줄게🤍",
             "date": "2026-09-16",
             "url": "https://vod.sooplive.com/player/207327137",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1789579446",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_6859B6E1_297166491_1_r&column=2&t=1790085797",
             "songInfo": [
                 {
                     "title": "yours",
                     "time": "5:17:49",
                     "artist": "데이먼스 이어",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:17:49 yours ?"
+                    "rawLine": "🎤 5:17:49 yours ○☆"
                 },
                 {
                     "title": "답답한 새벽",
                     "time": "5:24:58",
                     "artist": "최유리",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:24:58 답답한 새벽 (최유리) ?"
+                    "rawLine": "🎤 5:24:58 답답한 새벽 (최유리) ■"
                 }
             ]
         },
@@ -1911,15 +1911,14 @@
             "title": "넷다 세피리아 처음입니다 (w. 싱유, 물초코, 모나양)🤍",
             "date": "2026-09-17",
             "url": "https://vod.sooplive.com/player/207412849",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260917_CEC2AE02_297183799_1_r&column=2&t=1789663905",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260917_CEC2AE02_297183799_1_r&column=2&t=1790087102",
             "songInfo": [
                 {
                     "title": "입춘",
                     "time": "11:19:56",
                     "artist": "한로로",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 11:19:56 입춘 ?"
+                    "rawLine": "🎤 11:19:56 입춘"
                 }
             ]
         },
@@ -1932,9 +1931,9 @@
                 {
                     "title": "오빠야",
                     "time": "1:01:41",
-                    "artist": "신현희와 김루트",
+                    "artist": "신현희와김루트",
                     "groupSong": false,
-                    "rawLine": "🎤 1:01:41 오빠야 (신현희와 김루트)"
+                    "rawLine": "🎤 1:01:41 오빠야 (신현희와김루트)"
                 },
                 {
                     "title": "괴물이 피는 숲",
@@ -2034,121 +2033,154 @@
                     "title": "그대만 있다면",
                     "time": "40:57",
                     "artist": "너드커넥션",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 40:57 ~ 44:59 그대만 있다면 ?"
+                    "rawLine": "🎤 40:57 ~ 44:59 그대만 있다면 ○"
                 },
                 {
                     "title": "북두칠성",
                     "time": "48:34",
                     "artist": "로이킴",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 48:34 ~ 52:11 북두칠성 ?"
+                    "rawLine": "🎤 48:34 ~ 52:11 북두칠성 ○"
                 },
                 {
                     "title": "부디",
                     "time": "1:06:20",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:06:20 ~ 1:10:56 부디 ?"
+                    "rawLine": "🎤 1:06:20 ~ 1:10:56 부디 ■☆"
                 },
                 {
                     "title": "아라리",
                     "time": "1:22:06",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:22:06 ~ 1:25:30 아라리 ?"
+                    "rawLine": "🎤 1:22:06 ~ 1:25:30 아라리 ○☆"
                 },
                 {
                     "title": "편지",
                     "time": "1:32:38",
                     "artist": "김광진",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:32:38 ~ 1:37:01 편지 ?"
+                    "rawLine": "🎤 1:32:38 ~ 1:37:01 편지 ○"
                 },
                 {
                     "title": "잊어야 한다는 마음으로",
                     "time": "2:03:06",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:03:06 ~ 2:06:47 잊어야 한다는 마음으로 ?"
+                    "rawLine": "🎤 2:03:06 ~ 2:06:47 잊어야 한다는 마음으로 ■"
                 },
                 {
                     "title": "괴물이 피는 숲",
                     "time": "2:10:07",
                     "artist": "미로",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:10:07 괴물이 피는 숲 ?"
+                    "rawLine": "🎤 2:10:07 괴물이 피는 숲 ○"
                 },
                 {
                     "title": "내 마음이 너에게 닿기를",
                     "time": "2:26:17",
                     "artist": "경서",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:26:17 내 마음이 너에게 닿기를 ?"
+                    "rawLine": "🎤 2:26:17 내 마음이 너에게 닿기를 ○"
                 },
                 {
                     "title": "Strawberry Moon",
                     "time": "2:34:42",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:34:42 strawberry moon ?"
+                    "rawLine": "🎤 2:34:42 strawberry moon ○☆"
                 },
                 {
                     "title": "관객이 될게",
                     "time": "2:42:48",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:42:48 관객이 될게 ?"
+                    "rawLine": "🎤 2:42:48 관객이 될게 ○☆"
                 },
                 {
                     "title": "마음을 드려요",
                     "time": "2:49:16",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:49:16 마음을 드려요 ?"
+                    "rawLine": "🎤 2:49:16 마음을 드려요 ○☆"
                 },
                 {
                     "title": "상사화",
                     "time": "3:05:44",
                     "artist": "안예은",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:05:44  상사화 ?"
+                    "rawLine": "🎤 3:05:44 상사화 ○"
                 },
                 {
                     "title": "잘 부탁드립니다",
                     "time": "3:15:27",
                     "artist": "익스",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:15:27  잘 부탁드립니다 (익스) ?"
+                    "rawLine": "🎤 3:15:27  잘 부탁드립니다 (익스) ☆☆"
                 },
                 {
                     "title": "생각을 멈추다 보면",
-                    "time": "3:59:04",
+                    "time": "3:57:10",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:59:04 생각을 멈추다 보면 ?"
+                    "rawLine": "🎤 3:57:10 생각을 멈추다 보면 ○"
                 },
                 {
                     "title": "소문의 낙원",
                     "time": "4:02:07",
                     "artist": "AKMU",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:02:07 소문의 낙원"
+                }
+            ]
+        },
+        {
+            "title": "풀트 실패,, 카페 보기🤍 9월 룰렛 33/330",
+            "date": "2026-09-20",
+            "url": "https://vod.sooplive.com/player/207636257",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_3AB9D604_297258245_1_r&column=2&t=1790089044",
+            "songInfo": []
+        },
+        {
+            "title": "후열🤍 9월 룰렛 33/330 확정O",
+            "date": "2026-09-23",
+            "url": "https://vod.sooplive.com/player/207929003",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_D899A3B8_297335573_2_r",
+            "songInfo": [
+                {
+                    "title": "친구라도 될 걸 그랬어",
+                    "time": "3:23:32",
+                    "artist": "거미",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:02:07 소문의 낙원 ?"
+                    "rawLine": "🎤 3:23:32 친구라도 될 걸 그랬어 ?"
+                },
+                {
+                    "title": "Eternal Snow",
+                    "time": "5:13:42",
+                    "artist": "달빛천사 OST",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:13:42 Eternal Snow (달빛천사 OST) ?"
                 }
             ]
         }

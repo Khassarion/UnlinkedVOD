@@ -11168,9 +11168,8 @@
                     "title": "끝",
                     "time": "40:29",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 끝 (권진아) 40:29 ?"
+                    "rawLine": "🎤 끝 (권진아) 40:29"
                 },
                 {
                     "title": "Still With You",
@@ -11438,73 +11437,167 @@
                     "title": "붉은 장미",
                     "time": "2:20:48",
                     "artist": "우예린",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 붉은 장미 2:20:48 ~ 2:24:11 ?"
+                    "rawLine": "🎤 붉은 장미 2:20:48 ~ 2:24:11 ○"
                 },
                 {
                     "title": "가끔 내가",
                     "time": "2:30:42",
                     "artist": "김나영",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 가끔 내가 2:30:42 ~ 2:34:11 ?"
+                    "rawLine": "🎤 가끔 내가 2:30:42 ~ 2:34:11 ○"
                 },
                 {
                     "title": "우주를 건너",
                     "time": "2:36:54",
                     "artist": "백예린",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 우주를 건너 2:36:54 ~ 2:40:52 ?"
+                    "rawLine": "🎤 우주를 건너 2:36:54 ~ 2:40:52"
                 },
                 {
                     "title": "You",
                     "time": "2:47:15",
                     "artist": "김상민",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 You 2:47:15 ~ 2:51:20 ?"
+                    "rawLine": "🎤 You 2:47:15 ~ 2:51:20"
                 },
                 {
                     "title": "하늘바라기",
                     "time": "2:55:58",
                     "artist": "정은지",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 하늘바라기 2:55:58 ~ 2:59:34 ?"
+                    "rawLine": "🎤 하늘바라기 2:55:58 ~ 2:59:34 ○☆"
                 },
                 {
                     "title": "안녕",
                     "time": "3:03:54",
                     "artist": "조이",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 안녕 (조이) 3:03:54 ~ 3:07:25 ?"
+                    "rawLine": "🎤 안녕 (조이) 3:03:54 ~ 3:07:25 ■"
                 },
                 {
                     "title": "달에 지다",
                     "time": "3:11:29",
                     "artist": "베이지",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 달에 지다 (베이지) 3:11:29 ~ 3:15:30 ?"
+                    "rawLine": "🎤 달에 지다 (베이지) 3:11:29 ~ 3:15:30 ■☆"
                 },
                 {
                     "title": "OHAYO MY NIGHT",
                     "time": "3:17:42",
                     "artist": "디핵",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 OHAYO MY NIGHT (디핵) 3:17:42 ~ 3:21:31 ?"
+                    "rawLine": "🎤 OHAYO MY NIGHT (디핵) 3:17:42 ~ 3:21:31 ■☆"
                 },
                 {
                     "title": "웃으며",
                     "time": "3:25:01",
                     "artist": "신예영",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 웃으며 3:25:01 ~ 3:29:55 ■☆"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 인사드리러 왔습니다",
+            "date": "2026-09-25",
+            "url": "https://vod.sooplive.com/player/208065803",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r",
+            "songInfo": [
+                {
+                    "title": "상사화",
+                    "time": "1:12:18",
+                    "artist": "안예은",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 웃으며 3:25:01 ~ 3:29:55 ?"
+                    "rawLine": "🎤 상사화 1:12:18 ?"
+                },
+                {
+                    "title": "아라리",
+                    "time": "1:17:29",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 아라리 1:17:29 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
+            "date": "2026-09-26",
+            "url": "https://vod.sooplive.com/player/208183441",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
+            "songInfo": [
+                {
+                    "title": "Love story",
+                    "time": "1:29:33",
+                    "artist": "볼빨간사춘기",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Love story 1:29:33 ~ 1:32:47 ?"
+                },
+                {
+                    "title": "눈사람",
+                    "time": "1:40:22",
+                    "artist": "정승환",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 눈사람 1:40:22 ~ 1:44:03 ?"
+                },
+                {
+                    "title": "아이와 나의 바다",
+                    "time": "2:21:11",
+                    "artist": "아이유",
+                    "groupMembers": "백초아, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 아이와 나의 바다 2:21:11 ~ 2:26:21 (백초아, 츄라희)"
+                },
+                {
+                    "title": "진심이었던 사람만 바보가 돼",
+                    "time": "2:40:52",
+                    "artist": "권진아",
+                    "groupMembers": "이디유, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 진심이었던 사람만 바보가 돼 2:40:52 ~ 2:45:04 (이디유, 츄라희)"
+                },
+                {
+                    "title": "만찬가",
+                    "time": "3:02:31",
+                    "artist": "츠키",
+                    "groupMembers": "요한, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 만찬가 3:02:31 ~ 3:06:06 (요한, 츄라희)"
+                },
+                {
+                    "title": "히로인",
+                    "time": "3:26:44",
+                    "artist": "back number",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 히로인 3:26:44 ?"
+                },
+                {
+                    "title": "다시 만난 세계",
+                    "time": "3:40:37",
+                    "artist": "소녀시대",
+                    "groupMembers": "뜨사, 백초아, 요한, 이디유, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 다시 만난 세계 3:40:37 ~ 3:44:55 (뜨사, 백초아, 요한, 이디유, 츄라희)"
+                },
+                {
+                    "title": "외톨이",
+                    "time": "4:41:40",
+                    "artist": "아웃사이더",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 외톨이 4:41:40 ~ 4:44:07 ?"
                 }
             ]
         }

@@ -2327,7 +2327,7 @@
             ]
         },
         {
-            "title": "리캡만 보고 퇴근",
+            "title": "[Machine Party] 개꿀잼 시그널 파티 ♡",
             "date": "2026-08-01",
             "url": "https://vod.sooplive.com/player/203149763",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_69BA93F8_296027239_2_r",
@@ -2335,8 +2335,9 @@
                 {
                     "title": "Cruel Summer",
                     "time": "7:24:24",
-                    "artist": "TORI",
-                    "groupSong": false
+                    "artist": "Taylor Swift",
+                    "groupSong": false,
+                    "rawLine": "7:24:24 | 🎤체비 - Cruel Summer (Taylor Swift)"
                 }
             ]
         },
@@ -2969,6 +2970,135 @@
                     "artist": "윤하",
                     "groupSong": false,
                     "rawLine": "🎤 4:51:51 | 체비 - 먹구름 (윤하)"
+                }
+            ]
+        },
+        {
+            "title": "✧ 오리지널 체비끼끼 ✧",
+            "date": "2026-09-20",
+            "url": "https://vod.sooplive.com/player/207690959",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+            "songInfo": [
+                {
+                    "title": "갑자기",
+                    "time": "4:03:18",
+                    "artist": "아이오아이",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:03:18 ~ 4:06:29 | 체비 - 갑자기 (아이오아이)"
+                },
+                {
+                    "title": "사랑이라 했던 말 속에서",
+                    "time": "4:08:43",
+                    "artist": "can't be blue",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:08:43 ~ 4:12:02 | 체비 - 사랑이라 했던 말 속에서 (캔트비블루)"
+                },
+                {
+                    "title": "토끼",
+                    "time": "4:14:28",
+                    "artist": "뇌태풍",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:14:28 ~ 4:18:00 | 체비 - 토끼 (뇌태풍)"
+                },
+                {
+                    "title": "나야 나 공주",
+                    "time": "4:19:17",
+                    "artist": "핑크퐁",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:19:17 ~ 4:20:52 | 체비 - 나야 나 공주 (핑크퐁)"
+                },
+                {
+                    "title": "봄꿈",
+                    "time": "4:24:20",
+                    "artist": "네네코 마시로",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:24:20 ~ 4:27:28 | 체비 - 봄꿈 (네네코 마시로)"
+                },
+                {
+                    "title": "Cruel Summer",
+                    "time": "4:31:38",
+                    "artist": "Taylor Swift",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:31:38 ~ 4:34:33 | 체비 - Cruel Summer (Taylor Swift)"
+                },
+                {
+                    "title": "ISLAND",
+                    "time": "7:24:29",
+                    "artist": "YOUHA(유하)",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:24:29 ~ 7:27:43 | 체비 - ISLAND (유하)"
+                }
+            ]
+        },
+        {
+            "title": "✧ 천타버스 발헤임 + 왁굳 님 후열 발로란트 ✧",
+            "date": "2026-09-22",
+            "url": "https://vod.sooplive.com/player/207860867",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260922_861C0BD0_297314181_1_r&column=2&t=1790111598",
+            "songInfo": [
+                {
+                    "title": "JANE DOE",
+                    "time": "9:28:35",
+                    "artist": "요네즈 켄시, 우타다 히카루",
+                    "groupSong": false,
+                    "rawLine": "🎤 9:28:35 ~ 9:32:31 | 체비 - JANE DOE"
+                }
+            ]
+        },
+        {
+            "title": "✧ 잼쓰뜨 ✧",
+            "date": "2026-09-23",
+            "url": "https://vod.sooplive.com/player/207949505",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_985F3FE8_297342861_2_r",
+            "songInfo": [
+                {
+                    "title": "토끼",
+                    "time": "58:37",
+                    "artist": "뇌태풍",
+                    "groupSong": false,
+                    "rawLine": "🎤 58:37 ~ 1:01:45 | 체비 - 토끼 (뇌태풍)"
+                },
+                {
+                    "title": "피카츄의 노래",
+                    "time": "1:03:17",
+                    "artist": "오오타니 이쿠에, 피카츄",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:03:17 ~ 1:05:14 | 체비 -  피카츄의 노래 (오오타니 이쿠에, 피카츄)"
+                },
+                {
+                    "title": "Pet",
+                    "time": "1:08:32",
+                    "artist": "10CM",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:08:32 ~ 1:13:18 | 체비 - Pet"
+                },
+                {
+                    "title": "오빠야",
+                    "time": "7:03:42",
+                    "artist": "신현희와김루트",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:03:42 | 체비 - 오빠야 (신현희와김루트)"
+                },
+                {
+                    "title": "살구송",
+                    "time": "7:07:43",
+                    "artist": "오유",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:07:43 ~ 7:10:03 | 체비 - 살구송 (오유)"
+                },
+                {
+                    "title": "여봉봉",
+                    "time": "7:10:32",
+                    "artist": "아율",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:10:32 ~ 7:13:49 | 체비 - 여봉봉 (아율)"
+                },
+                {
+                    "title": "나야 나 공주",
+                    "time": "7:14:01",
+                    "artist": "핑크퐁",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:14:01 ~ 7:15:44 | 체비 - 나야 나 공주 (핑크퐁)"
                 }
             ]
         }

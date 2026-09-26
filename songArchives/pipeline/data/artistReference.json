@@ -173,6 +173,10 @@
         "aliases": []
     },
     {
+        "artist": "네네코 마시로",
+        "aliases": []
+    },
+    {
         "artist": "넬",
         "aliases": []
     },
@@ -197,8 +201,10 @@
         "aliases": []
     },
     {
-        "artist": "달빛천사ost",
-        "aliases": []
+        "artist": "달빛천사 OST",
+        "aliases": [
+            "달빛천사ost"
+        ]
     },
     {
         "artist": "던파ost",
@@ -743,8 +749,10 @@
         "aliases": []
     },
     {
-        "artist": "신현희와 김루트",
-        "aliases": []
+        "artist": "신현희와김루트",
+        "aliases": [
+            "신현희와 김루트"
+        ]
     },
     {
         "artist": "심규선",
@@ -880,6 +888,10 @@
     },
     {
         "artist": "오마이걸",
+        "aliases": []
+    },
+    {
+        "artist": "오오타니 이쿠에",
         "aliases": []
     },
     {
@@ -1383,6 +1395,10 @@
         "aliases": []
     },
     {
+        "artist": "피카츄",
+        "aliases": []
+    },
+    {
         "artist": "피프티피프티",
         "aliases": [
             "FIFTY FIFTY"
@@ -1813,6 +1829,10 @@
     },
     {
         "artist": "SUGA",
+        "aliases": []
+    },
+    {
+        "artist": "Taylor Swift",
         "aliases": []
     },
     {
