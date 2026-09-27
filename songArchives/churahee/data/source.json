@@ -11547,9 +11547,9 @@
                     "title": "눈사람",
                     "time": "1:40:22",
                     "artist": "정승환",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 눈사람 1:40:22 ~ 1:44:03 ?"
+                    "rawLine": "🎤 눈사람 1:40:22 ~ 1:44:03 ○"
                 },
                 {
                     "title": "아이와 나의 바다",
@@ -11592,12 +11592,52 @@
                     "rawLine": "🎶 다시 만난 세계 3:40:37 ~ 3:44:55 (뜨사, 백초아, 요한, 이디유, 츄라희)"
                 },
                 {
+                    "title": "Maniac",
+                    "time": "3:55:49",
+                    "artist": "Conan Gray",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Maniac 3:55:49 ?"
+                },
+                {
+                    "title": "어린 나",
+                    "time": "3:59:16",
+                    "artist": "키마",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 어린 나 3:59:16 ? /*클립 금지*/"
+                },
+                {
+                    "title": "하모니",
+                    "time": "4:29:08",
+                    "artist": "제아, 이영현",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 하모니 (제아, 이영현) 4:29:08 ? /*클립 금지*/"
+                },
+                {
+                    "title": "MIC Drop",
+                    "time": "4:39:02",
+                    "artist": "방탄소년단",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 MIC Drop (BTS) 4:39:02 ?"
+                },
+                {
                     "title": "외톨이",
                     "time": "4:41:40",
                     "artist": "아웃사이더",
                     "needsReview": true,
                     "groupSong": false,
                     "rawLine": "🎤 외톨이 4:41:40 ~ 4:44:07 ?"
+                },
+                {
+                    "title": "수피",
+                    "time": "4:45:41",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 수피 4:45:41 ?"
                 }
             ]
         }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-26T19:21:23.007891+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-27T11:13:52.355501+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -3159,6 +3159,18 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-26",
+        "url": "https://vod.sooplive.com/player/208183441?change_second=16742",
+        "videoTitle": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3217,6 +3229,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-26",
+        "url": "https://vod.sooplive.com/player/208183441?change_second=14149",
+        "videoTitle": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8560,9 +8584,9 @@ const songs = [
         "videoTitle": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -14829,6 +14853,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-26",
+        "url": "https://vod.sooplive.com/player/208183441?change_second=17141",
+        "videoTitle": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -16699,6 +16735,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-26",
+        "url": "https://vod.sooplive.com/player/208183441?change_second=14356",
+        "videoTitle": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -21333,6 +21381,24 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 송현, 츄라희"
+      }
+    ]
+  },
+  {
+    "title": "하모니",
+    "artist": "제아, 이영현",
+    "versions": [
+      {
+        "date": "2026-09-26",
+        "url": "https://vod.sooplive.com/player/208183441?change_second=16148",
+        "videoTitle": "[버블란] 명절 싱크룸(w. 뜨사 백초아 요한 이디유)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_DC010C39_297400151_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
