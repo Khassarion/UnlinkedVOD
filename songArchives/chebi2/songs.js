@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-27T22:53:09.300135+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-27T23:19:18.572305+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -1030,6 +1030,18 @@ const songs = [
         "videoTitle": "✧ 오리지널 체비끼끼 ✧",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_DE78C264_297269081_1_r&column=2&t=1790111618",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-28",
+        "url": "https://vod.sooplive.com/player/208298799?change_second=20934",
+        "videoTitle": "소시지 칼집내서죽여 (¬◡¬)✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260927_A4ADE158_297426999_6_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

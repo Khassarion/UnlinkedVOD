@@ -592,6 +592,10 @@
         "aliases": []
     },
     {
+        "title": "니가 싫어",
+        "aliases": []
+    },
+    {
         "title": "다시 만난 세계",
         "aliases": []
     },
@@ -601,6 +605,10 @@
     },
     {
         "title": "다시 사랑한다면",
+        "aliases": []
+    },
+    {
+        "title": "다시 사랑할 수 있을까",
         "aliases": []
     },
     {
@@ -1099,11 +1107,9 @@
     },
     {
         "title": "비밀번호 486",
-        "aliases": []
-    },
-    {
-        "title": "비밀번호486",
-        "aliases": []
+        "aliases": [
+            "비밀번호486"
+        ]
     },
     {
         "title": "비밀의 화원",
@@ -1584,6 +1590,10 @@
     },
     {
         "title": "여가",
+        "aliases": []
+    },
+    {
+        "title": "여기까지",
         "aliases": []
     },
     {
@@ -3216,6 +3226,10 @@
             "Strawberry moon",
             "strawberry moon"
         ]
+    },
+    {
+        "title": "STUPID IN LOVE",
+        "aliases": []
     },
     {
         "title": "STYLE",
