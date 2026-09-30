@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-30T00:52:23.055525+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-30T12:02:12.343681+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -468,10 +468,10 @@ const songs = [
     "versions": [
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=14512",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=14492",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -1028,24 +1028,6 @@ const songs = [
   },
   {
     "title": "그대만 있다면",
-    "artist": "너드커넥션",
-    "versions": [
-      {
-        "date": "2026-09-21",
-        "url": "https://vod.sooplive.com/player/207744769?change_second=2457",
-        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": true,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "그대만 있다면",
     "artist": "러브홀릭",
     "versions": [
       {
@@ -1062,12 +1044,24 @@ const songs = [
       },
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=13937",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=13917",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": true,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=2457",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": true,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -1446,10 +1440,10 @@ const songs = [
     "versions": [
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=12662",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=12642",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
@@ -1770,10 +1764,10 @@ const songs = [
       },
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=16826",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=16806",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -2682,10 +2676,10 @@ const songs = [
       },
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=12128",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=12108",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2964,10 +2958,10 @@ const songs = [
       },
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=13054",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=13034",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -3180,10 +3174,10 @@ const songs = [
       },
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=16408",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=16388",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3228,10 +3222,10 @@ const songs = [
       },
       {
         "date": "2026-09-06",
-        "url": "https://vod.sooplive.com/player/206375827?change_second=13405",
+        "url": "https://vod.sooplive.com/player/206375827?change_second=13385",
         "videoTitle": "다이아랜딩 벌칙 정하기 / 소통 노래🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_324AA7DD_296916315_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=206375827_1788800843_1_r&column=2&t=1788933127",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
