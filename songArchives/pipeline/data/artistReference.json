@@ -329,7 +329,9 @@
     },
     {
         "artist": "마츠다 세이코",
-        "aliases": []
+        "aliases": [
+            "Seiko Matsuda"
+        ]
     },
     {
         "artist": "마크툽",
@@ -1042,6 +1044,10 @@
     },
     {
         "artist": "윤하ver",
+        "aliases": []
+    },
+    {
+        "artist": "윤현상",
         "aliases": []
     },
     {

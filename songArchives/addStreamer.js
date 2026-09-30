@@ -145,7 +145,7 @@ function buildIndexHtml({ streamerId, siteTitle }) {
           <option value="title">가나다순</option>
           <option value="dateDesc">최신 방송순</option>
           <option value="dateAsc">오래된 방송순</option>
-          <option value="versionCountDesc">기록 많은 순</option>
+          <option value="versionCountDesc" selected>기록 많은 순</option>
           <option value="noMistakeRatioDesc" data-version-flags="on">클립 방지 비율 낮은 순</option>
           <option value="noMistakeRatioAsc" data-version-flags="on">클립 방지 비율 높은 순</option>
           <option value="noMistakeCountDesc" data-version-flags="on">클립 방지 적은 순</option>

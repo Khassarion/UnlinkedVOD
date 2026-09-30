@@ -11684,75 +11684,83 @@
             "songInfo": [
                 {
                     "title": "다시 사랑할 수 있을까",
-                    "time": "1:11:53",
+                    "time": "1:11:50",
                     "artist": "포맨, 박정은",
                     "groupMembers": "요한, 츄라희",
                     "groupSong": true,
-                    "rawLine": "🎶 다시 사랑할 수 있을까 (포맨, 박정은) 1:11:53 (요한, 츄라희)"
+                    "rawLine": "🎶 다시 사랑할 수 있을까 (포맨, 박정은) 1:11:50 (요한, 츄라희)"
                 },
                 {
                     "title": "여기까지",
-                    "time": "1:35:26",
+                    "time": "1:35:23",
                     "artist": "권진아",
                     "groupMembers": "상득, 츄라희",
                     "groupSong": true,
-                    "rawLine": "🎶 여기까지 (권진아) 1:35:26 (상득, 츄라희)"
+                    "rawLine": "🎶 여기까지 (권진아) 1:35:23 (상득, 츄라희)"
                 },
                 {
                     "title": "STUPID IN LOVE",
-                    "time": "1:58:13",
+                    "time": "1:58:10",
                     "artist": "MAX",
                     "groupMembers": "상득, 츄라희",
                     "groupSong": true,
-                    "rawLine": "🎶 STUPID IN LOVE (MAX) 1:58:13 (상득, 츄라희)"
+                    "rawLine": "🎶 STUPID IN LOVE (MAX) 1:58:10 (상득, 츄라희)"
                 },
                 {
                     "title": "니가 싫어",
-                    "time": "2:05:24",
+                    "time": "2:05:21",
                     "artist": "어반자카파",
                     "groupMembers": "츄라희, 콧시, 요한",
                     "groupSong": true,
-                    "rawLine": "🎶 니가 싫어 (어반자카파) 2:05:24 (츄라희, 콧시, 요한)"
+                    "rawLine": "🎶 니가 싫어 (어반자카파) 2:05:21 (츄라희, 콧시, 요한)"
                 },
                 {
                     "title": "한계",
-                    "time": "2:20:47",
+                    "time": "2:20:46",
                     "artist": "백예린",
                     "groupMembers": "츄라희, 키마",
                     "groupSong": true,
-                    "rawLine": "🎶 한계 (백예린) 2:20:47 (츄라희, 키마)"
+                    "rawLine": "🎶 한계 (백예린) 2:20:46 (츄라희, 키마)"
                 },
                 {
                     "title": "꽃",
-                    "time": "2:59:40",
+                    "time": "2:59:37",
                     "artist": "타이미",
                     "groupMembers": "사과몽, 츄라희, 키마",
                     "groupSong": true,
-                    "rawLine": "🎶 꽃 (타이미) 2:59:40 (사과몽, 츄라희, 키마)"
+                    "rawLine": "🎶 꽃 (타이미) 2:59:37 (사과몽, 츄라희, 키마)"
                 },
                 {
                     "title": "JANE DOE",
-                    "time": "3:28:27",
+                    "time": "3:28:25",
                     "artist": "요네즈 켄시",
                     "groupMembers": "츄라희, 콧시",
                     "groupSong": true,
-                    "rawLine": "🎶 JANE DOE 3:28:27 (츄라희, 콧시)"
+                    "rawLine": "🎶 JANE DOE 3:28:25 (츄라희, 콧시)"
                 },
                 {
                     "title": "얼음요새",
-                    "time": "3:48:45",
+                    "time": "3:47:40",
                     "artist": "김소연",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 얼음요새 3:48:45 ?"
+                    "rawLine": "🎤 얼음요새 3:47:40 ?"
                 },
                 {
                     "title": "Butterfly",
-                    "time": "4:12:31",
+                    "time": "4:12:29",
                     "artist": "러브홀릭스",
                     "groupMembers": "사과몽, 상득, 요한, 츄라희, 콧시, 키마",
                     "groupSong": true,
-                    "rawLine": "🎶 Butterfly (러브홀릭스) 4:12:31 (사과몽, 상득, 요한, 츄라희, 콧시, 키마)"
+                    "rawLine": "🎶 Butterfly (러브홀릭스) 4:12:29 (사과몽, 상득, 요한, 츄라희, 콧시, 키마)"
+                },
+                {
+                    "title": "Pretender",
+                    "time": "4:33:31",
+                    "artist": "오피셜히게단디즘",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Pretender 4:33:31 ~ 4:38:28 ?"
                 }
             ]
         }

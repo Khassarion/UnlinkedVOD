@@ -1,6 +1,6 @@
 function getListSort() {
   const el = document.getElementById('listSort');
-  return (el && el.value) || 'title';
+  return (el && el.value) || 'versionCountDesc';
 }
 
 function getVersionSort() {
@@ -840,7 +840,7 @@ function setupVersionFlagsUi() {
   if (!enabled) {
     const listSort = document.getElementById('listSort');
     if (listSort && String(listSort.value || '').startsWith('noMistake')) {
-      listSort.value = 'title';
+      listSort.value = 'versionCountDesc';
     }
     ['filterVersionNoMistake', 'filterVersionRecommended', 'filterVersionNeedsReview'].forEach(
       (id) => {

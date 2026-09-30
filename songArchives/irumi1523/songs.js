@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-26T21:52:33.310863+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-09-30T00:52:23.055525+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -753,6 +753,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-05",
+        "url": "https://vod.sooplive.com/player/206266457?change_second=6537",
+        "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -991,6 +1003,24 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "그대네요",
+    "artist": "성시경",
+    "versions": [
+      {
+        "date": "2026-09-10",
+        "url": "https://vod.sooplive.com/player/206794055?change_second=16822",
+        "videoTitle": "다이아랜딩 4일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1863,6 +1893,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-10",
+        "url": "https://vod.sooplive.com/player/206794055?change_second=17942",
+        "videoTitle": "다이아랜딩 4일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2589,6 +2631,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-05",
+        "url": "https://vod.sooplive.com/player/206266457?change_second=8720",
+        "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2701,6 +2755,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-05",
+        "url": "https://vod.sooplive.com/player/206266457?change_second=6927",
+        "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2833,6 +2899,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-10",
+        "url": "https://vod.sooplive.com/player/206794055?change_second=2396",
+        "videoTitle": "다이아랜딩 4일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3157,6 +3235,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "언제쯤이면",
+    "artist": "아이유, 윤현상",
+    "versions": [
+      {
+        "date": "2026-09-10",
+        "url": "https://vod.sooplive.com/player/206794055?change_second=16928",
+        "videoTitle": "다이아랜딩 4일차🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3757,6 +3853,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "푸른 산호초",
+    "artist": "마츠다 세이코",
+    "versions": [
+      {
+        "date": "2026-09-05",
+        "url": "https://vod.sooplive.com/player/206266457?change_second=5430",
+        "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

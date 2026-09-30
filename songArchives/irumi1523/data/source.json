@@ -2183,6 +2183,86 @@
                     "rawLine": "🎤 5:13:42 Eternal Snow (달빛천사 OST) ?"
                 }
             ]
+        },
+        {
+            "title": "다이아랜딩 4일차🤍",
+            "date": "2026-09-10",
+            "url": "https://vod.sooplive.com/player/206794055",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
+            "songInfo": [
+                {
+                    "title": "숲",
+                    "time": "39:56",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 39:56 숲 (최유리) ?"
+                },
+                {
+                    "title": "그대네요",
+                    "time": "4:40:22",
+                    "artist": "성시경",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:40:22 그대네요 (성시경) ?"
+                },
+                {
+                    "title": "언제쯤이면",
+                    "time": "4:42:08",
+                    "artist": "아이유, 윤현상",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:42:08 언제쯤이면 (아이유, 윤현상) ?"
+                },
+                {
+                    "title": "밤, 바다",
+                    "time": "4:59:02",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:59:02 밤, 바다 (최유리) ?"
+                }
+            ]
+        },
+        {
+            "title": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
+            "date": "2026-09-05",
+            "url": "https://vod.sooplive.com/player/206266457",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
+            "songInfo": [
+                {
+                    "title": "푸른 산호초",
+                    "time": "1:30:30",
+                    "artist": "마츠다 세이코",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:30:30 푸른 산호초 ?"
+                },
+                {
+                    "title": "Way Back Home",
+                    "time": "1:48:57",
+                    "artist": "숀",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:48:57 Way Back Home ?"
+                },
+                {
+                    "title": "소문의 낙원",
+                    "time": "1:55:27",
+                    "artist": "AKMU",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:55:27 소문의 낙원 ?"
+                },
+                {
+                    "title": "생각을 멈추다 보면",
+                    "time": "2:25:20",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:25:20 생각을 멈추다 보면 ?"
+                }
+            ]
         }
     ]
 }
