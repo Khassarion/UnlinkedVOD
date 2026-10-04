@@ -550,6 +550,10 @@
         "aliases": []
     },
     {
+        "title": "네가 없는 밤",
+        "aliases": []
+    },
+    {
         "title": "네모의 꿈",
         "aliases": [
             "네모의 꿈(화이트)"
@@ -1585,12 +1589,10 @@
     {
         "title": "에잇",
         "aliases": [
-            "에잇 (Prod.&Feat. SUGA of BTS)/아이유"
+            "eight",
+            "에잇 (Prod.&Feat. SUGA of BTS)/아이유",
+            "에잇(Prod.&Feat. SUGA of BTS)"
         ]
-    },
-    {
-        "title": "에잇(Prod.&Feat. SUGA of BTS)",
-        "aliases": []
     },
     {
         "title": "에필로그",
@@ -2433,12 +2435,10 @@
         ]
     },
     {
-        "title": "Carry you",
-        "aliases": []
-    },
-    {
         "title": "Carry You",
-        "aliases": []
+        "aliases": [
+            "Carry you"
+        ]
     },
     {
         "title": "Catch You Catch Me 💛",
@@ -2553,6 +2553,10 @@
     },
     {
         "title": "ELEVEN",
+        "aliases": []
+    },
+    {
+        "title": "Error",
         "aliases": []
     },
     {
@@ -2728,12 +2732,11 @@
         ]
     },
     {
-        "title": "I Really Want to Stay at Your House",
-        "aliases": []
-    },
-    {
-        "title": "I Really Want To Stay At Your House",
-        "aliases": []
+        "title": "I Really Want to Stay At Your House",
+        "aliases": [
+            "I Really Want to Stay at Your House",
+            "I Really Want To Stay At Your House"
+        ]
     },
     {
         "title": "idontwannabeyouanymore",
@@ -3229,10 +3232,10 @@
         "aliases": []
     },
     {
-        "title": "Strawberry Moon",
+        "title": "strawberry moon",
         "aliases": [
             "Strawberry moon",
-            "strawberry moon"
+            "Strawberry Moon"
         ]
     },
     {

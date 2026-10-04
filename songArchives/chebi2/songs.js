@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-27T23:19:18.572305+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-04T02:24:04.450755+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -214,6 +214,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=58141",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -497,29 +509,23 @@ const songs = [
     "artist": "Ruelle, Fleurie",
     "versions": [
       {
-        "date": "2026-08-22",
-        "url": "https://vod.sooplive.com/player/205080179?change_second=24557",
-        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "Carry you",
-    "artist": "Ruelle",
-    "versions": [
-      {
         "date": "2026-03-20",
         "url": "https://vod.sooplive.com/player/190318617?change_second=8366",
         "videoTitle": "쳅이",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260320_47631161_292557481_1_r&column=2&t=1774029877",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=24557",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -793,6 +799,24 @@ const songs = [
     ]
   },
   {
+    "title": "Error",
+    "artist": "ASH ISLAND",
+    "versions": [
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=64408",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Faded",
     "artist": "Alan Walker",
     "versions": [
@@ -844,6 +868,18 @@ const songs = [
         "videoTitle": "체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260403_2B9068EE_292934821_1_r&column=2&t=1775235798",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=62895",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -919,26 +955,8 @@ const songs = [
     ]
   },
   {
-    "title": "I Really Want To Stay At Your House",
-    "artist": "Eliesczhae",
-    "versions": [
-      {
-        "date": "2026-08-22",
-        "url": "https://vod.sooplive.com/player/205080179?change_second=26947",
-        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "I Really Want to Stay at Your House",
-    "artist": "사이버펑크OST",
+    "title": "I Really Want to Stay At Your House",
+    "artist": "Rosa Walton",
     "versions": [
       {
         "date": "2026-03-12",
@@ -975,6 +993,30 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 문모모"
+      },
+      {
+        "date": "2026-08-22",
+        "url": "https://vod.sooplive.com/player/205080179?change_second=26947",
+        "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=67902",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1161,6 +1203,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=65061",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1252,6 +1306,18 @@ const songs = [
         "videoTitle": "✧ 후열 한 두판만 ✧",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=59202",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1569,7 +1635,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=6756",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1580,7 +1646,7 @@ const songs = [
   },
   {
     "title": "Replace You",
-    "artist": "930 / Feat.Bona Zoe",
+    "artist": "930",
     "versions": [
       {
         "date": "2026-03-12",
@@ -1612,6 +1678,18 @@ const songs = [
         "videoTitle": "후열 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=64147",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1690,6 +1768,18 @@ const songs = [
         "videoTitle": "재미가 있었다",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260725_E313655F_295842571_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=67514",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1959,6 +2049,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=63165",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2104,6 +2206,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=86243",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2271,6 +2385,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 모카, 플리, 임하밍, 문모모"
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=68723",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2421,7 +2547,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=6166",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2510,14 +2636,14 @@ const songs = [
   },
   {
     "title": "끝났다는 것은 다시 시작된다는 것을",
-    "artist": "강아윤 / 산나비 OST",
+    "artist": "산나비 OST",
     "versions": [
       {
         "date": "2026-04-07",
         "url": "https://vod.sooplive.com/player/192105735?change_second=7615",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2721,7 +2847,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=5747",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2799,19 +2925,13 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=7204",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "내일 또 보자",
-    "artist": "하츠네 미쿠",
-    "versions": [
+      },
       {
         "date": "2026-09-16",
         "url": "https://vod.sooplive.com/player/207334775?change_second=16997",
@@ -2917,6 +3037,24 @@ const songs = [
     ]
   },
   {
+    "title": "네가 없는 밤",
+    "artist": "비오(BE'O)",
+    "versions": [
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=64748",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "네모의 꿈",
     "artist": "아이유",
     "versions": [
@@ -2997,6 +3135,30 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 임하밍"
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=58743",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=66343",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3171,7 +3333,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=6470",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3358,6 +3520,18 @@ const songs = [
         "videoTitle": "✧ 마지막 체비입니다 _(´ω`_　)_ ✧",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260916_83733F01_297171921_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=68358",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3573,7 +3747,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=5298",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3711,6 +3885,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-02",
+        "url": "https://vod.sooplive.com/player/208754359?change_second=36793",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261002_23AD48C0_297541097_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3790,6 +3976,18 @@ const songs = [
         "videoTitle": "✧ _(´ω`_　)_ ✧",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260915_E12A4782_297142595_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-28",
+        "url": "https://vod.sooplive.com/player/208383157?change_second=35598",
+        "videoTitle": "9시 제초동 모임 (¬◡¬)✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260928_37570EC0_297445905_1_r&column=2&t=1790630369",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4317,6 +4515,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-29",
+        "url": "https://vod.sooplive.com/player/208469093?change_second=31971",
+        "videoTitle": "(¬◡¬)✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260929_220C1321_297468841_3_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4360,6 +4570,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-28",
+        "url": "https://vod.sooplive.com/player/208383157?change_second=35259",
+        "videoTitle": "9시 제초동 모임 (¬◡¬)✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260928_37570EC0_297445905_1_r&column=2&t=1790630369",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4425,6 +4647,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=66798",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4474,6 +4708,18 @@ const songs = [
         "videoTitle": "보고 싶었어",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260515_040CFAC9_294038393_1_r&column=2&t=1782631384",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=63597",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4835,6 +5081,18 @@ const songs = [
     "artist": "아이유",
     "versions": [
       {
+        "date": "2026-04-01",
+        "url": "https://vod.sooplive.com/player/191517163?change_second=15398",
+        "videoTitle": "체비",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260401_611FA449_292881249_1_r&column=2&t=1775073332",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
         "date": "2026-05-15",
         "url": "https://vod.sooplive.com/player/195824229?change_second=6430",
         "videoTitle": "보고 싶었어",
@@ -4845,19 +5103,13 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "에잇(Prod.&Feat. SUGA of BTS)",
-    "artist": "아이유",
-    "versions": [
+      },
       {
-        "date": "2026-04-01",
-        "url": "https://vod.sooplive.com/player/191517163?change_second=15398",
-        "videoTitle": "체비",
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=58440",
+        "videoTitle": "잠안자고하는24시간방송",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260401_611FA449_292881249_1_r&column=2&t=1775073332",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5229,6 +5481,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=65642",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5368,6 +5632,18 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=66002",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5517,7 +5793,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/192105735?change_second=5006",
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5584,6 +5860,18 @@ const songs = [
         "videoTitle": "후열 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-30",
+        "url": "https://vod.sooplive.com/player/208599415?change_second=67174",
+        "videoTitle": "잠안자고하는24시간방송",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

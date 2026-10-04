@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-02T07:09:28.523650+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-04T02:11:38.635107+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -7394,7 +7394,7 @@ const songs = [
   },
   {
     "title": "끝났다는 것은 다시 시작된다는 것을",
-    "artist": "산나비",
+    "artist": "산나비 OST",
     "versions": [
       {
         "date": "2025-08-15",
@@ -7435,9 +7435,9 @@ const songs = [
       {
         "date": "2026-05-28",
         "url": "https://vod.sooplive.com/player/197061281?change_second=20314",
-        "videoTitle": "[버블란] 고래시티 츄베릅 마지막 이야기",
+        "videoTitle": "소통 - 고래시티 마지막 이야기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_2ECFFF3E_294369327_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_C41780BB_294369327_1_r&column=2&t=1780419344",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -11425,9 +11425,9 @@ const songs = [
       {
         "date": "2026-05-28",
         "url": "https://vod.sooplive.com/player/197061281?change_second=21250",
-        "videoTitle": "[버블란] 고래시티 츄베릅 마지막 이야기",
+        "videoTitle": "소통 - 고래시티 마지막 이야기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_2ECFFF3E_294369327_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_C41780BB_294369327_1_r&column=2&t=1780419344",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -16447,9 +16447,9 @@ const songs = [
       {
         "date": "2026-05-28",
         "url": "https://vod.sooplive.com/player/197061281?change_second=20918",
-        "videoTitle": "[버블란] 고래시티 츄베릅 마지막 이야기",
+        "videoTitle": "소통 - 고래시티 마지막 이야기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_2ECFFF3E_294369327_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_C41780BB_294369327_1_r&column=2&t=1780419344",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -18847,9 +18847,9 @@ const songs = [
       {
         "date": "2026-05-28",
         "url": "https://vod.sooplive.com/player/197061281?change_second=21563",
-        "videoTitle": "[버블란] 고래시티 츄베릅 마지막 이야기",
+        "videoTitle": "소통 - 고래시티 마지막 이야기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_2ECFFF3E_294369327_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_C41780BB_294369327_1_r&column=2&t=1780419344",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,

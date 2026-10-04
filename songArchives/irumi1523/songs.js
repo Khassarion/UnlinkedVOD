@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-09-30T12:02:12.343681+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-04T02:22:45.079301+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -643,42 +643,6 @@ const songs = [
     ]
   },
   {
-    "title": "Strawberry Moon",
-    "artist": "아이유",
-    "versions": [
-      {
-        "date": "2026-09-21",
-        "url": "https://vod.sooplive.com/player/207744769?change_second=9282",
-        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": true,
-        "recommended": true,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "Strawberry moon",
-    "artist": "아이유",
-    "versions": [
-      {
-        "date": "2026-07-30",
-        "url": "https://vod.sooplive.com/player/202883393?change_second=15182",
-        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
-        "noMistake": true,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
     "title": "Time Lapse",
     "artist": "태연",
     "versions": [
@@ -799,13 +763,43 @@ const songs = [
     ]
   },
   {
+    "title": "strawberry moon",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-07-30",
+        "url": "https://vod.sooplive.com/player/202883393?change_second=15182",
+        "videoTitle": "소통 노래 🤍 뉴아바타 방셀 오픈!",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260730_B9D1ADCA_295962359_1_r&column=2&t=1785508726",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://vod.sooplive.com/player/207744769?change_second=9282",
+        "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "yours",
     "artist": "데이먼스 이어",
     "versions": [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=12977",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
@@ -835,7 +829,7 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=14157",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
@@ -935,6 +929,18 @@ const songs = [
     "artist": "미로",
     "versions": [
       {
+        "date": "2026-08-06",
+        "url": "https://vod.sooplive.com/player/203572169?change_second=15860",
+        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
         "date": "2026-09-19",
         "url": "https://vod.sooplive.com/player/207562285?change_second=4445",
         "videoTitle": "소통 노래 / 후열 세피리아(w. 초코)🤍 9월 룰렛 33/330",
@@ -954,24 +960,6 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
         "noMistake": true,
         "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "괴물이 피는 숲",
-    "artist": "비비",
-    "versions": [
-      {
-        "date": "2026-08-06",
-        "url": "https://vod.sooplive.com/player/203572169?change_second=15860",
-        "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
-        "noMistake": false,
-        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -1166,7 +1154,7 @@ const songs = [
   },
   {
     "title": "끝났다는 것은 다시 시작된다는 것을",
-    "artist": "강아윤 / 산나비 OST",
+    "artist": "산나비 OST",
     "versions": [
       {
         "date": "2026-08-06",
@@ -1273,7 +1261,7 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=14995",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": true,
@@ -2203,7 +2191,7 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=12479",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
@@ -2408,24 +2396,6 @@ const songs = [
   },
   {
     "title": "사랑..그게 뭔데",
-    "artist": "양파",
-    "versions": [
-      {
-        "date": "2026-08-24",
-        "url": "https://vod.sooplive.com/player/205237609?change_second=15868",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
-        "noMistake": false,
-        "recommended": true,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "사랑..그게 뭔데",
     "artist": "지아",
     "versions": [
       {
@@ -2439,6 +2409,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-08-24",
+        "url": "https://vod.sooplive.com/player/205237609?change_second=15868",
+        "videoTitle": "계속 갇히고 싶다🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2449,7 +2431,7 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=14550",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
@@ -2791,7 +2773,7 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=15516",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,
@@ -3276,7 +3258,7 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-06",
-        "url": "https://vod.sooplive.com/player/203572169?change_second=15299",
+        "url": "https://vod.sooplive.com/player/203572169?change_second=15300",
         "videoTitle": "단콘(?) 4시간 /  LCK T1 VS 딮기 경기 보기 🤍33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
@@ -3679,7 +3661,7 @@ const songs = [
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=13441",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": true,
@@ -3797,6 +3779,18 @@ const songs = [
     "artist": "김광진",
     "versions": [
       {
+        "date": "2026-07-27",
+        "url": "https://vod.sooplive.com/player/202615727?change_second=22727",
+        "videoTitle": "숲 버추얼 라이브 월드컵 / 후열 노래 🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260727_CA689E89_295888459_1_r&column=2&t=1785183559",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
         "date": "2026-08-03",
         "url": "https://vod.sooplive.com/player/203266607?change_second=13831",
         "videoTitle": "1부 잔잔 소통 작업뱅 🤍33/330(11연차)",
@@ -3826,24 +3820,6 @@ const songs = [
         "videoTitle": "퇴근길 소통 노래🤍 9월 룰렛 33/330",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260921_FA63E612_297287013_1_r&column=2&t=1790089393",
-        "noMistake": true,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "편지",
-    "artist": "비비",
-    "versions": [
-      {
-        "date": "2026-07-27",
-        "url": "https://vod.sooplive.com/player/202615727?change_second=22727",
-        "videoTitle": "숲 버추얼 라이브 월드컵 / 후열 노래 🤍",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260727_CA689E89_295888459_1_r&column=2&t=1785183559",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -4112,7 +4088,7 @@ const songs = [
   },
   {
     "title": "화장을 고치고",
-    "artist": "왁스",
+    "artist": "태연",
     "versions": [
       {
         "date": "2026-08-12",
@@ -4125,17 +4101,11 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "화장을 고치고",
-    "artist": "태연",
-    "versions": [
+      },
       {
         "date": "2026-08-24",
         "url": "https://vod.sooplive.com/player/205237609?change_second=16481",
-        "videoTitle": "비밀 공간에 계속 갇히고 싶다🤍",
+        "videoTitle": "계속 갇히고 싶다🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
         "noMistake": false,

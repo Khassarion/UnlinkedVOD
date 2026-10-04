@@ -147,12 +147,12 @@
                     "rawLine": "🎤 4:03:33 야래향 ○"
                 },
                 {
-                    "title": "Strawberry moon",
+                    "title": "strawberry moon",
                     "time": "4:13:02",
                     "artist": "아이유",
                     "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:13:02 Strawberry moon (아이유) ○"
+                    "rawLine": "🎤 4:13:02 strawberry moon (아이유) ○"
                 },
                 {
                     "title": "너였다면",
@@ -374,62 +374,71 @@
                     "time": "5:57:23",
                     "artist": "AKMU",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:57:23 소문의 낙원 (AKMU) ■☆"
                 },
                 {
                     "title": "생각을 멈추다 보면",
                     "time": "6:07:07",
                     "artist": "최유리",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:07:07 생각을 멈추다 보면 (최유리) ○"
                 },
                 {
                     "title": "사랑하게 될 거야",
                     "time": "6:13:29",
                     "artist": "한로로",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:13:29 사랑하게 될 거야 (한로로) ○"
                 },
                 {
                     "title": "편지",
                     "time": "6:18:47",
-                    "artist": "비비",
+                    "artist": "김광진",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:18:47 편지 (김광진) ○"
                 },
                 {
                     "title": "달과 6펜스",
                     "time": "6:26:39",
                     "artist": "심규선",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:26:39 달과 6펜스 (심규선) ○"
                 },
                 {
                     "title": "바람",
                     "time": "6:35:18",
                     "artist": "최유리",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:35:18 바람 (최유리) ○"
                 },
                 {
                     "title": "피차일반",
                     "time": "6:41:51",
                     "artist": "음율",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:41:51 피차일반 (음율) ■☆"
                 },
                 {
                     "title": "개화",
                     "time": "6:50:28",
                     "artist": "루시",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:50:28 개화 (루시)"
                 },
                 {
                     "title": "동그라미",
                     "time": "6:57:21",
                     "artist": "최유리",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:57:21 동그라미 (최유리) ■☆"
                 },
                 {
                     "title": "0+0",
@@ -437,7 +446,8 @@
                     "artist": "한로로",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:06:10 0+0 (한로로) ○☆"
                 },
                 {
                     "title": "한계",
@@ -445,14 +455,16 @@
                     "artist": "백예린",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:12:43 한계 (백예린) ○☆"
                 },
                 {
                     "title": "뭔가 잘못됐어",
                     "time": "7:19:32",
                     "artist": "권진아",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:19:32 뭔가 잘못됐어 (권진아) ○"
                 }
             ]
         },
@@ -590,33 +602,38 @@
                     "time": "3:17:30",
                     "artist": "권진아",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:17:30 위로 (권진아) ■☆"
                 },
                 {
                     "title": "잊어야 한다는 마음으로",
                     "time": "3:25:28",
                     "artist": "아이유",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:25:28 잊어야 한다는 마음으로 (아이유) ☆"
                 },
                 {
                     "title": "야수",
                     "time": "3:32:39",
                     "artist": "김필선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:32:39 야수 (김필선)"
                 },
                 {
                     "title": "희재",
                     "time": "3:40:21",
                     "artist": "성시경",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:40:21 희재 (성시경)"
                 },
                 {
                     "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
                     "time": "3:59:48",
                     "artist": "AKMU",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:59:48 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 (AKMU) ☆"
                 },
                 {
                     "title": "화조도",
@@ -624,29 +641,33 @@
                     "artist": "심규선",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:06:29 화조도 (심규선) ○☆"
                 },
                 {
                     "title": "오르트구름",
-                    "time": "4:14:59",
+                    "time": "4:15:00",
                     "artist": "윤하",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:15:00 오르트구름 (윤하) ○☆"
                 },
                 {
                     "title": "괴물이 피는 숲",
                     "time": "4:24:20",
-                    "artist": "비비",
+                    "artist": "미로",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:24:20 괴물이 피는 숲 (미로) ■☆"
                 },
                 {
                     "title": "우르릉 쾅쾅쾅",
                     "time": "4:34:55",
                     "artist": "스텔라장",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:34:55 우르릉 쾅쾅쾅 (스텔라장) ○"
                 },
                 {
                     "title": "JANE DOE",
@@ -654,14 +675,16 @@
                     "artist": "요네즈 켄시, 우타다 히카루",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:41:24 JANE DOE (요네즈 켄시, 우타다 히카루) ○☆"
                 },
                 {
                     "title": "-ERROR",
                     "time": "4:53:18",
                     "artist": "niki",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 4:53:18 -ERROR (niki) ☆"
                 },
                 {
                     "title": "Be I",
@@ -669,20 +692,23 @@
                     "artist": "Hebi.",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:02:07 Be I (Hebi.) ○☆"
                 },
                 {
                     "title": "만찬가",
                     "time": "5:10:25",
                     "artist": "츠키",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:10:25 만찬가 (tuki.) ■☆"
                 },
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "5:19:15",
-                    "artist": "강아윤 / 산나비 OST",
-                    "groupSong": false
+                    "artist": "산나비 OST",
+                    "groupSong": false,
+                    "rawLine": "🎤 5:19:15 끝났다는 것은 다시 시작된다는 것을 (산나비 ost) ■"
                 },
                 {
                     "title": "숲",
@@ -690,13 +716,15 @@
                     "artist": "최유리",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:25:45 숲 (최유리) ○☆"
                 },
                 {
                     "title": "월령",
                     "time": "5:33:12",
                     "artist": "심규선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:33:12 월령 (심규선)"
                 },
                 {
                     "title": "밤의 정원",
@@ -704,33 +732,38 @@
                     "artist": "심규선",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:39:10 밤의 정원 (심규선) ○☆"
                 },
                 {
                     "title": "변하지 않는 것",
                     "time": "6:01:39",
                     "artist": "시간을 달리는 소녀 OST",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:01:39 변하지 않는 것 (시간을 달리는 소녀 OST) ■☆"
                 },
                 {
                     "title": "꽃에 망령",
                     "time": "6:11:33",
                     "artist": "요루시카",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:11:33 꽃에 망령 (요루시카)"
                 },
                 {
                     "title": "부엉이",
                     "time": "6:19:24",
                     "artist": "KOKIA",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:19:24 부엉이 (KOKIA) ○"
                 },
                 {
                     "title": "나는 최강",
                     "time": "6:28:15",
                     "artist": "Ado",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:28:15 나는 최강 (Ado)"
                 },
                 {
                     "title": "JANE DOE",
@@ -738,19 +771,22 @@
                     "artist": "요네즈 켄시, 우타다 히카루",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:36:03 JANE DOE (요네즈 켄시, 우타다 히카루) ○☆"
                 },
                 {
                     "title": "Pretender",
                     "time": "6:43:28",
                     "artist": "오피셜히게단디즘",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:43:28 Pretender (오피셜히게단디즘)"
                 },
                 {
                     "title": "Lemon",
                     "time": "6:55:49",
                     "artist": "요네즈 켄시",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:55:49 Lemon (요네즈 켄시)"
                 },
                 {
                     "title": "피날레",
@@ -758,7 +794,8 @@
                     "artist": "eill",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:01:23 Finale (eill) ○☆"
                 },
                 {
                     "title": "편지",
@@ -766,7 +803,8 @@
                     "artist": "김광진",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:08:55 편지 (김광진) ○☆"
                 },
                 {
                     "title": "한숨",
@@ -774,21 +812,24 @@
                     "artist": "이하이",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:15:29 한숨 (이하이) ○☆"
                 },
                 {
                     "title": "시간의 바깥",
                     "time": "7:24:31",
                     "artist": "아이유",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:24:31 시간의 바깥 (아이유) ■☆"
                 },
                 {
                     "title": "팬서비스",
                     "time": "7:34:27",
                     "artist": "mona",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:34:27 팬서비스 (mona) ☆"
                 }
             ]
         },
@@ -840,9 +881,9 @@
                 {
                     "title": "화장을 고치고",
                     "time": "2:24:46",
-                    "artist": "왁스",
+                    "artist": "태연",
                     "groupSong": false,
-                    "rawLine": "🎤 2:24:46 화장을 고치고 (왁스) ■"
+                    "rawLine": "🎤 2:24:46 화장을 고치고 (태연) ■"
                 },
                 {
                     "title": "헤픈 우연",
@@ -1181,7 +1222,7 @@
             ]
         },
         {
-            "title": "비밀 공간에 계속 갇히고 싶다🤍",
+            "title": "계속 갇히고 싶다🤍",
             "date": "2026-08-24",
             "url": "https://vod.sooplive.com/player/205237609",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_39CE0645_296602289_2_r&column=2&t=1787672700",
@@ -1246,10 +1287,10 @@
                 {
                     "title": "사랑..그게 뭔데",
                     "time": "4:24:28",
-                    "artist": "양파",
+                    "artist": "지아",
                     "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:24:28 사랑..그게 뭔데 (양파) ☆☆"
+                    "rawLine": "🎤 4:24:28 사랑..그게 뭔데 (지아) ☆☆"
                 },
                 {
                     "title": "화장을 고치고",
@@ -2094,7 +2135,7 @@
                     "rawLine": "🎤 2:26:17 내 마음이 너에게 닿기를 ○"
                 },
                 {
-                    "title": "Strawberry Moon",
+                    "title": "strawberry moon",
                     "time": "2:34:42",
                     "artist": "아이유",
                     "noMistake": true,

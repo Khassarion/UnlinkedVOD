@@ -3576,101 +3576,135 @@
                     "time": "1:34:53",
                     "artist": "태연",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 들리나요 1:34:53 ☆○"
                 },
                 {
                     "title": "여우야",
                     "time": "1:47:08",
                     "artist": "조이",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 여우야 1:47:08 ○"
                 },
                 {
                     "title": "Celebrity",
                     "time": "1:54:49",
-                    "artist": "아이유"
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 Celebrity 1:54:49"
                 },
                 {
                     "title": "Love story",
                     "time": "2:01:32",
-                    "artist": "볼빨간사춘기"
+                    "artist": "볼빨간사춘기",
+                    "groupSong": false,
+                    "rawLine": "🎤 Love story 2:01:32"
                 },
                 {
                     "title": "서른 즈음에",
                     "time": "2:16:22",
                     "artist": "김광석",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 서른 즈음에 2:16:22 ☆○"
                 },
                 {
                     "title": "예감 좋은 날",
                     "time": "2:25:35",
                     "artist": "럼블피쉬",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 예감 좋은 날 2:25:35 ☆○"
                 },
                 {
                     "title": "우주를 건너",
                     "time": "2:32:18",
                     "artist": "백예린",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 우주를 건너 2:32:18 ○"
                 },
                 {
                     "title": "How Do I Say Goodbye",
                     "time": "2:40:43",
                     "artist": "Dean Lewis",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 How Do I Say Goodbye 2:40:43 ☆○"
                 },
                 {
                     "title": "인연",
                     "time": "2:50:29",
                     "artist": "이선희",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 인연 2:50:29 ☆○"
                 },
                 {
                     "title": "그 중에 그대를 만나",
                     "time": "2:59:50",
-                    "artist": "이선희"
+                    "artist": "이선희",
+                    "groupSong": false,
+                    "rawLine": "🎤 그 중에 그대를 만나 2:59:50"
                 },
                 {
                     "title": "그 중에 그대를 만나",
                     "time": "3:02:35",
-                    "artist": "이선희"
+                    "artist": "이선희",
+                    "groupSong": false,
+                    "rawLine": "🎤 그 중에 그대를 만나 3:02:35"
                 },
                 {
                     "title": "첫 키스에 내 심장은 120BPM",
                     "time": "3:09:25",
-                    "artist": "경서"
+                    "artist": "경서",
+                    "groupSong": false,
+                    "rawLine": "🎤 첫 키스에 내 심장은 120BPM 3:09:25"
                 },
                 {
                     "title": "숲",
                     "time": "3:19:01",
                     "artist": "최유리",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 숲 3:19:01 ☆○"
                 },
                 {
                     "title": "Almond Chocolate",
                     "time": "3:24:47",
-                    "artist": "아일릿"
+                    "artist": "아일릿",
+                    "groupSong": false,
+                    "rawLine": "🎤 Almond Chocolate 3:24:47"
                 },
                 {
                     "title": "That's Hilarious",
                     "time": "3:28:47",
-                    "artist": "Charlie Puth"
+                    "artist": "Charlie Puth",
+                    "groupSong": false,
+                    "rawLine": "🎤 That's Hilarious 3:28:47"
                 },
                 {
                     "title": "Shape of You",
                     "time": "3:33:57",
-                    "artist": "Ed Sheeran"
+                    "artist": "Ed Sheeran",
+                    "groupSong": false,
+                    "rawLine": "🎤 Shape of You 3:33:57"
                 },
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "3:41:39",
-                    "artist": "산나비",
+                    "artist": "산나비 OST",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 끝났다는 것은 다시 시작된다는 것을 3:41:39 ☆○"
                 }
             ]
         },
@@ -4600,44 +4634,60 @@
                 {
                     "title": "Fine",
                     "time": "00:42:46",
-                    "artist": "태연"
+                    "artist": "태연",
+                    "groupSong": false,
+                    "rawLine": "🎤 Fine 00:42:46"
                 },
                 {
                     "title": "Viva La Vida",
                     "time": "00:53:20",
-                    "artist": "콜드플레이"
+                    "artist": "콜드플레이",
+                    "groupSong": false,
+                    "rawLine": "🎤 Viva la Vida 00:53:20"
                 },
                 {
                     "title": "요즘 너 말야",
                     "time": "01:07:59",
-                    "artist": "제이래빗"
+                    "artist": "제이래빗",
+                    "groupSong": false,
+                    "rawLine": "🎤 요즘 너 말야 01:07:59"
                 },
                 {
                     "title": "상상더하기",
                     "time": "01:25:28",
-                    "artist": "라붐"
+                    "artist": "라붐",
+                    "groupSong": false,
+                    "rawLine": "🎤 상상더하기 01:25:28"
                 },
                 {
                     "title": "호랑수월가",
                     "time": "01:35:10",
                     "artist": "나래",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 호랑수월가 01:35:10 ○"
                 },
                 {
                     "title": "Kissing You",
                     "time": "01:46:13",
-                    "artist": "소녀시대"
+                    "artist": "소녀시대",
+                    "groupSong": false,
+                    "rawLine": "🎤 Kissing You 01:46:13"
                 },
                 {
                     "title": "빌려온 고양이",
                     "time": "01:54:03",
                     "artist": "아일릿",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 빌려온 고양이 01:54:03 ○"
                 },
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "03:34:16",
-                    "artist": "산나비"
+                    "artist": "산나비 OST",
+                    "groupSong": false,
+                    "rawLine": "🎤 끝났다는 것은 다시 시작된다는 것을 03:34:16"
                 }
             ]
         },
@@ -4650,102 +4700,138 @@
                 {
                     "title": "고양이",
                     "time": "47:42",
-                    "artist": "선우정아"
+                    "artist": "선우정아",
+                    "groupSong": false,
+                    "rawLine": "🎤 고양이 47:42"
                 },
                 {
                     "title": "곰인형",
                     "time": "58:33",
                     "artist": "설아",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 곰인형 58:33 ○"
                 },
                 {
                     "title": "몰라요",
                     "time": "1:06:20",
-                    "artist": "에이핑크"
+                    "artist": "에이핑크",
+                    "groupSong": false,
+                    "rawLine": "🎤 몰라요 1:06:20"
                 },
                 {
                     "title": "취기를 빌려",
                     "time": "1:13:10",
-                    "artist": "산들"
+                    "artist": "산들",
+                    "groupSong": false,
+                    "rawLine": "🎤 취기를 빌려 1:13:10"
                 },
                 {
                     "title": "나의 사춘기에게",
                     "time": "1:21:32",
                     "artist": "볼빨간사춘기",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 나의 사춘기에게 1:21:32 ○"
                 },
                 {
                     "title": "Love wins all",
                     "time": "1:28:19",
                     "artist": "아이유",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Love wins all 1:28:19 ○"
                 },
                 {
                     "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
                     "time": "1:37:00",
                     "artist": "AKMU",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 1:37:00 ☆○"
                 },
                 {
                     "title": "지구가 태양을 네 번",
                     "time": "1:46:45",
                     "artist": "넬",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 지구가 태양을 네번 1:46:45 ☆○"
                 },
                 {
                     "title": "꽃길",
                     "time": "2:03:43",
-                    "artist": "김세정"
+                    "artist": "김세정",
+                    "groupSong": false,
+                    "rawLine": "🎤 꽃길 2:03:43"
                 },
                 {
                     "title": "빌려온 고양이",
                     "time": "2:10:32",
-                    "artist": "아일릿"
+                    "artist": "아일릿",
+                    "groupSong": false,
+                    "rawLine": "🎤 빌려온 고양이 2:10:32"
                 },
                 {
                     "title": "비도 오고 그래서",
                     "time": "2:17:00",
-                    "artist": "헤이즈"
+                    "artist": "헤이즈",
+                    "groupSong": false,
+                    "rawLine": "🎤 비도 오고 그래서 2:17:00"
                 },
                 {
                     "title": "굴뚝마을의 푸펠",
                     "time": "2:23:46",
-                    "artist": "이무진"
+                    "artist": "이무진",
+                    "groupSong": false,
+                    "rawLine": "🎤 굴뚝마을의 푸펠 2:23:46"
                 },
                 {
                     "title": "분홍신",
                     "time": "2:34:31",
-                    "artist": "아이유"
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 분홍신 2:34:31"
                 },
                 {
                     "title": "Track 9",
                     "time": "2:42:25",
                     "artist": "이소라",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Track 9 2:42:25 ○☆"
                 },
                 {
                     "title": "Pookie",
                     "time": "2:49:11",
-                    "artist": "피프티피프티"
+                    "artist": "피프티피프티",
+                    "groupSong": false,
+                    "rawLine": "🎤 Pookie 2:49:11"
                 },
                 {
                     "title": "INVU",
                     "time": "2:53:32",
-                    "artist": "태연"
+                    "artist": "태연",
+                    "groupSong": false,
+                    "rawLine": "🎤 INVU 2:53:32"
                 },
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "3:11:36",
-                    "artist": "산나비"
+                    "artist": "산나비 OST",
+                    "groupSong": false,
+                    "rawLine": "🎤 끝났다는 것은 다시 시작된다는 것을 3:11:36"
                 },
                 {
                     "title": "오스카",
                     "time": "3:17:11",
                     "artist": "심규선",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 오스카 3:17:11 ○"
                 }
             ]
         },
@@ -8682,32 +8768,40 @@
             ]
         },
         {
-            "title": "[버블란] 고래시티 츄베릅 마지막 이야기",
+            "title": "소통 - 고래시티 마지막 이야기",
             "date": "2026-05-28",
             "url": "https://vod.sooplive.com/player/197061281",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_2ECFFF3E_294369327_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260528_C41780BB_294369327_1_r&column=2&t=1780419344",
             "songInfo": [
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "5:38:34",
-                    "artist": "산나비"
+                    "artist": "산나비 OST",
+                    "groupSong": false,
+                    "rawLine": "🎤 끝났다는 것은 다시 시작된다는 것을 5:38:34"
                 },
                 {
                     "title": "야수",
                     "time": "5:48:38",
-                    "artist": "김필선"
+                    "artist": "김필선",
+                    "groupSong": false,
+                    "rawLine": "🎤 야수 5:48:38"
                 },
                 {
                     "title": "밤편지",
                     "time": "5:54:10",
                     "artist": "아이유",
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 밤편지 5:54:10 ☆"
                 },
                 {
                     "title": "운이 좋았지",
                     "time": "5:59:23",
                     "artist": "권진아",
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 운이 좋았지 5:59:23 ☆ /*폭풍구간 잘했자나!*/"
                 }
             ]
         },

@@ -29,15 +29,16 @@
         "aliases": []
     },
     {
-        "artist": "930 / Feat.Bona Zoe",
+        "artist": "930",
         "aliases": [
+            "930 / Feat.Bona Zoe",
             "feat. Bona Zoe / 930"
         ]
     },
     {
-        "artist": "강아윤 / 산나비 OST",
+        "artist": "산나비 OST",
         "aliases": [
-            "산나비 OST",
+            "강아윤 / 산나비 OST",
             "산나비",
             "산나비 ost"
         ]
@@ -1835,6 +1836,10 @@
     },
     {
         "artist": "RM",
+        "aliases": []
+    },
+    {
+        "artist": "Rosa Walton",
         "aliases": []
     },
     {

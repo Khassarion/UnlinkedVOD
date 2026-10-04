@@ -331,97 +331,113 @@
                     "title": "모찌송",
                     "time": "3:10:45",
                     "artist": "모찌멜로디",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:10:45 | 🎤 체비 - 모찌송"
                 },
                 {
                     "title": "별이 되지 않아도 돼",
                     "time": "3:25:59",
                     "artist": "109",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:25:59 | 🎤 체비 - 별이 되지 않아도 돼 (109)"
                 },
                 {
                     "title": "좋아하니까",
                     "time": "3:31:51",
                     "artist": "유이카",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:31:51 | 🎤 체비 - 좋아하니까 (Yuika)"
                 },
                 {
                     "title": "추억은 한 편의 산문집 되어",
                     "time": "3:46:57",
                     "artist": "신지훈",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:46:57 | 🎤 체비 - 추억은 한 편의 산문집 되어 (신지훈)"
                 },
                 {
                     "title": "ELEVEN",
                     "time": "3:53:14",
                     "artist": "IVE",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:53:14 | 🎤 체비 - ELEVEN (아이브)"
                 },
                 {
                     "title": "이런 엔딩",
                     "time": "4:01:24",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:01:24 | 🎤 체비 - 이런 엔딩 (아이유)"
                 },
                 {
                     "title": "숲",
                     "time": "4:13:14",
                     "artist": "최유리",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:13:14 | 🎤 체비 - 숲 (최유리) /*무반주*/"
                 },
                 {
                     "title": "0310",
                     "time": "4:17:33",
                     "artist": "백예린",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:17:33 | 🎤 체비 - 0310 (백예린)  /*무반주*/"
                 },
                 {
                     "title": "아이♡스크림!",
                     "time": "4:23:34",
                     "artist": "AiScReam",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:23:34 | 🎤 체비 - 아이♡스크림! (AiScReam)"
                 },
                 {
                     "title": "Ride or die",
                     "time": "4:31:54",
                     "artist": "NO:EL",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:31:54 | 🎤 체비 - Ride or die (NO:EL)"
                 },
                 {
                     "title": "King",
                     "time": "4:48:01",
                     "artist": "Lauren Aquilina",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:48:01 | 🎤 체비 - King (Lauren Aquilina)"
                 },
                 {
-                    "title": "I Really Want to Stay at Your House",
+                    "title": "I Really Want to Stay At Your House",
                     "time": "4:54:28",
-                    "artist": "사이버펑크OST",
-                    "groupSong": false
+                    "artist": "Rosa Walton",
+                    "groupSong": false,
+                    "rawLine": "4:54:28 | 🎤 체비 - I Really Want to Stay at Your House (사이버펑크 OST)"
                 },
                 {
                     "title": "Unravel",
                     "time": "5:00:46",
                     "artist": "도쿄구울 OST",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "5:00:46 | 🎤 체비 - Unravel (도쿄구울 OST)"
                 },
                 {
                     "title": "-ERROR",
                     "time": "5:06:57",
                     "artist": "niki",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "5:06:57 | 🎤 체비 - ERROR (niki)"
                 },
                 {
                     "title": "Replace You",
                     "time": "5:14:42",
-                    "artist": "930 / Feat.Bona Zoe",
-                    "groupSong": false
+                    "artist": "930",
+                    "groupSong": false,
+                    "rawLine": "5:14:42 | 🎤 체비 - Replace You (feat. Bona Zoe / 930)"
                 },
                 {
                     "title": "바람",
                     "time": "5:40:54",
                     "artist": "송푸름",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "5:40:54 | 🎤 체비 - 바람 (송푸름)"
                 }
             ]
         },
@@ -475,91 +491,106 @@
                     "title": "Why",
                     "time": "01:23:45",
                     "artist": "태연",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:23:45 | 🎤체비 - Why (태연)"
                 },
                 {
                     "title": "Help",
                     "time": "01:33:30",
                     "artist": "10CM",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:33:30 | 🎤체비 - Help (10cm)"
                 },
                 {
                     "title": "Antifreeze",
                     "time": "01:41:22",
                     "artist": "백예린",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:41:22 | 🎤체비 - Antifreeze (백예린)"
                 },
                 {
                     "title": "그라데이션",
                     "time": "01:47:50",
                     "artist": "10CM",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:47:50 | 🎤체비 - 그라데이션 (10cm)"
                 },
                 {
                     "title": "꽃이 피고 지듯이",
                     "time": "01:53:10",
                     "artist": "조승우",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:53:10 | 🎤체비 - 꽃이 피고 지듯이 (조승우)"
                 },
                 {
                     "title": "도망가자",
                     "time": "01:58:34",
                     "artist": "선우정아",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:58:34 | 🎤체비 - 도망가자 (선우정아)"
                 },
                 {
                     "title": "Free",
                     "time": "02:07:23",
                     "artist": "케데헌 OST",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:07:23 | 🎤체비 - Free (케데헌 OST)"
                 },
                 {
                     "title": "Older Than I Am",
                     "time": "02:12:42",
                     "artist": "Lennon Stella",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:12:42 | 🎤체비 - Older Than I Am (Lennon Stella)"
                 },
                 {
-                    "title": "Carry you",
+                    "title": "Carry You",
                     "time": "02:19:26",
-                    "artist": "Ruelle",
-                    "groupSong": false
+                    "artist": "Ruelle, Fleurie",
+                    "groupSong": false,
+                    "rawLine": "02:19:26 | 🎤체비 - Carry you (Ruelle)"
                 },
                 {
                     "title": "연의 편지",
                     "time": "02:30:15",
                     "artist": "이수현",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:30:15 | 🎤체비 - 연의 편지 (이수현)"
                 },
                 {
                     "title": "기다린만큼, 더",
                     "time": "02:37:32",
                     "artist": "검정치마",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:37:32 | 🎤체비 - 기다린 만큼, 더 (검정치마)"
                 },
                 {
                     "title": "Drowning",
                     "time": "02:43:19",
                     "artist": "WOODZ",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:43:19 | 🎤체비 - Drowning (우즈)"
                 },
                 {
                     "title": "좋아하나봐",
                     "time": "02:51:33",
                     "artist": "샘김",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:51:33 | 🎤체비 - 좋아하나봐 (샘김)"
                 },
                 {
                     "title": "난춘",
                     "time": "03:01:46",
                     "artist": "새소년",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "03:01:46 | 🎤체비 - 난춘 (새소년)"
                 },
                 {
                     "title": "-ERROR",
                     "time": "03:06:43",
                     "artist": "niki",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "03:06:43 | 🎤체비 - ERROR (niki)"
                 }
             ]
         },
@@ -1258,61 +1289,71 @@
                     "title": "히로인",
                     "time": "2:41:34",
                     "artist": "back number",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:41:34 | 🎤체비 - 히로인 (Back number)"
                 },
                 {
                     "title": "김철수 씨 이야기",
                     "time": "2:47:56",
                     "artist": "허회경",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:47:56 | 🎤체비 - 김철수 씨 이야기 (허회경)"
                 },
                 {
                     "title": "시간과 낙엽",
                     "time": "3:23:22",
                     "artist": "AKMU",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:23:22 | 🎤체비 - 시간과 낙엽 (AKMU)"
                 },
                 {
                     "title": "섬",
                     "time": "3:54:08",
                     "artist": "민수",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:54:08 | 🎤체비 - 섬 (민수)"
                 },
                 {
                     "title": "그대만 있다면",
                     "time": "4:04:37",
                     "artist": "너드 커넥션",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:04:37 | 🎤체비 - 그대만 있다면 (너드 커넥션)"
                 },
                 {
                     "title": "달빛에 그려지는",
                     "time": "4:10:49",
                     "artist": "미연",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:10:49 | 🎤체비 - 달빛에 그려지는 (미연)\\"
                 },
                 {
-                    "title": "에잇(Prod.&Feat. SUGA of BTS)",
+                    "title": "에잇",
                     "time": "4:16:38",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:16:38 | 🎤체비 - 에잇(Prod.&amp;Feat. SUGA of BTS) (아이유)"
                 },
                 {
                     "title": "좋아하니까",
                     "time": "4:20:51",
                     "artist": "유이카",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:20:51 | 🎤체비 - 좋아하니까 (Yuika)"
                 },
                 {
                     "title": "운이 좋았지",
                     "time": "4:28:10",
                     "artist": "권진아",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:28:10 | 🎤체비 - 운이 좋았지 (권진아)"
                 },
                 {
                     "title": "해요 (2022)",
                     "time": "4:34:25",
                     "artist": "#안녕",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:34:25 | 🎤체비 - 해요 (2022) (#안녕)"
                 }
             ]
         },
@@ -1560,47 +1601,63 @@
             "title": "즐찾 5천 찍고 십어요",
             "date": "2026-04-07",
             "url": "https://vod.sooplive.com/player/192105735",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
             "songInfo": [
                 {
                     "title": "첫 키스에 내 심장은 120BPM",
                     "time": "01:23:26",
-                    "artist": "경서"
+                    "artist": "경서",
+                    "groupSong": false,
+                    "rawLine": "01:23:26 | 🎤체비 - 첫 키스에 내 심장은 120BPM (경서)"
                 },
                 {
                     "title": "바람",
                     "time": "01:28:18",
-                    "artist": "송푸름"
+                    "artist": "송푸름",
+                    "groupSong": false,
+                    "rawLine": "01:28:18 | 🎤체비 - 바람 (송푸름)"
                 },
                 {
                     "title": "난춘",
                     "time": "01:35:47",
-                    "artist": "새소년"
+                    "artist": "새소년",
+                    "groupSong": false,
+                    "rawLine": "01:35:47 | 🎤체비 - 난춘 (새소년)"
                 },
                 {
                     "title": "기다린만큼, 더",
                     "time": "01:42:46",
-                    "artist": "검정치마"
+                    "artist": "검정치마",
+                    "groupSong": false,
+                    "rawLine": "01:42:46 | 🎤체비 - 기다린만큼, 더 (검정치마)"
                 },
                 {
                     "title": "마음",
                     "time": "01:47:50",
-                    "artist": "아이유"
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "01:47:50 | 🎤체비 - 마음 (아이유)"
                 },
                 {
                     "title": "Ref:rain",
                     "time": "01:52:36",
-                    "artist": "Aimer"
+                    "artist": "Aimer",
+                    "groupSong": false,
+                    "rawLine": "01:52:36 | 🎤체비 - Ref:rain (Aimer)"
                 },
                 {
                     "title": "내일 또 보자",
                     "time": "02:00:04",
-                    "artist": "ENE"
+                    "artist": "ENE",
+                    "groupSong": false,
+                    "rawLine": "02:00:04 | 🎤체비 - 내일 또 보자 (またあした) (ENE)"
                 },
                 {
                     "title": "끝났다는 것은 다시 시작된다는 것을",
                     "time": "02:06:55",
-                    "artist": "강아윤 / 산나비 OST"
+                    "artist": "산나비 OST",
+                    "groupSong": false,
+                    "rawLine": "02:06:55 | 🎤체비 - 끝났다는 것은 다시 시작된다는 것을 (강아윤 / 산나비 OST)"
                 }
             ]
         },
@@ -1692,31 +1749,36 @@
                     "title": "0+0",
                     "time": "4:16:23",
                     "artist": "한로로",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:16:23 | 🎤체비 - 0+0 (한로로)"
                 },
                 {
                     "title": "우주(UNIVERSE)",
                     "time": "4:21:05",
                     "artist": "YOUHA(유하)",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:21:05 | 🎤체비 - 우주(UNIVERSE) (유하)"
                 },
                 {
                     "title": "첫 키스에 내 심장은 120BPM",
                     "time": "4:26:46",
                     "artist": "경서",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:26:46 | 🎤체비 - 첫 키스에 내 심장은 120BPM (경서)"
                 },
                 {
                     "title": "민들레",
                     "time": "4:38:40",
                     "artist": "우효",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:38:40 | 🎤체비 - 민들레 (우효)"
                 },
                 {
                     "title": "Replace You",
                     "time": "4:44:55",
-                    "artist": "930 / Feat.Bona Zoe",
-                    "groupSong": false
+                    "artist": "930",
+                    "groupSong": false,
+                    "rawLine": "4:44:55 | 🎤체비 - Replace You (930 / Feat.Bona Zoe)"
                 }
             ]
         },
@@ -1816,181 +1878,211 @@
                     "title": "0+0",
                     "time": "1:42:08",
                     "artist": "한로로",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "1:42:08 | 🎤체비 - 0+0 (한로로)"
                 },
                 {
                     "title": "에잇",
                     "time": "1:47:10",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "1:47:10 | 🎤체비 - 에잇 (아이유)"
                 },
                 {
                     "title": "Antifreeze",
                     "time": "1:51:36",
                     "artist": "백예린",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "1:51:36 | 🎤체비 - Antifreeze (백예린)"
                 },
                 {
                     "title": "연의 편지",
                     "time": "1:57:42",
                     "artist": "이수현",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "1:57:42 | 🎤체비 - 연의 편지 (이수현)"
                 },
                 {
                     "title": "ELEVEN",
                     "time": "2:39:47",
                     "artist": "IVE",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:39:47 | 🎤체비 - ELEVEN (아이브)"
                 },
                 {
                     "title": "ANTIFRAGILE",
                     "time": "2:44:00",
                     "artist": "르세라핌",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:44:00 | 🎤체비 - ANTIFRAGILE (르세라핌)"
                 },
                 {
                     "title": "Stargazers",
                     "time": "2:48:48",
                     "artist": "이세계아이돌",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:48:48 | 🎤체비 - Stargazers (이세계아이돌)"
                 },
                 {
                     "title": "소로",
                     "time": "2:53:49",
                     "artist": "심규선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:53:49 | 🎤체비 - 소로 (심규선)"
                 },
                 {
                     "title": "우주(UNIVERSE)",
                     "time": "2:59:23",
                     "artist": "YOUHA(유하)",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:59:23 | 🎤체비 - 우주(UNIVERSE) (유하)"
                 },
                 {
                     "title": "러브레터(ラブレター)",
                     "time": "3:03:23",
                     "artist": "요아소비",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:03:23 | 🎤체비 - 러브레터(ラブレター) (요아소비)"
                 },
                 {
                     "title": "이런 엔딩",
                     "time": "3:10:06",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:10:06 | 🎤체비 - 이런 엔딩 (아이유)"
                 },
                 {
                     "title": "바람",
                     "time": "3:16:59",
                     "artist": "송푸름",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:16:59 | 🎤체비 - 바람 (송푸름)"
                 },
                 {
                     "title": "시가 될 이야기",
                     "time": "3:23:31",
                     "artist": "신지훈",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:23:31 | 🎤체비 - 시가 될 이야기 (신지훈)"
                 },
                 {
                     "title": "달빛에 그려지는",
                     "time": "3:28:57",
                     "artist": "미연",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:28:57 | 🎤체비 - 달빛에 그려지는 (미연)"
                 },
                 {
                     "title": "시간과 낙엽",
                     "time": "3:35:17",
                     "artist": "AKMU",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:35:17 | 🎤체비 - 시간과 낙엽 (AKMU)"
                 },
                 {
                     "title": "DINOSAUR",
                     "time": "3:40:37",
                     "artist": "AKMU",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:40:37 | 🎤체비 - DINOSAUR (AKMU)"
                 },
                 {
                     "title": "yours",
                     "time": "3:46:30",
                     "artist": "데이먼스 이어",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:46:30 | 🎤체비 - yours (데이먼스 이어)"
                 },
                 {
-                    "title": "I Really Want to Stay at Your House",
+                    "title": "I Really Want to Stay At Your House",
                     "time": "3:50:15",
-                    "artist": "사이버펑크OST",
-                    "groupSong": false
+                    "artist": "Rosa Walton",
+                    "groupSong": false,
+                    "rawLine": "3:50:15 | 🎤체비 - I Really Want to Stay at Your House (사이버펑크OST)"
                 },
                 {
                     "title": "Brand",
                     "time": "3:58:14",
                     "artist": "비오(BE'O)",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "3:58:14 | 🎤체비 - Brand (비오(BE'O))"
                 },
                 {
                     "title": "피차일반",
                     "time": "4:01:52",
                     "artist": "음율",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:01:52 | 🎤체비 - 피차일반 (음율)"
                 },
                 {
                     "title": "아이와 나의 바다",
                     "time": "4:08:50",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:08:50 | 🎤체비 - 아이와 나의 바다 (아이유)"
                 },
                 {
                     "title": "이제 우리 꿈에서만 만나",
                     "time": "4:16:01",
                     "artist": "Yyeon",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:16:01 | 🎤체비 - 이제 우리 꿈에서만 만나 (Yyeon)"
                 },
                 {
                     "title": "비가 내리는 날에는",
                     "time": "4:21:34",
                     "artist": "윤하",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:21:34 | 🎤체비 - 비가 내리는 날에는 (윤하)"
                 },
                 {
                     "title": "연인",
                     "time": "4:26:58",
                     "artist": "박효신",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:26:58 | 🎤체비 - 연인 (박효신)"
                 },
                 {
                     "title": "섬",
                     "time": "4:43:19",
                     "artist": "민수",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:43:19 | 🎤체비 - 섬 (민수)"
                 },
                 {
                     "title": "I",
                     "time": "4:47:55",
                     "artist": "태연",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:47:55 | 🎤체비 - I (태연)"
                 },
                 {
                     "title": "밤, 바다",
                     "time": "4:53:38",
                     "artist": "최유리",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:53:38 | 🎤체비 - 밤, 바다 (최유리)"
                 },
                 {
                     "title": "이지금",
                     "time": "4:59:36",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:59:36 | 🎤체비 - 이지금 (아이유)"
                 },
                 {
                     "title": "난춘",
                     "time": "5:12:46",
                     "artist": "새소년",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "5:12:46 | 🎤체비 - 난춘 (새소년)"
                 },
                 {
                     "title": "LETTER",
                     "time": "5:26:04",
                     "artist": "유다빈밴드",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "5:26:04 | 🎤체비 - LETTER (유다빈밴드)"
                 }
             ]
         },
@@ -2067,90 +2159,103 @@
                     "time": "1:19:20",
                     "artist": "한로로",
                     "groupMembers": "체비, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "1:19:20 | 🎶 체비, 플리, 임하밍, 문모모 - 0+0"
                 },
                 {
                     "title": "밤편지",
                     "time": "1:25:53",
                     "artist": "아이유",
                     "groupMembers": "체비, 모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "1:25:53 | 🎶 체비, 모카, 플리, 임하밍, 문모모 - 밤편지"
                 },
                 {
                     "title": "주저하는 연인들을 위해",
                     "time": "1:32:02",
                     "artist": "잔나비",
                     "groupMembers": "체비, 모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "1:32:02 | 🎶 체비, 모카, 플리, 임하밍, 문모모 - 주저하는 연인들을 위해"
                 },
                 {
                     "title": "너의 바다",
                     "time": "1:39:07",
                     "artist": "호피폴라",
                     "groupMembers": "체비, 임하밍",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "1:39:07 | 🎶 체비, 임하밍 - 너의 바다 (호피폴라)"
                 },
                 {
                     "title": "소녀",
                     "time": "1:46:35",
                     "artist": "오혁",
                     "groupMembers": "모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "1:46:35 | 🎶 모카, 플리, 임하밍, 문모모   - 소녀 (오혁)"
                 },
                 {
                     "title": "소로",
                     "time": "1:52:58",
                     "artist": "심규선",
                     "groupMembers": "체비, 임하밍",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "1:52:58 | 🎶 체비, 임하밍 - 소로"
                 },
                 {
                     "title": "히로인",
                     "time": "2:02:27",
                     "artist": "back number",
                     "groupMembers": "체비, 모카, 플리, 임하밍",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "2:02:27 | 🎶 체비, 모카, 플리, 임하밍 - 히로인"
                 },
                 {
                     "title": "가질 수 없는 너",
                     "time": "2:09:10",
                     "artist": "뱅크",
                     "groupMembers": "임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "2:09:10 | 🎶 임하밍, 문모모 - 가질 수 없는 너"
                 },
                 {
                     "title": "괴수의 꽃노래",
                     "time": "2:17:49",
                     "artist": "Vaundy",
                     "groupMembers": "체비, 모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "2:17:49 | 🎶 체비, 모카, 플리, 임하밍, 문모모 - 괴수의 꽃노래"
                 },
                 {
                     "title": "이런 엔딩",
                     "time": "2:39:41",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "2:39:41 | 🎤 체비 - 이런 엔딩"
                 },
                 {
                     "title": "달과 6펜스",
                     "time": "2:56:24",
                     "artist": "심규선",
                     "groupMembers": "체비, 임하밍",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "2:56:24 | 🎶 체비, 임하밍 - 달과 6펜스"
                 },
                 {
                     "title": "내 마음이 너에게 닿기를",
                     "time": "3:03:31",
                     "artist": "경서",
                     "groupMembers": "모카, 플리",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:03:31 | 🎶 모카, 플리 - 내 마음이 너에게 닿기를"
                 },
                 {
                     "title": "마음짓기",
                     "time": "3:17:00",
                     "artist": "하나땅",
                     "groupMembers": "체비, 모카",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:17:00 | 🎶 체비, 모카 - 마음짓기"
                 },
                 {
                     "title": "귀엽기만 하면 안 되나요?",
@@ -2158,21 +2263,24 @@
                     "artist": "큐티 스트리트",
                     "needsReview": true,
                     "groupMembers": "모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:25:46 | 🎶 모카, 플리, 임하밍, 문모모 - 귀엽기만 하면 안 되나요?"
                 },
                 {
                     "title": "만찬가",
                     "time": "3:33:27",
                     "artist": "태연",
                     "groupMembers": "임하밍",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:33:27 | 🎶 임하밍 - 만찬가 (태연ver)"
                 },
                 {
-                    "title": "I Really Want to Stay at Your House",
+                    "title": "I Really Want to Stay At Your House",
                     "time": "3:39:36",
-                    "artist": "사이버펑크OST",
+                    "artist": "Rosa Walton",
                     "groupMembers": "체비, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:39:36 | 🎶 체비, 문모모 - I Really Want to Stay at Your House"
                 },
                 {
                     "title": "별 보러 갈래?",
@@ -2180,27 +2288,31 @@
                     "artist": "볼빨간사춘기",
                     "needsReview": true,
                     "groupMembers": "플리, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:46:30 | 🎶 플리, 문모모 - 별 보러 갈래?"
                 },
                 {
                     "title": "Lonely",
                     "time": "3:53:33",
                     "artist": "투에니원",
                     "groupMembers": "체비, 모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:53:33 | 🎶 체비, 모카, 플리, 임하밍, 문모모 - Lonely"
                 },
                 {
                     "title": "사랑하게 될 거야",
                     "time": "3:58:52",
                     "artist": "한로로",
                     "groupMembers": "모카, 플리, 임하밍, 문모모",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "3:58:52 | 🎶 모카, 플리, 임하밍, 문모모 - 사랑하게 될거야"
                 },
                 {
                     "title": "-ERROR",
                     "time": "4:07:39",
                     "artist": "niki",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "4:07:39 | 🎤 체비 - -ERROR"
                 }
             ]
         },
@@ -2497,151 +2609,176 @@
                     "title": "먹구름",
                     "time": "6:43:38",
                     "artist": "윤하",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:43:38 | 체비 - 먹구름 (윤하)"
                 },
                 {
                     "title": "Carry You",
                     "time": "6:49:17",
                     "artist": "Ruelle, Fleurie",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:49:17 | 체비 - Carry You (Ruelle, Fleurie)"
                 },
                 {
                     "title": "사막에서 꽃을 피우듯",
                     "time": "6:56:09",
                     "artist": "우디",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:56:09 | 체비 - 사막에서 꽃을 피우듯 (우디)"
                 },
                 {
                     "title": "미안해요",
                     "time": "7:01:32",
                     "artist": "탑현",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:01:32   | 체비 - 미안해요 (탑현)"
                 },
                 {
                     "title": "봄날",
                     "time": "7:07:09",
                     "artist": "방탄소년단",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:07:09 | 체비 - 봄날 (방탄소년단)"
                 },
                 {
                     "title": "시간의 바깥",
                     "time": "7:14:15",
                     "artist": "아이유",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:14:15 | 체비 - 시간의 바깥 (아이유)"
                 },
                 {
                     "title": "어른",
                     "time": "7:22:41",
                     "artist": "손디아",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:22:41 | 체비 - 어른 (손디아)"
                 },
                 {
-                    "title": "I Really Want To Stay At Your House",
+                    "title": "I Really Want to Stay At Your House",
                     "time": "7:29:07",
-                    "artist": "Eliesczhae",
-                    "groupSong": false
+                    "artist": "Rosa Walton",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:29:07 | 체비 - I Really Want To Stay At Your House (사이버펑크OST)"
                 },
                 {
                     "title": "추억은 한 편의 산문집 되어",
                     "time": "7:37:24",
                     "artist": "신지훈",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:37:24 | 체비 - 추억은 한 편의 산문집 되어 (신지훈)"
                 },
                 {
                     "title": "0+0",
                     "time": "7:42:40",
                     "artist": "한로로",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:42:40  | 체비 - 0+0 (한로로)"
                 },
                 {
                     "title": "입춘",
                     "time": "7:47:03",
                     "artist": "한로로",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:47:03 | 체비 - 입춘 (한로로)"
                 },
                 {
                     "title": "yours",
                     "time": "7:51:58",
                     "artist": "데이먼스 이어",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:51:58 | 체비 - yours"
                 },
                 {
                     "title": "내 생에 아름다운",
                     "time": "7:56:07",
                     "artist": "케이윌",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 7:56:07 | 체비 - 내 생에 아름다운 (케이윌)"
                 },
                 {
                     "title": "Winter Without You",
                     "time": "8:02:49",
                     "artist": "Gloria Kim",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:02:49 | 체비 - Winter Without You (Gloria Kim)"
                 },
                 {
                     "title": "Teenage Fantasy",
                     "time": "8:07:16",
                     "artist": "Jorja Smith",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:07:16  | 체비 - Teenage Fantasy (Jorja Smith)"
                 },
                 {
                     "title": "너, 너",
                     "time": "8:12:29",
                     "artist": "스트레이",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:12:29 | 체비 - 너, 너"
                 },
                 {
                     "title": "LETTER",
                     "time": "8:21:13",
                     "artist": "유다빈밴드",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:21:13 | 체비 - LETTER"
                 },
                 {
                     "title": "Lonely Heart",
                     "time": "8:25:55",
                     "artist": "신지훈",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:25:55 | 체비 - Lonely Heart (신지훈)"
                 },
                 {
                     "title": "숲",
                     "time": "8:31:33",
                     "artist": "최유리",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:31:33 | 체비 - 숲 (최유리)"
                 },
                 {
                     "title": "What Was I Made For?",
                     "time": "8:36:51",
                     "artist": "빌리 아일리시",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:36:51 | 체비 - What Was I Made For? (빌리 아일리시)"
                 },
                 {
                     "title": "스토커",
                     "time": "8:42:01",
                     "artist": "10CM",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:42:01 | 체비 - 스토커"
                 },
                 {
                     "title": "밤, 바다",
                     "time": "8:48:01",
                     "artist": "최유리",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 8:48:01 | 체비 - 밤, 바다 (최유리)"
                 },
                 {
                     "title": "연의 편지",
                     "time": "9:00:50",
                     "artist": "이수현",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 9:00:50 | 체비 - 연의 편지 (이수현)"
                 },
                 {
                     "title": "오늘은 가지마",
                     "time": "9:06:31",
                     "artist": "벤",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 9:06:31  | 체비 - 오늘은 가지마 (벤)"
                 },
                 {
                     "title": "Mermaid",
                     "time": "9:12:15",
                     "artist": "볼빨간사춘기",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 9:12:15 | 체비 - Mermaid (볼빨간사춘기)"
                 }
             ]
         },
@@ -2703,7 +2840,7 @@
                 {
                     "title": "Replace You",
                     "time": "5:54:40",
-                    "artist": "930 / Feat.Bona Zoe",
+                    "artist": "930",
                     "groupSong": false,
                     "rawLine": "🎤 5:54:40  | 체비 - Replace You (930 / Feat.Bona Zoe)"
                 },
@@ -2960,9 +3097,9 @@
                 {
                     "title": "내일 또 보자",
                     "time": "4:43:17",
-                    "artist": "하츠네 미쿠",
+                    "artist": "ENE",
                     "groupSong": false,
-                    "rawLine": "🎤 4:43:17 | 체비 - 내일 또 보자 (하츠네 미쿠)"
+                    "rawLine": "🎤 4:43:17 | 체비 - 내일 또 보자 (ENE)"
                 },
                 {
                     "title": "먹구름",
@@ -3114,6 +3251,213 @@
                     "artist": "YOUHA(유하)",
                     "groupSong": false,
                     "rawLine": "🎤 5:48:54 | 체비 - ISLAND (유하)"
+                }
+            ]
+        },
+        {
+            "title": "재밌었다",
+            "date": "2026-10-02",
+            "url": "https://vod.sooplive.com/player/208754359",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261002_23AD48C0_297541097_2_r",
+            "songInfo": [
+                {
+                    "title": "밤, 바다",
+                    "time": "10:13:13",
+                    "artist": "최유리",
+                    "groupSong": false,
+                    "rawLine": "🎤 10:13:13 ~ 10:17:24 | 체비 - 밤, 바다 (최유리)"
+                }
+            ]
+        },
+        {
+            "title": "잠안자고하는24시간방송",
+            "date": "2026-09-30",
+            "url": "https://vod.sooplive.com/player/208599415",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+            "songInfo": [
+                {
+                    "title": "0+0",
+                    "time": "16:09:01",
+                    "artist": "한로로",
+                    "groupSong": false,
+                    "rawLine": "🎤 16:09:01 ~ 16:12:09 | 체비 - 0+0 (한로로)"
+                },
+                {
+                    "title": "에잇",
+                    "time": "16:14:00",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 16:14:00 ~ 16:16:43 | 체비 - eight (아이유)"
+                },
+                {
+                    "title": "달과 6펜스",
+                    "time": "16:19:03",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 16:19:03 ~ 16:23:06 | 체비 - 달과 6펜스 (심규선)"
+                },
+                {
+                    "title": "LETTER",
+                    "time": "16:26:42",
+                    "artist": "유다빈밴드",
+                    "groupSong": false,
+                    "rawLine": "🎤 16:26:42 ~ 16:30:03 | 체비 - LETTER"
+                },
+                {
+                    "title": "Free",
+                    "time": "17:28:15",
+                    "artist": "케데헌 OST",
+                    "groupSong": false,
+                    "rawLine": "🎤 17:28:15 ~ 17:31:24 | 체비 - Free (케데헌 OST)"
+                },
+                {
+                    "title": "breathin",
+                    "time": "17:32:45",
+                    "artist": "아리아나 그란데",
+                    "groupSong": false,
+                    "rawLine": "🎤 17:32:45 ~ 17:35:58 | 체비 - breathin (Ariana Grande)"
+                },
+                {
+                    "title": "시간과 낙엽",
+                    "time": "17:39:57",
+                    "artist": "AKMU",
+                    "groupSong": false,
+                    "rawLine": "🎤 17:39:57 ~ 17:44:01 | 체비 - 시간과 낙엽 (AKMU)"
+                },
+                {
+                    "title": "Replace You",
+                    "time": "17:49:07",
+                    "artist": "930",
+                    "groupSong": false,
+                    "rawLine": "🎤 17:49:07 ~ 17:52:09 | 체비 - Replace You (930)"
+                },
+                {
+                    "title": "Error",
+                    "time": "17:53:28",
+                    "artist": "ASH ISLAND",
+                    "groupSong": false,
+                    "rawLine": "🎤 17:53:28 ~ 17:56:51 | 체비 - Error (ASH ISLAND)"
+                },
+                {
+                    "title": "네가 없는 밤",
+                    "time": "17:59:08",
+                    "artist": "비오(BE'O)",
+                    "groupSong": false,
+                    "rawLine": "🎤 17:59:08 ~ 18:02:51 | 체비 - 네가 없는 밤 (BE'O)"
+                },
+                {
+                    "title": "Joker",
+                    "time": "18:04:21",
+                    "artist": "빅 나티",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:04:21 ~ 18:07:37 | 체비 - Joker (BIG Naughty)"
+                },
+                {
+                    "title": "이런 엔딩",
+                    "time": "18:14:02",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:14:02 ~ 18:18:07 | 체비 - 이런 엔딩"
+                },
+                {
+                    "title": "입춘",
+                    "time": "18:20:02",
+                    "artist": "한로로",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:20:02 ~ 18:23:56 | 체비 - 입춘"
+                },
+                {
+                    "title": "달과 6펜스",
+                    "time": "18:25:43",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:25:43 ~ 18:29:44 | 체비 - 달과 6펜스 (심규선)"
+                },
+                {
+                    "title": "시가 될 이야기",
+                    "time": "18:33:18",
+                    "artist": "신지훈",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:33:18 ~ 18:37:07 | 체비 - 시가 될 이야기 (신지훈)"
+                },
+                {
+                    "title": "추억은 한 편의 산문집 되어",
+                    "time": "18:39:34",
+                    "artist": "신지훈",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:39:34 ~ 18:43:28 | 체비 - 추억은 한 편의 산문집 되어 (신지훈)"
+                },
+                {
+                    "title": "Six Feet Under",
+                    "time": "18:45:14",
+                    "artist": "빌리 아일리시",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:45:14 ~ 18:48:25 | 체비 - Six Feet Under (Billie Eilish)"
+                },
+                {
+                    "title": "I Really Want to Stay At Your House",
+                    "time": "18:51:42",
+                    "artist": "Rosa Walton",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:51:42 ~ 18:55:55 | 체비 - I Really Want to Stay At Your House (Rosa Walton)"
+                },
+                {
+                    "title": "먹구름",
+                    "time": "18:59:18",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 18:59:18 ~ 19:03:09 | 체비 - 먹구름 (윤하)"
+                },
+                {
+                    "title": "괴수의 꽃노래",
+                    "time": "19:05:23",
+                    "artist": "Vaundy",
+                    "groupSong": false,
+                    "rawLine": "🎤 19:05:23 ~ 19:09:01 | 체비 - 괴수의 꽃노래 (바운디)"
+                },
+                {
+                    "title": "yours",
+                    "time": "23:57:23",
+                    "artist": "데이먼스 이어",
+                    "groupSong": false,
+                    "rawLine": "🎤 23:57:23 ~ 24:00:00 | 체비 - yours"
+                }
+            ]
+        },
+        {
+            "title": "(¬◡¬)✧",
+            "date": "2026-09-29",
+            "url": "https://vod.sooplive.com/player/208469093",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260929_220C1321_297468841_3_r",
+            "songInfo": [
+                {
+                    "title": "소로",
+                    "time": "8:52:51",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 8:52:51 ~ 8:57:03 | 체비 - 소로 (심규선)"
+                }
+            ]
+        },
+        {
+            "title": "9시 제초동 모임 (¬◡¬)✧",
+            "date": "2026-09-28",
+            "url": "https://vod.sooplive.com/player/208383157",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260928_37570EC0_297445905_1_r&column=2&t=1790630369",
+            "songInfo": [
+                {
+                    "title": "숲",
+                    "time": "09:47:39",
+                    "artist": "최유리",
+                    "groupSong": false,
+                    "rawLine": "🎤 09:47:39 ~ 09:51:33 | 체비 - 숲 (최유리)"
+                },
+                {
+                    "title": "별의 조각",
+                    "time": "09:53:18",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 09:53:18 ~ 09:57:19 | 체비 - 별의 조각 (윤하)"
                 }
             ]
         }
