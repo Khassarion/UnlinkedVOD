@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-04T02:24:04.450755+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-05T00:02:47.718418+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -1102,6 +1102,18 @@ const songs = [
         "videoTitle": "노래 하고 가야대가야대",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_4CD3B49A_293021593_1_r&column=2&t=1775568225",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-04",
+        "url": "https://vod.sooplive.com/player/208946001?change_second=37221",
+        "videoTitle": "프클하실 분",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261004_C8E08484_297586895_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4389,6 +4401,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-04",
+        "url": "https://vod.sooplive.com/player/208946001?change_second=22973",
+        "videoTitle": "프클하실 분",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261004_C8E08484_297586895_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5980,6 +6004,18 @@ const songs = [
         "videoTitle": "✧ 후열 한 두판만 ✧",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260906_DE4035E9_296923473_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-04",
+        "url": "https://vod.sooplive.com/player/208946001?change_second=16053",
+        "videoTitle": "프클하실 분",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261004_C8E08484_297586895_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

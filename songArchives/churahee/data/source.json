@@ -11864,6 +11864,22 @@
             "url": "https://vod.sooplive.com/player/208642787",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261001_D281E3A9_297512879_2_r",
             "songInfo": []
+        },
+        {
+            "title": "[버블란] 그냥서버(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티 ㅋ)",
+            "date": "2026-10-04",
+            "url": "https://vod.sooplive.com/player/208932385",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261004_67F8ED74_297587289_2_r",
+            "songInfo": [
+                {
+                    "title": "어른",
+                    "time": "8:42:28",
+                    "artist": "손디아",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 어른 (손디아) 8:42:28 ~ 8:46:42 ■☆"
+                }
+            ]
         }
     ]
 }

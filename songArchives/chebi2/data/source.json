@@ -3460,6 +3460,35 @@
                     "rawLine": "🎤 09:53:18 ~ 09:57:19 | 체비 - 별의 조각 (윤하)"
                 }
             ]
+        },
+        {
+            "title": "프클하실 분",
+            "date": "2026-10-04",
+            "url": "https://vod.sooplive.com/player/208946001",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261004_C8E08484_297586895_2_r",
+            "songInfo": [
+                {
+                    "title": "피차일반",
+                    "time": "4:27:33",
+                    "artist": "음율",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:27:33 | 체비 - 피차일반 (음율)"
+                },
+                {
+                    "title": "소녀",
+                    "time": "6:22:53",
+                    "artist": "우예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:22:53 ~ 6:24:50 | 체비 - 소녀 (우예린)"
+                },
+                {
+                    "title": "It's You",
+                    "time": "10:20:21",
+                    "artist": "한요한",
+                    "groupSong": false,
+                    "rawLine": "🎤 10:20:21 | 체비 - It's You (한요한)"
+                }
+            ]
         }
     ]
 }

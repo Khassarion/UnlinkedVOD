@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-04T02:11:38.635107+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-04T22:45:24.119683+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -16851,6 +16851,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "랑코, 츄라희"
+      },
+      {
+        "date": "2026-10-04",
+        "url": "https://vod.sooplive.com/player/208932385?change_second=31348",
+        "videoTitle": "[버블란] 그냥서버(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티 ㅋ)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261004_67F8ED74_297587289_2_r",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
