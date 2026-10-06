@@ -11880,6 +11880,36 @@
                     "rawLine": "🎤 어른 (손디아) 8:42:28 ~ 8:46:42 ■☆"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 그냥서버(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티 ㅋ)",
+            "date": "2026-10-05",
+            "url": "https://vod.sooplive.com/player/209018081",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_F40DB31E_297612031_2_r",
+            "songInfo": [
+                {
+                    "title": "이것은 아마도 마지막 꽃잎",
+                    "time": "24:04",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 24:04"
+                },
+                {
+                    "title": "이것은 아마도 마지막 꽃잎",
+                    "time": "6:59:35",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 6:59:35  ?"
+                },
+                {
+                    "title": "얼음요새",
+                    "time": "7:17:39",
+                    "artist": "김소연",
+                    "groupSong": false,
+                    "rawLine": "🎤 얼음 요새 7:17:39"
+                }
+            ]
         }
     ]
 }
