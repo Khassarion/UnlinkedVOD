@@ -36,14 +36,6 @@
         ]
     },
     {
-        "artist": "산나비 OST",
-        "aliases": [
-            "강아윤 / 산나비 OST",
-            "산나비",
-            "산나비 ost"
-        ]
-    },
-    {
         "artist": "거미",
         "aliases": []
     },
@@ -65,6 +57,10 @@
     },
     {
         "artist": "구슬요",
+        "aliases": []
+    },
+    {
+        "artist": "국민동요",
         "aliases": []
     },
     {
@@ -593,6 +589,14 @@
         "artist": "사이버펑크OST",
         "aliases": [
             "사이버펑크 OST"
+        ]
+    },
+    {
+        "artist": "산나비 OST",
+        "aliases": [
+            "강아윤 / 산나비 OST",
+            "산나비",
+            "산나비 ost"
         ]
     },
     {
@@ -1211,6 +1215,10 @@
     },
     {
         "artist": "정준일",
+        "aliases": []
+    },
+    {
+        "artist": "정효빈",
         "aliases": []
     },
     {
