@@ -3672,6 +3672,120 @@
                     "rawLine": "🎤 9:00:38 | 체비 - 아이와 나의 바다 /* 오아님 300만원 */"
                 }
             ]
+        },
+        {
+            "title": "재밌었다",
+            "date": "2026-10-06",
+            "url": "https://vod.sooplive.com/player/209120729",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+            "songInfo": [
+                {
+                    "title": "러브레터(ラブレター)",
+                    "time": "15:56",
+                    "artist": "요아소비",
+                    "groupSong": false,
+                    "rawLine": "🎤 15:56 | 체비 - 러브레터(ラブレター) (요아소비)"
+                },
+                {
+                    "title": "여운",
+                    "time": "30:39",
+                    "artist": "송푸름",
+                    "groupSong": false,
+                    "rawLine": "🎤 30:39 | 체비 - 여운 /* 떵규님 100만원, 디엔님 300만원, 묘몽님 10만원, 강하나님 100만원 */"
+                },
+                {
+                    "title": "별의 조각",
+                    "time": "44:52",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 44:52 | 체비 - 별의 조각"
+                },
+                {
+                    "title": "LETTER",
+                    "time": "1:03:51",
+                    "artist": "유다빈밴드",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:03:51 | 체비 - LETTER"
+                },
+                {
+                    "title": "Drowning",
+                    "time": "1:15:38",
+                    "artist": "WOODZ",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:15:38 | 체비 - Drowning /* LOVE_젠투님 만원, 김화린님 200만원, 천양님 1억원 */"
+                },
+                {
+                    "title": "달과 6펜스",
+                    "time": "1:31:09",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:31:09 | 체비 - 달과 6펜스 /* 유메님 100만원, 잉뀨님 50만원, 탐희님 100만원  */"
+                },
+                {
+                    "title": "INVU",
+                    "time": "2:11:49",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:11:49 | 체비 - INVU /* 망개님 200만원, 세라피아님 가오리 2마리 */"
+                },
+                {
+                    "title": "괴수의 꽃노래",
+                    "time": "2:39:30",
+                    "artist": "Vaundy",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:39:30 | 체비 - 괴수의 꽃노래 /* 조디악님 500만원 */"
+                },
+                {
+                    "title": "Love wins all",
+                    "time": "2:45:17",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:45:17 | 체비 - Love wins all /* 조디악님 500만원 */"
+                },
+                {
+                    "title": "소녀",
+                    "time": "3:05:26",
+                    "artist": "우예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:05:26 | 체비 - 소녀 (우예린) /* 김옥독님 300만원 */"
+                },
+                {
+                    "title": "어른",
+                    "time": "3:43:59",
+                    "artist": "손디아",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:43:59 | 체비 - 어른 /* 설아콩님 200만원 */"
+                },
+                {
+                    "title": "우주(UNIVERSE)",
+                    "time": "12:27:04",
+                    "artist": "YOUHA(유하)",
+                    "groupSong": false,
+                    "rawLine": "🎤 12:27:04 | 체비 - 우주(UNIVERSE)"
+                }
+            ]
+        },
+        {
+            "title": "한두판만 하고 잘래 ",
+            "date": "2026-10-07",
+            "url": "https://vod.sooplive.com/player/209207669",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_F585B65B_297668583_2_r",
+            "songInfo": [
+                {
+                    "title": "첫 키스에 내 심장은 120BPM",
+                    "time": "2:13:40",
+                    "artist": "경서",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:13:40 | 체비 - 첫 키스에 내 심장은 120BPM"
+                },
+                {
+                    "title": "그것이 당신의 행복일지라도",
+                    "time": "2:28:46",
+                    "artist": "DAZBEE",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:28:46 | 체비 - 그것이 당신의 행복일지라도"
+                }
+            ]
         }
     ]
 }

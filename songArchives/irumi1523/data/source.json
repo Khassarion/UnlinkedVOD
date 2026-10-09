@@ -2304,6 +2304,125 @@
                     "rawLine": "🎤 2:25:20 생각을 멈추다 보면 ?"
                 }
             ]
+        },
+        {
+            "title": "노래 재활🤍",
+            "date": "2026-10-08",
+            "url": "https://vod.sooplive.com/player/209282933",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+            "songInfo": [
+                {
+                    "title": "거리에서",
+                    "time": "1:48:16",
+                    "artist": "성시경",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:48:16 거리에서"
+                },
+                {
+                    "title": "그래도 나 사랑하지",
+                    "time": "1:55:55",
+                    "artist": "스웨덴 세탁소",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:55:55 그래도 나 사랑하지 ?"
+                },
+                {
+                    "title": "화조도",
+                    "time": "2:03:30",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:03:30 화조도 ?"
+                },
+                {
+                    "title": "바람이 불어오는 곳",
+                    "time": "2:15:05",
+                    "artist": "김광석",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:15:05 바람이 불어오는 곳 ?"
+                },
+                {
+                    "title": "밤편지",
+                    "time": "2:28:07",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:28:07 밤편지 ?"
+                },
+                {
+                    "title": "여우비",
+                    "time": "2:35:27",
+                    "artist": "츄",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:35:27 여우비 ?"
+                },
+                {
+                    "title": "외로움이라는 것",
+                    "time": "2:43:43",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:43:43 외로움이라는 것 ?"
+                },
+                {
+                    "title": "위로",
+                    "time": "2:50:27",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:50:27 위로 ?"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "2:57:45",
+                    "artist": "로이킴",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:57:45 북두칠성 ?"
+                },
+                {
+                    "title": "yours",
+                    "time": "3:06:12",
+                    "artist": "데이먼스 이어",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:06:12 yours ?"
+                },
+                {
+                    "title": "What Do I Call You",
+                    "time": "3:15:38",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:15:38 What Do I Call You ?"
+                },
+                {
+                    "title": "11:11",
+                    "time": "3:23:15",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:23:15 11\\:11 ?"
+                },
+                {
+                    "title": "만약에",
+                    "time": "3:32:04",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:32:04 만약에 ?"
+                },
+                {
+                    "title": "한숨",
+                    "time": "3:39:50",
+                    "artist": "이하이",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:39:50 한숨 ?"
+                }
+            ]
         }
     ]
 }

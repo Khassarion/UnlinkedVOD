@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-06T02:23:17.531570+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-08T06:40:33.100484+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -753,6 +753,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "문모모,달타,체비,나나문"
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=4538",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1048,6 +1060,24 @@ const songs = [
         "videoTitle": "잠안자고하는24시간방송",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "INVU",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=7909",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1371,6 +1401,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=3831",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1504,6 +1546,18 @@ const songs = [
         "videoTitle": "휴",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_D1BC4C1E_297619117_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=9917",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -2493,6 +2547,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=9570",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2524,6 +2590,18 @@ const songs = [
         "videoTitle": "살살노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260317_F3FB24F6_292476519_1_r&column=2&t=1773864452",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-07",
+        "url": "https://vod.sooplive.com/player/209207669?change_second=8926",
+        "videoTitle": "한두판만 하고 잘래 ",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_F585B65B_297668583_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3339,6 +3417,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=5469",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3496,6 +3586,18 @@ const songs = [
         "videoTitle": "후열 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=956",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4227,6 +4329,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=2692",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4642,6 +4756,18 @@ const songs = [
         "videoTitle": "휴",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_D1BC4C1E_297619117_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=11126",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5373,6 +5499,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=13439",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5506,6 +5644,18 @@ const songs = [
         "videoTitle": "휴",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_D1BC4C1E_297619117_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=1839",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5704,6 +5854,18 @@ const songs = [
         "videoTitle": "천타티타임 / 플레이리스트 노래 정하기 ₍꜆ᵔ˶ .  ̫.˶ᵔ₎꜆",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260802_BEE77DB4_296046975_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209120729?change_second=44824",
+        "videoTitle": "재밌었다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -6154,6 +6316,18 @@ const songs = [
         "videoTitle": "생일이었ㄲ던 쳅이",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260426_D88EA5BD_293544323_1_r&column=2&t=1777408081",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-07",
+        "url": "https://vod.sooplive.com/player/209207669?change_second=8020",
+        "videoTitle": "한두판만 하고 잘래 ",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_F585B65B_297668583_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,

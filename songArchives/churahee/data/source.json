@@ -11910,6 +11910,118 @@
                     "rawLine": "🎤 얼음 요새 7:17:39"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 그냥서버(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티 ㅋ)",
+            "date": "2026-10-06",
+            "url": "https://vod.sooplive.com/player/209102983",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_2B4065E7_297633701_2_r",
+            "songInfo": [
+                {
+                    "title": "빌려온 고양이",
+                    "time": "3:29:09",
+                    "artist": "아일릿",
+                    "groupSong": false,
+                    "rawLine": "🎤 빌려온 고양이 3:29:09"
+                },
+                {
+                    "title": "한숨",
+                    "time": "8:01:48",
+                    "artist": "이하이",
+                    "groupSong": false,
+                    "rawLine": "🎤 한숨 8:01:48"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 그냥서버 라희냥이 공개합니다 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+            "date": "2026-10-07",
+            "url": "https://vod.sooplive.com/player/209200105",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_FFEED77F_297658043_2_r",
+            "songInfo": [
+                {
+                    "title": "사랑은 은하수 다방에서",
+                    "time": "6:02:23",
+                    "artist": "10CM",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑은 은하수 다방에서 6:02:23 ○"
+                },
+                {
+                    "title": "눈사람",
+                    "time": "6:11:13",
+                    "artist": "정승환",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 눈사람 6:11:13 ○☆"
+                },
+                {
+                    "title": "연의 편지",
+                    "time": "6:16:44",
+                    "artist": "이수현",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 6:16:44 ○☆ /* 소름 4번 돋음 */"
+                },
+                {
+                    "title": "Lonely Night",
+                    "time": "6:22:42",
+                    "artist": "권진아",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Lonely Night 6:22:42 ○"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+            "date": "2026-10-08",
+            "url": "https://vod.sooplive.com/player/209281281",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+            "songInfo": [
+                {
+                    "title": "연의 편지",
+                    "time": "02:06:40",
+                    "artist": "이수현",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 (이수현) 02:06:40 ~ 02:11:35 ?"
+                },
+                {
+                    "title": "화조도",
+                    "time": "02:18:31",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 화조도 (심규선) 02:18:31 ~ 02:23:31 ?"
+                },
+                {
+                    "title": "사랑..그게 뭔데",
+                    "time": "6:08:49",
+                    "artist": "양파",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑.. 그게 뭔데 6:08:49 ?"
+                },
+                {
+                    "title": "Gravity",
+                    "time": "06:16:21",
+                    "artist": "피프티피프티",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Gravity (FIFTY FIFTY) 06:16:21 ~ 06:19:14 ?"
+                },
+                {
+                    "title": "뭔가 잘못됐어",
+                    "time": "06:44:49",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 뭔가 잘못됐어 (권진아) 06:44:49 ~ 06:48:49 ?"
+                }
+            ]
         }
     ]
 }

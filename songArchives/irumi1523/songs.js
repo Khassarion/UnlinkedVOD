@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-04T02:22:45.079301+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-08T23:42:12.022057+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -73,6 +73,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=12195",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -759,6 +771,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=11738",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -819,6 +843,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=11172",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -870,6 +906,18 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_D3730069_296343485_1_r&column=2&t=1787191101",
         "noMistake": false,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=6496",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -1069,6 +1117,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=6955",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1599,6 +1659,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=12724",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1827,6 +1899,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=8105",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1969,6 +2053,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=8887",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2245,6 +2341,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=10665",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3249,6 +3357,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=9327",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3283,6 +3403,24 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "외로움이라는 것",
+    "artist": "최유리",
+    "versions": [
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=9823",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3421,6 +3559,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=10227",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3981,6 +4131,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=13190",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4141,6 +4303,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=7410",
+        "videoTitle": "노래 재활🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

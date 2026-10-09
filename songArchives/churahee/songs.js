@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-06T04:04:56.307234+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-09T00:34:14.260099+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -1671,6 +1671,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=22581",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2677,6 +2689,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-07",
+        "url": "https://vod.sooplive.com/player/209200105?change_second=22962",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 공개합니다 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_FFEED77F_297658043_2_r",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -8685,6 +8709,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-07",
+        "url": "https://vod.sooplive.com/player/209200105?change_second=22273",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 공개합니다 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_FFEED77F_297658043_2_r",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -11061,6 +11097,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=24289",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -13185,6 +13233,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209102983?change_second=12549",
+        "videoTitle": "[버블란] 그냥서버(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티 ㅋ)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_2B4065E7_297633701_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -13303,6 +13363,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=22129",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -13429,6 +13501,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-07",
+        "url": "https://vod.sooplive.com/player/209200105?change_second=21743",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 공개합니다 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_FFEED77F_297658043_2_r",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -17503,6 +17587,30 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-07",
+        "url": "https://vod.sooplive.com/player/209200105?change_second=22604",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 공개합니다 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261007_FFEED77F_297658043_2_r",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=7600",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -21855,6 +21963,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-06",
+        "url": "https://vod.sooplive.com/player/209102983?change_second=28908",
+        "videoTitle": "[버블란] 그냥서버(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티 ㅋ)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_2B4065E7_297633701_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -22441,6 +22561,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-08",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=8311",
+        "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
