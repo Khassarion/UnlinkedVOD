@@ -11626,26 +11626,25 @@
             ]
         },
         {
-            "title": "[버블란] 인사드리러 왔습니다",
+            "title": "소통",
             "date": "2026-09-25",
             "url": "https://vod.sooplive.com/player/208065803",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r&column=2&t=1790522151",
             "songInfo": [
                 {
                     "title": "상사화",
                     "time": "1:12:18",
                     "artist": "안예은",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 상사화 1:12:18 ?"
+                    "rawLine": "🎤 상사화 1:12:18 ※"
                 },
                 {
                     "title": "아라리",
                     "time": "1:17:29",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 아라리 1:17:29 ?"
+                    "rawLine": "🎤 아라리 1:17:29 ■☆"
                 }
             ]
         },
@@ -11659,9 +11658,8 @@
                     "title": "Love story",
                     "time": "1:29:33",
                     "artist": "볼빨간사춘기",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Love story 1:29:33 ~ 1:32:47 ?"
+                    "rawLine": "🎤 Love story 1:29:33 ~ 1:32:47"
                 },
                 {
                     "title": "눈사람",
@@ -11724,49 +11722,43 @@
                     "title": "Maniac",
                     "time": "3:55:49",
                     "artist": "Conan Gray",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Maniac 3:55:49 ?"
+                    "rawLine": "🎤 Maniac 3:55:49 ※"
                 },
                 {
                     "title": "어린 나",
                     "time": "3:59:16",
                     "artist": "키마",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 어린 나 3:59:16 ? /*클립 금지*/"
+                    "rawLine": "🎤 어린 나 3:59:16 /*클립 금지*/"
                 },
                 {
                     "title": "하모니",
                     "time": "4:29:08",
                     "artist": "제아, 이영현",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 하모니 (제아, 이영현) 4:29:08 ? /*클립 금지*/"
+                    "rawLine": "🎤 하모니 (제아, 이영현) 4:29:08 /*클립 금지*/"
                 },
                 {
                     "title": "MIC Drop",
                     "time": "4:39:02",
                     "artist": "방탄소년단",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 MIC Drop (BTS) 4:39:02 ?"
+                    "rawLine": "🎤 MIC Drop (BTS) 4:39:02"
                 },
                 {
                     "title": "외톨이",
                     "time": "4:41:40",
                     "artist": "아웃사이더",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 외톨이 4:41:40 ~ 4:44:07 ?"
+                    "rawLine": "🎤 외톨이 4:41:40 ~ 4:44:07 ※"
                 },
                 {
                     "title": "수피",
                     "time": "4:45:41",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 수피 4:45:41 ?"
+                    "rawLine": "🎤 수피 4:45:41"
                 }
             ]
         },
@@ -11836,9 +11828,9 @@
                     "title": "얼음요새",
                     "time": "3:47:40",
                     "artist": "김소연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 얼음요새 3:47:40 ?"
+                    "rawLine": "🎤 얼음요새 3:47:40 ○"
                 },
                 {
                     "title": "Butterfly",
@@ -11852,9 +11844,8 @@
                     "title": "Pretender",
                     "time": "4:33:31",
                     "artist": "오피셜히게단디즘",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Pretender 4:33:31 ~ 4:38:28 ?"
+                    "rawLine": "🎤 Pretender 4:33:31 ~ 4:38:28"
                 }
             ]
         },
@@ -11898,9 +11889,9 @@
                     "title": "이것은 아마도 마지막 꽃잎",
                     "time": "6:59:35",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 6:59:35  ?"
+                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 6:59:35 ☆"
                 },
                 {
                     "title": "얼음요새",

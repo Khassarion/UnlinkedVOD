@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-09T00:34:14.260099+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-10T11:49:37.476183+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -2940,7 +2940,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3216,7 +3216,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3288,7 +3288,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4014,7 +4014,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260928_D32C0375_297446141_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -13969,12 +13969,12 @@ const songs = [
       {
         "date": "2026-09-25",
         "url": "https://vod.sooplive.com/player/208065803?change_second=4338",
-        "videoTitle": "[버블란] 인사드리러 왔습니다",
+        "videoTitle": "소통",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r&column=2&t=1790522151",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15078,7 +15078,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15997,12 +15997,12 @@ const songs = [
       {
         "date": "2026-09-25",
         "url": "https://vod.sooplive.com/player/208065803?change_second=4649",
-        "videoTitle": "[버블란] 인사드리러 왔습니다",
+        "videoTitle": "소통",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260925_BD55F498_297376341_1_r&column=2&t=1790522151",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16974,7 +16974,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -17230,9 +17230,9 @@ const songs = [
         "videoTitle": "[버블란] 9시 사과몽의 해줘콘(w. 사과몽 상득 요한 콧시 키마)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260928_D32C0375_297446141_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -18564,7 +18564,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -19415,8 +19415,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_F40DB31E_297612031_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -21744,7 +21744,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260926_830D5C07_297400151_1_r&column=2&t=1790522343",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

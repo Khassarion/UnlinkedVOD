@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-08T23:42:12.022057+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-10T11:49:37.636182+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -1056,7 +1056,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1962,13 +1962,13 @@ const songs = [
       },
       {
         "date": "2026-09-10",
-        "url": "https://vod.sooplive.com/player/206794055?change_second=17942",
+        "url": "https://vod.sooplive.com/player/206794055?change_second=17944",
         "videoTitle": "다이아랜딩 4일차🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2992,9 +2992,9 @@ const songs = [
         "videoTitle": "다이아랜딩 4일차🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3336,7 +3336,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260910_E9C9E6B3_297022585_1_r&column=2&t=1790089733",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

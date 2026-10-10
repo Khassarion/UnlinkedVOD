@@ -2235,33 +2235,31 @@
                     "title": "숲",
                     "time": "39:56",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 39:56 숲 (최유리) ?"
+                    "rawLine": "🎤 39:56 숲 (최유리) ○"
                 },
                 {
                     "title": "그대네요",
                     "time": "4:40:22",
                     "artist": "성시경",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:40:22 그대네요 (성시경) ?"
+                    "rawLine": "🎤 4:40:22 그대네요 (성시경) ※"
                 },
                 {
                     "title": "언제쯤이면",
                     "time": "4:42:08",
                     "artist": "아이유, 윤현상",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:42:08 언제쯤이면 (아이유, 윤현상) ?"
+                    "rawLine": "🎤 4:42:08 언제쯤이면 (아이유, 윤현상)"
                 },
                 {
                     "title": "밤, 바다",
-                    "time": "4:59:02",
+                    "time": "4:59:04",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:59:02 밤, 바다 (최유리) ?"
+                    "rawLine": "🎤 4:59:04 밤, 바다 (최유리) ○"
                 }
             ]
         },
