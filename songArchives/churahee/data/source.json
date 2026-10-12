@@ -75,7 +75,7 @@
                 {
                     "title": "My Way",
                     "time": "8:03:50",
-                    "artist": "M.C The Max",
+                    "artist": "이수",
                     "groupSong": false,
                     "rawLine": "🎤 My way 8:03:50"
                 },
@@ -7091,7 +7091,7 @@
                 {
                     "title": "My Way",
                     "time": "2:51:11",
-                    "artist": "M.C The Max",
+                    "artist": "이수",
                     "groupSong": false,
                     "rawLine": "🎤 My way 2:51:11"
                 }
@@ -12011,6 +12011,69 @@
                     "needsReview": true,
                     "groupSong": false,
                     "rawLine": "🎤 뭔가 잘못됐어 (권진아) 06:44:49 ~ 06:48:49 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 그냥서버 키득키득엔터 콘서트하는 날입ㄴ다",
+            "date": "2026-10-10",
+            "url": "https://vod.sooplive.com/player/209472899",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261010_9449C64F_297736111_2_r",
+            "songInfo": [
+                {
+                    "title": "이것은 아마도 마지막 꽃잎",
+                    "time": "3:33:16",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 3:33:16 ~ 3:36:55 ?"
+                },
+                {
+                    "title": "Lonely",
+                    "time": "4:21:47",
+                    "artist": "투에니원",
+                    "groupMembers": "구슬요, 마냥, 연초록, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 Lonely (2NE1) 4:21:47 ~ 4:25:08 (구슬요, 마냥, 연초록, 츄라희)"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 그냥서버 랩츄 출근",
+            "date": "2026-10-11",
+            "url": "https://vod.sooplive.com/player/209573637",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+            "songInfo": [
+                {
+                    "title": "밤하늘의 별을",
+                    "time": "06:16:56",
+                    "artist": "경서",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 밤하늘의 별을 (경서) 06:16:56 ~ 06:20:32 ○"
+                },
+                {
+                    "title": "서른 즈음에",
+                    "time": "06:48:45",
+                    "artist": "김광석",
+                    "groupSong": false,
+                    "rawLine": "🎤 서른 즈음에 (김광석) 06:48:45 ~ 06:53:15"
+                },
+                {
+                    "title": "으라차차",
+                    "time": "7:16:50",
+                    "artist": "럼블피쉬",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 으라차차 (럼블피쉬) 7:16:50  ?"
+                },
+                {
+                    "title": "My Way",
+                    "time": "7:26:25",
+                    "artist": "이수",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 My Way (이수) 7:26:25 ?"
                 }
             ]
         }

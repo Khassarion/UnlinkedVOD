@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-10T11:49:37.476183+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-12T04:41:17.321364+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -2505,6 +2505,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 요한, 콧시, 츄라희"
+      },
+      {
+        "date": "2026-10-10",
+        "url": "https://vod.sooplive.com/player/209472899?change_second=15707",
+        "videoTitle": "[버블란] 그냥서버 키득키득엔터 콘서트하는 날입ㄴ다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261010_9449C64F_297736111_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "구슬요, 마냥, 연초록, 츄라희"
       }
     ]
   },
@@ -3404,7 +3416,7 @@ const songs = [
   },
   {
     "title": "My Way",
-    "artist": "M.C The Max",
+    "artist": "이수",
     "versions": [
       {
         "date": "2024-09-30",
@@ -3427,6 +3439,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=26785",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -11523,6 +11547,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=22616",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -14116,6 +14152,18 @@ const songs = [
         "videoTitle": "감스트 님 노래대회 참가",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260425_A88532DF_293512791_1_r&column=2&t=1777734044",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=24525",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -19347,6 +19395,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=26210",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -19417,6 +19477,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-10",
+        "url": "https://vod.sooplive.com/player/209472899?change_second=12796",
+        "videoTitle": "[버블란] 그냥서버 키득키득엔터 콘서트하는 날입ㄴ다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261010_9449C64F_297736111_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
