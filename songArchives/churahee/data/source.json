@@ -12046,34 +12046,34 @@
             "songInfo": [
                 {
                     "title": "밤하늘의 별을",
-                    "time": "06:16:56",
+                    "time": "6:17:02",
                     "artist": "경서",
                     "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 밤하늘의 별을 (경서) 06:16:56 ~ 06:20:32 ○"
+                    "rawLine": "🎤 밤하늘의 별을 (경서) 6:17:02 ~ 6:20:32 ○"
                 },
                 {
                     "title": "서른 즈음에",
-                    "time": "06:48:45",
+                    "time": "6:48:49",
                     "artist": "김광석",
                     "groupSong": false,
-                    "rawLine": "🎤 서른 즈음에 (김광석) 06:48:45 ~ 06:53:15"
+                    "rawLine": "🎤 서른 즈음에 (김광석) 6:48:49 ~ 6:53:15"
                 },
                 {
                     "title": "으라차차",
-                    "time": "7:16:50",
+                    "time": "7:16:47",
                     "artist": "럼블피쉬",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 으라차차 (럼블피쉬) 7:16:50  ?"
+                    "rawLine": "🎤 으라차차 (럼블피쉬) 7:16:47  ?"
                 },
                 {
                     "title": "My Way",
-                    "time": "7:26:25",
+                    "time": "7:26:22",
                     "artist": "이수",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 My Way (이수) 7:26:25 ?"
+                    "rawLine": "🎤 My Way (이수) 7:26:22 ?"
                 }
             ]
         }

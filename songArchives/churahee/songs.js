@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-12T04:41:17.321364+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-12T04:54:28.567604+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -3444,7 +3444,7 @@ const songs = [
       },
       {
         "date": "2026-10-11",
-        "url": "https://vod.sooplive.com/player/209573637?change_second=26785",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=26782",
         "videoTitle": "[버블란] 그냥서버 랩츄 출근",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
@@ -11550,7 +11550,7 @@ const songs = [
       },
       {
         "date": "2026-10-11",
-        "url": "https://vod.sooplive.com/player/209573637?change_second=22616",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=22622",
         "videoTitle": "[버블란] 그냥서버 랩츄 출근",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
@@ -14160,7 +14160,7 @@ const songs = [
       },
       {
         "date": "2026-10-11",
-        "url": "https://vod.sooplive.com/player/209573637?change_second=24525",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=24529",
         "videoTitle": "[버블란] 그냥서버 랩츄 출근",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
@@ -19398,7 +19398,7 @@ const songs = [
       },
       {
         "date": "2026-10-11",
-        "url": "https://vod.sooplive.com/player/209573637?change_second=26210",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=26207",
         "videoTitle": "[버블란] 그냥서버 랩츄 출근",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
