@@ -2421,6 +2421,22 @@
                     "rawLine": "🎤 3:39:50 한숨 ?"
                 }
             ]
+        },
+        {
+            "title": "생일 축하 감사합니다🤍",
+            "date": "2026-10-12",
+            "url": "https://vod.sooplive.com/player/209655483",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_7CECAB51_297789291_1_r",
+            "songInfo": [
+                {
+                    "title": "Track 9",
+                    "time": "4:13:08",
+                    "artist": "이소라",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:13:08 Track 9 ?"
+                }
+            ]
         }
     ]
 }

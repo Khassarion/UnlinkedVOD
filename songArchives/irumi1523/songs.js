@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-10T11:49:37.636182+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-12T22:08:24.721037+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -697,6 +697,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Track 9",
+    "artist": "이소라",
+    "versions": [
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209655483?change_second=15188",
+        "videoTitle": "생일 축하 감사합니다🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_7CECAB51_297789291_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

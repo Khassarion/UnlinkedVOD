@@ -2299,57 +2299,66 @@
                     "title": "사랑은 은하수 다방에서",
                     "time": "00:59:35",
                     "artist": "10CM",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑은 은하수 다방에서 00:59:35 ■"
                 },
                 {
                     "title": "첫 키스에 내 심장은 120BPM",
                     "time": "01:08:04",
                     "artist": "경서",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 첫 키스에 내 심장은 120BPM 01:08:04"
                 },
                 {
                     "title": "Love story",
                     "time": "01:21:24",
                     "artist": "볼빨간사춘기",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Love story 01:21:24 ○"
                 },
                 {
-                    "title": "붉은 장미",
+                    "title": "붉은장미",
                     "time": "01:30:18",
                     "artist": "우예린",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 01:30:18"
                 },
                 {
                     "title": "Almond Chocolate",
                     "time": "01:38:49",
                     "artist": "아일릿",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Almond Chocolate 01:38:49 ~ 01:42:14 ○"
                 },
                 {
                     "title": "Pookie",
                     "time": "02:00:06",
                     "artist": "피프티피프티",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Pookie 02:00:06"
                 },
                 {
                     "title": "Pookie",
                     "time": "02:03:13",
                     "artist": "피프티피프티",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Pookie 02:03:13"
                 },
                 {
                     "title": "빌려온 고양이",
                     "time": "02:09:54",
                     "artist": "아일릿",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 빌려온 고양이 02:09:54"
                 },
                 {
                     "title": "12:45",
                     "time": "02:30:25",
                     "artist": "Etham",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 12\\:45 02:30:25 ~ 02:33:27 ■"
                 },
                 {
                     "title": "How Do I Say Goodbye",
@@ -2357,38 +2366,44 @@
                     "artist": "Dean Lewis",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 How Do I Say Goodbye 02:39:02 ~ 02:41:51 ○☆"
                 },
                 {
                     "title": "Rubia",
                     "time": "02:46:55",
                     "artist": "붕괴 OST",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Rubia 02:46:55 ~ 02:50:10 ○"
                 },
                 {
                     "title": "Hello",
                     "time": "02:54:49",
                     "artist": "Adele",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Hello 02:54:49"
                 },
                 {
                     "title": "Ghost Town",
                     "time": "03:00:11",
                     "artist": "Benson Boone",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Ghost Town 03:00:11"
                 },
                 {
                     "title": "진심이었던 사람만 바보가 돼",
                     "time": "03:06:42",
                     "artist": "권진아",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 진심이었던 사람만 바보가 돼 03:06:42"
                 },
                 {
                     "title": "주옥같다",
                     "time": "03:15:19",
                     "artist": "고옥희",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 주옥같다 03:15:19"
                 }
             ]
         },
@@ -3036,119 +3051,191 @@
         {
             "title": "소통 - 노래",
             "date": "2025-12-10",
-            "url": "https://vod.sooplive.co.kr/player/180307499",
-            "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+            "url": "https://vod.sooplive.com/player/180307499",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
             "songInfo": [
                 {
                     "title": "꽃길",
-                    "time": "1:05:58"
+                    "time": "1:05:58",
+                    "artist": "김세정",
+                    "groupSong": false,
+                    "rawLine": "🎤 꽃길 1:05:58"
                 },
                 {
                     "title": "웃으며",
-                    "time": "1:13:42"
+                    "time": "1:13:42",
+                    "artist": "신예영",
+                    "groupSong": false,
+                    "rawLine": "🎤 웃으며 1:13:42"
                 },
                 {
                     "title": "창귀",
-                    "time": "1:24:00"
+                    "time": "1:24:00",
+                    "artist": "안예은",
+                    "groupSong": false,
+                    "rawLine": "🎤 창귀 1:24:00 ■"
                 },
                 {
                     "title": "굴뚝마을의 푸펠",
-                    "time": "1:36:51"
+                    "time": "1:36:51",
+                    "artist": "이무진",
+                    "groupSong": false,
+                    "rawLine": "🎤 굴뚝마을의 푸펠 1:36:51"
                 },
                 {
                     "title": "빌려온 고양이",
-                    "time": "1:47:31"
+                    "time": "1:47:31",
+                    "artist": "아일릿",
+                    "groupSong": false,
+                    "rawLine": "🎤 빌려온 고양이 1:47:31"
                 },
                 {
                     "title": "Pretender",
-                    "time": "1:56:35"
+                    "time": "1:56:35",
+                    "artist": "오피셜히게단디즘",
+                    "groupSong": false,
+                    "rawLine": "🎤 Pretender 1:56:35"
                 },
                 {
                     "title": "천성의 약함",
-                    "time": "2:05:11"
+                    "time": "2:05:11",
+                    "artist": "164",
+                    "groupSong": false,
+                    "rawLine": "🎤 천성의 약함 2:05:11"
                 },
                 {
-                    "title": "붉은 장미",
+                    "title": "붉은장미",
                     "time": "2:14:47",
-                    "noMistake": true
+                    "artist": "우예린",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 2:14:47 ○"
                 },
                 {
                     "title": "OHAYO MY NIGHT",
                     "time": "2:20:55",
-                    "noMistake": true
+                    "artist": "디핵",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 OHAYO MY NIGHT 2:20:55 ○"
                 },
                 {
                     "title": "만개화",
-                    "time": "2:27:42"
+                    "time": "2:27:42",
+                    "artist": "안예은",
+                    "groupSong": false,
+                    "rawLine": "🎤 만개화 2:27:42"
                 },
                 {
                     "title": "Gravity",
-                    "time": "2:35:29"
+                    "time": "2:35:29",
+                    "artist": "피프티피프티",
+                    "groupSong": false,
+                    "rawLine": "🎤 Gravity 2:35:29"
                 },
                 {
                     "title": "물고기자리",
-                    "time": "2:40:22"
+                    "time": "2:40:22",
+                    "artist": "이안",
+                    "groupSong": false,
+                    "rawLine": "🎤 물고기자리 2:40:22"
                 },
                 {
                     "title": "있잖아",
-                    "time": "2:44:53"
+                    "time": "2:44:53",
+                    "artist": "보라미유",
+                    "groupSong": false,
+                    "rawLine": "🎤 있잖아 2:44:53"
                 },
                 {
                     "title": "진심이었던 사람만 바보가 돼",
-                    "time": "2:48:40"
+                    "time": "2:48:40",
+                    "artist": "권진아",
+                    "groupSong": false,
+                    "rawLine": "🎤 진심이었던 사람만 바보가 돼 2:48:40"
                 }
             ]
         },
         {
             "title": "소통 - 노래",
             "date": "2025-12-02",
-            "url": "https://vod.sooplive.co.kr/player/179556257",
-            "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+            "url": "https://vod.sooplive.com/player/179556257",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
             "songInfo": [
                 {
                     "title": "스토커",
-                    "time": "55:29"
+                    "time": "55:29",
+                    "artist": "10CM",
+                    "groupSong": false,
+                    "rawLine": "🎤 스토커 55:29"
                 },
                 {
                     "title": "Pet",
-                    "time": "1:03:13"
+                    "time": "1:03:13",
+                    "artist": "10CM",
+                    "groupSong": false,
+                    "rawLine": "🎤 Pet 1:03:13"
                 },
                 {
                     "title": "출발",
                     "time": "1:11:41",
-                    "noMistake": true
+                    "artist": "김동률",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 출발 1:11:41 ○"
                 },
                 {
                     "title": "오랜 날 오랜 밤",
-                    "time": "1:20:02"
+                    "time": "1:20:02",
+                    "artist": "AKMU",
+                    "groupSong": false,
+                    "rawLine": "🎤 오랜 날 오랜 밤 1:20:02"
                 },
                 {
                     "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
-                    "time": "1:29:27"
+                    "time": "1:29:27",
+                    "artist": "AKMU",
+                    "groupSong": false,
+                    "rawLine": "🎤 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 1:29:27"
                 },
                 {
                     "title": "수피",
                     "time": "1:51:11",
-                    "recommended": true
+                    "artist": "심규선",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 수피 1:51:11 ☆"
                 },
                 {
-                    "title": "붉은 장미",
+                    "title": "붉은장미",
                     "time": "2:05:34",
+                    "artist": "우예린",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 2:05:34 ☆○"
                 },
                 {
                     "title": "밤편지",
-                    "time": "2:15:47"
+                    "time": "2:15:47",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 밤편지 2:15:47"
                 },
                 {
                     "title": "주옥같다",
                     "time": "2:26:32",
-                    "noMistake": true
+                    "artist": "고옥희",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 주옥같다 2:26:32 ○"
                 },
                 {
                     "title": "Love wins all",
-                    "time": "2:33:46"
+                    "time": "2:33:46",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 Love wins all 2:33:46"
                 }
             ]
         },
@@ -3236,54 +3323,87 @@
         {
             "title": "소통 - 별별랭킹 - 노래",
             "date": "2025-11-08",
-            "url": "https://vod.sooplive.co.kr/player/177235495",
-            "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+            "url": "https://vod.sooplive.com/player/177235495",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
             "songInfo": [
                 {
-                    "title": "붉은 장미",
-                    "time": "1:41:30"
+                    "title": "붉은장미",
+                    "time": "1:41:30",
+                    "artist": "우예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 1:41:30"
                 },
                 {
                     "title": "여름이었다",
-                    "time": "1:50:19"
+                    "time": "1:50:19",
+                    "artist": "하이키",
+                    "groupSong": false,
+                    "rawLine": "🎤 여름이었다 1:50:19"
                 },
                 {
                     "title": "Love=Disaster",
                     "time": "1:58:22",
-                    "noMistake": true
+                    "artist": "프로미스나인",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Love=Disaster 1:58:22 ○"
                 },
                 {
                     "title": "피날레",
-                    "time": "2:07:30"
+                    "time": "2:07:30",
+                    "artist": "eill",
+                    "groupSong": false,
+                    "rawLine": "🎤 피날레 2:07:30"
                 },
                 {
                     "title": "수피",
-                    "time": "2:16:19"
+                    "time": "2:16:19",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 수피 2:16:19"
                 },
                 {
                     "title": "소로",
-                    "time": "2:25:47"
+                    "time": "2:25:47",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 소로 2:25:47"
                 },
                 {
                     "title": "파탈리테",
-                    "time": "2:34:02"
+                    "time": "2:34:02",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 파탈리테 2:34:02"
                 },
                 {
                     "title": "만약에",
                     "time": "2:43:56",
-                    "noMistake": true
+                    "artist": "태연",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 만약에 2:43:56 ○"
                 },
                 {
                     "title": "U R",
-                    "time": "2:54:51"
+                    "time": "2:54:51",
+                    "artist": "태연",
+                    "groupSong": false,
+                    "rawLine": "🎤 U R 2:54:51"
                 },
                 {
                     "title": "Happy Things",
-                    "time": "3:05:16"
+                    "time": "3:05:16",
+                    "artist": "제이래빗",
+                    "groupSong": false,
+                    "rawLine": "🎤 Happy Things 3:05:16"
                 },
                 {
                     "title": "안녕! 디지몬",
-                    "time": "3:45:35"
+                    "time": "3:45:35",
+                    "artist": "디지몬 OST",
+                    "groupSong": false,
+                    "rawLine": "🎤 안녕! 디지몬 3:45:35"
                 }
             ]
         },
@@ -3296,46 +3416,62 @@
                 {
                     "title": "굴뚝마을의 푸펠",
                     "time": "1:04:20",
-                    "artist": "이무진"
+                    "artist": "이무진",
+                    "groupSong": false,
+                    "rawLine": "🎤 굴뚝마을의 푸펠 1:04:20"
                 },
                 {
                     "title": "응급실",
                     "time": "1:17:27",
                     "artist": "IZI",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 응급실 1:17:27 ☆○"
                 },
                 {
                     "title": "마음을 드려요",
                     "time": "1:25:24",
-                    "artist": "아이유"
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 마음을 드려요 1:25:24"
                 },
                 {
                     "title": "꽃에 망령",
                     "time": "1:35:18",
-                    "artist": "요루시카"
+                    "artist": "요루시카",
+                    "groupSong": false,
+                    "rawLine": "🎤 꽃에 망령 1:35:18"
                 },
                 {
                     "title": "부엉이",
                     "time": "1:42:32",
-                    "artist": "KOKIA"
+                    "artist": "KOKIA",
+                    "groupSong": false,
+                    "rawLine": "🎤 부엉이 1:42:32"
                 },
                 {
                     "title": "하루 종일 비가 내렸어",
                     "time": "1:52:40",
                     "artist": "디아",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 하루종일 비가 내렸어 1:52:40 ○"
                 },
                 {
                     "title": "STYLE",
                     "time": "2:02:30",
-                    "artist": "하츠투하츠"
+                    "artist": "하츠투하츠",
+                    "groupSong": false,
+                    "rawLine": "🎤 STYLE 2:02:30 ■"
                 },
                 {
-                    "title": "붉은 장미",
+                    "title": "붉은장미",
                     "time": "2:23:18",
                     "artist": "우예린",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 2:23:18 ○"
                 }
             ]
         },
@@ -8311,66 +8447,90 @@
                 {
                     "title": "밤양갱",
                     "time": "23:58",
-                    "artist": "비비"
+                    "artist": "비비",
+                    "groupSong": false,
+                    "rawLine": "🎤 밤양갱 23:58"
                 },
                 {
                     "title": "위로",
                     "time": "29:24",
-                    "artist": "권진아"
+                    "artist": "권진아",
+                    "groupSong": false,
+                    "rawLine": "🎤 위로 29:24"
                 },
                 {
                     "title": "도망가자",
                     "time": "38:09",
                     "artist": "선우정아",
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 도망가자 38:09 ☆"
                 },
                 {
                     "title": "만약에",
                     "time": "47:07",
                     "artist": "태연",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 만약에 47:07 ○☆ /* 제보를 받고 훔쳐보는 박재박님: https://vod.sooplive.com/player/195483611?change_second=9913 */"
                 },
                 {
                     "title": "사랑하게 될 거야",
                     "time": "54:32",
-                    "artist": "한로로"
+                    "artist": "한로로",
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑하게 될 거야 54:32"
                 },
                 {
                     "title": "Pretender",
                     "time": "1:03:16",
-                    "artist": "오피셜히게단디즘"
+                    "artist": "오피셜히게단디즘",
+                    "groupSong": false,
+                    "rawLine": "🎤 Pretender 1:03:16"
                 },
                 {
-                    "title": "붉은 장미",
+                    "title": "붉은장미",
                     "time": "1:11:36",
-                    "artist": "우예린"
+                    "artist": "우예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 붉은 장미 1:11:36"
                 },
                 {
                     "title": "Square",
                     "time": "1:21:33",
-                    "artist": "백예린"
+                    "artist": "백예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 Square 1:21:33"
                 },
                 {
                     "title": "그저 네게 맑아라",
                     "time": "1:29:30",
-                    "artist": "요루시카"
+                    "artist": "요루시카",
+                    "groupSong": false,
+                    "rawLine": "🎤 그저 네게 맑아라 1:29:30"
                 },
                 {
                     "title": "월하의 그대에게",
                     "time": "1:39:11",
-                    "artist": "Xenesus & 쪽빛아리아"
+                    "artist": "Xenesus & 쪽빛아리아",
+                    "groupSong": false,
+                    "rawLine": "🎤 월하의 그대에게 1:39:11"
                 },
                 {
                     "title": "어른",
                     "time": "1:45:57",
-                    "artist": "손디아"
+                    "artist": "손디아",
+                    "groupSong": false,
+                    "rawLine": "🎤 어른 1:45:57"
                 },
                 {
                     "title": "숲의 아이",
                     "time": "1:52:36",
                     "artist": "유아",
-                    "noMistake": true
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 숲의 아이 1:52:36 ○"
                 }
             ]
         },
@@ -11525,10 +11685,10 @@
             ]
         },
         {
-            "title": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+            "title": "소통 - 이프보드 - 노래",
             "date": "2026-09-20",
             "url": "https://vod.sooplive.com/player/207656479",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
             "songInfo": [
                 {
                     "title": "꽃길",
@@ -11554,7 +11714,7 @@
                     "rawLine": "🎤 한계 (넬) 2:14:26 ~ 2:18:07"
                 },
                 {
-                    "title": "붉은 장미",
+                    "title": "붉은장미",
                     "time": "2:20:48",
                     "artist": "우예린",
                     "noMistake": true,
@@ -11879,19 +12039,19 @@
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_F40DB31E_297612031_2_r",
             "songInfo": [
                 {
-                    "title": "이것은 아마도 마지막 꽃잎",
+                    "title": "이것은 아마 마지막 꽃잎",
                     "time": "24:04",
                     "artist": "심규선",
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 24:04"
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 (심규선) 24:04"
                 },
                 {
-                    "title": "이것은 아마도 마지막 꽃잎",
+                    "title": "이것은 아마 마지막 꽃잎",
                     "time": "6:59:35",
                     "artist": "심규선",
                     "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 6:59:35 ☆"
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 (심규선) 6:59:35 ☆"
                 },
                 {
                     "title": "얼음요새",
@@ -12021,12 +12181,12 @@
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261010_9449C64F_297736111_2_r",
             "songInfo": [
                 {
-                    "title": "이것은 아마도 마지막 꽃잎",
+                    "title": "이것은 아마 마지막 꽃잎",
                     "time": "3:33:16",
                     "artist": "심규선",
                     "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마도 마지막 꽃잎 (심규선) 3:33:16 ~ 3:36:55 ?"
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 (심규선) 3:33:16 ~ 3:36:55 ?"
                 },
                 {
                     "title": "Lonely",
@@ -12074,6 +12234,134 @@
                     "needsReview": true,
                     "groupSong": false,
                     "rawLine": "🎤 My Way (이수) 7:26:22 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+            "date": "2026-10-12",
+            "url": "https://vod.sooplive.com/player/209652981",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+            "songInfo": [
+                {
+                    "title": "이것은 아마 마지막 꽃잎",
+                    "time": "2:23:07",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 2:23:07 ?"
+                },
+                {
+                    "title": "Ditto",
+                    "time": "2:40:38",
+                    "artist": "뉴진스",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 Ditto 2:40:38 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "수피",
+                    "time": "2:52:21",
+                    "artist": "심규선",
+                    "groupMembers": "츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 수피 2:52:21 (츄라희, 헤스)"
+                },
+                {
+                    "title": "첫눈처럼 너에게 가겠다",
+                    "time": "3:00:54",
+                    "artist": "에일리",
+                    "groupMembers": "스노, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 첫눈처럼 너에게 가겠다 3:00:54 (스노, 츄라희)"
+                },
+                {
+                    "title": "어른",
+                    "time": "3:13:48",
+                    "artist": "손디아",
+                    "groupMembers": "정와, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 어른 3:13:48 (정와, 츄라희)"
+                },
+                {
+                    "title": "입춘",
+                    "time": "3:40:02",
+                    "artist": "한로로",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 입춘 3:40:02 ?"
+                },
+                {
+                    "title": "붉은장미",
+                    "time": "3:56:10",
+                    "artist": "우예린",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 붉은장미 3:56:10 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "제주도의 푸른 밤",
+                    "time": "4:01:30",
+                    "artist": "태연",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 제주도의 푸른 밤 4:01:30 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "우주를 건너",
+                    "time": "4:07:13",
+                    "artist": "백예린",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 우주를 건너 4:07:13 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "아틀란티스 소녀",
+                    "time": "4:15:10",
+                    "artist": "보아",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 아틀란티스 소녀 4:15:10 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "오늘부터 우리는",
+                    "time": "4:21:02",
+                    "artist": "여자친구",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 오늘부터 우리는 4:21:02 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "U R",
+                    "time": "4:28:27",
+                    "artist": "태연",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 U R 4:28:27 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "기억을 걷는 시간",
+                    "time": "4:35:15",
+                    "artist": "넬",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 기억을 걷는 시간 4:35:15 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "촛불하나",
+                    "time": "4:43:59",
+                    "artist": "god",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 촛불하나 4:43:59 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "다시 만난 세계",
+                    "time": "4:48:45",
+                    "artist": "소녀시대",
+                    "groupMembers": "스노, 정와, 츄라희, 헤스",
+                    "groupSong": true,
+                    "rawLine": "🎶 다시 만난 세계 4:48:45 (스노, 정와, 츄라희, 헤스)"
                 }
             ]
         }

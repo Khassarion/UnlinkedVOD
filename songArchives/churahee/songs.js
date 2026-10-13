@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-12T04:54:28.567604+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-13T00:09:36.926994+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -1119,6 +1119,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=9638",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -1638,10 +1650,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=9329",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=9329",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1788,10 +1800,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=11116",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=11116",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3036,10 +3048,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=9226",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=9226",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3144,10 +3156,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=7102",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=7102",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -3642,10 +3654,10 @@ const songs = [
     "versions": [
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=8455",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=8455",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -3739,9 +3751,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=11862",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -3756,10 +3768,10 @@ const songs = [
     "versions": [
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=3793",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=3793",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -3960,10 +3972,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=6995",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=6995",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5142,15 +5154,27 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=10491",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=10491",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=16107",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -5545,9 +5569,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=10035",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -5731,9 +5755,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=9042",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -6037,9 +6061,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=7648",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -6492,10 +6516,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=5811",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=5811",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -6981,6 +7005,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=16515",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -7104,10 +7140,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=3958",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=3958",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -7177,9 +7213,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=7188",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -8841,6 +8877,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "뜨사, 백초아, 요한, 이디유, 츄라희"
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=17325",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -9205,9 +9253,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=11489",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -9978,10 +10026,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=8862",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=8862",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -10104,10 +10152,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=9836",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=9836",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -10644,10 +10692,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=9622",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=9622",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -11472,10 +11520,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=8147",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=8147",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -12577,7 +12625,7 @@ const songs = [
     ]
   },
   {
-    "title": "붉은 장미",
+    "title": "붉은장미",
     "artist": "우예린",
     "versions": [
       {
@@ -12594,10 +12642,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=8087",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=8087",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -12606,10 +12654,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=7534",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=7534",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
@@ -12618,10 +12666,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=6090",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=6090",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -12655,14 +12703,26 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=8448",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=14170",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -13104,10 +13164,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=6451",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=6451",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -14514,10 +14574,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=8747",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=8747",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -14988,10 +15048,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=6671",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=6671",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -15000,10 +15060,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=8179",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=8179",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -15129,6 +15189,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=10341",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "츄라희, 헤스"
       }
     ]
   },
@@ -15654,10 +15726,10 @@ const songs = [
     "versions": [
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=3329",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=3329",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16377,6 +16449,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=15310",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -16411,9 +16495,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=11034",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16440,10 +16524,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=13535",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=13535",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16704,10 +16788,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=5367",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=5367",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -16995,6 +17079,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=11628",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "정와, 츄라희"
       }
     ]
   },
@@ -17370,10 +17466,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=6619",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=6619",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -18171,6 +18267,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=15662",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -18222,10 +18330,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=4802",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=4802",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -18823,14 +18931,26 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=9414",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=14833",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -19080,10 +19200,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=4422",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=4422",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -19153,9 +19273,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=12301",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -19453,7 +19573,7 @@ const songs = [
     ]
   },
   {
-    "title": "이것은 아마도 마지막 꽃잎",
+    "title": "이것은 아마 마지막 꽃잎",
     "artist": "심규선",
     "versions": [
       {
@@ -19486,6 +19606,18 @@ const songs = [
         "videoTitle": "[버블란] 그냥서버 키득키득엔터 콘서트하는 날입ㄴ다",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261010_9449C64F_297736111_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=8587",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -19839,6 +19971,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=13202",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -19872,10 +20016,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=9893",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=9893",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -20139,6 +20283,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=14490",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -20190,10 +20346,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=8792",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=8792",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -20478,10 +20634,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=10120",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=10120",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -20610,10 +20766,10 @@ const songs = [
       },
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=5040",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=5040",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -20682,10 +20838,10 @@ const songs = [
     "versions": [
       {
         "date": "2025-12-10",
-        "url": "https://vod.sooplive.co.kr/player/180307499?change_second=7511",
+        "url": "https://vod.sooplive.com/player/180307499?change_second=7511",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251210_4CB9223C_289839402_1_r&column=2&t=1765864497",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -20943,6 +21099,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 송현, 츄라희"
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=10854",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 츄라희"
       }
     ]
   },
@@ -21033,6 +21201,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=17039",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": true,
+        "groupMembers": "스노, 정와, 츄라희, 헤스"
       }
     ]
   },
@@ -21096,10 +21276,10 @@ const songs = [
       },
       {
         "date": "2025-12-02",
-        "url": "https://vod.sooplive.co.kr/player/179556257?change_second=4301",
+        "url": "https://vod.sooplive.com/player/179556257?change_second=4301",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251202_8EEC4725_289630864_1_r&column=2&t=1764836769",
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
@@ -21366,10 +21546,10 @@ const songs = [
       },
       {
         "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=9242",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=9242",
         "videoTitle": "소통 - 별별랭킹 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -21461,6 +21641,18 @@ const songs = [
     "artist": "eill",
     "versions": [
       {
+        "date": "2025-11-08",
+        "url": "https://vod.sooplive.com/player/177235495?change_second=7650",
+        "videoTitle": "소통 - 별별랭킹 - 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
         "date": "2026-08-14",
         "url": "https://vod.sooplive.com/player/204347547?change_second=10541",
         "videoTitle": "소통 - 싱크룸(w. 스위데 아야네세나 연초록) - 첫 술뱅(w. 니즈 산동 요한)",
@@ -21484,18 +21676,6 @@ const songs = [
         "videoTitle": "소통 - 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20251224_BA89A873_290199702_1_r&column=2&t=1766930799",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      },
-      {
-        "date": "2025-11-08",
-        "url": "https://vod.sooplive.co.kr/player/177235495?change_second=7650",
-        "videoTitle": "소통 - 별별랭킹 - 노래",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20251108_30ECB817_288988218_1_r&column=2&t=1762927521",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -21685,9 +21865,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=10558",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
@@ -21907,9 +22087,9 @@ const songs = [
       {
         "date": "2026-09-20",
         "url": "https://vod.sooplive.com/player/207656479?change_second=8066",
-        "videoTitle": "[버블란] 노래책 선물 받은 기념 노래 재활띠",
+        "videoTitle": "소통 - 이프보드 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260920_95FA704C_297263631_1_r&column=2&t=1790521499",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
