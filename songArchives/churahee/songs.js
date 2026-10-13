@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-13T00:09:36.926994+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-13T00:18:35.339534+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -17752,6 +17752,18 @@ const songs = [
         "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=22340",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,

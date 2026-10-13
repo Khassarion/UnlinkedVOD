@@ -12362,6 +12362,14 @@
                     "groupMembers": "스노, 정와, 츄라희, 헤스",
                     "groupSong": true,
                     "rawLine": "🎶 다시 만난 세계 4:48:45 (스노, 정와, 츄라희, 헤스)"
+                },
+                {
+                    "title": "연의 편지",
+                    "time": "6:12:20",
+                    "artist": "이수현",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 6:12:20 ?"
                 }
             ]
         }
