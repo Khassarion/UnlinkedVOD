@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-12T22:08:24.721037+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-14T12:53:46.382325+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -81,10 +81,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=12195",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -247,12 +247,12 @@ const songs = [
       {
         "date": "2026-09-23",
         "url": "https://vod.sooplive.com/player/207929003?change_second=18822",
-        "videoTitle": "후열🤍 9월 룰렛 33/330 확정O",
+        "videoTitle": "예스노탐정 2천개 미션!🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_D899A3B8_297335573_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_7991E4E9_297335573_1_r&column=2&t=1790560843",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -711,10 +711,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209655483?change_second=15188",
         "videoTitle": "생일 축하 감사합니다🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_7CECAB51_297789291_1_r",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_7CECAB51_297789291_1_r&column=2&t=1791868235",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -754,9 +754,9 @@ const songs = [
         "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -795,10 +795,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=11738",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -867,10 +867,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=11172",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -933,7 +933,7 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=6496",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -1143,10 +1143,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=6955",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1683,10 +1683,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=12724",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
-        "noMistake": false,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1923,10 +1923,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=8105",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2079,10 +2079,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=8887",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2367,10 +2367,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=10665",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2740,9 +2740,9 @@ const songs = [
         "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2866,9 +2866,9 @@ const songs = [
         "videoTitle": "소통 노래🤍룰렛 마지막 날! 50/500(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3378,13 +3378,13 @@ const songs = [
       },
       {
         "date": "2026-10-08",
-        "url": "https://vod.sooplive.com/player/209282933?change_second=9327",
+        "url": "https://vod.sooplive.com/player/209282933?change_second=9373",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3427,7 +3427,7 @@ const songs = [
     ]
   },
   {
-    "title": "외로움이라는 것",
+    "title": "외로움이라는 건",
     "artist": "최유리",
     "versions": [
       {
@@ -3435,10 +3435,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=9823",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3585,10 +3585,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=10227",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3895,12 +3895,12 @@ const songs = [
       {
         "date": "2026-09-23",
         "url": "https://vod.sooplive.com/player/207929003?change_second=12212",
-        "videoTitle": "후열🤍 9월 룰렛 33/330 확정O",
+        "videoTitle": "예스노탐정 2천개 미션!🤍 9월 룰렛 33/330",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_D899A3B8_297335573_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_7991E4E9_297335573_1_r&column=2&t=1790560843",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4007,8 +4007,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260905_84A388B3_296889135_1_r&column=2&t=1788932964",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4155,10 +4155,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=13190",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4329,10 +4329,10 @@ const songs = [
         "url": "https://vod.sooplive.com/player/209282933?change_second=7410",
         "videoTitle": "노래 재활🤍",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

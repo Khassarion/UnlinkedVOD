@@ -1506,24 +1506,26 @@
                     "title": "꽃길",
                     "time": "19:46",
                     "artist": "김세정",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 꽃길 19:46 ?"
+                    "rawLine": "🎤 꽃길 19:46 ○"
                 },
                 {
                     "title": "운이 좋았지",
                     "time": "25:11",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 운이 좋았지 25:11 ?"
+                    "rawLine": "🎤 운이 좋았지 25:11 ○"
                 },
                 {
                     "title": "운이 좋았지",
                     "time": "2:34:22",
                     "artist": "권진아",
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 운이 좋았지 2:34:22"
+                    "rawLine": "🎤 운이 좋았지 2:34:22 ○☆ /* MyPli */"
                 }
             ]
         },
@@ -1789,58 +1791,80 @@
                 {
                     "title": "전화 한 번 못하니",
                     "time": "32:31",
-                    "artist": "왁스"
+                    "artist": "왁스",
+                    "groupSong": false,
+                    "rawLine": "🎤 전화 한 번 못하니 32:31"
                 },
                 {
                     "title": "홀씨",
                     "time": "3:03:48",
-                    "artist": "아이유"
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 홀씨 3:03:48"
                 },
                 {
                     "title": "Grip!",
                     "time": "3:09:29",
-                    "artist": "서현진"
+                    "artist": "서현진",
+                    "groupSong": false,
+                    "rawLine": "🎤 Grip! 3:09:29"
                 },
                 {
                     "title": "Maria",
                     "time": "3:17:57",
-                    "artist": "김아중"
+                    "artist": "김아중",
+                    "groupSong": false,
+                    "rawLine": "🎤 Maria 3:17:57"
                 },
                 {
                     "title": "Tears",
                     "time": "3:22:28",
-                    "artist": "소찬휘"
+                    "artist": "소찬휘",
+                    "groupSong": false,
+                    "rawLine": "🎤 Tears 3:22:28"
                 },
                 {
                     "title": "체념",
                     "time": "3:28:08",
-                    "artist": "빅마마"
+                    "artist": "빅마마",
+                    "groupSong": false,
+                    "rawLine": "🎤 체념 3:28:08"
                 },
                 {
                     "title": "잊지 말아요",
                     "time": "3:34:00",
-                    "artist": "백지영"
+                    "artist": "백지영",
+                    "groupSong": false,
+                    "rawLine": "🎤 잊지 말아요 3:34:00"
                 },
                 {
                     "title": "IRIS OUT",
                     "time": "3:41:11",
-                    "artist": "요네즈 켄시"
+                    "artist": "요네즈 켄시",
+                    "groupSong": false,
+                    "rawLine": "🎤 IRIS OUT 3:41:11"
                 },
                 {
                     "title": "LOCKDOWN",
                     "time": "3:43:49",
-                    "artist": "이세계아이돌"
+                    "artist": "이세계아이돌",
+                    "groupSong": false,
+                    "rawLine": "🎤 LOCKDOWN 3:43:49"
                 },
                 {
                     "title": "Cinderella",
                     "time": "3:45:46",
-                    "artist": "타이미"
+                    "artist": "타이미",
+                    "groupSong": false,
+                    "rawLine": "🎤 Cinderella 3:45:46"
                 },
                 {
-                    "title": "말해 Yes or No",
+                    "title": "말해 Yes Or No",
                     "time": "3:47:56",
                     "artist": "지코",
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 말해 Yes or No 3:47:56 ☆"
                 }
             ]
         },
@@ -12134,43 +12158,40 @@
             "songInfo": [
                 {
                     "title": "연의 편지",
-                    "time": "02:06:40",
+                    "time": "2:06:45",
                     "artist": "이수현",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 연의 편지 (이수현) 02:06:40 ~ 02:11:35 ?"
+                    "rawLine": "🎤 연의 편지 (이수현) 2:06:45 ~ 2:11:35 ■"
                 },
                 {
                     "title": "화조도",
-                    "time": "02:18:31",
+                    "time": "2:17:45",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 화조도 (심규선) 02:18:31 ~ 02:23:31 ?"
+                    "rawLine": "🎤 화조도 (심규선) 2:17:45 ~ 2:23:31"
                 },
                 {
                     "title": "사랑..그게 뭔데",
-                    "time": "6:08:49",
+                    "time": "6:08:18",
                     "artist": "양파",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 사랑.. 그게 뭔데 6:08:49 ?"
+                    "rawLine": "🎤 사랑.. 그게 뭔데 6:08:18"
                 },
                 {
                     "title": "Gravity",
-                    "time": "06:16:21",
+                    "time": "6:16:27",
                     "artist": "피프티피프티",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Gravity (FIFTY FIFTY) 06:16:21 ~ 06:19:14 ?"
+                    "rawLine": "🎤 Gravity (FIFTY FIFTY) 6:16:27 ~ 6:19:14 ■☆"
                 },
                 {
                     "title": "뭔가 잘못됐어",
-                    "time": "06:44:49",
+                    "time": "6:44:54",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 뭔가 잘못됐어 (권진아) 06:44:49 ~ 06:48:49 ?"
+                    "rawLine": "🎤 뭔가 잘못됐어 (권진아) 6:44:54 ~ 6:48:49 ○"
                 }
             ]
         },
@@ -12184,9 +12205,9 @@
                     "title": "이것은 아마 마지막 꽃잎",
                     "time": "3:33:16",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 (심규선) 3:33:16 ~ 3:36:55 ?"
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 (심규선) 3:33:16 ~ 3:36:55 ☆"
                 },
                 {
                     "title": "Lonely",
@@ -12223,17 +12244,51 @@
                     "title": "으라차차",
                     "time": "7:16:47",
                     "artist": "럼블피쉬",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 으라차차 (럼블피쉬) 7:16:47  ?"
+                    "rawLine": "🎤 으라차차 (럼블피쉬) 7:16:47 ※"
                 },
                 {
                     "title": "My Way",
                     "time": "7:26:22",
                     "artist": "이수",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 My Way (이수) 7:26:22 ?"
+                    "rawLine": "🎤 My Way (이수) 7:26:22 ※"
+                },
+                {
+                    "title": "외톨이",
+                    "time": "7:32:05",
+                    "artist": "아웃사이더",
+                    "groupSong": false,
+                    "rawLine": "🎤 외톨이 7:32:05 ※"
+                },
+                {
+                    "title": "Cinderella",
+                    "time": "7:40:28",
+                    "artist": "타이미",
+                    "groupSong": false,
+                    "rawLine": "🎤 Cinderella 7:40:28 ※"
+                },
+                {
+                    "title": "Coma 07'",
+                    "time": "7:46:24",
+                    "artist": "치타",
+                    "groupSong": false,
+                    "rawLine": "🎤 Coma 07' 7:46:24 ※"
+                },
+                {
+                    "title": "말해 Yes Or No",
+                    "time": "7:51:01",
+                    "artist": "지코",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 말해 Yes Or No 7:51:01 ※☆"
+                },
+                {
+                    "title": "MIC Drop",
+                    "time": "7:56:34",
+                    "artist": "방탄소년단",
+                    "groupSong": false,
+                    "rawLine": "🎤 MIC Drop 7:56:34 ※"
                 }
             ]
         },
@@ -12247,17 +12302,17 @@
                     "title": "주옥같다",
                     "time": "1:48:10",
                     "artist": "고옥희",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 주옥같다 1:48:10 ?"
+                    "rawLine": "🎤 주옥같다 1:48:10 ■ /* 그냥서버 에디션 */"
                 },
                 {
                     "title": "이것은 아마 마지막 꽃잎",
                     "time": "2:23:07",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 2:23:07 ?"
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 2:23:07 ○☆"
                 },
                 {
                     "title": "Ditto",
@@ -12287,17 +12342,18 @@
                     "title": "어른",
                     "time": "3:13:48",
                     "artist": "손디아",
+                    "recommended": true,
                     "groupMembers": "정와, 츄라희",
                     "groupSong": true,
-                    "rawLine": "🎶 어른 3:13:48 (정와, 츄라희)"
+                    "rawLine": "🎶 어른 3:13:48 (정와, 츄라희) ☆"
                 },
                 {
                     "title": "입춘",
                     "time": "3:40:02",
                     "artist": "한로로",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 입춘 3:40:02 ?"
+                    "rawLine": "🎤 입춘 3:40:02 ☆"
                 },
                 {
                     "title": "붉은장미",
@@ -12373,11 +12429,12 @@
                 },
                 {
                     "title": "연의 편지",
-                    "time": "6:12:20",
+                    "time": "6:12:11",
                     "artist": "이수현",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 연의 편지 6:12:20 ?"
+                    "rawLine": "🎤 연의 편지 6:12:11 ○☆"
                 }
             ]
         },

@@ -2202,26 +2202,26 @@
             "songInfo": []
         },
         {
-            "title": "후열🤍 9월 룰렛 33/330 확정O",
+            "title": "예스노탐정 2천개 미션!🤍 9월 룰렛 33/330",
             "date": "2026-09-23",
             "url": "https://vod.sooplive.com/player/207929003",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_D899A3B8_297335573_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260923_7991E4E9_297335573_1_r&column=2&t=1790560843",
             "songInfo": [
                 {
                     "title": "친구라도 될 걸 그랬어",
                     "time": "3:23:32",
                     "artist": "거미",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:23:32 친구라도 될 걸 그랬어 ?"
+                    "rawLine": "🎤 3:23:32 친구라도 될 걸 그랬어 ○☆☆"
                 },
                 {
                     "title": "Eternal Snow",
                     "time": "5:13:42",
                     "artist": "달빛천사 OST",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:13:42 Eternal Snow (달빛천사 OST) ?"
+                    "rawLine": "🎤 5:13:42 Eternal Snow (달빛천사 OST) ■"
                 }
             ]
         },
@@ -2273,33 +2273,35 @@
                     "title": "푸른 산호초",
                     "time": "1:30:30",
                     "artist": "마츠다 세이코",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:30:30 푸른 산호초 ?"
+                    "rawLine": "🎤 1:30:30 푸른 산호초 ☆"
                 },
                 {
                     "title": "Way Back Home",
                     "time": "1:48:57",
                     "artist": "숀",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:48:57 Way Back Home ?"
+                    "rawLine": "🎤 1:48:57 Way Back Home ○"
                 },
                 {
                     "title": "소문의 낙원",
                     "time": "1:55:27",
                     "artist": "AKMU",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:55:27 소문의 낙원 ?"
+                    "rawLine": "🎤 1:55:27 소문의 낙원 ○☆"
                 },
                 {
                     "title": "생각을 멈추다 보면",
                     "time": "2:25:20",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:25:20 생각을 멈추다 보면 ?"
+                    "rawLine": "🎤 2:25:20 생각을 멈추다 보면 ○☆"
                 }
             ]
         },
@@ -2307,7 +2309,7 @@
             "title": "노래 재활🤍",
             "date": "2026-10-08",
             "url": "https://vod.sooplive.com/player/209282933",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791481023",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_496882DC_297690711_1_r&column=2&t=1791859563",
             "songInfo": [
                 {
                     "title": "거리에서",
@@ -2320,105 +2322,101 @@
                     "title": "그래도 나 사랑하지",
                     "time": "1:55:55",
                     "artist": "스웨덴 세탁소",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:55:55 그래도 나 사랑하지 ?"
+                    "rawLine": "🎤 1:55:55 그래도 나 사랑하지 ○"
                 },
                 {
                     "title": "화조도",
                     "time": "2:03:30",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:03:30 화조도 ?"
+                    "rawLine": "🎤 2:03:30 화조도"
                 },
                 {
                     "title": "바람이 불어오는 곳",
                     "time": "2:15:05",
                     "artist": "김광석",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:15:05 바람이 불어오는 곳 ?"
+                    "rawLine": "🎤 2:15:05 바람이 불어오는 곳"
                 },
                 {
                     "title": "밤편지",
                     "time": "2:28:07",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:28:07 밤편지 ?"
+                    "rawLine": "🎤 2:28:07 밤편지 ■☆"
                 },
                 {
                     "title": "여우비",
-                    "time": "2:35:27",
+                    "time": "2:36:13",
                     "artist": "츄",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:35:27 여우비 ?"
+                    "rawLine": "🎤 2:36:13 여우비 ■"
                 },
                 {
-                    "title": "외로움이라는 것",
+                    "title": "외로움이라는 건",
                     "time": "2:43:43",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:43:43 외로움이라는 것 ?"
+                    "rawLine": "🎤 2:43:43 외로움이라는 건 (최유리) ○☆"
                 },
                 {
                     "title": "위로",
                     "time": "2:50:27",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:50:27 위로 ?"
+                    "rawLine": "🎤 2:50:27 위로"
                 },
                 {
                     "title": "북두칠성",
                     "time": "2:57:45",
                     "artist": "로이킴",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:57:45 북두칠성 ?"
+                    "rawLine": "🎤 2:57:45 북두칠성 ■"
                 },
                 {
                     "title": "yours",
                     "time": "3:06:12",
                     "artist": "데이먼스 이어",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:06:12 yours ?"
+                    "rawLine": "🎤 3:06:12 yours ○"
                 },
                 {
                     "title": "What Do I Call You",
                     "time": "3:15:38",
                     "artist": "태연",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:15:38 What Do I Call You ?"
+                    "rawLine": "🎤 3:15:38 What Do I Call You ■"
                 },
                 {
                     "title": "11:11",
                     "time": "3:23:15",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:23:15 11\\:11 ?"
+                    "rawLine": "🎤 3:23:15 11\\:11 ○"
                 },
                 {
                     "title": "만약에",
                     "time": "3:32:04",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:32:04 만약에 ?"
+                    "rawLine": "🎤 3:32:04 만약에 ○"
                 },
                 {
                     "title": "한숨",
                     "time": "3:39:50",
                     "artist": "이하이",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:39:50 한숨 ?"
+                    "rawLine": "🎤 3:39:50 한숨 ○☆"
                 }
             ]
         },
@@ -2426,15 +2424,15 @@
             "title": "생일 축하 감사합니다🤍",
             "date": "2026-10-12",
             "url": "https://vod.sooplive.com/player/209655483",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_7CECAB51_297789291_1_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_7CECAB51_297789291_1_r&column=2&t=1791868235",
             "songInfo": [
                 {
                     "title": "Track 9",
                     "time": "4:13:08",
                     "artist": "이소라",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:13:08 Track 9 ?"
+                    "rawLine": "🎤 4:13:08 Track 9 ○"
                 }
             ]
         }

@@ -805,8 +805,10 @@
         "aliases": []
     },
     {
-        "title": "말해 Yes or No",
-        "aliases": []
+        "title": "말해 Yes Or No",
+        "aliases": [
+            "말해 Yes or No"
+        ]
     },
     {
         "title": "말해줘",
@@ -1108,7 +1110,9 @@
     },
     {
         "title": "붉은장미",
-        "aliases": ["붉은 장미"]
+        "aliases": [
+            "붉은 장미"
+        ]
     },
     {
         "title": "비 오는 날 듣기 좋은 노래",
@@ -1735,6 +1739,10 @@
     },
     {
         "title": "외국인의 고백",
+        "aliases": []
+    },
+    {
+        "title": "외로움이라는 건",
         "aliases": []
     },
     {
@@ -2483,6 +2491,10 @@
     },
     {
         "title": "Cinderella",
+        "aliases": []
+    },
+    {
+        "title": "Coma 07'",
         "aliases": []
     },
     {

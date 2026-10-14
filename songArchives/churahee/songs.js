@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-14T00:45:27.472377+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-14T13:05:17.354638+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -963,6 +963,36 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=27628",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Coma 07'",
+    "artist": "치타",
+    "versions": [
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=27984",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1686,13 +1716,13 @@ const songs = [
       },
       {
         "date": "2026-10-08",
-        "url": "https://vod.sooplive.com/player/209281281?change_second=22581",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=22587",
         "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3243,6 +3273,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=28594",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3462,7 +3504,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -7132,9 +7174,9 @@ const songs = [
         "videoTitle": "소통 - 푸클리 콘서트 - 마카오톡 [제랄즈]",
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20231217_57CBBB1C_249801867_3_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -10315,7 +10357,7 @@ const songs = [
     ]
   },
   {
-    "title": "말해 Yes or No",
+    "title": "말해 Yes Or No",
     "artist": "지코",
     "versions": [
       {
@@ -10324,6 +10366,18 @@ const songs = [
         "videoTitle": "소통",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260309_C83CB016_292240371_1_r&column=2&t=1773754201",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=28261",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
@@ -11172,13 +11226,13 @@ const songs = [
       },
       {
         "date": "2026-10-08",
-        "url": "https://vod.sooplive.com/player/209281281?change_second=24289",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=24294",
         "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -13464,13 +13518,13 @@ const songs = [
       },
       {
         "date": "2026-10-08",
-        "url": "https://vod.sooplive.com/player/209281281?change_second=22129",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=22098",
         "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -17099,7 +17153,7 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
         "noMistake": false,
-        "recommended": false,
+        "recommended": true,
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "정와, 츄라희"
@@ -17760,25 +17814,25 @@ const songs = [
       },
       {
         "date": "2026-10-08",
-        "url": "https://vod.sooplive.com/player/209281281?change_second=7600",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=7605",
         "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
       {
         "date": "2026-10-12",
-        "url": "https://vod.sooplive.com/player/209652981?change_second=22340",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=22331",
         "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -18747,6 +18801,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-11",
+        "url": "https://vod.sooplive.com/player/209573637?change_second=27125",
+        "videoTitle": "[버블란] 그냥서버 랩츄 출근",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -19042,9 +19108,9 @@ const songs = [
         "videoTitle": "소통 - 푸클리 콘서트 - 마카오톡 [제랄즈]",
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20231217_57CBBB1C_249801867_3_r",
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -19054,8 +19120,8 @@ const songs = [
         "videoTitle": "소통 - 푸클리 콘서트 - 마카오톡 [제랄즈]",
         "views": 1000,
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20231217_57CBBB1C_249801867_3_r",
-        "noMistake": false,
-        "recommended": false,
+        "noMistake": true,
+        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -19548,7 +19614,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261011_B1CF35A2_297761683_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -19631,8 +19697,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261010_9449C64F_297736111_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -19642,9 +19708,9 @@ const songs = [
         "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -20003,8 +20069,8 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -20460,7 +20526,7 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -22854,13 +22920,13 @@ const songs = [
       },
       {
         "date": "2026-10-08",
-        "url": "https://vod.sooplive.com/player/209281281?change_second=8311",
+        "url": "https://vod.sooplive.com/player/209281281?change_second=8265",
         "videoTitle": "[버블란] 그냥서버 라희냥이 출근 ㅋ(벌칙 라희냥이 옷 입고 애교송 릴레이 리스닝파티)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261008_97722263_297684443_2_r",
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
