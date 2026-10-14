@@ -2435,6 +2435,118 @@
                     "rawLine": "🎤 4:13:08 Track 9 ○"
                 }
             ]
+        },
+        {
+            "title": "노래 조금",
+            "date": "2026-10-14",
+            "url": "https://vod.sooplive.com/player/209822565",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+            "songInfo": [
+                {
+                    "title": "가을 아침",
+                    "time": "21:59",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 21:59 가을 아침 ?"
+                },
+                {
+                    "title": "스물다섯, 스물하나",
+                    "time": "30:11",
+                    "artist": "자우림",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 30:11 스물다섯, 스물하나 ?"
+                },
+                {
+                    "title": "위로",
+                    "time": "44:41",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 44:41 위로 ?"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "57:08",
+                    "artist": "로이킴",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 57:08 북두칠성 ?"
+                },
+                {
+                    "title": "푸른 산호초",
+                    "time": "1:05:38",
+                    "artist": "마츠다 세이코",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:05:38 푸른 산호초 ?"
+                },
+                {
+                    "title": "Rain Drop",
+                    "time": "1:11:59",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:11:59 Rain Drop ?"
+                },
+                {
+                    "title": "야래향",
+                    "time": "1:20:30",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:20:30 야래향 ?"
+                },
+                {
+                    "title": "꽃이 피고 지듯이",
+                    "time": "1:30:41",
+                    "artist": "조승우",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:30:41 꽃이 피고 지듯이 ?"
+                },
+                {
+                    "title": "바람이 불어오는 곳",
+                    "time": "1:39:02",
+                    "artist": "김광석",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:39:02 바람이 불어오는 곳 ?"
+                },
+                {
+                    "title": "잊어야 한다는 마음으로",
+                    "time": "1:51:09",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:51:09 잊어야 한다는 마음으로 ?"
+                },
+                {
+                    "title": "화조도",
+                    "time": "1:58:19",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:58:19 화조도 ?"
+                },
+                {
+                    "title": "숲",
+                    "time": "2:08:49",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:08:49 숲 ?"
+                },
+                {
+                    "title": "외로움이라는 건",
+                    "time": "2:15:12",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:15:12 외로움이라는 건 ?"
+                }
+            ]
         }
     ]
 }
