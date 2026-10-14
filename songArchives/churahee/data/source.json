@@ -12244,6 +12244,14 @@
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
             "songInfo": [
                 {
+                    "title": "주옥같다",
+                    "time": "1:48:10",
+                    "artist": "고옥희",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 주옥같다 1:48:10 ?"
+                },
+                {
                     "title": "이것은 아마 마지막 꽃잎",
                     "time": "2:23:07",
                     "artist": "심규선",
@@ -12370,6 +12378,22 @@
                     "needsReview": true,
                     "groupSong": false,
                     "rawLine": "🎤 연의 편지 6:12:20 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 일찍 방송 켜는 참새가 빚을 갚는다",
+            "date": "2026-10-13",
+            "url": "https://vod.sooplive.com/player/209746015",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261013_8F97D777_297807479_2_r",
+            "songInfo": [
+                {
+                    "title": "소로",
+                    "time": "5:29:39",
+                    "artist": "심규선",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 소로 5:29:39 ■☆"
                 }
             ]
         }

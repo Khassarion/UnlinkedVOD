@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-13T00:18:35.339534+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-10-14T00:45:27.472377+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -14763,6 +14763,18 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "김다나, 츄라희"
+      },
+      {
+        "date": "2026-10-13",
+        "url": "https://vod.sooplive.com/player/209746015?change_second=19779",
+        "videoTitle": "[버블란] 일찍 방송 켜는 참새가 빚을 갚는다",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261013_8F97D777_297807479_2_r",
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -20437,6 +20449,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-12",
+        "url": "https://vod.sooplive.com/player/209652981?change_second=6490",
+        "videoTitle": "[버블란] 그리고 싱크룸을 해(w. 스노 정와 헤스)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261012_14D231F2_297784983_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
