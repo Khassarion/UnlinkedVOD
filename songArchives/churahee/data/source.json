@@ -12453,6 +12453,30 @@
                     "rawLine": "🎤 소로 5:29:39 ■☆"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 조졌네 이거",
+            "date": "2026-10-14",
+            "url": "https://vod.sooplive.com/player/209829467",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_7A0F3E10_297835329_2_r",
+            "songInfo": [
+                {
+                    "title": "오늘 뭐 했는지 말해봐",
+                    "time": "5:40:00",
+                    "artist": "권진아",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 오늘 뭐 했는지 말해봐 5:40:00 ?"
+                },
+                {
+                    "title": "눈사람",
+                    "time": "5:45:38",
+                    "artist": "정승환",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 눈사람 5:45:38 ?"
+                }
+            ]
         }
     ]
 }
