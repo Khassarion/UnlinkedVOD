@@ -104,6 +104,12 @@ function syncroomBadgeHtml(version) {
   return `<span class="version-badge version-badge-syncroom"${titleAttr}>싱크룸</span>`;
 }
 
+/** 썸네일 위에 overlay로 표시하는 "구독+" 뱃지 — 구독+ 전용 다시보기임을 표시(thumbnailOverrides.json에서 지정). */
+function subscribePlusBadgeHtml(version) {
+  if (!version?.subscribePlusRequired) return '';
+  return '<span class="version-thumb-badge version-thumb-badge-subplus" title="구독+ 전용 다시보기">구독+</span>';
+}
+
 const _escapeHtmlScratch = document.createElement('div');
 function escapeHtml(s) {
   _escapeHtmlScratch.textContent = s;
@@ -208,6 +214,7 @@ function loadSongs(searchTerm = '') {
     versionsSorted.forEach((v) => {
       const icons = versionIconsHtml(v);
       const syncroomBadge = syncroomBadgeHtml(v);
+      const subPlusBadge = subscribePlusBadgeHtml(v);
       const card = document.createElement('a');
       card.href = v.url;
       card.target = '_blank';
@@ -216,6 +223,7 @@ function loadSongs(searchTerm = '') {
       card.innerHTML = `
         <span class="version-card-thumb">
           <img src="${escapeHtml(v.thumbnail)}" alt="" loading="lazy" />
+          ${subPlusBadge}
         </span>
         <span class="version-card-info">
           <span class="version-card-meta">

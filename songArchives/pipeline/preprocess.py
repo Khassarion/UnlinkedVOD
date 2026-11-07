@@ -68,6 +68,7 @@ for history in json_data["history"]:
     date = history["date"]
     videoTitle = history["title"]
     thumbnail_url = history["thumbnail"]
+    subscribe_plus_required = bool(history.get("subscribePlusRequired", False))
 
     for song in history["songInfo"]:
         title = song["title"]
@@ -97,6 +98,7 @@ for history in json_data["history"]:
             "videoTitle": videoTitle,
             "views": 1000,
             "thumbnail": thumbnail_url,
+            "subscribePlusRequired": subscribe_plus_required,
             "noMistake": noMistake,
             "recommended": recommended,
             "needsReview": needsReview,

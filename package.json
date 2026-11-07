@@ -5,6 +5,7 @@
   "scripts": {
     "add": "node songArchives/pipeline/addVod.js",
     "add-streamer": "node songArchives/addStreamer.js",
+    "apply-thumbnail-overrides": "node songArchives/pipeline/applyThumbnailOverrides.js",
     "churahee:migrate": "node songArchives/churahee/data/migrateAfreecaToSoop.js"
   },
   "engines": {

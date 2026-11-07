@@ -89,6 +89,7 @@ class VodImportPipeline {
 
     let songInfo = [];
     let thumb = vodInfo.thumb || '';
+    let subscribePlusRequired = false;
     try {
       for (const c of comments) {
         if (!COMMENT_AUTHOR_ID || !COMMENT_AUTHOR_ID.includes(c.user_id || '')) continue;
@@ -102,10 +103,15 @@ class VodImportPipeline {
         songInfo = songInfo.concat(parsedList);
       }
 
+      // 오버라이드는 API 썸네일 유무와 무관하게 항상 확인(구독+ 표시는 썸네일이 있어도 적용돼야 함).
+      const override = this.catalog.getThumbnailOverride(videoId);
+      if (override?.subscribePlusRequired) {
+        subscribePlusRequired = true;
+        dbg('구독+ 전용 VOD로 표시:', videoId);
+      }
       if (!String(thumb).trim()) {
-        const override = this.catalog.getThumbnailOverride(videoId);
-        if (override && String(override).trim()) {
-          thumb = String(override).trim();
+        if (override?.thumbnail) {
+          thumb = override.thumbnail;
           dbg('썸네일 override 매핑 사용:', thumb);
         } else {
           console.warn(
@@ -128,7 +134,7 @@ class VodImportPipeline {
     const title = vodInfo.full_title || vodInfo.title || '';
     const url = `https://vod.sooplive.com/player/${videoId}`;
 
-    const historyEntry = { title, date, url, thumbnail: thumb, songInfo };
+    const historyEntry = { title, date, url, thumbnail: thumb, subscribePlusRequired, songInfo };
     const { replaced } = repository.mergeVod(historyEntry);
 
     return { videoId, title, date, songCount: songInfo.length, replaced };

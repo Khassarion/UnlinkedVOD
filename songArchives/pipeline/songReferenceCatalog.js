@@ -1,5 +1,5 @@
 const path = require('path');
-const { readJsonArray, readJsonObject, writeJsonData, splitArtistNames } = require('./utils');
+const { readJsonArray, readJsonObject, writeJsonData, splitArtistNames, nonEmptyStr } = require('./utils');
 
 /**
  * Find rawValue (or one of its aliases) among list entries, returning the canonical value.
@@ -130,12 +130,19 @@ class SongReferenceCatalog {
   }
 
   /**
-   * VOD API가 썸네일을 못 내려줄 때 대신 쓰는 매핑.
+   * VOD별 수동 오버라이드: `{ thumbnail?, subscribePlusRequired? }`.
+   * `thumbnail`은 API가 썸네일을 못 내려줄 때 대신 쓰는 대체 URL, `subscribePlusRequired`는
+   * 구독+ 전용 다시보기라 뱃지를 표시할지 여부 — API 썸네일이 있어도 독립적으로 적용된다.
    * @param {string} videoId
-   * @returns {string|undefined}
+   * @returns {{ thumbnail: string, subscribePlusRequired: boolean }|null}
    */
   getThumbnailOverride(videoId) {
-    return readJsonObject(this.thumbnailOverridesPath, {})[videoId];
+    const entry = readJsonObject(this.thumbnailOverridesPath, {})[videoId];
+    if (!entry || typeof entry !== 'object' || Array.isArray(entry)) return null;
+    return {
+      thumbnail: nonEmptyStr(entry.thumbnail),
+      subscribePlusRequired: entry.subscribePlusRequired === true,
+    };
   }
 }
 

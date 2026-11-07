@@ -100,6 +100,20 @@ class StreamerRepository {
   }
 
   /**
+   * source.json의 history 배열을 읽어 mutatorFn에 넘기고, mutatorFn이 true를 반환하면 그대로 저장한다.
+   * mergeVod처럼 전체 데이터를 읽고 쓰되, 임의의 일괄 수정(예: 기존 항목들의 필드 보강)에 쓴다.
+   * @param {(history: object[]) => boolean} mutatorFn - history를 제자리에서 수정하고, 저장해야 하면 true 반환
+   * @returns {boolean} 실제로 저장했는지
+   */
+  updateHistory(mutatorFn) {
+    const data = JSON.parse(fs.readFileSync(this.sourcePath, 'utf8'));
+    if (!Array.isArray(data.history)) data.history = [];
+    const shouldSave = mutatorFn(data.history);
+    if (shouldSave) writeJsonData(this.sourcePath, data);
+    return !!shouldSave;
+  }
+
+  /**
    * source.json에 VOD 항목 병합: videoId로 교체하거나 추가.
    * @param {object} historyEntry - { title, date, url, thumbnail, songInfo }
    * @returns {{ replaced: boolean, index: number }}

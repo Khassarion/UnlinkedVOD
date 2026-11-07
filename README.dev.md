@@ -69,7 +69,7 @@ npm run add -- 189435111 189435112
 
 **진행 순서:** Soop API로 VOD·댓글 수집 → `data/parseConfig.json` 파싱 → `titleReference` / `artistReference` 정규화 → `defaultArtistMapping.json` 보강 → (썸네일이 비어 있으면 `thumbnailOverrides.json` 보강) → `data/source.json` → `python songArchives/pipeline/preprocess.py {스트리머}`로 `songs.js` 재생성.
 
-VOD API가 권한 부족 등으로 썸네일을 못 내려주면(공백) `songArchives/pipeline/data/thumbnailOverrides.json`(`{ "videoId": "썸네일URL" }`)에서 해당 `videoId`를 찾아 대신 씁니다. 매핑에도 없으면 경고만 띄우고(에러 아님), 대화형 세션이면 Enter 입력을 기다렸다가 계속 진행합니다.
+VOD API가 권한 부족 등으로 썸네일을 못 내려주면(공백) `songArchives/pipeline/data/thumbnailOverrides.json`(`{ "videoId": { "thumbnail": "썸네일URL", "subscribePlusRequired": false } }`)에서 해당 `videoId`의 `thumbnail`을 찾아 대신 씁니다. 썸네일 유무와 무관하게 `subscribePlusRequired: true`면 보관소 페이지 카드 썸네일에 "구독+" 뱃지가 붙습니다. 매핑에도 없으면 경고만 띄우고(에러 아님), 대화형 세션이면 Enter 입력을 기다렸다가 계속 진행합니다.
 
 변경분을 커밋·푸시하면 GitHub Pages에 반영됩니다.
 
@@ -166,10 +166,21 @@ npm run add-streamer -- --id chebi2 --title 체비
 그 제목에 대한 `defaultArtistMapping.json` 항목이 아직 없으면, 댓글 가수가 `artistReference`에 있든 없든 그대로 채워 넣습니다(확인 프롬프트 없음).  
 이미 기본값이 있는데 댓글 가수가 그와 다르면(레퍼런스 등록 여부 무관) 대화형 세션에서 "[1] 기본값 사용 / [2] 댓글 가수 사용" 선택 프롬프트가 뜹니다. 2를 고르면(레퍼런스에 없던 가수면 등록 후) `defaultArtistMapping.json`을 바꿀지 다시 Y/N으로 묻습니다. 비대화형이면 항상 기본값을 사용합니다.
 
-## 썸네일 override
+## 썸네일 override / 구독+ 뱃지
 
-`songArchives/pipeline/data/thumbnailOverrides.json` — `{ "videoId": "썸네일URL" }`.  
-`npm run add` 실행 시 Soop VOD API가 썸네일을 못 내려주면(권한 부족 등으로 공백) 이 매핑에서 `videoId`를 찾아 `source.json`의 `thumbnail`로 씁니다. 항목이 없으면 콘솔에 경고만 띄우고(에러 아님) 대화형 세션이면 Enter 입력을 받은 뒤 나머지 작업(파싱·병합)을 계속합니다.
+`songArchives/pipeline/data/thumbnailOverrides.json` — `{ "videoId": { "thumbnail": "썸네일URL", "subscribePlusRequired": false } }`.
+
+- **`thumbnail`**: `npm run add` 실행 시 Soop VOD API가 썸네일을 못 내려주면(권한 부족 등으로 공백) 이 값을 `source.json`의 `thumbnail`로 씁니다. 항목이 없으면 콘솔에 경고만 띄우고(에러 아님) 대화형 세션이면 Enter 입력을 받은 뒤 나머지 작업(파싱·병합)을 계속합니다.
+- **`subscribePlusRequired`**: `true`면 API 썸네일 수신 여부와 무관하게 `source.json`/`songs.js`에 `subscribePlusRequired: true`가 기록되고, 보관소 페이지에서 해당 VOD의 모든 기록 카드 썸네일에 "구독+" 뱃지가 overlay로 표시됩니다(`archive-page.js`의 `subscribePlusBadgeHtml`).
+
+둘 다 `npm run add`로 그 VOD를 다시 받아야 반영되는데, 이미 받아둔 VOD라면 네트워크 호출 없이 `thumbnailOverrides.json` 내용만 기존 `source.json`에 바로 적용하는 쪽이 더 빠릅니다:
+
+```bash
+npm run apply-thumbnail-overrides                        # 전체 스트리머
+npm run apply-thumbnail-overrides -- churahee irumi1523   # 특정 스트리머만
+```
+
+바뀐 스트리머의 `songs.js`까지 자동으로 재생성합니다. `subscribePlusRequired`는 오버라이드 값으로 그대로 덮어쓰고, `thumbnail`은 기존 값이 비어 있을 때만 채웁니다(API가 내려준 썸네일은 덮어쓰지 않음).
 
 ## Pages 배포
 

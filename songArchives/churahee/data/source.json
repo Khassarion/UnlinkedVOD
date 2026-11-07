@@ -10958,6 +10958,7 @@
             "date": "2026-08-14",
             "url": "https://vod.sooplive.com/player/204347547",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260814_ECC13B80_296352281_1_r&column=2&t=1786984008",
+            "subscribePlusRequired": true,
             "songInfo": [
                 {
                     "title": "연의 편지",

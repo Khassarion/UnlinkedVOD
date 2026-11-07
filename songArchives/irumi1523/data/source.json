@@ -1307,6 +1307,7 @@
             "date": "2026-08-01",
             "url": "https://vod.sooplive.com/player/203088611",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",
+            "subscribePlusRequired": true,
             "songInfo": [
                 {
                     "title": "숨",
@@ -1518,6 +1519,7 @@
             "date": "2026-08-24",
             "url": "https://vod.sooplive.com/player/205204029",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260824_9A75489D_296602289_1_r",
+            "subscribePlusRequired": true,
             "songInfo": [
                 {
                     "title": "Bye bye my blue",
@@ -2673,6 +2675,7 @@
             "date": "2026-10-20",
             "url": "https://vod.sooplive.com/player/210355123",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+            "subscribePlusRequired": true,
             "songInfo": [
                 {
                     "title": "마음을 드려요",
@@ -2785,6 +2788,7 @@
             "date": "2026-10-13",
             "url": "https://vod.sooplive.com/player/209740143",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261013_5F6AD0D3_297810753_2_r",
+            "subscribePlusRequired": true,
             "songInfo": [
                 {
                     "title": "너의 바다",
