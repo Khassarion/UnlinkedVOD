@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-10-14T22:11:48.762965+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-07T01:22:36.783601+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -115,6 +115,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=6350",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -729,6 +741,30 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=8021",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=10241",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -841,6 +877,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=11673",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1111,6 +1159,24 @@ const songs = [
     ]
   },
   {
+    "title": "그대라는 시",
+    "artist": "태연",
+    "versions": [
+      {
+        "date": "2026-10-18",
+        "url": "https://vod.sooplive.com/player/210190543?change_second=20185",
+        "videoTitle": "빚 갚고 싶습니다,,🤍 33/330/51/510",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261018_BAA4E909_297937859_1_r&column=2&t=1792384031",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "그대만 있다면",
     "artist": "러브홀릭",
     "versions": [
@@ -1177,6 +1243,24 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "기다리다",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=10666",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1485,6 +1569,36 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-13",
+        "url": "https://vod.sooplive.com/player/209740143?change_second=15054",
+        "videoTitle": "흑시호🤍",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261013_5F6AD0D3_297810753_2_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "너의 의미",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=9816",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1687,6 +1801,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=1318",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1893,6 +2019,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-16",
+        "url": "https://vod.sooplive.com/player/210016855?change_second=21801",
+        "videoTitle": "도박은 하지 말자 진ㅉ따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261016_AC8FA07B_297890331_1_r&column=2&t=1792379004",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2059,6 +2197,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=6308",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2233,6 +2383,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=4351",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2547,6 +2709,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=12045",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2811,6 +2985,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=12784",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2827,6 +3013,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=7189",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2883,6 +3081,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=13584",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2935,6 +3145,18 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=7045",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3088,6 +3310,18 @@ const songs = [
         "videoTitle": "노래 조금",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-16",
+        "url": "https://vod.sooplive.com/player/210016855?change_second=8961",
+        "videoTitle": "도박은 하지 말자 진ㅉ따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261016_AC8FA07B_297890331_1_r&column=2&t=1792379004",
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -3285,6 +3519,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-16",
+        "url": "https://vod.sooplive.com/player/210016855?change_second=9309",
+        "videoTitle": "도박은 하지 말자 진ㅉ따",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261016_AC8FA07B_297890331_1_r&column=2&t=1792379004",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3411,6 +3657,18 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-17",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=8778",
+        "videoTitle": "슴슴한 대화와 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3439,6 +3697,18 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=5878",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3721,6 +3991,24 @@ const songs = [
     ]
   },
   {
+    "title": "응급실",
+    "artist": "IZI",
+    "versions": [
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=5430",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "이름에게",
     "artist": "아이유",
     "versions": [
@@ -3949,6 +4237,24 @@ const songs = [
     ]
   },
   {
+    "title": "장마",
+    "artist": "박보람",
+    "versions": [
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=11673",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "주저하는 연인들을 위해",
     "artist": "잔나비",
     "versions": [
@@ -3979,6 +4285,24 @@ const songs = [
     ]
   },
   {
+    "title": "지우개",
+    "artist": "알리",
+    "versions": [
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=4842",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "진심이었던 사람만 바보가 돼",
     "artist": "권진아",
     "versions": [
@@ -3991,6 +4315,18 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=12265",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4441,6 +4777,18 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=1926",
+        "videoTitle": "소통 노래 / 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

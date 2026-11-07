@@ -12477,6 +12477,125 @@
                     "rawLine": "🎤 눈사람 5:45:38 ?"
                 }
             ]
+        },
+        {
+            "title": "소통 - 틀딱메들리 싱크룸(w. 요한)",
+            "date": "2026-10-22",
+            "url": "https://vod.sooplive.com/player/210544413",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
+            "songInfo": [
+                {
+                    "title": "이것은 아마 마지막 꽃잎",
+                    "time": "1:23:32",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 1:23:32 ?"
+                },
+                {
+                    "title": "BUMPA",
+                    "time": "1:32:27",
+                    "artist": "비비",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 BUMPA 1:32:27 ?"
+                },
+                {
+                    "title": "외톨이",
+                    "time": "1:48:33",
+                    "artist": "아웃사이더",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 외톨이 1:48:33 ?"
+                },
+                {
+                    "title": "만개화",
+                    "time": "3:44:29",
+                    "artist": "안예은",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 만개화 3:44:29 ~ 3:48:28 ☆"
+                },
+                {
+                    "title": "가로수 그늘아래 서면",
+                    "time": "4:52:14",
+                    "artist": "이문세",
+                    "groupSong": false,
+                    "rawLine": "🎤 가로수 그늘아래 서면 (이문세) 4:52:14 ~ 4:56:08 ■"
+                },
+                {
+                    "title": "서른 즈음에",
+                    "time": "5:06:36",
+                    "artist": "김광석",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 서른 즈음에 (김광석) 5:06:36 ~ 5:11:01 ?"
+                },
+                {
+                    "title": "보라빛 향기",
+                    "time": "5:17:00",
+                    "artist": "강수지",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 보라빛 향기 (강수지) 5:17:00 ~ 5:20:15 ?"
+                },
+                {
+                    "title": "예감 좋은 날",
+                    "time": "5:24:48",
+                    "artist": "럼블피쉬",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 예감 좋은 날 (럼블피쉬) 5:24:48 ~ 5:28:15 ?"
+                },
+                {
+                    "title": "사랑과 우정사이",
+                    "time": "5:34:11",
+                    "artist": "박혜경",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 사랑과 우정사이 (박혜경) 5:34:11 ~ 5:38:16 ?"
+                },
+                {
+                    "title": "인연",
+                    "time": "5:45:56",
+                    "artist": "이선희",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 인연 (이선희) 5:45:56 ~ 5:50:09 ?"
+                },
+                {
+                    "title": "애인 있어요",
+                    "time": "5:56:22",
+                    "artist": "이은미",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 애인 있어요 (이은미) 5:56:22 ~ 6:00:15 ?"
+                },
+                {
+                    "title": "다시 사랑할 수 있을까",
+                    "time": "6:06:52",
+                    "artist": "박정은, 포맨",
+                    "groupMembers": "요한, 츄라희",
+                    "groupSong": true,
+                    "rawLine": "🎶 다시 사랑할 수 있을까 (박정은, 포맨) 6:06:52 (요한, 츄라희)"
+                },
+                {
+                    "title": "눈의 꽃",
+                    "time": "6:20:34",
+                    "artist": "박효신",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 눈의 꽃 (박효신) 6:20:34 ※?"
+                },
+                {
+                    "title": "You",
+                    "time": "6:30:51",
+                    "artist": "김상민",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 You 6:30:51 ※?"
+                }
+            ]
         }
     ]
 }
