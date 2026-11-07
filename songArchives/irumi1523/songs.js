@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-07T02:19:32.688308+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-07T03:20:27.513124+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -181,6 +181,19 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=20440",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -448,6 +461,25 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "I",
+    "artist": "태연",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=21827",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1182,6 +1214,25 @@ const songs = [
     ]
   },
   {
+    "title": "가을 타나 봐",
+    "artist": "바이브",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=17130",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "같은 베개...",
     "artist": "테이",
     "versions": [
@@ -1246,6 +1297,25 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "거북이",
+    "artist": "다비치",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=20785",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2106,6 +2176,25 @@ const songs = [
     ]
   },
   {
+    "title": "마법의 성",
+    "artist": "더 클래식",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=19269",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "마음을 드려요",
     "artist": "아이유",
     "versions": [
@@ -2385,6 +2474,25 @@ const songs = [
         "videoTitle": "도박은 하지 말자 진ㅉ따",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261016_AC8FA07B_297890331_1_r&column=2&t=1792379004",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "미워도 사랑하니까",
+    "artist": "다비치",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=21279",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -4352,6 +4460,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=19901",
+        "videoTitle": "소통 노래 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5072,6 +5193,19 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-27",
+        "url": "https://vod.sooplive.com/player/211001505?change_second=21995",
+        "videoTitle": "차카데미 입학생! 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261027_519CCAE8_298153695_1_r&column=2&t=1793297048",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

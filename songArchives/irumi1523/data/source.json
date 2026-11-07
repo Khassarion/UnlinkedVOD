@@ -3000,6 +3000,88 @@
                     "rawLine": "🎤 5:15:52 아이와 나의 바다 ?"
                 }
             ]
+        },
+        {
+            "title": "소통 노래 33/330(11연차)",
+            "date": "2026-10-26",
+            "url": "https://vod.sooplive.com/player/210906843",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "가을 타나 봐",
+                    "time": "4:45:30",
+                    "artist": "바이브",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:45:30 가을 타나 봐 (바이브) ?"
+                },
+                {
+                    "title": "마법의 성",
+                    "time": "5:21:09",
+                    "artist": "더 클래식",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:21:09 마법의 성 (더 클래식) ?"
+                },
+                {
+                    "title": "오르트구름",
+                    "time": "5:31:41",
+                    "artist": "윤하",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:31:41 오르트구름 (윤하) ?"
+                },
+                {
+                    "title": "Be I",
+                    "time": "5:40:40",
+                    "artist": "Hebi.",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:40:40 Be I (Hebi) ?"
+                },
+                {
+                    "title": "거북이",
+                    "time": "5:46:25",
+                    "artist": "다비치",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:46:25 거북이 (다비치) ?"
+                },
+                {
+                    "title": "미워도 사랑하니까",
+                    "time": "5:54:39",
+                    "artist": "다비치",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:54:39 미워도 사랑하니까 (다비치) ?"
+                },
+                {
+                    "title": "I",
+                    "time": "6:03:47",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:03:47 I (태연) ?"
+                }
+            ]
+        },
+        {
+            "title": "차카데미 입학생! 33/330(11연차)",
+            "date": "2026-10-27",
+            "url": "https://vod.sooplive.com/player/211001505",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261027_519CCAE8_298153695_1_r&column=2&t=1793297048",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "팬서비스",
+                    "time": "6:06:35",
+                    "artist": "mona",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 6:06:35 팬서비스 ? /*열혈송*/"
+                }
+            ]
         }
     ]
 }
