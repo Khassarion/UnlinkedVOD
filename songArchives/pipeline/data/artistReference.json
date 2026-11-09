@@ -1486,6 +1486,10 @@
         "aliases": []
     },
     {
+        "artist": "하현상",
+        "aliases": []
+    },
+    {
         "artist": "학교괴담 ost",
         "aliases": []
     },
@@ -1898,7 +1902,10 @@
     },
     {
         "artist": "Taylor Swift",
-        "aliases": []
+        "aliases": [
+            "태일러 스위프트",
+            "테일러 스위프트"
+        ]
     },
     {
         "artist": "The cardigans",

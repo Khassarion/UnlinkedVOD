@@ -885,96 +885,112 @@
             "date": "2026-03-18",
             "url": "https://vod.sooplive.com/player/190135929",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260318_B960D307_292504093_1_r&column=2&t=1773864460",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "좋아하니까",
                     "time": "01:07:46",
                     "artist": "유이카",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:07:46 | 🎤체비 - 좋아하니까 (Yuika)"
                 },
                 {
                     "title": "Love me like you do",
                     "time": "01:17:25",
                     "artist": "Ellie Goulding",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:17:25 | 🎤체비 - Love me like you do (Ellie Goulding)"
                 },
                 {
                     "title": "Mermaid",
                     "time": "01:24:47",
                     "artist": "볼빨간사춘기",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:24:47 | 🎤체비 - Mermaid (볼빨간사춘기)"
                 },
                 {
                     "title": "야경",
                     "time": "01:36:01",
                     "artist": "볼빨간사춘기",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:36:01 | 🎤체비 - 야경 (볼빨간사춘기)"
                 },
                 {
-                    "title": "Signal",
+                    "title": "SIGNAL",
                     "time": "01:41:56",
-                    "artist": "트와이스",
-                    "groupSong": false
+                    "artist": "TWICE",
+                    "groupSong": false,
+                    "rawLine": "01:41:56 | 🎤체비 - Signal (트와이스)"
                 },
                 {
                     "title": "너의 바다",
                     "time": "01:52:13",
                     "artist": "호피폴라",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "01:52:13 | 🎤체비 - 너의 바다 (호피플라)"
                 },
                 {
                     "title": "Teenage Fantasy",
                     "time": "02:03:45",
                     "artist": "Jorja Smith",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:03:45 | 🎤체비 - Teenage Fantasy (Jorja Smith)"
                 },
                 {
                     "title": "밤양갱",
                     "time": "02:10:03",
                     "artist": "비비",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "02:10:03 | 🎤체비 - 밤양갱 (비비)"
                 },
                 {
                     "title": "나야 나 공주",
                     "time": "03:12:20",
                     "artist": "핑크퐁",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "03:12:20 | 🎤체비 - 공주송"
                 },
                 {
                     "title": "Not a Dream",
                     "time": "04:02:02",
                     "artist": "송소희",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "04:02:02 | 🎤체비 - Not a Dream (송소희)"
                 },
                 {
                     "title": "난춘",
                     "time": "04:51:05",
                     "artist": "새소년",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "04:51:05 | 🎤체비 - 난춘 (새소년)"
                 },
                 {
                     "title": "소로",
                     "time": "04:55:25",
                     "artist": "심규선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "04:55:25 | 🎤체비 - 소로 (심규선)"
                 },
                 {
                     "title": "달과 6펜스",
                     "time": "05:04:08",
                     "artist": "심규선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "05:04:08 | 🎤체비 - 달과 6펜스 (심규선)"
                 },
                 {
                     "title": "멀리",
                     "time": "05:09:23",
                     "artist": "모트",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "05:09:23 | 🎤체비 - 멀리 (모트)"
                 },
                 {
                     "title": "yours",
                     "time": "06:31:05",
                     "artist": "데이먼스 이어",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "06:31:05 | 🎤체비 - yours (데이먼스 이어)"
                 }
             ]
         },
@@ -3784,6 +3800,256 @@
                     "artist": "DAZBEE",
                     "groupSong": false,
                     "rawLine": "🎤 2:28:46 | 체비 - 그것이 당신의 행복일지라도"
+                }
+            ]
+        },
+        {
+            "title": "05년생와우포에버그리고1000일(っ ̯ -｡)",
+            "date": "2026-11-07",
+            "url": "https://vod.sooplive.com/player/212028391",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_4B2F724F_298427043_3_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "등대",
+                    "time": "4:53:27",
+                    "artist": "하현상",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:53:27 | 체비 - 등대 (하현상)"
+                }
+            ]
+        },
+        {
+            "title": "급싱크룸 ",
+            "date": "2026-10-14",
+            "url": "https://vod.sooplive.com/player/209839593",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_F9F53B5D_297844957_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "달과 6펜스",
+                    "time": "2:51:12",
+                    "artist": "심규선",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:51:12 | 체비 - 달과 6펜스 (심규선)"
+                },
+                {
+                    "title": "숲",
+                    "time": "3:27:35",
+                    "artist": "최유리",
+                    "groupMembers": "스위데, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 3:27:35 | 스위데, 체비 - 숲 (최유리)"
+                },
+                {
+                    "title": "시간의 바깥",
+                    "time": "3:34:36",
+                    "artist": "아이유",
+                    "groupMembers": "스위데, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 3:34:36 | 스위데, 체비 - 시간의 바깥 (아이유)"
+                },
+                {
+                    "title": "Cruel Summer",
+                    "time": "3:42:19",
+                    "artist": "Taylor Swift",
+                    "groupMembers": "스위데, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 3:42:19 | 스위데, 체비 - Cruel Summer (테일러 스위프트)"
+                },
+                {
+                    "title": "Antifreeze",
+                    "time": "3:57:35",
+                    "artist": "백예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:57:35 | 체비 - Antifreeze (백예린)"
+                },
+                {
+                    "title": "Stargazers",
+                    "time": "4:05:34",
+                    "artist": "이세계아이돌",
+                    "groupMembers": "스위데, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 4:05:34 | 스위데, 체비 - Stargazers (이세계아이돌)"
+                },
+                {
+                    "title": "사건의 지평선",
+                    "time": "4:12:52",
+                    "artist": "윤하",
+                    "groupMembers": "스위데, 체비",
+                    "groupSong": true,
+                    "rawLine": "🎶 4:12:52 | 스위데, 체비 - 사건의 지평선 (윤하)"
+                },
+                {
+                    "title": "먹구름",
+                    "time": "4:20:15",
+                    "artist": "윤하",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:20:15 | 체비 - 먹구름 (윤하)"
+                },
+                {
+                    "title": "달빛에 그려지는",
+                    "time": "4:35:46",
+                    "artist": "미연",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:35:46 | 체비 - 달빛에 그려지는 (미연)"
+                },
+                {
+                    "title": "King",
+                    "time": "4:41:17",
+                    "artist": "Lauren Aquilina",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:41:17 | 체비 - King (Lauren Aquilina)"
+                }
+            ]
+        },
+        {
+            "title": "(,,>᎑<,,)",
+            "date": "2026-10-17",
+            "url": "https://vod.sooplive.com/player/210118861",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_80EA74CB_297919101_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "시간의 바깥",
+                    "time": "6:47:17",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:47:17  | 체비 - 시간의 바깥 (아이유)"
+                },
+                {
+                    "title": "마음짓기(Rock ver.)",
+                    "time": "6:53:21",
+                    "artist": "GUMI",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:53:21 | 체비 - 마음짓기(Rock ver.) (GUMI)"
+                }
+            ]
+        },
+        {
+            "title": " (-, – )",
+            "date": "2026-10-18",
+            "url": "https://vod.sooplive.com/player/210196939",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261018_8E286C4D_297934151_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "김철수 씨 이야기",
+                    "time": "4:12:00",
+                    "artist": "허회경",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:12:00 | 체비 - 김철수 씨 이야기 (허회경)"
+                },
+                {
+                    "title": "시간과 낙엽",
+                    "time": "4:18:24",
+                    "artist": "AKMU",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:18:24 | 체비 - 시간과 낙엽 (AKMU)"
+                }
+            ]
+        },
+        {
+            "title": "로볼록스 잼미따 (≖_≖ )",
+            "date": "2026-10-19",
+            "url": "https://vod.sooplive.com/player/210293017",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261019_BCB971B3_297966319_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "josee!",
+                    "time": "6:19:11",
+                    "artist": "데이먼스 이어",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:19:11 | 체비 - josee! (데이먼스 이어)"
+                }
+            ]
+        },
+        {
+            "title": "로볼록스 (≖_≖ )",
+            "date": "2026-10-20",
+            "url": "https://vod.sooplive.com/player/210379839",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_7351B37C_297987337_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "0310",
+                    "time": "1:51:37",
+                    "artist": "백예린",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:51:37 | 체비 - 0310 (백예린)"
+                },
+                {
+                    "title": "싸운날",
+                    "time": "2:00:09",
+                    "artist": "볼빨간사춘기",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:00:09 | 체비 - 싸운날 (볼빨간 사춘기)"
+                },
+                {
+                    "title": "Carry You",
+                    "time": "2:07:22",
+                    "artist": "Ruelle, Fleurie",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:07:22 | 체비 - Carry You (Ruelle, Fleurie)"
+                },
+                {
+                    "title": "SIGNAL",
+                    "time": "2:13:16",
+                    "artist": "TWICE",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:13:16 | 체비 - SIGNAL (TWICE)"
+                },
+                {
+                    "title": "JANE DOE",
+                    "time": "2:34:45",
+                    "artist": "요네즈 켄시, 우타다 히카루",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:34:45 | 체비 - JANE DOE (요네즈 켄시, 우타다 히카루)"
+                },
+                {
+                    "title": "우리 왜 헤어져야 해",
+                    "time": "2:42:54",
+                    "artist": "신예영",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:42:54 | 체비 - 우리 왜 헤어져야 해 (신예영)"
+                },
+                {
+                    "title": "내 생에 아름다운",
+                    "time": "2:52:29",
+                    "artist": "케이윌",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:52:29 | 체비 - 내 생에 아름다운 (케이윌)"
+                },
+                {
+                    "title": "시간의 바깥",
+                    "time": "3:16:33",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:16:33 | 체비 - 시간의 바깥 (아이유)"
+                }
+            ]
+        },
+        {
+            "title": "배그 4인큐 (,,>᎑<,,)",
+            "date": "2026-10-21",
+            "url": "https://vod.sooplive.com/player/210466569",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261021_4207452A_298012721_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "Drowning",
+                    "time": "1:54:00",
+                    "artist": "WOODZ",
+                    "groupSong": false,
+                    "rawLine": "🎤 1:54:00 | 체비 - Drowning (WOODZ)"
+                },
+                {
+                    "title": "Ref:rain",
+                    "time": "7:01:32",
+                    "artist": "Aimer",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:01:32 | 체비 - Ref:rain (Aimer)"
                 }
             ]
         }

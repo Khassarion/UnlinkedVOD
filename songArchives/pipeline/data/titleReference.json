@@ -716,6 +716,10 @@
         "aliases": []
     },
     {
+        "title": "등대",
+        "aliases": []
+    },
+    {
         "title": "땡",
         "aliases": []
     },
@@ -1782,6 +1786,10 @@
         "aliases": [
             "우르르 쾅쾅쾅"
         ]
+    },
+    {
+        "title": "우리 왜 헤어져야 해",
+        "aliases": []
     },
     {
         "title": "우리는 모두 친구",
@@ -2857,6 +2865,10 @@
         "aliases": []
     },
     {
+        "title": "josee!",
+        "aliases": []
+    },
+    {
         "title": "Juice",
         "aliases": []
     },
@@ -3267,8 +3279,10 @@
         ]
     },
     {
-        "title": "Signal",
-        "aliases": []
+        "title": "SIGNAL",
+        "aliases": [
+            "Signal"
+        ]
     },
     {
         "title": "Six Feet Under",
