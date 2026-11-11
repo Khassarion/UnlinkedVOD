@@ -3094,9 +3094,9 @@
                     "title": "생각을 멈추다 보면",
                     "time": "2:02:46",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:02:46 생각을 멈추다 보면 ?"
+                    "rawLine": "🎤 2:02:46 생각을 멈추다 보면 ○"
                 }
             ]
         },
@@ -3178,57 +3178,55 @@
                     "title": "북두칠성",
                     "time": "2:38:33",
                     "artist": "로이킴",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:38:33 북두칠성 ?"
+                    "rawLine": "🎤 2:38:33 북두칠성 ■☆"
                 },
                 {
                     "title": "소로",
-                    "time": "2:48:24",
+                    "time": "2:48:50",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:48:24 소로 ?"
+                    "rawLine": "🎤 2:48:50 소로 ○☆"
                 },
                 {
                     "title": "마음을 드려요",
-                    "time": "2:56:09",
+                    "time": "2:56:37",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:56:09 마음을 드려요 ?"
+                    "rawLine": "🎤 2:56:37 마음을 드려요 ○"
                 },
                 {
                     "title": "위로",
-                    "time": "3:03:35",
+                    "time": "3:05:01",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:03:35 위로 ?"
+                    "rawLine": "🎤 3:05:01 위로 ■"
                 },
                 {
                     "title": "그대만 있다면",
                     "time": "3:14:41",
                     "artist": "러브홀릭",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:14:41 그대만 있다면 ?"
+                    "rawLine": "🎤 3:14:41 그대만 있다면"
                 },
                 {
                     "title": "답답한 새벽",
                     "time": "3:29:15",
                     "artist": "최유리",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:29:15 답답한 새벽 ?"
+                    "rawLine": "🎤 3:29:15 답답한 새벽 ■"
                 },
                 {
                     "title": "방황하는 젊음",
                     "time": "3:38:50",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:38:50 방황하는 젊음 ?"
+                    "rawLine": "🎤 3:38:50 방황하는 젊음 ○"
                 }
             ]
         },
@@ -3300,89 +3298,87 @@
                     "title": "생각을 멈추다 보면",
                     "time": "3:20:57",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:20:57 생각을 멈추다 보면 ?"
+                    "rawLine": "🎤 3:20:57 생각을 멈추다 보면 ○☆"
                 },
                 {
                     "title": "같은 베개...",
                     "time": "3:27:33",
                     "artist": "테이",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:27:33 같은 베개... ?"
+                    "rawLine": "🎤 3:27:33 같은 베개..."
                 },
                 {
                     "title": "북두칠성",
-                    "time": "3:35:57",
+                    "time": "3:36:57",
                     "artist": "로이킴",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:35:57 북두칠성 ?"
+                    "rawLine": "🎤 3:36:57 북두칠성 ○☆"
                 },
                 {
                     "title": "Hype Boy",
                     "time": "3:43:29",
                     "artist": "뉴진스",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:43:29 Hype Boy (뉴진스) ?"
+                    "rawLine": "🎤 3:43:29 Hype Boy (뉴진스)"
                 },
                 {
                     "title": "yours",
                     "time": "3:50:01",
                     "artist": "데이먼스 이어",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:50:01 yours ?"
+                    "rawLine": "🎤 3:50:01 yours ○☆"
                 },
                 {
                     "title": "기억을 걷는 시간",
                     "time": "4:07:45",
                     "artist": "태연",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:07:45 기억을 걷는 시간 (태연) ?"
+                    "rawLine": "🎤 4:07:45 기억을 걷는 시간 (태연)"
                 },
                 {
                     "title": "한계",
                     "time": "4:14:23",
                     "artist": "백예린",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:14:23  한계 (백예린) ?"
+                    "rawLine": "🎤 4:14:23 한계 (백예린) ■☆"
                 },
                 {
                     "title": "어른",
                     "time": "4:26:25",
                     "artist": "손디아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:26:25 어른 ?"
+                    "rawLine": "🎤 4:26:25 어른"
                 },
                 {
                     "title": "What Do I Call You",
                     "time": "4:56:57",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:56:57 What Do I Call You ?"
+                    "rawLine": "🎤 4:56:57 What Do I Call You ○"
                 },
                 {
                     "title": "Black Hole",
                     "time": "5:05:35",
                     "artist": "윤하",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:05:35  Black Hole (윤하) ?"
+                    "rawLine": "🎤 5:05:35 Black Hole (윤하)"
                 },
                 {
                     "title": "입술 사이 (50cm)",
                     "time": "5:24:25",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:24:25 입술 사이\\ (50cm) (아이유) ?"
+                    "rawLine": "🎤 5:24:25 입술 사이\\ (50cm) (아이유) ○"
                 }
             ]
         }
