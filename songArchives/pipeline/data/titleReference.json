@@ -343,6 +343,10 @@
         "aliases": []
     },
     {
+        "title": "꿈꾸던 어른이 되었나요?",
+        "aliases": []
+    },
+    {
         "title": "꿈빛파티시엘",
         "aliases": []
     },
@@ -388,6 +392,10 @@
     },
     {
         "title": "나만, 봄",
+        "aliases": []
+    },
+    {
+        "title": "나비",
         "aliases": []
     },
     {
@@ -1291,6 +1299,10 @@
         "aliases": []
     },
     {
+        "title": "사월이 지나면 우리 헤어져요",
+        "aliases": []
+    },
+    {
         "title": "산책",
         "aliases": []
     },
@@ -1543,7 +1555,9 @@
     },
     {
         "title": "악마의 아이(悪魔の子)",
-        "aliases": []
+        "aliases": [
+            "악마의 아이"
+        ]
     },
     {
         "title": "안녕",
@@ -2918,6 +2932,10 @@
         "aliases": []
     },
     {
+        "title": "Last Dance",
+        "aliases": []
+    },
+    {
         "title": "Late Love",
         "aliases": []
     },
@@ -3124,6 +3142,10 @@
     },
     {
         "title": "Night And Day",
+        "aliases": []
+    },
+    {
+        "title": "NO PAIN",
         "aliases": []
     },
     {

@@ -12597,6 +12597,31 @@
                     "rawLine": "🎤 You 6:30:51 ※?"
                 }
             ]
+        },
+        {
+            "title": "소통 - VRC 닭띠 토크쇼(w. 깨박이깨박이 사과몽 영쨩 유설아 클로이) - 후열 게임(스캠위드유어프렌즈)",
+            "date": "2026-10-28",
+            "url": "https://vod.sooplive.com/player/211074157",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261028_EB5B1F7B_298174691_1_r&column=2&t=1793457223",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "장마",
+                    "time": "3:04:45",
+                    "artist": "정인",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 장마 3:04:45 ~ 3:09:01 ○ /* 후원 음성 */"
+                },
+                {
+                    "title": "눈사람",
+                    "time": "3:11:36",
+                    "artist": "정승환",
+                    "noMistake": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 눈사람 3:11:36 ~ 3:15:24 ○"
+                }
+            ]
         }
     ]
 }

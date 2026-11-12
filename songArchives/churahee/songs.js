@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-07T02:13:00.424535+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-12T09:24:46.757235+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -9509,6 +9509,19 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-28",
+        "url": "https://vod.sooplive.com/player/211074157?change_second=11496",
+        "videoTitle": "소통 - VRC 닭띠 토크쇼(w. 깨박이깨박이 사과몽 영쨩 유설아 클로이) - 후열 게임(스캠위드유어프렌즈)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261028_EB5B1F7B_298174691_1_r&column=2&t=1793457223",
+        "subscribePlusRequired": false,
+        "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -22026,6 +22039,19 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20250228_1E701DB5_281774576_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-28",
+        "url": "https://vod.sooplive.com/player/211074157?change_second=11085",
+        "videoTitle": "소통 - VRC 닭띠 토크쇼(w. 깨박이깨박이 사과몽 영쨩 유설아 클로이) - 후열 게임(스캠위드유어프렌즈)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261028_EB5B1F7B_298174691_1_r&column=2&t=1793457223",
+        "subscribePlusRequired": false,
+        "noMistake": true,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,

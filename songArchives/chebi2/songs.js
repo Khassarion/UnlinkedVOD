@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-09T13:16:12.078687+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-12T18:18:28.168963+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -133,6 +133,19 @@ const songs = [
         "videoTitle": "싱크룸 하고 잘래 (=🝦 ﻌ 🝦=)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_B89CCD0D_296824899_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-03",
+        "url": "https://vod.sooplive.com/player/211674349?change_second=23728",
+        "videoTitle": "제초 FC VS 고멤 FC",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_31551661_298324755_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -493,6 +506,25 @@ const songs = [
         "videoTitle": "[MADiSON] 낮에 공겜하는 여자",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260726_B3360AFA_295866307_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Blue",
+    "artist": "볼빨간사춘기",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=11965",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -1300,6 +1332,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=10207",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1423,6 +1468,32 @@ const songs = [
         "videoTitle": "로볼록스 (≖_≖ )",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_7351B37C_297987337_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=13743",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-03",
+        "url": "https://vod.sooplive.com/player/211674349?change_second=22035",
+        "videoTitle": "제초 FC VS 고멤 FC",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_31551661_298324755_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -1603,6 +1674,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-04",
+        "url": "https://vod.sooplive.com/player/211753799?change_second=17589",
+        "videoTitle": " (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261104_DE60766B_298347963_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1622,6 +1706,25 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "나나문, 달타, 하밍, 체비, 플리"
+      }
+    ]
+  },
+  {
+    "title": "Last Dance",
+    "artist": "오월오일",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=9000",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1812,6 +1915,25 @@ const songs = [
     ]
   },
   {
+    "title": "NO PAIN",
+    "artist": "실리카겔",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=9802",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Not a Dream",
     "artist": "송소희",
     "versions": [
@@ -1834,6 +1956,19 @@ const songs = [
         "videoTitle": "후열 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=9308",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -1929,6 +2064,25 @@ const songs = [
         "videoTitle": "노래 하고 가야대가야대",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_4CD3B49A_293021593_1_r&column=2&t=1775568225",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Rain Drop",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=11007",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -2667,6 +2821,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210928085?change_second=30856",
+        "videoTitle": "(─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_0CF25C49_298133639_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -3181,6 +3348,25 @@ const songs = [
     ]
   },
   {
+    "title": "꿈꾸던 어른이 되었나요?",
+    "artist": "머무르",
+    "versions": [
+      {
+        "date": "2026-11-08",
+        "url": "https://vod.sooplive.com/player/212115991?change_second=29055",
+        "videoTitle": "와우 알려주세요제발개빡쳐연그냥(っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261108_5051E91B_298448915_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "끝났다는 것은 다시 시작된다는 것을",
     "artist": "산나비 OST",
     "versions": [
@@ -3190,6 +3376,25 @@ const songs = [
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "나비",
+    "artist": "비비",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=11356",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -3682,6 +3887,25 @@ const songs = [
     ]
   },
   {
+    "title": "너의 의미",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=7961",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "네가 없는 밤",
     "artist": "비오(BE'O)",
     "versions": [
@@ -3710,6 +3934,19 @@ const songs = [
         "videoTitle": "[역팬 & 확정방셀] 화이트데이가 가써",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260314_5B5CE7EA_292393177_1_r&column=2&t=1773518099",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=8614",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -3987,6 +4224,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-09",
+        "url": "https://vod.sooplive.com/player/212296981?change_second=34092",
+        "videoTitle": "WOW! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261109_0A3E543C_298477547_6_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4075,6 +4325,25 @@ const songs = [
     ]
   },
   {
+    "title": "마마",
+    "artist": "김필선",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=10580",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "마음",
     "artist": "아이유",
     "versions": [
@@ -4084,6 +4353,19 @@ const songs = [
         "videoTitle": "즐찾 5천 찍고 십어요",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260407_9958F6F9_293042885_1_r&column=2&t=1775945932",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=12249",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -4109,6 +4391,19 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "체비, 모카"
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=12884",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4173,6 +4468,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-03",
+        "url": "https://vod.sooplive.com/player/211674349?change_second=22813",
+        "videoTitle": "제초 FC VS 고멤 FC",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_31551661_298324755_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4218,6 +4526,19 @@ const songs = [
         "videoTitle": "MZ",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260330_B11397DC_292826109_1_r&column=2&t=1774891710",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=7584",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -4474,6 +4795,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210928085?change_second=29949",
+        "videoTitle": "(─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_0CF25C49_298133639_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4628,6 +4962,25 @@ const songs = [
         "videoTitle": "[역팬 & 확정방셀] 분내 품멜파티",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260313_E66A0429_292366011_1_r&column=2&t=1773430946",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "반복",
+    "artist": "줍에어",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210928085?change_second=29402",
+        "videoTitle": "(─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_0CF25C49_298133639_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -4936,6 +5289,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-30",
+        "url": "https://vod.sooplive.com/player/211271425?change_second=37909",
+        "videoTitle": "할로윈 신의상 + 천타빌리지 + WOW!와우포에버 알아보기",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_3E1452F1_298222097_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -5183,6 +5549,25 @@ const songs = [
     ]
   },
   {
+    "title": "사월이 지나면 우리 헤어져요",
+    "artist": "첸",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=8253",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "살구송",
     "artist": "오유",
     "versions": [
@@ -5230,6 +5615,19 @@ const songs = [
         "videoTitle": "후열 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260830_93E152C8_296759563_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=14202",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -6098,6 +6496,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=14977",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -6111,6 +6522,19 @@ const songs = [
         "videoTitle": "체비 별별랭킹",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260516_9DEE1CA0_294064815_1_r&column=2&t=1782631408",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-03",
+        "url": "https://vod.sooplive.com/player/211674349?change_second=22402",
+        "videoTitle": "제초 FC VS 고멤 FC",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_31551661_298324755_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -6149,6 +6573,25 @@ const songs = [
         "videoTitle": "살살노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260317_F3FB24F6_292476519_1_r&column=2&t=1773864452",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+    "artist": "AKMU",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210928085?change_second=30529",
+        "videoTitle": "(─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_0CF25C49_298133639_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -6354,6 +6797,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-25",
+        "url": "https://vod.sooplive.com/player/210838935?change_second=32647",
+        "videoTitle": "(─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261025_B51581E3_298107685_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -6511,6 +6967,25 @@ const songs = [
     ]
   },
   {
+    "title": "오르트구름",
+    "artist": "윤하",
+    "versions": [
+      {
+        "date": "2026-10-26",
+        "url": "https://vod.sooplive.com/player/210928085?change_second=30233",
+        "videoTitle": "(─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_0CF25C49_298133639_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "오빠야",
     "artist": "신현희와김루트",
     "versions": [
@@ -6623,6 +7098,19 @@ const songs = [
         "videoTitle": "재밌었다",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261006_0787AFD4_297635543_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-03",
+        "url": "https://vod.sooplive.com/player/211674349?change_second=23403",
+        "videoTitle": "제초 FC VS 고멤 FC",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261103_31551661_298324755_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -6809,6 +7297,19 @@ const songs = [
         "videoTitle": "체비 별별랭킹",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260516_9DEE1CA0_294064815_1_r&column=2&t=1782631408",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=13324",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -7034,6 +7535,19 @@ const songs = [
         "videoTitle": " ASMR 하면서 소통^^",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260805_A7CE32CA_296125059_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-28",
+        "url": "https://vod.sooplive.com/player/211086921?change_second=23117",
+        "videoTitle": " (─‿‿─)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261028_14DBDD25_298176941_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -7374,6 +7888,25 @@ const songs = [
         "videoTitle": "체비",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260401_611FA449_292881249_1_r&column=2&t=1775073332",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "후라이의 꿈",
+    "artist": "AKMU",
+    "versions": [
+      {
+        "date": "2026-10-22",
+        "url": "https://vod.sooplive.com/player/210555951?change_second=12575",
+        "videoTitle": "소통 + 노래뱅 + 로볼록스 + 후열 롤 (,,>᎑<,,)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_F4D474A5_298037145_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
