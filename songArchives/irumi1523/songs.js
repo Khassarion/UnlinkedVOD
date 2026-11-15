@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-11T03:42:56.230058+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-15T20:41:52.244769+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -148,7 +148,7 @@ const songs = [
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1111,7 +1111,7 @@ const songs = [
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1763,8 +1763,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2439,14 +2439,14 @@ const songs = [
       },
       {
         "date": "2026-10-20",
-        "url": "https://vod.sooplive.com/player/210355123?change_second=1318",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=1358",
         "videoTitle": "소통 노래 / 그냥서버 졸업",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -3123,9 +3123,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -3886,9 +3886,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -3946,7 +3946,7 @@ const songs = [
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4704,7 +4704,7 @@ const songs = [
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -5067,9 +5067,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5395,7 +5395,7 @@ const songs = [
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5463,9 +5463,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5490,14 +5490,14 @@ const songs = [
       },
       {
         "date": "2026-10-20",
-        "url": "https://vod.sooplive.com/player/210355123?change_second=12265",
+        "url": "https://vod.sooplive.com/player/210355123?change_second=12320",
         "videoTitle": "소통 노래 / 그냥서버 졸업",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6026,9 +6026,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261020_BA6F8F7A_297985091_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },

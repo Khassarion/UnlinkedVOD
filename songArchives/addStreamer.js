@@ -129,6 +129,7 @@ function buildIndexHtml({ streamerId, siteTitle }) {
           <label class="chip-label" data-version-flags="on"><input type="checkbox" id="filterVersionRecommended" /> 추천</label>
           <label class="chip-label" data-version-flags="on"><input type="checkbox" id="filterVersionNeedsReview" /> 검토 필요</label>
           <label class="chip-label"><input type="checkbox" id="filterExcludeSyncroom" /> 싱크룸 제외</label>
+          <label class="chip-label"><input type="checkbox" id="filterExcludeSubscribePlus" /> 구독+ 제외</label>
         </div>
         <span>에 해당하는 것만 남기고, 그 기록이 최소</span>
         <input

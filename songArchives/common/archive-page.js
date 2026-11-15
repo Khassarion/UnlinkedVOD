@@ -15,6 +15,7 @@ function getVersionFilters() {
     recommendedOnly: document.getElementById('filterVersionRecommended')?.checked ?? false,
     needsReviewOnly: document.getElementById('filterVersionNeedsReview')?.checked ?? false,
     excludeSyncroom: document.getElementById('filterExcludeSyncroom')?.checked ?? false,
+    excludeSubscribePlus: document.getElementById('filterExcludeSubscribePlus')?.checked ?? false,
   };
 }
 
@@ -75,6 +76,7 @@ function applyRecordFilters(versions, versionFilters) {
   if (versionFilters.recommendedOnly) list = list.filter((v) => v.recommended);
   if (versionFilters.needsReviewOnly) list = list.filter((v) => v.needsReview);
   if (versionFilters.excludeSyncroom) list = list.filter((v) => !isSyncroomVersion(v));
+  if (versionFilters.excludeSubscribePlus) list = list.filter((v) => !v.subscribePlusRequired);
   return list;
 }
 
@@ -876,4 +878,5 @@ window.onload = () => {
     document.getElementById(id)?.addEventListener('change', onFilterOrSortChange);
   });
   document.getElementById('filterExcludeSyncroom')?.addEventListener('change', onSyncroomToggleChange);
+  document.getElementById('filterExcludeSubscribePlus')?.addEventListener('change', onFilterOrSortChange);
 };

@@ -12456,26 +12456,25 @@
             ]
         },
         {
-            "title": "[버블란] 조졌네 이거",
+            "title": "소통 - 그냥서버",
             "date": "2026-10-14",
             "url": "https://vod.sooplive.com/player/209829467",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_7A0F3E10_297835329_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_ED0718AF_297835329_1_r&column=2&t=1792493179",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "오늘 뭐 했는지 말해봐",
                     "time": "5:40:00",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 오늘 뭐 했는지 말해봐 5:40:00 ?"
+                    "rawLine": "🎤 오늘 뭐 했는지 말해봐 5:40:00 ■"
                 },
                 {
                     "title": "눈사람",
                     "time": "5:45:38",
                     "artist": "정승환",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 눈사람 5:45:38 ?"
+                    "rawLine": "🎤 눈사람 5:45:38 ■"
                 }
             ]
         },
@@ -12484,30 +12483,28 @@
             "date": "2026-10-22",
             "url": "https://vod.sooplive.com/player/210544413",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "이것은 아마 마지막 꽃잎",
                     "time": "1:23:32",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 1:23:32 ?"
+                    "rawLine": "🎤 이것은 아마 마지막 꽃잎 1:23:32"
                 },
                 {
                     "title": "BUMPA",
                     "time": "1:32:27",
                     "artist": "비비",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 BUMPA 1:32:27 ?"
+                    "rawLine": "🎤 BUMPA 1:32:27"
                 },
                 {
                     "title": "외톨이",
                     "time": "1:48:33",
                     "artist": "아웃사이더",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 외톨이 1:48:33 ?"
+                    "rawLine": "🎤 외톨이 1:48:33 ※"
                 },
                 {
                     "title": "만개화",
@@ -12528,49 +12525,52 @@
                     "title": "서른 즈음에",
                     "time": "5:06:36",
                     "artist": "김광석",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 서른 즈음에 (김광석) 5:06:36 ~ 5:11:01 ?"
+                    "rawLine": "🎤 서른 즈음에 (김광석) 5:06:36 ~ 5:11:01 ■☆"
                 },
                 {
                     "title": "보라빛 향기",
                     "time": "5:17:00",
                     "artist": "강수지",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 보라빛 향기 (강수지) 5:17:00 ~ 5:20:15 ?"
+                    "rawLine": "🎤 보라빛 향기 (강수지) 5:17:00 ~ 5:20:15 ○☆"
                 },
                 {
                     "title": "예감 좋은 날",
                     "time": "5:24:48",
                     "artist": "럼블피쉬",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 예감 좋은 날 (럼블피쉬) 5:24:48 ~ 5:28:15 ?"
+                    "rawLine": "🎤 예감 좋은 날 (럼블피쉬) 5:24:48 ~ 5:28:15 ■☆"
                 },
                 {
                     "title": "사랑과 우정사이",
                     "time": "5:34:11",
                     "artist": "박혜경",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 사랑과 우정사이 (박혜경) 5:34:11 ~ 5:38:16 ?"
+                    "rawLine": "🎤 사랑과 우정사이 (박혜경) 5:34:11 ~ 5:38:16 ○☆"
                 },
                 {
                     "title": "인연",
                     "time": "5:45:56",
                     "artist": "이선희",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 인연 (이선희) 5:45:56 ~ 5:50:09 ?"
+                    "rawLine": "🎤 인연 (이선희) 5:45:56 ~ 5:50:09 ○☆"
                 },
                 {
                     "title": "애인 있어요",
                     "time": "5:56:22",
                     "artist": "이은미",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 애인 있어요 (이은미) 5:56:22 ~ 6:00:15 ?"
+                    "rawLine": "🎤 애인 있어요 (이은미) 5:56:22 ~ 6:00:15 ☆"
                 },
                 {
                     "title": "다시 사랑할 수 있을까",
@@ -12584,17 +12584,15 @@
                     "title": "눈의 꽃",
                     "time": "6:20:34",
                     "artist": "박효신",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 눈의 꽃 (박효신) 6:20:34 ※?"
+                    "rawLine": "🎤 눈의 꽃 (박효신) 6:20:34 ※"
                 },
                 {
                     "title": "You",
                     "time": "6:30:51",
                     "artist": "김상민",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 You 6:30:51 ※?"
+                    "rawLine": "🎤 You 6:30:51 ※"
                 }
             ]
         },
@@ -12620,6 +12618,103 @@
                     "noMistake": true,
                     "groupSong": false,
                     "rawLine": "🎤 눈사람 3:11:36 ~ 3:15:24 ○"
+                }
+            ]
+        },
+        {
+            "title": "소통 - 그냥서버",
+            "date": "2026-10-15",
+            "url": "https://vod.sooplive.com/player/209920509",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261015_A023B586_297859965_1_r&column=2&t=1792493283",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "주옥같다",
+                    "time": "5:01:55",
+                    "artist": "고옥희",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 주옥같다 5:01:55 ☆"
+                },
+                {
+                    "title": "휘파람",
+                    "time": "5:09:22",
+                    "artist": "로이킴",
+                    "groupSong": false,
+                    "rawLine": "🎤 휘파람 (로이킴) 5:09:22"
+                },
+                {
+                    "title": "고양이",
+                    "time": "5:16:16",
+                    "artist": "선우정아",
+                    "groupSong": false,
+                    "rawLine": "🎤 고양이 5:16:16"
+                },
+                {
+                    "title": "후라이의 꿈",
+                    "time": "5:20:41",
+                    "artist": "AKMU",
+                    "groupSong": false,
+                    "rawLine": "🎤 후라이의 꿈 5:20:41"
+                },
+                {
+                    "title": "숲",
+                    "time": "7:10:17",
+                    "artist": "최유리",
+                    "noMistake": true,
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 숲 7:10:17 ~ 7:14:16 ○☆"
+                }
+            ]
+        },
+        {
+            "title": "소통 - 그냥서버 졸업",
+            "date": "2026-10-19",
+            "url": "https://vod.sooplive.com/player/210287979",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261019_91B79F98_297959225_1_r&column=2&t=1792493467",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "빌려온 고양이",
+                    "time": "5:37:18",
+                    "artist": "아일릿",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 빌려온 고양이 5:37:18 ?"
+                },
+                {
+                    "title": "봄 내음보다 너를",
+                    "time": "7:29:29",
+                    "artist": "김나영",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 봄 내음보다 너를 7:29:29 ?"
+                }
+            ]
+        },
+        {
+            "title": "소통",
+            "date": "2026-10-25",
+            "url": "https://vod.sooplive.com/player/210801791",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261025_CD5FA1F5_298105577_1_r&column=2&t=1793455750",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "기억을 걷는 시간",
+                    "time": "3:40:06",
+                    "artist": "넬",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 기억을 걷는 시간 3:40:06 ?"
+                },
+                {
+                    "title": "입춘",
+                    "time": "3:43:57",
+                    "artist": "한로로",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 입춘 3:43:57 ?"
                 }
             ]
         }

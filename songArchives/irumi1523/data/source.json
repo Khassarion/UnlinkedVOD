@@ -2679,107 +2679,101 @@
             "songInfo": [
                 {
                     "title": "마음을 드려요",
-                    "time": "21:58",
+                    "time": "22:38",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 21:58 마음을 드려요 ?"
+                    "rawLine": "🎤 22:38 마음을 드려요"
                 },
                 {
                     "title": "화장을 고치고",
                     "time": "32:06",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 32:06 화장을 고치고 (왁스) ?"
+                    "rawLine": "🎤 32:06 화장을 고치고 (왁스) ○"
                 },
                 {
                     "title": "별의 조각",
                     "time": "1:12:31",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:12:31 별의 조각 ?"
+                    "rawLine": "🎤 1:12:31 별의 조각 ○"
                 },
                 {
                     "title": "지우개",
                     "time": "1:20:42",
                     "artist": "알리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:20:42 지우개 (알리) ?"
+                    "rawLine": "🎤 1:20:42 지우개 (알리) ○"
                 },
                 {
                     "title": "응급실",
                     "time": "1:30:30",
                     "artist": "IZI",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:30:30 응급실 (izi) ?"
+                    "rawLine": "🎤 1:30:30 응급실 (izi) ○☆"
                 },
                 {
                     "title": "어른",
                     "time": "1:37:58",
                     "artist": "손디아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:37:58 어른 ?"
+                    "rawLine": "🎤 1:37:58 어른"
                 },
                 {
                     "title": "Antifreeze",
                     "time": "1:45:50",
                     "artist": "백예린",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:45:50 Antifreeze ?"
+                    "rawLine": "🎤 1:45:50 Antifreeze"
                 },
                 {
                     "title": "세월이 가면",
                     "time": "1:59:49",
                     "artist": "박보람",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:59:49 세월이 가면 ?"
+                    "rawLine": "🎤 1:59:49 세월이 가면"
                 },
                 {
                     "title": "Track 9",
                     "time": "2:50:41",
                     "artist": "이소라",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:50:41 Track 9 ?"
+                    "rawLine": "🎤 2:50:41 Track 9"
                 },
                 {
                     "title": "기다리다",
                     "time": "2:57:46",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:57:46 기다리다 (윤하) ?"
+                    "rawLine": "🎤 2:57:46 기다리다 (윤하) ☆"
                 },
                 {
                     "title": "장마",
                     "time": "3:14:33",
                     "artist": "박보람",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:14:33 장마 (박보람) ?"
+                    "rawLine": "🎤 3:14:33 장마 (박보람) ■"
                 },
                 {
                     "title": "진심이었던 사람만 바보가 돼",
-                    "time": "3:24:25",
+                    "time": "3:25:20",
                     "artist": "권진아",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:24:25 진심이었던 사람만 바보가 돼 (권진아) ?"
+                    "rawLine": "🎤 3:25:20 진심이었던 사람만 바보가 돼 (권진아)"
                 },
                 {
                     "title": "생각을 멈추다 보면",
                     "time": "3:33:04",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:33:04 생각을 멈추다 보면 ?"
+                    "rawLine": "🎤 3:33:04 생각을 멈추다 보면 ○"
                 }
             ]
         },

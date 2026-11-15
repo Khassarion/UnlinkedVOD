@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-12T09:24:46.757235+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-15T20:53:33.239550+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -760,7 +760,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6046,7 +6046,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6771,6 +6771,19 @@ const songs = [
         "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230629_F6263878_247101041_3_r",
         "subscribePlusRequired": false,
         "noMistake": true,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-15",
+        "url": "https://vod.sooplive.com/player/209920509?change_second=18976",
+        "videoTitle": "소통 - 그냥서버",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261015_A023B586_297859965_1_r&column=2&t=1792493283",
+        "subscribePlusRequired": false,
+        "noMistake": false,
         "recommended": false,
         "needsReview": false,
         "groupSong": false,
@@ -7606,6 +7619,19 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "스노, 정와, 츄라희, 헤스"
+      },
+      {
+        "date": "2026-10-25",
+        "url": "https://vod.sooplive.com/player/210801791?change_second=13206",
+        "videoTitle": "소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261025_CD5FA1F5_298105577_1_r&column=2&t=1793455750",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -9502,13 +9528,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209829467?change_second=20738",
-        "videoTitle": "[버블란] 조졌네 이거",
+        "videoTitle": "소통 - 그냥서버",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_7A0F3E10_297835329_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_ED0718AF_297835329_1_r&column=2&t=1792493179",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -9540,7 +9566,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -13296,9 +13322,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -13337,6 +13363,19 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-19",
+        "url": "https://vod.sooplive.com/player/210287979?change_second=26969",
+        "videoTitle": "소통 - 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261019_91B79F98_297959225_1_r&column=2&t=1792493467",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -14514,6 +14553,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-19",
+        "url": "https://vod.sooplive.com/player/210287979?change_second=20238",
+        "videoTitle": "소통 - 그냥서버 졸업",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261019_91B79F98_297959225_1_r&column=2&t=1792493467",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -14721,9 +14773,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -15490,8 +15542,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -16779,6 +16831,19 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260818_CF0B59B5_296451091_1_r&column=2&t=1787412259",
         "subscribePlusRequired": false,
         "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-15",
+        "url": "https://vod.sooplive.com/player/209920509?change_second=25817",
+        "videoTitle": "소통 - 그냥서버",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261015_A023B586_297859965_1_r&column=2&t=1792493283",
+        "subscribePlusRequired": false,
+        "noMistake": true,
         "recommended": true,
         "needsReview": false,
         "groupSong": false,
@@ -18115,8 +18180,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -19400,8 +19465,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -19751,13 +19816,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209829467?change_second=20400",
-        "videoTitle": "[버블란] 조졌네 이거",
+        "videoTitle": "소통 - 그냥서버",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_7A0F3E10_297835329_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_ED0718AF_297835329_1_r&column=2&t=1792493179",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -20421,7 +20486,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -21402,7 +21467,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -21697,9 +21762,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261022_4B92A8F6_298030723_1_r&column=2&t=1793455514",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -21803,6 +21868,19 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-25",
+        "url": "https://vod.sooplive.com/player/210801791?change_second=13437",
+        "videoTitle": "소통",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261025_CD5FA1F5_298105577_1_r&column=2&t=1793455750",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -22304,6 +22382,19 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-15",
+        "url": "https://vod.sooplive.com/player/209920509?change_second=18115",
+        "videoTitle": "소통 - 그냥서버",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261015_A023B586_297859965_1_r&column=2&t=1792493283",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -24969,6 +25060,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-15",
+        "url": "https://vod.sooplive.com/player/209920509?change_second=19241",
+        "videoTitle": "소통 - 그냥서버",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261015_A023B586_297859965_1_r&column=2&t=1792493283",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -25007,6 +25111,19 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "요한, 츄라희"
+      },
+      {
+        "date": "2026-10-15",
+        "url": "https://vod.sooplive.com/player/209920509?change_second=18562",
+        "videoTitle": "소통 - 그냥서버",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261015_A023B586_297859965_1_r&column=2&t=1792493283",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
