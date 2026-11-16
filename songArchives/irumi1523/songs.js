@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-15T20:41:52.244769+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-16T20:55:01.987365+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -234,6 +234,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212542211?change_second=16972",
+        "videoTitle": "가리사니 흥신소 w.희호🤍 4천개 미션!",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -270,6 +283,25 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Butterfly",
+    "artist": "러브홀릭스",
+    "versions": [
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212542211?change_second=15887",
+        "videoTitle": "가리사니 흥신소 w.희호🤍 4천개 미션!",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -686,6 +718,19 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=14629",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -843,6 +888,25 @@ const songs = [
     ]
   },
   {
+    "title": "Part of Your World",
+    "artist": "인어공주 OST",
+    "versions": [
+      {
+        "date": "2026-11-12",
+        "url": "https://vod.sooplive.com/player/212446847?change_second=3957",
+        "videoTitle": "흠",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Pretender",
     "artist": "오피셜히게단디즘",
     "versions": [
@@ -933,6 +997,25 @@ const songs = [
     ]
   },
   {
+    "title": "Reflection",
+    "artist": "뮬란 OST",
+    "versions": [
+      {
+        "date": "2026-11-12",
+        "url": "https://vod.sooplive.com/player/212446847?change_second=3791",
+        "videoTitle": "흠",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "Rose",
     "artist": "이하이",
     "versions": [
@@ -943,6 +1026,25 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "아델",
+    "versions": [
+      {
+        "date": "2026-11-12",
+        "url": "https://vod.sooplive.com/player/212446847?change_second=3504",
+        "videoTitle": "흠",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
+        "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
         "needsReview": true,
@@ -1331,6 +1433,19 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=14234",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1899,6 +2014,25 @@ const songs = [
     ]
   },
   {
+    "title": "꿈꾸던 어른이 되었나요?",
+    "artist": "머무르",
+    "versions": [
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=10916",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "끝났다는 것은 다시 시작된다는 것을",
     "artist": "산나비 OST",
     "versions": [
@@ -2245,6 +2379,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=6422",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2389,6 +2536,25 @@ const songs = [
     ]
   },
   {
+    "title": "또르르",
+    "artist": "지연",
+    "versions": [
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=7112",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "마법의 성",
     "artist": "더 클래식",
     "versions": [
@@ -2398,6 +2564,25 @@ const songs = [
         "videoTitle": "소통 노래 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "마음",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212542211?change_second=17313",
+        "videoTitle": "가리사니 흥신소 w.희호🤍 4천개 미션!",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -2633,6 +2818,19 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212542211?change_second=19725",
+        "videoTitle": "가리사니 흥신소 w.희호🤍 4천개 미션!",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2883,6 +3081,19 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=7704",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3917,6 +4128,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=8485",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4470,6 +4694,19 @@ const songs = [
         "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=13204",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4848,6 +5085,19 @@ const songs = [
         "videoTitle": "노래 조금",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=9027",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -5504,6 +5754,25 @@ const songs = [
     ]
   },
   {
+    "title": "첫 이별 그날 밤",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=12748",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "청춘만화(후이ver)",
     "artist": "이무진",
     "versions": [
@@ -5548,6 +5817,25 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": true,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "퇴사할게요",
+    "artist": "소연",
+    "versions": [
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212542211?change_second=16551",
+        "videoTitle": "가리사니 흥신소 w.희호🤍 4천개 미션!",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -6119,6 +6407,19 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=13867",
+        "videoTitle": "노래 조금 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

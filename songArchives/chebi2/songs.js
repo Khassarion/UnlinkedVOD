@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-12T18:18:28.168963+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-16T20:52:52.823781+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -1127,6 +1127,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=44451",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1687,6 +1700,32 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=1989",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=25364",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -1789,6 +1828,25 @@ const songs = [
         "videoTitle": "끄앙",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260318_B960D307_292504093_1_r&column=2&t=1773864460",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Love poem",
+    "artist": "아이유",
+    "versions": [
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=24677",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -2128,6 +2186,19 @@ const songs = [
         "videoTitle": "배그 4인큐 (,,>᎑<,,)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261021_4207452A_298012721_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=45788",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -3672,6 +3743,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=44163",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4231,6 +4315,19 @@ const songs = [
         "videoTitle": "WOW! (っ ̯ -｡)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261109_0A3E543C_298477547_6_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=26187",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -5995,6 +6092,19 @@ const songs = [
         "needsReview": false,
         "groupSong": true,
         "groupMembers": "스위데, 체비"
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=46132",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -7117,6 +7227,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=45535",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -7432,6 +7555,25 @@ const songs = [
         "videoTitle": "휴",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_D1BC4C1E_297619117_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "저녁 하늘",
+    "artist": "에일리",
+    "versions": [
+      {
+        "date": "2026-11-13",
+        "url": "https://vod.sooplive.com/player/212577361?change_second=25027",
+        "videoTitle": "와!!!! (っ ̯ -｡)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,

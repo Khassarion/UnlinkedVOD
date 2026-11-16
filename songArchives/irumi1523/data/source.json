@@ -205,32 +205,37 @@
             "date": "2026-07-31",
             "url": "https://vod.sooplive.com/player/202999485",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260731_63A402B7_295988351_1_r&column=2&t=1785508645",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "우리의 꿈",
                     "time": "2:55:02",
                     "artist": "코요태",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:55:02 우리의 꿈 ■☆"
                 },
                 {
                     "title": "Myself",
                     "time": "2:59:08",
                     "artist": "이용신",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 2:59:08 Myself ■"
                 },
                 {
                     "title": "Butterfly",
                     "time": "3:09:24",
                     "artist": "디지몬 OST",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:09:24 Butterfly (디지몬 OST) ※"
                 },
                 {
                     "title": "Every Heart",
                     "time": "3:11:35",
                     "artist": "보아",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:11:35 Every Heart (보아) ○"
                 },
                 {
                     "title": "Grow Up",
@@ -238,51 +243,59 @@
                     "artist": "학교괴담 ost",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:20:05 Grow Up (학교괴담 ost) ○☆"
                 },
                 {
                     "title": "별의 조각",
                     "time": "3:32:48",
                     "artist": "윤하",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 3:32:48 별의 조각 (윤하) ■☆"
                 },
                 {
                     "title": "Hype Boy",
                     "time": "5:12:48",
                     "artist": "뉴진스",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 5:12:48 Hype Boy (뉴진스)"
                 },
                 {
                     "title": "만찬가",
                     "time": "6:01:12",
                     "artist": "츠키",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:01:12 만찬가 ■☆"
                 },
                 {
                     "title": "말해줘",
                     "time": "6:10:15",
                     "artist": "요루시카",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:10:15 말해줘 (요루시카)"
                 },
                 {
                     "title": "괴수의 꽃노래",
                     "time": "6:17:13",
                     "artist": "Vaundy",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:17:13 괴수의 꽃노래 (바운디)"
                 },
                 {
                     "title": "DINOSAUR",
                     "time": "6:23:31",
                     "artist": "AKMU",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:23:31 DINOSAUR (AKMU)"
                 },
                 {
                     "title": "화조도",
                     "time": "6:33:12",
                     "artist": "심규선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 6:33:12 화조도 (심규선)"
                 }
             ]
         },
@@ -3373,6 +3386,183 @@
                     "noMistake": true,
                     "groupSong": false,
                     "rawLine": "🎤 5:24:25 입술 사이\\ (50cm) (아이유) ○"
+                }
+            ]
+        },
+        {
+            "title": "흠",
+            "date": "2026-11-12",
+            "url": "https://vod.sooplive.com/player/212446847",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
+            "subscribePlusRequired": true,
+            "songInfo": [
+                {
+                    "title": "Someone Like You",
+                    "time": "58:24",
+                    "artist": "아델",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 58:24 Someone Like You (아델) ?"
+                },
+                {
+                    "title": "Reflection",
+                    "time": "1:03:11",
+                    "artist": "뮬란 OST",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:03:11 Reflection (뮬란 OST) ?"
+                },
+                {
+                    "title": "Part of Your World",
+                    "time": "1:05:57",
+                    "artist": "인어공주 OST",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:05:57 Part of Your World (인어공주 OST) ?"
+                }
+            ]
+        },
+        {
+            "title": "가리사니 흥신소 w.희호🤍 4천개 미션!",
+            "date": "2026-11-13",
+            "url": "https://vod.sooplive.com/player/212542211",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "Butterfly",
+                    "time": "4:24:47",
+                    "artist": "러브홀릭스",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:24:47 Butterfly (러브홀릭스) ?"
+                },
+                {
+                    "title": "퇴사할게요",
+                    "time": "4:35:51",
+                    "artist": "소연",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:35:51 퇴사할게요 (소연)"
+                },
+                {
+                    "title": "Blueming",
+                    "time": "4:42:52",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:42:52 Blueming (아이유) ?"
+                },
+                {
+                    "title": "마음",
+                    "time": "4:48:33",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:48:33 마음 (아이유) ?"
+                },
+                {
+                    "title": "무릎",
+                    "time": "5:28:45",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 5:28:45  무릎 (아이유) ?"
+                }
+            ]
+        },
+        {
+            "title": "노래 조금 33/330(11연차)",
+            "date": "2026-11-16",
+            "url": "https://vod.sooplive.com/player/212824809",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "달과 6펜스",
+                    "time": "1:47:02",
+                    "artist": "심규선",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:47:02 달과 6펜스 (심규선) ?"
+                },
+                {
+                    "title": "또르르",
+                    "time": "1:58:32",
+                    "artist": "지연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:58:32 또르르 (지연) ?"
+                },
+                {
+                    "title": "밤, 바다",
+                    "time": "2:08:24",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:08:24 밤, 바다 (최유리) ?"
+                },
+                {
+                    "title": "생각을 멈추다 보면",
+                    "time": "2:21:25",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:21:25 생각을 멈추다 보면 ?"
+                },
+                {
+                    "title": "외로움이라는 건",
+                    "time": "2:30:27",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:30:27 외로움이라는 건 ?"
+                },
+                {
+                    "title": "꿈꾸던 어른이 되었나요?",
+                    "time": "3:01:56",
+                    "artist": "머무르",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:01:56 꿈꾸던 어른이 되었나요? (머무르) ※ /* 맛보기 */"
+                },
+                {
+                    "title": "첫 이별 그날 밤",
+                    "time": "3:32:28",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:32:28 첫 이별 그날 밤 (아이유) ?"
+                },
+                {
+                    "title": "아이와 나의 바다",
+                    "time": "3:40:04",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:40:04 아이와 나의 바다 ?"
+                },
+                {
+                    "title": "희재",
+                    "time": "3:51:07",
+                    "artist": "성시경",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:51:07 희재 (성시경) ?"
+                },
+                {
+                    "title": "yours",
+                    "time": "3:57:14",
+                    "artist": "데이먼스 이어",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 3:57:14 yours ?"
+                },
+                {
+                    "title": "Love wins all",
+                    "time": "4:03:49",
+                    "artist": "아이유",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 4:03:49 Love wins all ?"
                 }
             ]
         }

@@ -4378,6 +4378,85 @@
                     "rawLine": "🎤 9:28:12 | 체비 - 등대"
                 }
             ]
+        },
+        {
+            "title": "와!!!! (っ ̯ -｡)",
+            "date": "2026-11-13",
+            "url": "https://vod.sooplive.com/player/212577361",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_152A3034_298573971_3_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "LETTER",
+                    "time": "33:09",
+                    "artist": "유다빈밴드",
+                    "groupSong": false,
+                    "rawLine": "🎤 33:09 ~ 37:26 | 체비 - LETTER (유다빈 밴드)"
+                },
+                {
+                    "title": "Love poem",
+                    "time": "6:51:17",
+                    "artist": "아이유",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:51:17 ~ 6:55:30 | 체비 - Love poem"
+                },
+                {
+                    "title": "저녁 하늘",
+                    "time": "6:57:07",
+                    "artist": "에일리",
+                    "groupSong": false,
+                    "rawLine": "🎤 6:57:07 | 체비 - 저녁 하늘 (에일리)"
+                },
+                {
+                    "title": "LETTER",
+                    "time": "7:02:44",
+                    "artist": "유다빈밴드",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:02:44 ~ 7:06:07 | 체비 - LETTER"
+                },
+                {
+                    "title": "등대",
+                    "time": "7:16:27",
+                    "artist": "하현상",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:16:27 ~ 7:20:15 | 체비 - 등대"
+                },
+                {
+                    "title": "난춘",
+                    "time": "12:16:03",
+                    "artist": "새소년",
+                    "groupSong": false,
+                    "rawLine": "🎤 12:16:03 ~ 12:19:53 | 체비 - 난춘"
+                },
+                {
+                    "title": "GoodBoy",
+                    "time": "12:20:51",
+                    "artist": "김필선",
+                    "groupSong": false,
+                    "rawLine": "🎤 12:20:51 ~ 12:24:03 | 체비 - GoodBoy (김필선)"
+                },
+                {
+                    "title": "우주(UNIVERSE)",
+                    "time": "12:38:55",
+                    "artist": "YOUHA(유하)",
+                    "groupSong": false,
+                    "rawLine": "🎤 12:38:55 ~ 12:41:41 | 체비 - 우주(UNIVERSE)"
+                },
+                {
+                    "title": "Ref:rain",
+                    "time": "12:43:08",
+                    "artist": "Aimer",
+                    "groupSong": false,
+                    "rawLine": "🎤 12:43:08 ~ 12:47:55 | 체비 - Ref:rain"
+                },
+                {
+                    "title": "숲",
+                    "time": "12:48:52",
+                    "artist": "최유리",
+                    "groupSong": false,
+                    "rawLine": "🎤 12:48:52 ~ 12:52:36 | 체비 - 숲 (최유리)"
+                }
+            ]
         }
     ]
 }
