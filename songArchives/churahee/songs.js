@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-15T20:53:33.239550+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-17T22:44:09.089825+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -19396,6 +19396,19 @@ const songs = [
         "noMistake": true,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-10-27",
+        "url": "https://vod.sooplive.com/player/210988711?change_second=5936",
+        "videoTitle": "소통 - 각종 이상형 월드컵(w. 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261027_DC39DD89_298151373_1_r&column=2&t=1793456728",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

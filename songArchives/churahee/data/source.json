@@ -12717,6 +12717,23 @@
                     "rawLine": "🎤 입춘 3:43:57 ?"
                 }
             ]
+        },
+        {
+            "title": "소통 - 각종 이상형 월드컵(w. 요한)",
+            "date": "2026-10-27",
+            "url": "https://vod.sooplive.com/player/210988711",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261027_DC39DD89_298151373_1_r&column=2&t=1793456728",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "연의 편지",
+                    "time": "1:38:56",
+                    "artist": "이수현",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 1:38:56 ?"
+                }
+            ]
         }
     ]
 }
