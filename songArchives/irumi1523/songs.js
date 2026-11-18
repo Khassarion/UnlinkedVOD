@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-16T20:55:01.987365+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-18T00:22:05.994538+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -64,14 +64,14 @@ const songs = [
       },
       {
         "date": "2026-10-23",
-        "url": "https://vod.sooplive.com/player/210643633?change_second=16310",
+        "url": "https://vod.sooplive.com/player/210643633?change_second=16431",
         "videoTitle": "주인장혼자코노왔습니다(고막주의) 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -159,9 +159,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -263,7 +263,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -458,9 +458,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -645,7 +645,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -654,11 +654,11 @@ const songs = [
         "url": "https://vod.sooplive.com/player/211247987?change_second=20653",
         "videoTitle": "미장CK 2등했습니다🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_CB0F42FB_298222787_1_r&column=2&t=1793548491",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_CB0F42FB_298222787_1_r&column=2&t=1794130432",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -715,7 +715,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -861,8 +861,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -944,8 +944,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -971,13 +971,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=4319",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1026,9 +1026,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1116,8 +1116,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1457,14 +1457,14 @@ const songs = [
     "versions": [
       {
         "date": "2026-10-14",
-        "url": "https://vod.sooplive.com/player/209822565?change_second=1319",
-        "videoTitle": "노래 조금",
+        "url": "https://vod.sooplive.com/player/209822565?change_second=1356",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1859,8 +1859,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1988,13 +1988,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=5441",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -2090,7 +2090,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2357,7 +2357,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2732,9 +2732,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3010,13 +3010,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=5942",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3347,9 +3347,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3385,9 +3385,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3580,13 +3580,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=3428",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -3749,11 +3749,11 @@ const songs = [
         "url": "https://vod.sooplive.com/player/211247987?change_second=20128",
         "videoTitle": "미장CK 2등했습니다🤍33/330(11연차)",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_CB0F42FB_298222787_1_r&column=2&t=1793548491",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_CB0F42FB_298222787_1_r&column=2&t=1794130432",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3860,8 +3860,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3904,9 +3904,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3923,9 +3923,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4486,13 +4486,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=7729",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -4544,13 +4544,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=1811",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4690,8 +4690,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -4806,14 +4806,14 @@ const songs = [
       },
       {
         "date": "2026-10-14",
-        "url": "https://vod.sooplive.com/player/209822565?change_second=4830",
-        "videoTitle": "노래 조금",
+        "url": "https://vod.sooplive.com/player/209822565?change_second=4827",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5082,13 +5082,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=8112",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -5281,13 +5281,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=2681",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -5363,8 +5363,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5383,7 +5383,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5433,8 +5433,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5537,13 +5537,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=6669",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5971,13 +5971,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=3938",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6084,9 +6084,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6381,13 +6381,13 @@ const songs = [
       {
         "date": "2026-10-14",
         "url": "https://vod.sooplive.com/player/209822565?change_second=7099",
-        "videoTitle": "노래 조금",
+        "videoTitle": "다시보기 잘려서 노래 조금🤍 2부,,,",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

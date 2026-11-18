@@ -2452,114 +2452,117 @@
             ]
         },
         {
-            "title": "노래 조금",
+            "title": "다시보기 잘려서 노래 조금🤍 2부,,,",
             "date": "2026-10-14",
             "url": "https://vod.sooplive.com/player/209822565",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261014_722F2677_297843515_1_r&column=2&t=1792683304",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "가을 아침",
-                    "time": "21:59",
+                    "time": "22:36",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 21:59 가을 아침 ?"
+                    "rawLine": "🎤 22:36 가을 아침"
                 },
                 {
                     "title": "스물다섯, 스물하나",
                     "time": "30:11",
                     "artist": "자우림",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 30:11 스물다섯, 스물하나 ?"
+                    "rawLine": "🎤 30:11 스물다섯, 스물하나 ○☆"
                 },
                 {
                     "title": "위로",
                     "time": "44:41",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 44:41 위로 ?"
+                    "rawLine": "🎤 44:41 위로 ○☆"
                 },
                 {
                     "title": "북두칠성",
                     "time": "57:08",
                     "artist": "로이킴",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 57:08 북두칠성 ?"
+                    "rawLine": "🎤 57:08 북두칠성 ■"
                 },
                 {
                     "title": "푸른 산호초",
                     "time": "1:05:38",
                     "artist": "마츠다 세이코",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:05:38 푸른 산호초 ?"
+                    "rawLine": "🎤 1:05:38 푸른 산호초"
                 },
                 {
                     "title": "Rain Drop",
                     "time": "1:11:59",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:11:59 Rain Drop ?"
+                    "rawLine": "🎤 1:11:59 Rain Drop ■"
                 },
                 {
                     "title": "야래향",
-                    "time": "1:20:30",
+                    "time": "1:20:27",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:20:30 야래향 ?"
+                    "rawLine": "🎤 1:20:27 야래향 ○☆"
                 },
                 {
                     "title": "꽃이 피고 지듯이",
                     "time": "1:30:41",
                     "artist": "조승우",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:30:41 꽃이 피고 지듯이 ?"
+                    "rawLine": "🎤 1:30:41 꽃이 피고 지듯이 ○"
                 },
                 {
                     "title": "바람이 불어오는 곳",
                     "time": "1:39:02",
                     "artist": "김광석",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:39:02 바람이 불어오는 곳 ?"
+                    "rawLine": "🎤 1:39:02 바람이 불어오는 곳 ○☆"
                 },
                 {
                     "title": "잊어야 한다는 마음으로",
                     "time": "1:51:09",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:51:09 잊어야 한다는 마음으로 ?"
+                    "rawLine": "🎤 1:51:09 잊어야 한다는 마음으로 ○☆"
                 },
                 {
                     "title": "화조도",
                     "time": "1:58:19",
                     "artist": "심규선",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:58:19 화조도 ?"
+                    "rawLine": "🎤 1:58:19 화조도 ■"
                 },
                 {
                     "title": "숲",
                     "time": "2:08:49",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:08:49 숲 ?"
+                    "rawLine": "🎤 2:08:49 숲 ○☆"
                 },
                 {
                     "title": "외로움이라는 건",
                     "time": "2:15:12",
                     "artist": "최유리",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:15:12 외로움이라는 건 ?"
+                    "rawLine": "🎤 2:15:12 외로움이라는 건 ○☆"
                 }
             ]
         },
@@ -2818,193 +2821,192 @@
                     "title": "보라빛 향기",
                     "time": "32:39",
                     "artist": "강수지",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 32:39 보라빛 향기 (강수지) ?"
+                    "rawLine": "🎤 32:39 보라빛 향기 (강수지) ○"
                 },
                 {
                     "title": "일과 이분의 일",
                     "time": "41:04",
                     "artist": "츄",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 41:04 일과 이분의 일 ?"
+                    "rawLine": "🎤 41:04 일과 이분의 일 ■☆"
                 },
                 {
                     "title": "Gravity",
                     "time": "48:48",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 48:48 Gravity (태연) ?"
+                    "rawLine": "🎤 48:48 Gravity (태연) ○☆"
                 },
                 {
                     "title": "Pretender",
                     "time": "58:36",
                     "artist": "오피셜히게단디즘",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 58:36 Pretender ?"
+                    "rawLine": "🎤 58:36 Pretender ■☆"
                 },
                 {
                     "title": "만찬가",
                     "time": "1:08:12",
                     "artist": "츠키",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:08:12 만찬가 ?"
+                    "rawLine": "🎤 1:08:12 만찬가 ○☆"
                 },
                 {
                     "title": "Blur",
                     "time": "1:21:57",
                     "artist": "태연",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:21:57 Blur (태연) ?"
+                    "rawLine": "🎤 1:21:57 Blur (태연)"
                 },
                 {
                     "title": "별의 조각",
                     "time": "1:32:00",
                     "artist": "윤하",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:32:00 별의 조각 ?"
+                    "rawLine": "🎤 1:32:00 별의 조각 ○☆"
                 },
                 {
                     "title": "눈물참기",
                     "time": "1:58:37",
                     "artist": "QWER",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:58:37 눈물참기 (QWER) ?"
+                    "rawLine": "🎤 1:58:37 눈물참기 (QWER) ■"
                 },
                 {
                     "title": "나는 최강",
                     "time": "2:05:01",
                     "artist": "Ado",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:05:01 나는 최강 ?"
+                    "rawLine": "🎤 2:05:01 나는 최강 ■"
                 },
                 {
                     "title": "New Future",
                     "time": "2:12:26",
                     "artist": "이용신",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:12:26 New Future (이용신) ?"
+                    "rawLine": "🎤 2:12:26 New Future (이용신) ☆"
                 },
                 {
                     "title": "사랑했잖아",
                     "time": "2:22:51",
                     "artist": "린",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:22:51 사랑했잖아 (린) ?"
+                    "rawLine": "🎤 2:22:51 사랑했잖아 (린) ○"
                 },
                 {
                     "title": "Antifreeze",
                     "time": "3:48:15",
                     "artist": "백예린",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:48:15 Antifreeze ?"
+                    "rawLine": "🎤 3:48:15 Antifreeze ○"
                 },
                 {
                     "title": "이지금",
                     "time": "3:53:39",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:53:39 이지금 (아이유) ?"
+                    "rawLine": "🎤 3:53:39 이지금 (아이유) ■"
                 },
                 {
                     "title": "금요일에 만나요",
                     "time": "4:00:59",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:00:59 금요일에 만나요 (아이유) ?"
+                    "rawLine": "🎤 4:00:59 금요일에 만나요 (아이유) ■☆"
                 },
                 {
                     "title": "하루 끝",
                     "time": "4:08:02",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:08:02 하루 끝 (아이유) ?"
+                    "rawLine": "🎤 4:08:02 하루 끝 (아이유) ○☆"
                 },
                 {
                     "title": "Sweet Dreams, My Dear",
                     "time": "4:22:02",
                     "artist": "소향",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:22:02 Sweet Dreams, My Dear (소향) ?"
+                    "rawLine": "🎤 4:22:02 Sweet Dreams, My Dear (소향) ※☆"
                 },
                 {
                     "title": "Lonely Heart",
                     "time": "4:25:52",
                     "artist": "신지훈",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:25:52 Lonely Heart (신지훈) ?"
+                    "rawLine": "🎤 4:25:52 Lonely Heart (신지훈)"
                 },
                 {
                     "title": "0+0",
-                    "time": "4:31:50",
+                    "time": "4:33:51",
                     "artist": "한로로",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:31:50 0+0 ?"
+                    "rawLine": "🎤 4:33:51 0+0 ○"
                 },
                 {
                     "title": "Rose",
                     "time": "4:40:47",
                     "artist": "이하이",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:40:47 Rose (이하이) ?"
+                    "rawLine": "🎤 4:40:47 Rose (이하이) ○"
                 },
                 {
                     "title": "사랑의 방식",
                     "time": "4:46:56",
                     "artist": "보라미유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:46:56 사랑의 방식 (보라미유) ?"
+                    "rawLine": "🎤 4:46:56 사랑의 방식 (보라미유) ☆"
                 },
                 {
                     "title": "사랑하게 될 거야",
                     "time": "4:52:28",
                     "artist": "한로로",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:52:28 사랑하게 될 거야 ?"
+                    "rawLine": "🎤 4:52:28 사랑하게 될 거야 ○☆"
                 },
                 {
                     "title": "Love wins all",
                     "time": "4:59:32",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:59:32 Love wins all ?"
+                    "rawLine": "🎤 4:59:32 Love wins all"
                 },
                 {
                     "title": "이름에게",
                     "time": "5:05:30",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:05:30 이름에게 (아이유) ?"
+                    "rawLine": "🎤 5:05:30 이름에게 (아이유) ☆"
                 },
                 {
                     "title": "아이와 나의 바다",
                     "time": "5:15:52",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:15:52 아이와 나의 바다 ?"
+                    "rawLine": "🎤 5:15:52 아이와 나의 바다 ☆"
                 }
             ]
         },
@@ -3111,24 +3113,23 @@
             "title": "미장CK 2등했습니다🤍33/330(11연차)",
             "date": "2026-10-30",
             "url": "https://vod.sooplive.com/player/211247987",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_CB0F42FB_298222787_1_r&column=2&t=1793548491",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261030_CB0F42FB_298222787_1_r&column=2&t=1794130432",
             "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "비밀의 화원",
                     "time": "5:35:28",
                     "artist": "아이유",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:35:28 비밀의 화원 ?"
+                    "rawLine": "🎤 5:35:28 비밀의 화원 ■"
                 },
                 {
                     "title": "Lonely Heart",
                     "time": "5:44:13",
                     "artist": "신지훈",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:44:13 Lonely Heart ?"
+                    "rawLine": "🎤 5:44:13 Lonely Heart ☆"
                 }
             ]
         },
