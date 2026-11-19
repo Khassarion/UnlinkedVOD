@@ -121,6 +121,11 @@ function buildIndexHtml({ streamerId, siteTitle }) {
     <div class="toolbar">
       <input type="text" id="searchBar" class="search-input" placeholder="노래 검색" autocomplete="off" />
       <span class="toolbar-divider" aria-hidden="true"></span>
+      <select id="recordViewMode" class="select" aria-label="곡 목록 보기 방식">
+        <option value="grouped" selected>곡별로 묶어보기</option>
+        <option value="flat">최신 기록순으로 보기</option>
+      </select>
+      <span class="toolbar-divider" aria-hidden="true"></span>
 
       <div class="logic-sentence" aria-label="필터링 및 정렬 적용 방식">
         <span>기록 중</span>
@@ -131,7 +136,8 @@ function buildIndexHtml({ streamerId, siteTitle }) {
           <label class="chip-label"><input type="checkbox" id="filterExcludeSyncroom" /> 싱크룸 제외</label>
           <label class="chip-label"><input type="checkbox" id="filterExcludeSubscribePlus" /> 구독+ 제외</label>
         </div>
-        <span>에 해당하는 것만 남기고, 그 기록이 최소</span>
+        <span>에 해당하는 것만 남기고</span>
+        <span data-view-mode="grouped">, 그 기록이 최소</span>
         <input
           type="number"
           id="minVersionCount"
@@ -140,9 +146,10 @@ function buildIndexHtml({ streamerId, siteTitle }) {
           step="1"
           value="1"
           aria-label="최소 버전 수"
+          data-view-mode="grouped"
         />
-        <span>개 있는 곡을</span>
-        <select id="listSort" class="select" aria-label="곡 정렬 옵션">
+        <span data-view-mode="grouped">개 있는 곡을</span>
+        <select id="listSort" class="select" aria-label="곡 정렬 옵션" data-view-mode="grouped">
           <option value="title">가나다순</option>
           <option value="dateDesc">최신 방송순</option>
           <option value="dateAsc">오래된 방송순</option>
@@ -152,7 +159,7 @@ function buildIndexHtml({ streamerId, siteTitle }) {
           <option value="noMistakeCountDesc" data-version-flags="on">클립 방지 적은 순</option>
           <option value="noMistakeCountAsc" data-version-flags="on">클립 방지 많은 순</option>
         </select>
-        <span>으로 정렬합니다.</span>
+        <span data-view-mode="grouped">으로 정렬합니다.</span>
         <span class="logic-sep" aria-hidden="true">|</span>
         <span>남은 기록은</span>
         <select id="versionSort" class="select" aria-label="버전 정렬 옵션">

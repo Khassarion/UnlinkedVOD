@@ -667,6 +667,10 @@ body {
   display: none !important;
 }
 
+[data-view-mode][hidden] {
+  display: none !important;
+}
+
 .logic-checkbox-group:focus-within {
   border-color: var(--accent);
 }
@@ -1297,6 +1301,40 @@ a.vod-cal-day:focus-visible {
   color: var(--text);
 }
 
+/* "최신 기록순으로 보기" — 곡으로 묶지 않고 기록 하나당 카드 하나를, 줄바꿈되는 격자로 나열 */
+.record-flat-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.record-flat-grid .version-card {
+  width: 180px;
+}
+
+.version-card-song {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.version-card-song-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.version-card-song-artist {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 @media (max-width: 900px) {
   .page-layout {
     flex-direction: column;
@@ -1338,5 +1376,8 @@ a.vod-cal-day:focus-visible {
   }
   .version-card {
     width: 140px;
+  }
+  .record-flat-grid .version-card {
+    width: 150px;
   }
 }

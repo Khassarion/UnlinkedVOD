@@ -8,6 +8,23 @@ function getVersionSort() {
   return (el && el.value) || 'dateDesc';
 }
 
+/** 'grouped'(곡별로 묶어보기, 기본) | 'flat'(묶지 않고 기록 하나씩 최신순으로) */
+function getRecordViewMode() {
+  const el = document.getElementById('recordViewMode');
+  return (el && el.value) || 'grouped';
+}
+
+/** 보기 방식에 따라 곡 단위 전용 UI(최소 기록 수, 곡 정렬)를 숨기거나 보여줌 */
+function updateRecordViewModeUi() {
+  const mode = getRecordViewMode();
+  document.querySelectorAll('[data-view-mode="grouped"]').forEach((el) => {
+    el.hidden = mode !== 'grouped';
+  });
+  document.querySelectorAll('[data-view-mode="flat"]').forEach((el) => {
+    el.hidden = mode !== 'flat';
+  });
+}
+
 /** 1-1 기록 필터 체크박스 상태(복수 선택 시 AND로 적용) */
 function getVersionFilters() {
   return {
@@ -130,6 +147,7 @@ function loadSongs(searchTerm = '') {
   const versionSort = getVersionSort();
   const minVersionCount = getMinVersionCount();
   const listSort = getListSort();
+  const viewMode = getRecordViewMode();
 
   const q = (searchTerm || '').toLowerCase();
   let list = songs
@@ -143,70 +161,88 @@ function loadSongs(searchTerm = '') {
       song,
       // 1-1) 기록 필터링: 체크된 조건을 AND로 적용
       versions: applyRecordFilters(song.versions || [], versionFilters),
-    }))
+    }));
+
+  if (viewMode === 'flat') {
+    // 곡으로 묶지 않고 필터링된 기록을 전부 풀어서 최신순(또는 오래된순)으로 한 줄씩 나열
+    const flatItems = list.flatMap(({ song, versions }) =>
+      versions.map((version) => ({ song, version }))
+    );
+    flatItems.sort((a, b) =>
+      versionSort === 'dateAsc'
+        ? parseVodDate(a.version.date) - parseVodDate(b.version.date)
+        : parseVodDate(b.version.date) - parseVodDate(a.version.date)
+    );
+    container.innerHTML = '';
+    pendingRenderMode = 'flat';
+    pendingRenderItems = flatItems;
+  } else {
     // 1-3) 노래 필터링: 필터링된 기록이 최소 개수 이상인 곡만
-    .filter(({ versions }) => versions.length >= minVersionCount);
+    list = list.filter(({ versions }) => versions.length >= minVersionCount);
 
-  // 2) 노래 정렬: 필터링된 기록 기준으로 곡 순서를 정함
-  if (listSort === 'title') {
-    list.sort((a, b) => {
-      const c = (a.song.title || '').localeCompare(b.song.title || '', 'ko');
-      if (c !== 0) return c;
-      return (a.song.artist || '').localeCompare(b.song.artist || '', 'ko');
-    });
-  } else if (listSort === 'dateDesc') {
-    list.sort((a, b) => maxDateFromVersions(b.versions) - maxDateFromVersions(a.versions));
-  } else if (listSort === 'dateAsc') {
-    list.sort((a, b) => minDateFromVersions(a.versions) - minDateFromVersions(b.versions));
-  } else if (listSort === 'versionCountDesc') {
-    list.sort((a, b) => b.versions.length - a.versions.length);
-  } else if (listSort === 'noMistakeRatioDesc') {
-    list.sort(
-      (a, b) =>
-        noMistakeRatio(b.versions) - noMistakeRatio(a.versions) ||
-        b.versions.length - a.versions.length
-    );
-  } else if (listSort === 'noMistakeRatioAsc') {
-    list.sort(
-      (a, b) =>
-        noMistakeRatio(a.versions) - noMistakeRatio(b.versions) ||
-        a.versions.length - b.versions.length
-    );
-  } else if (listSort === 'noMistakeCountDesc') {
-    list.sort(
-      (a, b) =>
-        noMistakeCount(b.versions) - noMistakeCount(a.versions) ||
-        b.versions.length - a.versions.length
-    );
-  } else if (listSort === 'noMistakeCountAsc') {
-    list.sort(
-      (a, b) =>
-        noMistakeCount(a.versions) - noMistakeCount(b.versions) ||
-        a.versions.length - b.versions.length
-    );
+    // 2) 노래 정렬: 필터링된 기록 기준으로 곡 순서를 정함
+    if (listSort === 'title') {
+      list.sort((a, b) => {
+        const c = (a.song.title || '').localeCompare(b.song.title || '', 'ko');
+        if (c !== 0) return c;
+        return (a.song.artist || '').localeCompare(b.song.artist || '', 'ko');
+      });
+    } else if (listSort === 'dateDesc') {
+      list.sort((a, b) => maxDateFromVersions(b.versions) - maxDateFromVersions(a.versions));
+    } else if (listSort === 'dateAsc') {
+      list.sort((a, b) => minDateFromVersions(a.versions) - minDateFromVersions(b.versions));
+    } else if (listSort === 'versionCountDesc') {
+      list.sort((a, b) => b.versions.length - a.versions.length);
+    } else if (listSort === 'noMistakeRatioDesc') {
+      list.sort(
+        (a, b) =>
+          noMistakeRatio(b.versions) - noMistakeRatio(a.versions) ||
+          b.versions.length - a.versions.length
+      );
+    } else if (listSort === 'noMistakeRatioAsc') {
+      list.sort(
+        (a, b) =>
+          noMistakeRatio(a.versions) - noMistakeRatio(b.versions) ||
+          a.versions.length - b.versions.length
+      );
+    } else if (listSort === 'noMistakeCountDesc') {
+      list.sort(
+        (a, b) =>
+          noMistakeCount(b.versions) - noMistakeCount(a.versions) ||
+          b.versions.length - a.versions.length
+      );
+    } else if (listSort === 'noMistakeCountAsc') {
+      list.sort(
+        (a, b) =>
+          noMistakeCount(a.versions) - noMistakeCount(b.versions) ||
+          a.versions.length - b.versions.length
+      );
+    }
+
+    container.innerHTML = '';
+    pendingRenderMode = 'grouped';
+    pendingRenderItems = list;
   }
-
-  container.innerHTML = '';
 
   // 기록이 많은 스트리머는 한 번에 수백~수천 개의 DOM을 만들면 로드가 느려지므로,
   // 전체를 한꺼번에 그리지 않고 스크롤이 바닥에 가까워질 때마다 다음 묶음만 그려넣는다.
   // (이미 그려진 건 다시 지우지 않음 — 위로 스크롤해도 그대로 유지)
-  pendingSongBatches = list;
   pendingVersionSort = versionSort;
-  renderedSongCount = 0;
-  renderNextSongBatch();
+  renderedItemCount = 0;
+  renderNextRenderBatch();
   // 첫 묶음만으로 화면이 안 채워지면(초고해상도·축소보기 등) 스크롤이 생기지 않아 다음 묶음을
   // 영영 못 불러올 수 있으므로, 화면이 다 찰 때까지(또는 다 그릴 때까지) 몇 묶음 더 그려둔다.
-  while (renderedSongCount < pendingSongBatches.length && document.body.offsetHeight <= window.innerHeight) {
-    renderNextSongBatch();
+  while (renderedItemCount < pendingRenderItems.length && document.body.offsetHeight <= window.innerHeight) {
+    renderNextRenderBatch();
   }
 }
 
 /** 한 번에 그릴 묶음 크기 — 대략 "2~3 화면 분량" 정도로 잡음 */
-const SONG_BATCH_SIZE = 24;
-let pendingSongBatches = [];
+const RENDER_BATCH_SIZE = 24;
+let pendingRenderItems = [];
+let pendingRenderMode = 'grouped';
 let pendingVersionSort = 'dateDesc';
-let renderedSongCount = 0;
+let renderedItemCount = 0;
 
 function buildSongRowElement(song, versions, versionSort) {
   // 3) 노래 안의 기록 정렬
@@ -264,26 +300,74 @@ function buildSongRowElement(song, versions, versionSort) {
   return row;
 }
 
-/** pendingSongBatches 중 아직 안 그린 다음 묶음만 그려서 container에 덧붙임 */
-function renderNextSongBatch() {
+/** "최신 기록순으로 보기" 모드: 곡 제목/가수까지 포함한 기록 카드 하나 */
+function buildRecordCardElement(song, version) {
+  const icons = versionIconsHtml(version);
+  const syncroomBadge = syncroomBadgeHtml(version);
+  const subPlusBadge = subscribePlusBadgeHtml(version);
+  const card = document.createElement('a');
+  card.href = version.url;
+  card.target = '_blank';
+  card.rel = 'noopener noreferrer';
+  card.className = 'version-card';
+  card.innerHTML = `
+    <span class="version-card-thumb">
+      <img src="${escapeHtml(version.thumbnail)}" alt="" loading="lazy" />
+      ${subPlusBadge}
+    </span>
+    <span class="version-card-info">
+      <span class="version-card-song">
+        <span class="version-card-song-title">${escapeHtml(song.title)}</span>
+        ${song.artist ? `<span class="version-card-song-artist">${escapeHtml(song.artist)}</span>` : ''}
+      </span>
+      <span class="version-card-meta">
+        <span class="version-card-date">${escapeHtml(version.date)}</span>
+        ${syncroomBadge ? `<span class="version-card-badges">${syncroomBadge}</span>` : ''}
+        ${icons ? `<span class="version-card-icons">${icons}</span>` : ''}
+      </span>
+      <span class="version-card-title">${escapeHtml(version.videoTitle || '')}</span>
+    </span>
+  `;
+  return card;
+}
+
+/** pendingRenderItems 중 아직 안 그린 다음 묶음만 그려서 container에 덧붙임 */
+function renderNextRenderBatch() {
   const container = document.getElementById('songList');
   if (!container) return;
-  if (renderedSongCount >= pendingSongBatches.length) return;
+  if (renderedItemCount >= pendingRenderItems.length) return;
 
-  const nextChunk = pendingSongBatches.slice(renderedSongCount, renderedSongCount + SONG_BATCH_SIZE);
-  const frag = document.createDocumentFragment();
-  nextChunk.forEach(({ song, versions }) => {
-    frag.appendChild(buildSongRowElement(song, versions, pendingVersionSort));
-  });
-  container.appendChild(frag);
-  renderedSongCount += nextChunk.length;
+  const nextChunk = pendingRenderItems.slice(renderedItemCount, renderedItemCount + RENDER_BATCH_SIZE);
+
+  if (pendingRenderMode === 'flat') {
+    // 곡별 행이 아니라 줄바꿈되는 카드 격자 하나에 전부 이어붙임
+    let grid = container.querySelector('.record-flat-grid');
+    if (!grid) {
+      grid = document.createElement('div');
+      grid.className = 'record-flat-grid';
+      container.appendChild(grid);
+    }
+    const frag = document.createDocumentFragment();
+    nextChunk.forEach(({ song, version }) => {
+      frag.appendChild(buildRecordCardElement(song, version));
+    });
+    grid.appendChild(frag);
+  } else {
+    const frag = document.createDocumentFragment();
+    nextChunk.forEach(({ song, versions }) => {
+      frag.appendChild(buildSongRowElement(song, versions, pendingVersionSort));
+    });
+    container.appendChild(frag);
+  }
+
+  renderedItemCount += nextChunk.length;
 }
 
 /** 스크롤이 바닥 근처(600px 전)에 닿으면 다음 묶음을 그림. 더 그릴 게 없으면 아무 일도 안 함 */
 function maybeRenderMoreOnScroll() {
-  if (renderedSongCount >= pendingSongBatches.length) return;
+  if (renderedItemCount >= pendingRenderItems.length) return;
   const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 600;
-  if (scrolledToBottom) renderNextSongBatch();
+  if (scrolledToBottom) renderNextRenderBatch();
 }
 
 /** scroll 이벤트가 너무 자주 발생하지 않도록 requestAnimationFrame으로 한 프레임에 한 번만 체크 */
@@ -313,6 +397,7 @@ function searchSongs() {
 }
 
 function onFilterOrSortChange() {
+  updateRecordViewModeUi();
   loadSongs(document.getElementById('searchBar')?.value ?? '');
 }
 
@@ -917,15 +1002,18 @@ function setupVersionFlagsUi() {
 
 applySongArchivePageConfig();
 setupVersionFlagsUi();
+updateRecordViewModeUi();
 setupArchiveNav();
 
 window.onload = () => {
   setupVersionFlagsUi();
+  updateRecordViewModeUi();
   renderDataLastUpdated();
   loadSongs();
   setupInfiniteScroll();
   setupVodPanel();
   document.getElementById('searchBar')?.addEventListener('input', debounce(searchSongs, 150));
+  document.getElementById('recordViewMode')?.addEventListener('change', onFilterOrSortChange);
   document.getElementById('listSort')?.addEventListener('change', onFilterOrSortChange);
   document.getElementById('versionSort')?.addEventListener('change', onFilterOrSortChange);
   document.getElementById('minVersionCount')?.addEventListener('input', onFilterOrSortChange);
