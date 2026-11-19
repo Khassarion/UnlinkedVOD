@@ -188,60 +188,114 @@ function loadSongs(searchTerm = '') {
 
   container.innerHTML = '';
 
-  list.forEach(({ song, versions }) => {
-    // 3) 노래 안의 기록 정렬
-    const versionsSorted = sortVersionsByVersionSort(versions, versionSort);
+  // 기록이 많은 스트리머는 한 번에 수백~수천 개의 DOM을 만들면 로드가 느려지므로,
+  // 전체를 한꺼번에 그리지 않고 스크롤이 바닥에 가까워질 때마다 다음 묶음만 그려넣는다.
+  // (이미 그려진 건 다시 지우지 않음 — 위로 스크롤해도 그대로 유지)
+  pendingSongBatches = list;
+  pendingVersionSort = versionSort;
+  renderedSongCount = 0;
+  renderNextSongBatch();
+  // 첫 묶음만으로 화면이 안 채워지면(초고해상도·축소보기 등) 스크롤이 생기지 않아 다음 묶음을
+  // 영영 못 불러올 수 있으므로, 화면이 다 찰 때까지(또는 다 그릴 때까지) 몇 묶음 더 그려둔다.
+  while (renderedSongCount < pendingSongBatches.length && document.body.offsetHeight <= window.innerHeight) {
+    renderNextSongBatch();
+  }
+}
 
-    const row = document.createElement('section');
-    row.className = 'song-row';
+/** 한 번에 그릴 묶음 크기 — 대략 "2~3 화면 분량" 정도로 잡음 */
+const SONG_BATCH_SIZE = 24;
+let pendingSongBatches = [];
+let pendingVersionSort = 'dateDesc';
+let renderedSongCount = 0;
 
-    const heading = document.createElement('div');
-    heading.className = 'song-row-heading';
+function buildSongRowElement(song, versions, versionSort) {
+  // 3) 노래 안의 기록 정렬
+  const versionsSorted = sortVersionsByVersionSort(versions, versionSort);
 
-    const titleEl = document.createElement('h2');
-    titleEl.className = 'song-row-title';
-    titleEl.textContent = song.title;
-    heading.appendChild(titleEl);
+  const row = document.createElement('section');
+  row.className = 'song-row';
 
-    if (song.artist) {
-      const artistEl = document.createElement('span');
-      artistEl.className = 'song-row-artist';
-      artistEl.textContent = song.artist;
-      heading.appendChild(artistEl);
-    }
+  const heading = document.createElement('div');
+  heading.className = 'song-row-heading';
 
-    const strip = document.createElement('div');
-    strip.className = 'version-strip';
+  const titleEl = document.createElement('h2');
+  titleEl.className = 'song-row-title';
+  titleEl.textContent = song.title;
+  heading.appendChild(titleEl);
 
-    versionsSorted.forEach((v) => {
-      const icons = versionIconsHtml(v);
-      const syncroomBadge = syncroomBadgeHtml(v);
-      const subPlusBadge = subscribePlusBadgeHtml(v);
-      const card = document.createElement('a');
-      card.href = v.url;
-      card.target = '_blank';
-      card.rel = 'noopener noreferrer';
-      card.className = 'version-card';
-      card.innerHTML = `
-        <span class="version-card-thumb">
-          <img src="${escapeHtml(v.thumbnail)}" alt="" loading="lazy" />
-          ${subPlusBadge}
+  if (song.artist) {
+    const artistEl = document.createElement('span');
+    artistEl.className = 'song-row-artist';
+    artistEl.textContent = song.artist;
+    heading.appendChild(artistEl);
+  }
+
+  const strip = document.createElement('div');
+  strip.className = 'version-strip';
+
+  versionsSorted.forEach((v) => {
+    const icons = versionIconsHtml(v);
+    const syncroomBadge = syncroomBadgeHtml(v);
+    const subPlusBadge = subscribePlusBadgeHtml(v);
+    const card = document.createElement('a');
+    card.href = v.url;
+    card.target = '_blank';
+    card.rel = 'noopener noreferrer';
+    card.className = 'version-card';
+    card.innerHTML = `
+      <span class="version-card-thumb">
+        <img src="${escapeHtml(v.thumbnail)}" alt="" loading="lazy" />
+        ${subPlusBadge}
+      </span>
+      <span class="version-card-info">
+        <span class="version-card-meta">
+          <span class="version-card-date">${escapeHtml(v.date)}</span>
+          ${syncroomBadge ? `<span class="version-card-badges">${syncroomBadge}</span>` : ''}
+          ${icons ? `<span class="version-card-icons">${icons}</span>` : ''}
         </span>
-        <span class="version-card-info">
-          <span class="version-card-meta">
-            <span class="version-card-date">${escapeHtml(v.date)}</span>
-            ${syncroomBadge ? `<span class="version-card-badges">${syncroomBadge}</span>` : ''}
-            ${icons ? `<span class="version-card-icons">${icons}</span>` : ''}
-          </span>
-          <span class="version-card-title">${escapeHtml(v.videoTitle || '')}</span>
-        </span>
-      `;
-      strip.appendChild(card);
+        <span class="version-card-title">${escapeHtml(v.videoTitle || '')}</span>
+      </span>
+    `;
+    strip.appendChild(card);
+  });
+
+  row.appendChild(heading);
+  row.appendChild(strip);
+  return row;
+}
+
+/** pendingSongBatches 중 아직 안 그린 다음 묶음만 그려서 container에 덧붙임 */
+function renderNextSongBatch() {
+  const container = document.getElementById('songList');
+  if (!container) return;
+  if (renderedSongCount >= pendingSongBatches.length) return;
+
+  const nextChunk = pendingSongBatches.slice(renderedSongCount, renderedSongCount + SONG_BATCH_SIZE);
+  const frag = document.createDocumentFragment();
+  nextChunk.forEach(({ song, versions }) => {
+    frag.appendChild(buildSongRowElement(song, versions, pendingVersionSort));
+  });
+  container.appendChild(frag);
+  renderedSongCount += nextChunk.length;
+}
+
+/** 스크롤이 바닥 근처(600px 전)에 닿으면 다음 묶음을 그림. 더 그릴 게 없으면 아무 일도 안 함 */
+function maybeRenderMoreOnScroll() {
+  if (renderedSongCount >= pendingSongBatches.length) return;
+  const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 600;
+  if (scrolledToBottom) renderNextSongBatch();
+}
+
+/** scroll 이벤트가 너무 자주 발생하지 않도록 requestAnimationFrame으로 한 프레임에 한 번만 체크 */
+function setupInfiniteScroll() {
+  let ticking = false;
+  window.addEventListener('scroll', () => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(() => {
+      maybeRenderMoreOnScroll();
+      ticking = false;
     });
-
-    row.appendChild(heading);
-    row.appendChild(strip);
-    container.appendChild(row);
   });
 }
 
@@ -869,6 +923,7 @@ window.onload = () => {
   setupVersionFlagsUi();
   renderDataLastUpdated();
   loadSongs();
+  setupInfiniteScroll();
   setupVodPanel();
   document.getElementById('searchBar')?.addEventListener('input', debounce(searchSongs, 150));
   document.getElementById('listSort')?.addEventListener('change', onFilterOrSortChange);
