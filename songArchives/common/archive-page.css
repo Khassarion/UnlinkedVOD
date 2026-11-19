@@ -1301,7 +1301,7 @@ a.vod-cal-day:focus-visible {
   color: var(--text);
 }
 
-/* "최신 기록순으로 보기" — 곡으로 묶지 않고 기록 하나당 카드 하나를, 줄바꿈되는 격자로 나열 */
+/* "펼쳐보기" — 곡으로 묶지 않고 기록 하나당 카드 하나를, 줄바꿈되는 격자로 나열 */
 .record-flat-grid {
   display: flex;
   flex-wrap: wrap;

@@ -8,7 +8,7 @@ function getVersionSort() {
   return (el && el.value) || 'dateDesc';
 }
 
-/** 'grouped'(곡별로 묶어보기, 기본) | 'flat'(묶지 않고 기록 하나씩 최신순으로) */
+/** 'grouped'(곡별로 묶어보기, 기본) | 'flat'(펼쳐보기 — 묶지 않고 기록 하나씩) */
 function getRecordViewMode() {
   const el = document.getElementById('recordViewMode');
   return (el && el.value) || 'grouped';
@@ -230,11 +230,23 @@ function loadSongs(searchTerm = '') {
   pendingVersionSort = versionSort;
   renderedItemCount = 0;
   renderNextRenderBatch();
-  // 첫 묶음만으로 화면이 안 채워지면(초고해상도·축소보기 등) 스크롤이 생기지 않아 다음 묶음을
-  // 영영 못 불러올 수 있으므로, 화면이 다 찰 때까지(또는 다 그릴 때까지) 몇 묶음 더 그려둔다.
-  while (renderedItemCount < pendingRenderItems.length && document.body.offsetHeight <= window.innerHeight) {
-    renderNextRenderBatch();
-  }
+  // 첫 묶음만으로 화면이 안 채워지면(초고해상도·축소보기, 펼쳐보기처럼 카드가 여러 열로 배치되는
+  // 경우 등) 스크롤 자체가 생기지 않아 다음 묶음을 영영 못 불러올 수 있으므로, 실제로 스크롤이
+  // 생길 때까지(또는 다 그릴 때까지) 계속 더 그려준다.
+  fillViewportIfNeeded();
+}
+
+/**
+ * 방금 그린 묶음만으로는 화면 한 칸을 못 채워서 스크롤이 생기지 않는 경우를 대비한 보정.
+ * 한 번에 다 확인하지 않고 프레임마다 다시 재는 이유: 그려진 직후 바로 측정하면 폰트
+ * 교체 등으로 레이아웃이 아직 자리잡기 전일 수 있어, 프레임을 하나씩 쉬며 다시 재는 쪽이
+ * 더 안정적으로 "진짜로 다 채워졌는지"를 판단한다.
+ */
+function fillViewportIfNeeded() {
+  if (renderedItemCount >= pendingRenderItems.length) return;
+  if (document.body.offsetHeight > window.innerHeight) return;
+  renderNextRenderBatch();
+  requestAnimationFrame(fillViewportIfNeeded);
 }
 
 /** 한 번에 그릴 묶음 크기 — 대략 "2~3 화면 분량" 정도로 잡음 */
@@ -300,7 +312,7 @@ function buildSongRowElement(song, versions, versionSort) {
   return row;
 }
 
-/** "최신 기록순으로 보기" 모드: 곡 제목/가수까지 포함한 기록 카드 하나 */
+/** "펼쳐보기" 모드: 곡 제목/가수까지 포함한 기록 카드 하나 */
 function buildRecordCardElement(song, version) {
   const icons = versionIconsHtml(version);
   const syncroomBadge = syncroomBadgeHtml(version);
@@ -1012,6 +1024,11 @@ window.onload = () => {
   loadSongs();
   setupInfiniteScroll();
   setupVodPanel();
+  // 웹폰트가 나중에 교체되면서(FOUT) 카드 높이가 바뀌어 처음엔 화면이 다 찬 것처럼 보였다가
+  // 실제로는 스크롤이 생기지 않는 경우가 있으므로, 폰트 로딩이 끝난 뒤 한 번 더 채움 여부를 확인
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(fillViewportIfNeeded).catch(() => {});
+  }
   document.getElementById('searchBar')?.addEventListener('input', debounce(searchSongs, 150));
   document.getElementById('recordViewMode')?.addEventListener('change', onFilterOrSortChange);
   document.getElementById('listSort')?.addEventListener('change', onFilterOrSortChange);
