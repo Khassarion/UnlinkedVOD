@@ -11598,38 +11598,41 @@
             "date": "2023-07-05",
             "url": "https://vod.sooplive.com/player/104306937",
             "thumbnail": "https://videoimg.afreecatv.com/php/SnapshotLoad.php?rowKey=20230705_48E4DB94_247190383_2_r",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "꼭두각시 피에로",
                     "time": "2:14:27",
                     "artist": "하츠네 미쿠",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 꼭두각시 피에로 (하츠네 미쿠) 2:14:27 ?"
+                    "rawLine": "🎤 꼭두각시 피에로 (하츠네 미쿠) 2:14:27 ○"
                 },
                 {
                     "title": "Lonely Night",
                     "time": "2:21:15",
                     "artist": "권진아",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Lonely Night 2:21:15 ?"
+                    "rawLine": "🎤 Lonely Night 2:21:15 ○☆"
                 },
                 {
                     "title": "Kitsch",
                     "time": "2:27:32",
                     "artist": "IVE",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Kitsch (IVE) 2:27:32 ?"
+                    "rawLine": "🎤 Kitsch (IVE) 2:27:32 ☆"
                 },
                 {
                     "title": "신호등",
                     "time": "2:35:38",
                     "artist": "이무진",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 신호등 (이무진) 2:35:38 ?"
+                    "rawLine": "🎤 신호등 (이무진) 2:35:38 ○☆"
                 },
                 {
                     "title": "부엉이",
@@ -11691,17 +11694,17 @@
                     "title": "Faded",
                     "time": "3:18:22",
                     "artist": "Alan Walker",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 Faded (Alan Walker) 3:18:22 ?"
+                    "rawLine": "🎤 Faded (Alan Walker) 3:18:22 ※"
                 },
                 {
                     "title": "A Thousand Years",
                     "time": "3:21:19",
                     "artist": "Christina Perri",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 A Thousand Years 3:21:19 ?"
+                    "rawLine": "🎤 A Thousand Years 3:21:19 ○☆"
                 },
                 {
                     "title": "Speechless",
@@ -11715,9 +11718,10 @@
                     "title": "사랑은 은하수 다방에서",
                     "time": "3:39:15",
                     "artist": "10CM",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 사랑은 은하수 다방에서 3:39:15 ?"
+                    "rawLine": "🎤 사랑은 은하수 다방에서 3:39:15 ○☆"
                 },
                 {
                     "title": "Pet",
@@ -11739,9 +11743,9 @@
                     "title": "나의 사춘기에게",
                     "time": "3:56:03",
                     "artist": "볼빨간사춘기",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 나의 사춘기에게 3:56:03 ?"
+                    "rawLine": "🎤 나의 사춘기에게 3:56:03 ○"
                 },
                 {
                     "title": "여봉봉",
@@ -12723,17 +12727,16 @@
                     "title": "빌려온 고양이",
                     "time": "5:37:18",
                     "artist": "아일릿",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 빌려온 고양이 5:37:18 ?"
+                    "rawLine": "🎤 빌려온 고양이 5:37:18 ※"
                 },
                 {
                     "title": "봄 내음보다 너를",
                     "time": "7:29:29",
                     "artist": "김나영",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 봄 내음보다 너를 7:29:29 ?"
+                    "rawLine": "🎤 봄 내음보다 너를 7:29:29 ○"
                 }
             ]
         },
@@ -12748,17 +12751,15 @@
                     "title": "기억을 걷는 시간",
                     "time": "3:40:06",
                     "artist": "넬",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 기억을 걷는 시간 3:40:06 ?"
+                    "rawLine": "🎤 기억을 걷는 시간 3:40:06"
                 },
                 {
                     "title": "입춘",
                     "time": "3:43:57",
                     "artist": "한로로",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 입춘 3:43:57 ?"
+                    "rawLine": "🎤 입춘 3:43:57"
                 }
             ]
         },
@@ -12773,9 +12774,8 @@
                     "title": "연의 편지",
                     "time": "1:38:56",
                     "artist": "이수현",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 연의 편지 1:38:56 ?"
+                    "rawLine": "🎤 연의 편지 1:38:56 ※"
                 }
             ]
         },
