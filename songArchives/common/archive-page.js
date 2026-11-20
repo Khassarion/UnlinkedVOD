@@ -236,15 +236,21 @@ function loadSongs(searchTerm = '') {
   fillViewportIfNeeded();
 }
 
+/** 스크롤이 바닥에서 이만큼 남았을 때 다음 묶음을 불러옴(아래쪽 상수와 공유) */
+const SCROLL_LOAD_MARGIN_PX = 600;
+
 /**
  * 방금 그린 묶음만으로는 화면 한 칸을 못 채워서 스크롤이 생기지 않는 경우를 대비한 보정.
+ * 화면 높이에 딱 맞춰서만 채우면 다 내려도 "더 있다"는 느낌이 안 나고, 심지어 조금만
+ * 내려도 곧바로 다음 로딩이 시작돼 버리므로, 다음 로딩이 걸리는 지점(바닥에서
+ * SCROLL_LOAD_MARGIN_PX만큼)보다 더 아래까지 채워서 내려도 한동안은 콘텐츠가 남아있게 한다.
  * 한 번에 다 확인하지 않고 프레임마다 다시 재는 이유: 그려진 직후 바로 측정하면 폰트
  * 교체 등으로 레이아웃이 아직 자리잡기 전일 수 있어, 프레임을 하나씩 쉬며 다시 재는 쪽이
  * 더 안정적으로 "진짜로 다 채워졌는지"를 판단한다.
  */
 function fillViewportIfNeeded() {
   if (renderedItemCount >= pendingRenderItems.length) return;
-  if (document.body.offsetHeight > window.innerHeight) return;
+  if (document.body.offsetHeight > window.innerHeight + SCROLL_LOAD_MARGIN_PX) return;
   renderNextRenderBatch();
   requestAnimationFrame(fillViewportIfNeeded);
 }
@@ -375,10 +381,11 @@ function renderNextRenderBatch() {
   renderedItemCount += nextChunk.length;
 }
 
-/** 스크롤이 바닥 근처(600px 전)에 닿으면 다음 묶음을 그림. 더 그릴 게 없으면 아무 일도 안 함 */
+/** 스크롤이 바닥 근처(SCROLL_LOAD_MARGIN_PX 전)에 닿으면 다음 묶음을 그림. 더 그릴 게 없으면 아무 일도 안 함 */
 function maybeRenderMoreOnScroll() {
   if (renderedItemCount >= pendingRenderItems.length) return;
-  const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 600;
+  const scrolledToBottom =
+    window.innerHeight + window.scrollY >= document.body.offsetHeight - SCROLL_LOAD_MARGIN_PX;
   if (scrolledToBottom) renderNextRenderBatch();
 }
 
