@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-16T20:52:52.823781+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-20T02:11:39.829709+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -442,6 +442,19 @@ const songs = [
         "videoTitle": "치치런너 2등 + 더켓몬 섭종콘 + 옵치 듀오 W.달묘",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260328_1A66CC11_292767915_1_r&column=2&t=1774727747",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212846933?change_second=26184",
+        "videoTitle": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -993,6 +1006,19 @@ const songs = [
         "videoTitle": "[더켓몬] 첫 입주 + 오버워치 배치 + 아침 노래뱅",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260315_A9B62560_292421965_1_r&column=2&t=1773624756",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212846933?change_second=25260",
+        "videoTitle": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -2577,6 +2603,19 @@ const songs = [
         "videoTitle": "디비전 첫경험 ㄷㄷ  ｡₍°´◠`°₎｡",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260822_8A41AAA8_296558143_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212846933?change_second=10490",
+        "videoTitle": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -4642,6 +4681,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212846933?change_second=27220",
+        "videoTitle": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -6176,6 +6228,19 @@ const songs = [
         "videoTitle": "잠안자고하는24시간방송",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260930_7BAFB4AB_297490055_4_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212846933?change_second=11137",
+        "videoTitle": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -8146,6 +8211,19 @@ const songs = [
         "videoTitle": "휴",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261005_D1BC4C1E_297619117_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-16",
+        "url": "https://vod.sooplive.com/player/212846933?change_second=9551",
+        "videoTitle": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,

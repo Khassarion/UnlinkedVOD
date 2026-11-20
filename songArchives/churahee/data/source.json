@@ -2038,47 +2038,75 @@
         {
             "title": "소통 - 노래",
             "date": "2026-02-24",
-            "url": "https://vod.sooplive.co.kr/player/187845787",
-            "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+            "url": "https://vod.sooplive.com/player/187845787",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "북두칠성",
                     "time": "00:44:53",
-                    "recommended": true
+                    "artist": "로이킴",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 북두칠성 00:44:53 ~ 00:48:45 ■☆"
                 },
                 {
                     "title": "너무 보고싶어",
-                    "time": "00:54:19"
+                    "time": "00:54:19",
+                    "artist": "어쿠스틱 콜라보",
+                    "groupSong": false,
+                    "rawLine": "🎤 너무 보고싶어 00:54:19 ~ 00:58:20"
                 },
                 {
                     "title": "마음을 드려요",
                     "time": "01:02:41",
+                    "artist": "아이유",
                     "noMistake": true,
-                    "recommended": true
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 마음을 드려요 01:02:41 ~ 01:07:17 ○☆"
                 },
                 {
                     "title": "물고기자리",
-                    "time": "01:13:20"
+                    "time": "01:13:20",
+                    "artist": "이안",
+                    "groupSong": false,
+                    "rawLine": "🎤 물고기자리 01:13:20 ~ 01:17:30"
                 },
                 {
                     "title": "요즘 너 말야",
-                    "time": "01:21:06"
+                    "time": "01:21:06",
+                    "artist": "제이래빗",
+                    "groupSong": false,
+                    "rawLine": "🎤 요즘 너 말야 01:21:06 ~ 01:24:32"
                 },
                 {
                     "title": "Don't you Worry 'Bout A Thing",
-                    "time": "01:31:36"
+                    "time": "01:31:36",
+                    "artist": "토리 켈리",
+                    "groupSong": false,
+                    "rawLine": "🎤 Don't you Worry 'Bout A Thing 01:31:36 ~ 01:35:31"
                 },
                 {
                     "title": "눈사람",
-                    "time": "01:43:21"
+                    "time": "01:43:21",
+                    "artist": "정승환",
+                    "groupSong": false,
+                    "rawLine": "🎤 눈사람 01:43:21 ~ 01:47:11"
                 },
                 {
                     "title": "Pretender",
-                    "time": "01:51:56"
+                    "time": "01:51:56",
+                    "artist": "오피셜히게단디즘",
+                    "groupSong": false,
+                    "rawLine": "🎤 Pretender 01:51:56 ~ 01:57:15"
                 },
                 {
-                    "title": "히로인",
-                    "time": "02:07:35"
+                    "title": "JANE DOE",
+                    "time": "02:07:35",
+                    "artist": "요네즈 켄시",
+                    "groupSong": false,
+                    "rawLine": "🎤 JANE DOE 02:07:35 ~ 02:11:01"
                 }
             ]
         },
@@ -8990,20 +9018,25 @@
             ]
         },
         {
-            "title": "[버블란] 카페 털면서 고래시티 클립 보기",
+            "title": "소통 - 버블란 점호 - 카페 털기",
             "date": "2026-05-29",
             "url": "https://vod.sooplive.com/player/197130343",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260529_59AB5856_294388113_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260529_975F3495_294388113_1_r&column=2&t=1780419487",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "만찬가",
                     "time": "4:09:17",
-                    "artist": "츠키"
+                    "artist": "츠키",
+                    "groupSong": false,
+                    "rawLine": "🎤 만찬가 4:09:17"
                 },
                 {
                     "title": "히로인",
                     "time": "4:13:51",
-                    "artist": "Back Number"
+                    "artist": "back number",
+                    "groupSong": false,
+                    "rawLine": "🎤 히로인 4:13:51"
                 }
             ]
         },
@@ -9410,19 +9443,22 @@
             "date": "2026-06-22",
             "url": "https://vod.sooplive.com/player/199397037",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260622_285C8119_295010085_1_r&column=2&t=1783530887",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "0+0",
                     "time": "45:38",
                     "artist": "한로로",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 0+0 45:38 ■☆"
                 },
                 {
                     "title": "히로인",
                     "time": "49:31",
-                    "artist": "Back Number",
-                    "groupSong": false
+                    "artist": "back number",
+                    "groupSong": false,
+                    "rawLine": "🎤 히로인 49:31"
                 }
             ]
         },

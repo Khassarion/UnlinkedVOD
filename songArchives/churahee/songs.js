@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-17T22:44:09.089825+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-20T02:15:29.848421+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -1281,14 +1281,14 @@ const songs = [
   },
   {
     "title": "Don't you Worry 'Bout A Thing",
-    "artist": "",
+    "artist": "토리 켈리",
     "versions": [
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=5496",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=5496",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -2413,6 +2413,19 @@ const songs = [
     "title": "JANE DOE",
     "artist": "요네즈 켄시",
     "versions": [
+      {
+        "date": "2026-02-24",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=7655",
+        "videoTitle": "소통 - 노래",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
       {
         "date": "2026-03-27",
         "url": "https://vod.sooplive.com/player/190970809?change_second=13573",
@@ -4288,10 +4301,10 @@ const songs = [
       },
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=6716",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=6716",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -8837,10 +8850,10 @@ const songs = [
       },
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=3259",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=3259",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -9306,10 +9319,10 @@ const songs = [
     "versions": [
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=6201",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=6201",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -10571,10 +10584,10 @@ const songs = [
       },
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=3761",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=3761",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": true,
         "recommended": true,
@@ -11174,9 +11187,9 @@ const songs = [
       {
         "date": "2026-05-29",
         "url": "https://vod.sooplive.com/player/197130343?change_second=14957",
-        "videoTitle": "[버블란] 카페 털면서 고래시티 클립 보기",
+        "videoTitle": "소통 - 버블란 점호 - 카페 털기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260529_59AB5856_294388113_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260529_975F3495_294388113_1_r&column=2&t=1780419487",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -11618,10 +11631,10 @@ const songs = [
     "versions": [
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=4400",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=4400",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -13652,10 +13665,10 @@ const songs = [
       },
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=2693",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=2693",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": true,
@@ -20530,10 +20543,10 @@ const songs = [
     "versions": [
       {
         "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=4866",
+        "url": "https://vod.sooplive.com/player/187845787?change_second=4866",
         "videoTitle": "소통 - 노래",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -25251,27 +25264,14 @@ const songs = [
   },
   {
     "title": "히로인",
-    "artist": "Back Number",
+    "artist": "back number",
     "versions": [
-      {
-        "date": "2026-02-24",
-        "url": "https://vod.sooplive.co.kr/player/187845787?change_second=7655",
-        "videoTitle": "소통 - 노래",
-        "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.co.kr/php/SnapshotLoad.php?rowKey=20260224_AE6F606B_291880580_1_r&column=2&t=1772465443",
-        "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": false,
-        "groupSong": false,
-        "groupMembers": ""
-      },
       {
         "date": "2026-05-29",
         "url": "https://vod.sooplive.com/player/197130343?change_second=15231",
-        "videoTitle": "[버블란] 카페 털면서 고래시티 클립 보기",
+        "videoTitle": "소통 - 버블란 점호 - 카페 털기",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260529_59AB5856_294388113_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260529_975F3495_294388113_1_r&column=2&t=1780419487",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -25291,13 +25291,7 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
-      }
-    ]
-  },
-  {
-    "title": "히로인",
-    "artist": "back number",
-    "versions": [
+      },
       {
         "date": "2026-07-06",
         "url": "https://vod.sooplive.com/player/200754741?change_second=14179",

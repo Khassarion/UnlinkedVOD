@@ -4457,6 +4457,57 @@
                     "rawLine": "🎤 12:48:52 ~ 12:52:36 | 체비 - 숲 (최유리)"
                 }
             ]
+        },
+        {
+            "title": "부송아 구릉을 먼저 갈게 ( •⌄• ू )✧",
+            "date": "2026-11-16",
+            "url": "https://vod.sooplive.com/player/212846933",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_BCCE1268_298642139_3_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "히로인",
+                    "time": "2:39:11",
+                    "artist": "back number",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:39:11 ~ 2:43:37 | 체비 - Heroine (back number)"
+                },
+                {
+                    "title": "Winter Without You",
+                    "time": "2:54:50",
+                    "artist": "Gloria Kim",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:54:50 ~ 2:57:56 | 체비 - Winter Without You (Gloria Kim)"
+                },
+                {
+                    "title": "시가 될 이야기",
+                    "time": "3:05:37",
+                    "artist": "신지훈",
+                    "groupSong": false,
+                    "rawLine": "🎤 3:05:37 ~ 3:09:31 | 체비 - 시가 될 이야기 (신지훈)"
+                },
+                {
+                    "title": "Either Way",
+                    "time": "7:01:00",
+                    "artist": "IVE",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:01:00 ~ 7:03:50 | 체비 - Either Way (IVE)"
+                },
+                {
+                    "title": "As The World Caves In",
+                    "time": "7:16:24",
+                    "artist": "Sarah Cothran",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:16:24 ~ 7:19:08 | 체비 - As The World Caves In (Sarah Cothran)"
+                },
+                {
+                    "title": "만찬가",
+                    "time": "7:33:40",
+                    "artist": "츠키",
+                    "groupSong": false,
+                    "rawLine": "🎤 7:33:40 | 체비 - 만찬가"
+                }
+            ]
         }
     ]
 }
