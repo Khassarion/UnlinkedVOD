@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-20T02:15:29.848421+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-20T15:16:49.402273+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -4266,6 +4266,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-10-29",
+        "url": "https://vod.sooplive.com/player/211151271?change_second=1538",
+        "videoTitle": "소통 - 버블란 점호 - 후열 라쿤게임(w. 공태연 다시바 슈니 유태 초금비)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261029_4E31024E_298197191_1_r&column=2&t=1793457468",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -7932,9 +7945,9 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206066119?change_second=25192",
-        "videoTitle": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
+        "videoTitle": "소통 - 해켓몬",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_BFCF4E24_296821079_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_290E1EF7_296821079_1_r&column=2&t=1788885723",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": true,
@@ -16586,9 +16599,9 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206066119?change_second=26042",
-        "videoTitle": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
+        "videoTitle": "소통 - 해켓몬",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_BFCF4E24_296821079_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_290E1EF7_296821079_1_r&column=2&t=1788885723",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": true,
@@ -17594,9 +17607,9 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206066119?change_second=4696",
-        "videoTitle": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
+        "videoTitle": "소통 - 해켓몬",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_BFCF4E24_296821079_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_290E1EF7_296821079_1_r&column=2&t=1788885723",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
@@ -17671,6 +17684,25 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "아마도 그건",
+    "artist": "박보영",
+    "versions": [
+      {
+        "date": "2026-11-02",
+        "url": "https://vod.sooplive.com/player/211557173?change_second=8436",
+        "videoTitle": "[버블란] 닥1쳐 츄포이",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261102_37D349B0_298298295_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -18715,6 +18747,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-02",
+        "url": "https://vod.sooplive.com/player/211557173?change_second=8969",
+        "videoTitle": "[버블란] 닥1쳐 츄포이",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261102_37D349B0_298298295_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -18949,7 +18994,7 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260505_8395BADA_293765673_1_r&column=2&t=1778842163",
         "subscribePlusRequired": false,
-        "noMistake": true,
+        "noMistake": false,
         "recommended": true,
         "needsReview": false,
         "groupSong": false,
@@ -21790,6 +21835,25 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": true,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "일기예보",
+    "artist": "연초록",
+    "versions": [
+      {
+        "date": "2026-11-02",
+        "url": "https://vod.sooplive.com/player/211557173?change_second=8735",
+        "videoTitle": "[버블란] 닥1쳐 츄포이",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261102_37D349B0_298298295_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -24980,11 +25044,11 @@ const songs = [
       {
         "date": "2026-09-02",
         "url": "https://vod.sooplive.com/player/206066119?change_second=25592",
-        "videoTitle": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
+        "videoTitle": "소통 - 해켓몬",
         "views": 1000,
-        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_BFCF4E24_296821079_2_r",
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_290E1EF7_296821079_1_r&column=2&t=1788885723",
         "subscribePlusRequired": false,
-        "noMistake": true,
+        "noMistake": false,
         "recommended": true,
         "needsReview": false,
         "groupSong": false,

@@ -7937,27 +7937,30 @@
             "date": "2026-05-05",
             "url": "https://vod.sooplive.com/player/194829787",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260505_8395BADA_293765673_1_r&column=2&t=1778842163",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "고맙습니다",
                     "time": "5:16:01",
                     "artist": "심규선",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 고맙습니다 5:16:01 ※"
                 },
                 {
                     "title": "You already have",
                     "time": "5:20:15",
                     "artist": "권진아",
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 You already have 5:20:15 ☆"
                 },
                 {
                     "title": "얼음요새",
                     "time": "5:28:16",
                     "artist": "김소연",
-                    "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 얼음 요새 5:28:16 ■☆"
                 },
                 {
                     "title": "오늘 뭐 했는지 말해봐",
@@ -7965,34 +7968,39 @@
                     "artist": "권진아",
                     "noMistake": true,
                     "recommended": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 오늘 뭐 했는지 말해봐 6:37:09 ○☆"
                 },
                 {
                     "title": "And July",
                     "time": "6:51:20",
                     "artist": "헤이즈",
                     "groupMembers": "제이404",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "🎶 And July 6:51:20 (제이404)"
                 },
                 {
                     "title": "Rain",
                     "time": "7:25:22",
                     "artist": "태연",
                     "noMistake": true,
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 Rain 7:25:22 ○"
                 },
                 {
                     "title": "Lonely",
                     "time": "7:49:46",
                     "artist": "투에니원",
                     "groupMembers": "제이404",
-                    "groupSong": true
+                    "groupSong": true,
+                    "rawLine": "🎶 Lonely 7:49:46 (제이404)"
                 },
                 {
                     "title": "연의 편지",
                     "time": "8:24:01",
                     "artist": "이수현",
-                    "groupSong": false
+                    "groupSong": false,
+                    "rawLine": "🎤 연의 편지 8:24:01"
                 }
             ]
         },
@@ -11229,10 +11237,11 @@
             ]
         },
         {
-            "title": "[버블란] 해켓몬 2일차입니다ㅣapi 방셀 있숨",
+            "title": "소통 - 해켓몬",
             "date": "2026-09-02",
             "url": "https://vod.sooplive.com/player/206066119",
-            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_BFCF4E24_296821079_2_r",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260902_290E1EF7_296821079_1_r&column=2&t=1788885723",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "아라리",
@@ -11253,10 +11262,9 @@
                     "title": "화조도",
                     "time": "7:06:32",
                     "artist": "심규선",
-                    "noMistake": true,
                     "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 화조도 7:06:32 ○☆"
+                    "rawLine": "🎤 화조도 7:06:32 ■☆"
                 },
                 {
                     "title": "수피",
@@ -12768,6 +12776,54 @@
                     "needsReview": true,
                     "groupSong": false,
                     "rawLine": "🎤 연의 편지 1:38:56 ?"
+                }
+            ]
+        },
+        {
+            "title": "소통 - 버블란 점호 - 후열 라쿤게임(w. 공태연 다시바 슈니 유태 초금비)",
+            "date": "2026-10-29",
+            "url": "https://vod.sooplive.com/player/211151271",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261029_4E31024E_298197191_1_r&column=2&t=1793457468",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "Pookie",
+                    "time": "25:38",
+                    "artist": "피프티피프티",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 Pookie 25:38 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 닥1쳐 츄포이",
+            "date": "2026-11-02",
+            "url": "https://vod.sooplive.com/player/211557173",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261102_37D349B0_298298295_1_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "아마도 그건",
+                    "time": "2:20:36",
+                    "artist": "박보영",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 아마도 그건 (박보영) 2:20:36 ~ 02:24:15 ☆"
+                },
+                {
+                    "title": "일기예보",
+                    "time": "2:25:35",
+                    "artist": "연초록",
+                    "groupSong": false,
+                    "rawLine": "🎤 일기예보 2:25:35"
+                },
+                {
+                    "title": "어린 나",
+                    "time": "2:29:29",
+                    "artist": "키마",
+                    "groupSong": false,
+                    "rawLine": "🎤 어린 나 2:29:29 ※"
                 }
             ]
         }

@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-18T00:22:05.994538+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-20T15:22:44.828459+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -206,7 +206,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=18335",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -244,7 +244,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -300,8 +300,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -518,7 +518,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=13409",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -573,7 +573,7 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260806_94DC50C8_296142771_1_r&column=2&t=1786123740",
         "subscribePlusRequired": false,
-        "noMistake": true,
+        "noMistake": false,
         "recommended": true,
         "needsReview": false,
         "groupSong": false,
@@ -722,13 +722,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=14629",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -983,14 +983,14 @@ const songs = [
       },
       {
         "date": "2026-11-06",
-        "url": "https://vod.sooplive.com/player/211923561?change_second=5486",
+        "url": "https://vod.sooplive.com/player/211923561?change_second=5507",
         "videoTitle": "사이비 종교 비밀 파헤치기 [No Results Found]",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_2E5D4587_298395915_1_r&column=2&t=1793980504",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1096,9 +1096,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_2E5D4587_298395915_1_r&column=2&t=1793980504",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1269,9 +1269,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_2E5D4587_298395915_1_r&column=2&t=1793980504",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1323,7 +1323,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=17817",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -1426,7 +1426,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=13801",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -1439,13 +1439,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=14234",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1509,7 +1509,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=12453",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -1911,7 +1911,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=14865",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -2005,9 +2005,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_2E5D4587_298395915_1_r&column=2&t=1793980504",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2020,7 +2020,7 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=10916",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
@@ -2383,13 +2383,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=6422",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2542,13 +2542,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=7112",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2586,7 +2586,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3087,13 +3087,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=7704",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3606,7 +3606,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=13017",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -4119,7 +4119,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=12057",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -4132,13 +4132,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=8485",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4697,14 +4697,14 @@ const songs = [
       },
       {
         "date": "2026-11-16",
-        "url": "https://vod.sooplive.com/player/212824809?change_second=13204",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "url": "https://vod.sooplive.com/player/212824809?change_second=13284",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4948,7 +4948,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=15985",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -5095,13 +5095,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=9027",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5216,7 +5216,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5447,7 +5447,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=19465",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -5760,13 +5760,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=12748",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6112,7 +6112,7 @@ const songs = [
       {
         "date": "2026-11-07",
         "url": "https://vod.sooplive.com/player/211972501?change_second=15263",
-        "videoTitle": "공겜핀볼 / 후열 노래뱅",
+        "videoTitle": "공겜핀볼 / 후열 노래뱅🤍",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261107_FB2703A4_298413903_1_r&column=2&t=1794129860",
         "subscribePlusRequired": false,
@@ -6327,9 +6327,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_2E5D4587_298395915_1_r&column=2&t=1793980504",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -6413,13 +6413,13 @@ const songs = [
       {
         "date": "2026-11-16",
         "url": "https://vod.sooplive.com/player/212824809?change_second=13867",
-        "videoTitle": "노래 조금 33/330(11연차)",
+        "videoTitle": "소통 노래🤍 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261116_90D2C88F_298640923_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
