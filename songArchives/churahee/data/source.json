@@ -12826,6 +12826,78 @@
                     "rawLine": "🎤 어린 나 2:29:29 ※"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 노동아리 첫 회식(w. 뜨사 상득 스노 요한)",
+            "date": "2026-11-05",
+            "url": "https://vod.sooplive.com/player/211846973",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261105_5FE21D1E_298369687_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "아마추어",
+                    "time": "10:29",
+                    "artist": "이승철",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 아마추어 (이승철) 10:29 ※☆"
+                },
+                {
+                    "title": "당신을 위하여",
+                    "time": "12:40",
+                    "artist": "이보람",
+                    "groupSong": false,
+                    "rawLine": "🎤 당신을 위하여 (이보람) 12:40 ※"
+                },
+                {
+                    "title": "힐링이 필요해",
+                    "time": "36:08",
+                    "artist": "로이킴",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 힐링이 필요해 (로이킴) 36:08 ?"
+                },
+                {
+                    "title": "북두칠성",
+                    "time": "00:41:26",
+                    "artist": "로이킴",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 북두칠성 (로이킴) 00:41:26 ~ 00:45:12 ?"
+                },
+                {
+                    "title": "NEON",
+                    "time": "47:09",
+                    "artist": "A2O LITE",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 NEON (A2O LITE) 47:09 ?"
+                }
+            ]
+        },
+        {
+            "title": "[버블란] 노동아리 신입 환영회(w. 강하나 상득 요한)",
+            "date": "2026-11-06",
+            "url": "https://vod.sooplive.com/player/211924675",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_4604EBD9_298393677_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "꿈꾸던 어른이 되었나요?",
+                    "time": "27:50",
+                    "artist": "머무르",
+                    "groupSong": false,
+                    "rawLine": "🎤 꿈꾸던 어른이 되었나요? (머무르) 27:50 ※ /* 연습 */"
+                },
+                {
+                    "title": "꿈꾸던 어른이 되었나요?",
+                    "time": "3:25:59",
+                    "artist": "머무르",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 꿈꾸던 어른이 되었나요? 3:25:59 ※?"
+                }
+            ]
         }
     ]
 }

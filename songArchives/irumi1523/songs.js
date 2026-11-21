@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-20T15:22:44.828459+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-20T21:20:10.402446+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -3047,7 +3047,7 @@ const songs = [
     "versions": [
       {
         "date": "2026-08-01",
-        "url": "https://vod.sooplive.com/player/203088611?change_second=10401",
+        "url": "https://vod.sooplive.com/player/203088611?change_second=10405",
         "videoTitle": "후열 노래🤍!노래책 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20260801_BC916F25_296017689_1_r&column=2&t=1785725225",

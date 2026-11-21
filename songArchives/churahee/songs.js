@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-20T15:29:43.983297+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-21T16:40:51.261117+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -3780,6 +3780,25 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "NEON",
+    "artist": "A2O LITE",
+    "versions": [
+      {
+        "date": "2026-11-05",
+        "url": "https://vod.sooplive.com/player/211846973?change_second=2829",
+        "videoTitle": "[버블란] 노동아리 첫 회식(w. 뜨사 상득 스노 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261105_5FE21D1E_298369687_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -7984,6 +8003,38 @@ const songs = [
     ]
   },
   {
+    "title": "꿈꾸던 어른이 되었나요?",
+    "artist": "머무르",
+    "versions": [
+      {
+        "date": "2026-11-06",
+        "url": "https://vod.sooplive.com/player/211924675?change_second=1670",
+        "videoTitle": "[버블란] 노동아리 신입 환영회(w. 강하나 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_4604EBD9_298393677_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-06",
+        "url": "https://vod.sooplive.com/player/211924675?change_second=12359",
+        "videoTitle": "[버블란] 노동아리 신입 환영회(w. 강하나 상득 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261106_4604EBD9_298393677_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "꿈빛파티시엘",
     "artist": "아이유",
     "versions": [
@@ -10127,6 +10178,25 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "당신을 위하여",
+    "artist": "이보람",
+    "versions": [
+      {
+        "date": "2026-11-05",
+        "url": "https://vod.sooplive.com/player/211846973?change_second=760",
+        "videoTitle": "[버블란] 노동아리 첫 회식(w. 뜨사 상득 스노 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261105_5FE21D1E_298369687_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
@@ -13725,6 +13795,19 @@ const songs = [
         "noMistake": false,
         "recommended": true,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-05",
+        "url": "https://vod.sooplive.com/player/211846973?change_second=2486",
+        "videoTitle": "[버블란] 노동아리 첫 회식(w. 뜨사 상득 스노 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261105_5FE21D1E_298369687_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -17700,6 +17783,25 @@ const songs = [
         "videoTitle": "[버블란] 닥1쳐 츄포이",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261102_37D349B0_298298295_1_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "아마추어",
+    "artist": "이승철",
+    "versions": [
+      {
+        "date": "2026-11-05",
+        "url": "https://vod.sooplive.com/player/211846973?change_second=629",
+        "videoTitle": "[버블란] 노동아리 첫 회식(w. 뜨사 상득 스노 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261105_5FE21D1E_298369687_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": true,
@@ -25411,6 +25513,19 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-05",
+        "url": "https://vod.sooplive.com/player/211846973?change_second=2168",
+        "videoTitle": "[버블란] 노동아리 첫 회식(w. 뜨사 상득 스노 요한)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261105_5FE21D1E_298369687_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
