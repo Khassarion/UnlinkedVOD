@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-20T21:20:10.402446+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-22T23:52:04.343479+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -193,7 +193,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -541,9 +541,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -760,7 +760,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -898,9 +898,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1007,9 +1007,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
         "subscribePlusRequired": true,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1046,8 +1046,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261112_530574CE_298547035_1_r",
         "subscribePlusRequired": true,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1193,14 +1193,14 @@ const songs = [
       },
       {
         "date": "2026-10-17",
-        "url": "https://vod.sooplive.com/player/210052821?change_second=8021",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=8022",
         "videoTitle": "슴슴한 대화와 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -1372,9 +1372,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1482,8 +1482,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1585,7 +1585,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -1750,8 +1750,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261018_BAA4E909_297937859_1_r&column=2&t=1792384031",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2298,9 +2298,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2567,7 +2567,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2828,9 +2828,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261113_0EDBAE86_298565231_1_r&column=2&t=1794679585",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2920,7 +2920,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3125,7 +3125,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -3738,9 +3738,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "noMistake": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -4240,8 +4240,8 @@ const songs = [
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
         "noMistake": false,
-        "recommended": false,
-        "needsReview": true,
+        "recommended": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       },
@@ -4318,14 +4318,14 @@ const songs = [
       },
       {
         "date": "2026-10-17",
-        "url": "https://vod.sooplive.com/player/210052821?change_second=7045",
+        "url": "https://vod.sooplive.com/player/210052821?change_second=7076",
         "videoTitle": "슴슴한 대화와 노래",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -4894,9 +4894,9 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
         "subscribePlusRequired": false,
-        "noMistake": false,
+        "noMistake": true,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5030,14 +5030,14 @@ const songs = [
       },
       {
         "date": "2026-10-26",
-        "url": "https://vod.sooplive.com/player/210906843?change_second=19901",
+        "url": "https://vod.sooplive.com/player/210906843?change_second=19961",
         "videoTitle": "소통 노래 33/330(11연차)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261026_6F6905EC_298126165_1_r&column=2&t=1793026427",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5696,7 +5696,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5887,7 +5887,7 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
-        "needsReview": true,
+        "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
       }

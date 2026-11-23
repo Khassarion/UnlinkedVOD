@@ -2605,70 +2605,73 @@
             "date": "2026-10-17",
             "url": "https://vod.sooplive.com/player/210052821",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261017_1CE33075_297904633_1_r",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "밤양갱",
                     "time": "1:45:08",
                     "artist": "비비",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:45:08 밤양갱 (비비) ?"
+                    "rawLine": "🎤 1:45:08 밤양갱 (비비)"
                 },
                 {
                     "title": "소문의 낙원",
-                    "time": "1:57:25",
+                    "time": "1:57:56",
                     "artist": "AKMU",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:57:25 소문의 낙원 ?"
+                    "rawLine": "🎤 1:57:56 소문의 낙원"
                 },
                 {
                     "title": "Track 9",
-                    "time": "2:13:41",
+                    "time": "2:13:42",
                     "artist": "이소라",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:13:41 Track 9 ?"
+                    "rawLine": "🎤 2:13:42 Track 9 ○☆"
                 },
                 {
                     "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
                     "time": "2:26:18",
                     "artist": "AKMU",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:26:18 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 (AKMU) ?"
+                    "rawLine": "🎤 2:26:18 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 (AKMU) ○"
                 },
                 {
                     "title": "너의 의미",
                     "time": "2:43:36",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:43:36 너의 의미 (아이유) ?"
+                    "rawLine": "🎤 2:43:36 너의 의미 (아이유) ○☆"
                 },
                 {
                     "title": "strawberry moon",
                     "time": "3:14:33",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:14:33 strawberry moon ?"
+                    "rawLine": "🎤 3:14:33 strawberry moon ○☆"
                 },
                 {
                     "title": "비밀의 화원",
                     "time": "3:20:45",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:20:45 비밀의 화원 ?"
+                    "rawLine": "🎤 3:20:45 비밀의 화원 ○☆"
                 },
                 {
                     "title": "소로",
                     "time": "3:46:24",
                     "artist": "심규선",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 3:46:24 소로 ?"
+                    "rawLine": "🎤 3:46:24 소로 ■☆"
                 }
             ]
         },
@@ -2677,14 +2680,15 @@
             "date": "2026-10-18",
             "url": "https://vod.sooplive.com/player/210190543",
             "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261018_BAA4E909_297937859_1_r&column=2&t=1792384031",
+            "subscribePlusRequired": false,
             "songInfo": [
                 {
                     "title": "그대라는 시",
                     "time": "5:36:25",
                     "artist": "태연",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:36:25 그대라는 시 (태연) ?"
+                    "rawLine": "🎤 5:36:25 그대라는 시 (태연) ■☆"
                 }
             ]
         },
@@ -3023,57 +3027,53 @@
                     "title": "가을 타나 봐",
                     "time": "4:45:30",
                     "artist": "바이브",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 4:45:30 가을 타나 봐 (바이브) ?"
+                    "rawLine": "🎤 4:45:30 가을 타나 봐 (바이브) ■☆"
                 },
                 {
                     "title": "마법의 성",
                     "time": "5:21:09",
                     "artist": "더 클래식",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:21:09 마법의 성 (더 클래식) ?"
+                    "rawLine": "🎤 5:21:09 마법의 성 (더 클래식) ■"
                 },
                 {
                     "title": "오르트구름",
-                    "time": "5:31:41",
+                    "time": "5:32:41",
                     "artist": "윤하",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:31:41 오르트구름 (윤하) ?"
+                    "rawLine": "🎤 5:32:41 오르트구름 (윤하)"
                 },
                 {
                     "title": "Be I",
                     "time": "5:40:40",
                     "artist": "Hebi.",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:40:40 Be I (Hebi) ?"
+                    "rawLine": "🎤 5:40:40 Be I (Hebi) ■"
                 },
                 {
                     "title": "거북이",
                     "time": "5:46:25",
                     "artist": "다비치",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:46:25 거북이 (다비치) ?"
+                    "rawLine": "🎤 5:46:25 거북이 (다비치)"
                 },
                 {
                     "title": "미워도 사랑하니까",
                     "time": "5:54:39",
                     "artist": "다비치",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:54:39 미워도 사랑하니까 (다비치) ?"
+                    "rawLine": "🎤 5:54:39 미워도 사랑하니까 (다비치)"
                 },
                 {
                     "title": "I",
                     "time": "6:03:47",
                     "artist": "태연",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 6:03:47 I (태연) ?"
+                    "rawLine": "🎤 6:03:47 I (태연) ○☆"
                 }
             ]
         },
@@ -3088,9 +3088,8 @@
                     "title": "팬서비스",
                     "time": "6:06:35",
                     "artist": "mona",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 6:06:35 팬서비스 ? /*열혈송*/"
+                    "rawLine": "🎤 6:06:35 팬서비스 ■ /*열혈송*/"
                 }
             ]
         },
@@ -3146,9 +3145,8 @@
                     "title": "죽을 만큼 아파서",
                     "time": "2:38:03",
                     "artist": "MC몽",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:38:03 죽을 만큼 아파서 ?"
+                    "rawLine": "🎤 2:38:03 죽을 만큼 아파서"
                 }
             ]
         },
@@ -3171,9 +3169,8 @@
                     "title": "MEMORY",
                     "time": "2:29:02",
                     "artist": "이세계아이돌",
-                    "needsReview": true,
                     "groupSong": false,
-                    "rawLine": "🎤 2:29:02 MEMORY (이세계아이돌) ?"
+                    "rawLine": "🎤 2:29:02 MEMORY (이세계아이돌)"
                 }
             ]
         },
@@ -3403,25 +3400,26 @@
                     "title": "Someone Like You",
                     "time": "58:24",
                     "artist": "아델",
-                    "needsReview": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 58:24 Someone Like You (아델) ?"
+                    "rawLine": "🎤 58:24 Someone Like You (아델) ※☆"
                 },
                 {
                     "title": "Reflection",
                     "time": "1:03:11",
                     "artist": "뮬란 OST",
-                    "needsReview": true,
+                    "noMistake": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:03:11 Reflection (뮬란 OST) ?"
+                    "rawLine": "🎤 1:03:11 Reflection (뮬란 OST) ○"
                 },
                 {
                     "title": "Part of Your World",
                     "time": "1:05:57",
                     "artist": "인어공주 OST",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 1:05:57 Part of Your World (인어공주 OST) ?"
+                    "rawLine": "🎤 1:05:57 Part of Your World (인어공주 OST) ○☆"
                 }
             ]
         },
@@ -3465,9 +3463,10 @@
                     "title": "무릎",
                     "time": "5:28:45",
                     "artist": "아이유",
-                    "needsReview": true,
+                    "noMistake": true,
+                    "recommended": true,
                     "groupSong": false,
-                    "rawLine": "🎤 5:28:45 무릎 (아이유) ?"
+                    "rawLine": "🎤 5:28:45 무릎 (아이유) ○☆"
                 }
             ]
         },
