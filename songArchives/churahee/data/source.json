@@ -13166,6 +13166,31 @@
                     "rawLine": "🎤 야수 (김필선) 3:50:22 ?"
                 }
             ]
+        },
+        {
+            "title": "[버블란] 김밥천국 알바생의 고달픈 하루(w. 버뮬동)",
+            "date": "2026-11-25",
+            "url": "https://vod.sooplive.com/player/213600399",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261125_F18B8DDC_298852525_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "나의 어깨에 기대어요",
+                    "time": "31:54",
+                    "artist": "10CM",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 나의 어깨에 기대어요 (10CM) 31:54 ☆ /* 3키 연습 */"
+                },
+                {
+                    "title": "나의 어깨에 기대어요",
+                    "time": "36:12",
+                    "artist": "10CM",
+                    "recommended": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 나의 어깨에 기대어요 (10CM) 36:12 ☆ /* 4키 연습 */"
+                }
+            ]
         }
     ]
 }

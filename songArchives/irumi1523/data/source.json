@@ -3571,6 +3571,78 @@
                     "rawLine": "🎤 4:03:49 Love wins all"
                 }
             ]
+        },
+        {
+            "title": "살아낫다 33/330(11연차)",
+            "date": "2026-11-23",
+            "url": "https://vod.sooplive.com/player/213430415",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+            "subscribePlusRequired": true,
+            "songInfo": [
+                {
+                    "title": "Love In The Ice",
+                    "time": "1:13:58",
+                    "artist": "동방신기",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:13:58 Love In The Ice (동방신기) ?"
+                },
+                {
+                    "title": "꿈꾸던 어른이 되었나요?",
+                    "time": "1:24:58",
+                    "artist": "머무르",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:24:58 꿈꾸던 어른이 되었나요? ?"
+                },
+                {
+                    "title": "숨",
+                    "time": "1:31:43",
+                    "artist": "박효신",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:31:43 숨 ?"
+                },
+                {
+                    "title": "생각을 멈추다 보면",
+                    "time": "1:40:03",
+                    "artist": "최유리",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:40:03 생각을 멈추다 보면 ?"
+                },
+                {
+                    "title": "품",
+                    "time": "1:45:19",
+                    "artist": "마크툽",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 1:45:19 품 (마크툽) ?"
+                },
+                {
+                    "title": "나였으면",
+                    "time": "2:05:15",
+                    "artist": "나윤권",
+                    "groupSong": false,
+                    "rawLine": "🎤 2:05:15 나였으면 (나윤권) ※ /* 여기 왜 중간에 편집됐지? */"
+                },
+                {
+                    "title": "청춘만화",
+                    "time": "2:10:59",
+                    "artist": "이무진",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:10:59  청춘만화 ?"
+                },
+                {
+                    "title": "수채화 Love in Color",
+                    "time": "2:23:03",
+                    "artist": "태연",
+                    "needsReview": true,
+                    "groupSong": false,
+                    "rawLine": "🎤 2:23:03 수채화 Love in Color (태연) ?"
+                }
+            ]
         }
     ]
 }

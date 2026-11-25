@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-22T23:52:04.343479+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-25T15:46:01.584547+00:00";
 const songs = [
   {
     "title": "-ERROR",
@@ -678,6 +678,25 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "Love In The Ice",
+    "artist": "동방신기",
+    "versions": [
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=4438",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -2029,6 +2048,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=5098",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -2088,6 +2120,25 @@ const songs = [
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261023_5079E501_298054417_1_r&column=2&t=1792989759",
         "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "나였으면",
+    "artist": "나윤권",
+    "versions": [
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=7515",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
@@ -4141,6 +4192,19 @@ const songs = [
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
+      },
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=6003",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
       }
     ]
   },
@@ -4351,6 +4415,25 @@ const songs = [
     ]
   },
   {
+    "title": "수채화 Love in Color",
+    "artist": "태연",
+    "versions": [
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=8583",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "술 한잔 해요",
     "artist": "지아",
     "versions": [
@@ -4396,6 +4479,19 @@ const songs = [
         "noMistake": true,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=5503",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }
@@ -5773,6 +5869,25 @@ const songs = [
     ]
   },
   {
+    "title": "청춘만화",
+    "artist": "이무진",
+    "versions": [
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=7859",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
     "title": "청춘만화(후이ver)",
     "artist": "이무진",
     "versions": [
@@ -5978,6 +6093,25 @@ const songs = [
         "noMistake": false,
         "recommended": false,
         "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "품",
+    "artist": "마크툽",
+    "versions": [
+      {
+        "date": "2026-11-23",
+        "url": "https://vod.sooplive.com/player/213430415?change_second=6319",
+        "videoTitle": "살아낫다 33/330(11연차)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261123_C4BC631A_298812947_1_r",
+        "subscribePlusRequired": true,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": true,
         "groupSong": false,
         "groupMembers": ""
       }

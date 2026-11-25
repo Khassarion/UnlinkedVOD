@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-21T18:42:21.436440+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-25T19:21:23.571174+00:00";
 const songs = [
   {
     "title": "0+0",
@@ -8788,6 +8788,38 @@ const songs = [
         "subscribePlusRequired": false,
         "noMistake": true,
         "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      }
+    ]
+  },
+  {
+    "title": "나의 어깨에 기대어요",
+    "artist": "10CM",
+    "versions": [
+      {
+        "date": "2026-11-25",
+        "url": "https://vod.sooplive.com/player/213600399?change_second=1914",
+        "videoTitle": "[버블란] 김밥천국 알바생의 고달픈 하루(w. 버뮬동)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261125_F18B8DDC_298852525_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": true,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-25",
+        "url": "https://vod.sooplive.com/player/213600399?change_second=2172",
+        "videoTitle": "[버블란] 김밥천국 알바생의 고달픈 하루(w. 버뮬동)",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261125_F18B8DDC_298852525_2_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": true,
         "needsReview": false,
         "groupSong": false,
         "groupMembers": ""
