@@ -4508,6 +4508,22 @@
                     "rawLine": "🎤 7:33:40 | 체비 - 만찬가"
                 }
             ]
+        },
+        {
+            "title": "호드 죽여주세요 운고로 분화구 ",
+            "date": "2026-11-26",
+            "url": "https://vod.sooplive.com/player/213626413",
+            "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_29B12D16_298866717_2_r",
+            "subscribePlusRequired": false,
+            "songInfo": [
+                {
+                    "title": "꿈꾸던 어른이 되었나요?",
+                    "time": "4:16:44",
+                    "artist": "머무르",
+                    "groupSong": false,
+                    "rawLine": "🎤 4:16:44  | 체비 - 꿈꾸던 어른이 되었나요?"
+                }
+            ]
         }
     ]
 }

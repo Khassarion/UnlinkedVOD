@@ -1,4 +1,4 @@
-const SONGS_DATA_LAST_UPDATED = "2026-11-20T02:11:39.829709+00:00";
+const SONGS_DATA_LAST_UPDATED = "2026-11-26T03:51:10.167225+00:00";
 const songs = [
   {
     "title": "#첫사랑",
@@ -3467,6 +3467,19 @@ const songs = [
         "videoTitle": "와우 알려주세요제발개빡쳐연그냥(っ ̯ -｡)",
         "views": 1000,
         "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261108_5051E91B_298448915_3_r",
+        "subscribePlusRequired": false,
+        "noMistake": false,
+        "recommended": false,
+        "needsReview": false,
+        "groupSong": false,
+        "groupMembers": ""
+      },
+      {
+        "date": "2026-11-26",
+        "url": "https://vod.sooplive.com/player/213626413?change_second=15404",
+        "videoTitle": "호드 죽여주세요 운고로 분화구 ",
+        "views": 1000,
+        "thumbnail": "https://videoimg.sooplive.com/php/SnapshotLoad.php?rowKey=20261126_29B12D16_298866717_2_r",
         "subscribePlusRequired": false,
         "noMistake": false,
         "recommended": false,
